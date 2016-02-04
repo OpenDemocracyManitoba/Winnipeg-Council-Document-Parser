@@ -14,6 +14,25 @@ describe DispositionFeed do
     it 'should be the correct type' do
       expect(disposition_feed.class).to eq(DispositionFeed)
     end
+
+    it 'should identify the correct number of regular meetings' do
+      expect(disposition_feed.regular_meetings.size).to eq(5)
+    end
+
+    it 'should identify the correct number of special meetings' do
+      expect(disposition_feed.special_meetings.size).to eq(2)
+    end
+
+    it 'should be able to provide access to meeting data by name' do
+      meeting = disposition_feed.regular_meetings.first
+      expect(meeting[:row]).to eq(1)
+      expect(meeting[:id]).to eq('4E4B0D84-3493-40CC-8585-578C7A118A34')
+      expect(meeting[:meeting_date]).to eq(Date.new(2015, 9, 30))
+      expect(meeting[:type]).to eq('Regular Meeting')
+      expect(meeting[:url]).to eq('https://data.winnipeg.ca/download/jfmn-ak46/application/msword')
+      expect(meeting[:publish_date]).to eq(Date.new(2015, 9, 30))
+      expect(meeting[:update_date]).to eq(Date.new(2015, 9, 30))
+    end
   end
 
   context 'with a malformed Disposition Feed JSON file' do
