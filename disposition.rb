@@ -16,6 +16,10 @@ class Disposition
     motions_collection
   end
 
+  def reports
+    reports_collection
+  end
+
   private
 
   attr_reader :doc
@@ -24,7 +28,7 @@ class Disposition
   # BYLAWS
 
   def bylaw_table
-    table_select('BY-LAWS PASSED (RECEIVED THIRD READING)')
+    select_table('BY-LAWS PASSED (RECEIVED THIRD READING)')
   end
 
   def bylaw_table_rows
@@ -52,7 +56,7 @@ class Disposition
   # * currently this is ignore and converted to text only.
 
   def motion_table
-    table_select('COUNCIL MOTIONS')
+    select_table('COUNCIL MOTIONS')
   end
 
   def motion_table_rows
@@ -80,9 +84,43 @@ class Disposition
     end
   end
 
+  # REPORTS
+
+  def report_tables
+    select_tables(/^REPORT/)
+  end
+
+  def reports_collection
+    report_tables.map do |report_table|
+      { title: report_table.rows[0].cells[0].text,
+        items: report_items(report_table) }
+    end
+  end
+
+  def report_items(report_table)
+    item_rows = report_table.rows[1..-1] # Skip the first title row.
+
+    item_rows.map do |item_row|
+      report_item_builder(item_row)
+    end
+  end
+
+  def report_item_builder(item_row)
+    item_columns = table_row_columns(item_row)
+
+    { title: item_columns[1],
+      disposition: item_columns[2] }
+  end
+
   # HELPERS
 
-  def table_select(heading)
+  def select_tables(heading_regexp)
+    tables.select do |t|
+      heading_regexp.match(t.rows[0].cells[0].text)
+    end
+  end
+
+  def select_table(heading)
     tables.find do |t|
       t.rows[0].cells[0].text == heading
     end

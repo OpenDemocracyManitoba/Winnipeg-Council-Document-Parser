@@ -47,4 +47,38 @@ describe Disposition do
       expect(disposition.motions[2]).to eq(third_motion)
     end
   end
+
+  context 'when working with a disposition that includes reports' do
+    subject(:disposition) do
+      Disposition.new(DISPOSITION_PATH)
+    end
+
+    # rubocop:disable Metrics/LineLength
+    it 'should locate the correct number of reports' do
+      expect(disposition.reports.size).to eq(7)
+    end
+
+    it 'should correctly identity the title of the first report' do
+      first_report = disposition.reports.first
+      expect(first_report[:title]).to eq('REPORT OF THE EXECUTIVE POLICY COMMITTEE dated September 16, 2015')
+    end
+
+    it 'should identity the correct number of items in the first report' do
+      first_report = disposition.reports.first
+      expect(first_report[:items].size).to eq(7)
+    end
+
+    it 'should identity the title of the first item of the first report' do
+      first_report = disposition.reports.first
+      first_item   = first_report[:items].first
+      expect(first_item[:title]).to eq('CentreVenture Development Corporation – Long-term Funding Solution')
+    end
+
+    it 'should identity the disposition of the first item of the first report' do
+      first_report = disposition.reports.first
+      first_item   = first_report[:items].first
+      expect(first_item[:disposition]).to eq('60 DAY EXTENSION OF TIME GRANTED')
+    end
+    # rubocop:enable Metrics/LineLength
+  end
 end
