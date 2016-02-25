@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 require 'docx'
 require 'forwardable'
 
@@ -8,7 +9,7 @@ class Disposition
     @doc = Docx::Document.open(filename)
   end
 
-  def bylaws
+  def bylaws_passed
     bylaws_collection
   end
 
@@ -27,15 +28,14 @@ class Disposition
 
   # BYLAWS
 
-  def bylaw_table
-    select_table('BY-LAWS PASSED (RECEIVED THIRD READING)')
-  end
+  BYLAWS_PASSED_HEADER = 'BY-LAWS PASSED (RECEIVED THIRD READING)'.freeze
 
-  def bylaw_table_rows
-    bylaw_table.rows[2..-1] # The first two rows are headers
+  def bylaw_table
+    select_table(BYLAWS_PASSED_HEADER)
   end
 
   def bylaws_collection
+    bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
     bylaw_table_rows.map do |bylaw_row|
       bylaw_builder(bylaw_row)
     end
@@ -59,11 +59,8 @@ class Disposition
     select_table('COUNCIL MOTIONS')
   end
 
-  def motion_table_rows
-    motion_table.rows[2..-1] # The first two rows are headers
-  end
-
   def motions_collection
+    motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
     motion_table_rows.map do |motion_row|
       motion_builder(motion_row)
     end

@@ -4,6 +4,7 @@ describe Disposition do
   DISPOSITION_PATH = File.dirname(__FILE__) +
                      '/fixtures/DISPOSITION-2015-09-03.docx'
 
+  # TODO: Also need to parse out first and second reading bylaws.
   context 'when working with a disposition that include bylaw' do
     subject(:disposition) do
       Disposition.new(DISPOSITION_PATH)
@@ -14,7 +15,7 @@ describe Disposition do
     end
 
     it 'should locate the correct number of bylaws passed' do
-      expect(disposition.bylaws.size).to eq(16)
+      expect(disposition.bylaws_passed.size).to eq(16)
     end
 
     it 'should correctly identify the first passed bylaw' do
@@ -23,7 +24,7 @@ describe Disposition do
                       subject:     'To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976 – SPA 1/2015',
                       disposition: 'PASSED' }
       # rubocop:enable Metrics/LineLength
-      expect(disposition.bylaws.first).to eq(first_bylaw)
+      expect(disposition.bylaws_passed.first).to eq(first_bylaw)
     end
   end
 
