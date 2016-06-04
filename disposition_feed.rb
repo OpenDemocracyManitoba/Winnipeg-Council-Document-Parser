@@ -21,11 +21,11 @@ class DispositionFeed
     @feed_json['data'].map do |meeting|
       { row:          meeting[0],
         id:           meeting[1],
-        meeting_date: Date.parse(meeting[8]),
+        meeting_date: meeting[8],
         type:         meeting[9],
         url:          meeting[10][0],
-        publish_date: Date.parse(meeting[11]),
-        update_date:  Date.parse(meeting[12]) }
+        publish_date: meeting[11],
+        update_date:  meeting[12] }
     end
   end
 end

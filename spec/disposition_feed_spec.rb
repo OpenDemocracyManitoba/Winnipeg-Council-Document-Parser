@@ -28,11 +28,11 @@ describe DispositionFeed do
       meeting = disposition_feed.regular_meetings.first
       expect(meeting[:row]).to          eq(1)
       expect(meeting[:id]).to           eq('4E4B0D84-3493-40CC-8585-578C7A118A34')
-      expect(meeting[:meeting_date]).to eq(Date.new(2015, 9, 30))
+      expect(meeting[:meeting_date]).to eq('2015-09-30T00:00:00')
       expect(meeting[:type]).to         eq('Regular Meeting')
       expect(meeting[:url]).to          eq('https://data.winnipeg.ca/download/jfmn-ak46/application/msword')
-      expect(meeting[:publish_date]).to eq(Date.new(2015, 9, 30))
-      expect(meeting[:update_date]).to  eq(Date.new(2015, 9, 30))
+      expect(meeting[:publish_date]).to eq('2015-09-30T00:00:00')
+      expect(meeting[:update_date]).to  eq('2015-09-30T00:00:00')
       # rubocop:enable Metrics/LineLength
     end
   end
