@@ -7,25 +7,34 @@ class DispositionFeed
     @feed_json = JSON.parse(feed_file.read)
   end
 
-  def regular_meetings
-    meetings.select { |meeting| meeting[:type] == 'Regular Meeting' }
+  def regular_dispositions
+    dispositions.select do |disposition|
+      disposition[:type] == 'Regular Meeting'
+    end
   end
 
-  def special_meetings
-    meetings.select { |meeting| meeting[:type] == 'Special Meeting' }
+  def special_dispositions
+    dispositions.select do |disposition|
+      disposition[:type] == 'Special Meeting'
+    end
   end
 
   private
 
-  def meetings
-    @feed_json['data'].map do |meeting|
-      { row:          meeting[0],
-        id:           meeting[1],
-        meeting_date: meeting[8],
-        type:         meeting[9],
-        url:          meeting[10][0],
-        publish_date: meeting[11],
-        update_date:  meeting[12] }
+  # Data mapping for the JSON served by data.winnipeg.ca listing all
+  # disposition Word doc available for download.
+  #
+  # The JSON has two high-level keys, 'meta' and 'data'. We are only
+  # interested in the 'data' array, which is the array of documents.
+  def dispositions
+    @feed_json['data'].map do |disposition|
+      { row:          disposition[0],
+        id:           disposition[1],
+        meeting_date: disposition[8],
+        type:         disposition[9],
+        url:          disposition[10][0],
+        publish_date: disposition[11],
+        update_date:  disposition[12] }
     end
   end
 end
