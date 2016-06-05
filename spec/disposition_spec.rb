@@ -80,6 +80,12 @@ describe Disposition do
       first_item   = first_report[:items].first
       expect(first_item[:disposition]).to eq('60 DAY EXTENSION OF TIME GRANTED')
     end
+
+    it 'should identity the number of the first item of the first report' do
+      first_report = disposition.reports.first
+      first_item   = first_report[:items].first
+      expect(first_item[:number]).to eq('1')
+    end
     # rubocop:enable Metrics/LineLength
   end
 end

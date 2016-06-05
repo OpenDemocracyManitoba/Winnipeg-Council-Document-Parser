@@ -55,8 +55,10 @@ class Disposition
   # * Many motion subjects contain lists and other formatting,
   # * currently this is ignore and converted to text only.
 
+  MOTIONS_HEADER = 'COUNCIL MOTIONS'.freeze
+
   def motion_table
-    select_table('COUNCIL MOTIONS')
+    select_table(MOTIONS_HEADER)
   end
 
   def motions_collection
@@ -105,7 +107,8 @@ class Disposition
   def report_item_builder(item_row)
     item_columns = table_row_columns(item_row)
 
-    { title: item_columns[1],
+    { number: item_columns[0],
+      title: item_columns[1],
       disposition: item_columns[2] }
   end
 
