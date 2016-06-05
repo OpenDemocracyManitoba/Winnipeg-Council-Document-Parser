@@ -2,7 +2,7 @@ require 'spec_helper'
 
 describe Disposition do
   DISPOSITION_PATH = File.dirname(__FILE__) +
-                     '/fixtures/DISPOSITION-2015-09-03.docx'
+                     '/fixtures/DISPOSITION-2015-09-30.docx'
 
   # TODO: Also need to parse out first and second reading bylaws.
   context 'when working with a disposition that include bylaw' do
