@@ -49,16 +49,19 @@ class Disposition
       disposition: bylaw_columns[2] }
   end
 
+  # TODO: Implement first reading bylaw scraping. Often not present.
+  BYLAWS_FIRST_HEADER = 'BY-LAWS RECEIVING FIRST READING ONLY'.freeze
+
   # MOTIONS
   #
   # * Motion table in document cannot be broken into multiple tables.
   # * Many motion subjects contain lists and other formatting,
   # * currently this is ignore and converted to text only.
 
-  MOTIONS_HEADER = 'COUNCIL MOTIONS'.freeze
+  COUNCIL_MOTIONS_HEADER = 'COUNCIL MOTIONS'.freeze
 
   def motion_table
-    select_table(MOTIONS_HEADER)
+    select_table(COUNCIL_MOTIONS_HEADER)
   end
 
   def motions_collection
@@ -82,6 +85,9 @@ class Disposition
       "Councillor #{mover}"
     end
   end
+
+  # TODO: Implement notice of motion scraping. Often not present.
+  NOTICE_OF_MOTION_HEADER = 'NOTICE OF MOTION'.freeze
 
   # REPORTS
 
