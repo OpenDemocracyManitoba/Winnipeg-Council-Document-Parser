@@ -10,7 +10,7 @@ class Disposition
   end
 
   def bylaws_passed
-    bylaws_collection
+    bylaws_passed_collection
   end
 
   def motions
@@ -30,19 +30,17 @@ class Disposition
 
   BYLAWS_PASSED_HEADER = 'BY-LAWS PASSED (RECEIVED THIRD READING)'.freeze
 
-  def bylaw_table
-    select_table(BYLAWS_PASSED_HEADER)
-  end
-
-  def bylaws_collection
+  def bylaws_passed_collection
+    bylaw_table      = select_table(BYLAWS_PASSED_HEADER)
     bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
+
     bylaw_table_rows.map do |bylaw_row|
       bylaw_builder(bylaw_row)
     end
   end
 
   def bylaw_builder(bylaw_row)
-    bylaw_columns = table_row_columns(bylaw_row)
+    bylaw_columns = row_cells_to_text_columns(bylaw_row)
 
     { number:      bylaw_columns[0],
       subject:     bylaw_columns[1],
@@ -60,11 +58,8 @@ class Disposition
 
   COUNCIL_MOTIONS_HEADER = 'COUNCIL MOTIONS'.freeze
 
-  def motion_table
-    select_table(COUNCIL_MOTIONS_HEADER)
-  end
-
   def motions_collection
+    motion_table = select_table(COUNCIL_MOTIONS_HEADER)
     motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
     motion_table_rows.map do |motion_row|
       motion_builder(motion_row)
@@ -72,7 +67,7 @@ class Disposition
   end
 
   def motion_builder(motion_row)
-    motion_columns = table_row_columns(motion_row)
+    motion_columns = row_cells_to_text_columns(motion_row)
 
     { number:      motion_columns[0],
       movers:      split_and_title_movers(motion_columns[1]),
@@ -91,11 +86,8 @@ class Disposition
 
   # REPORTS
 
-  def report_tables
-    select_tables(/^REPORT/)
-  end
-
   def reports_collection
+    report_tables = select_tables(/^REPORT/)
     report_tables.map do |report_table|
       { title: report_table.rows[0].cells[0].text,
         items: report_items(report_table) }
@@ -111,7 +103,7 @@ class Disposition
   end
 
   def report_item_builder(item_row)
-    item_columns = table_row_columns(item_row)
+    item_columns = row_cells_to_text_columns(item_row)
 
     { number: item_columns[0],
       title: item_columns[1],
@@ -120,19 +112,25 @@ class Disposition
 
   # HELPERS
 
+  # Find all tables in the document where the top/left
+  # cell text matches a given regexp.
   def select_tables(heading_regexp)
     tables.select do |t|
       heading_regexp.match(t.rows[0].cells[0].text)
     end
   end
 
+  # Find the first table in the document where the top/left
+  # cell text matches a given string.
   def select_table(heading)
     tables.find do |t|
       t.rows[0].cells[0].text == heading
     end
   end
 
-  def table_row_columns(table_row)
+  # Take a docx array of cells and convert into
+  # an array of Strings built from the cell text.
+  def row_cells_to_text_columns(table_row)
     table_row.cells.map do |cell|
       cell.text.strip
     end
