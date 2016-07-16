@@ -1,13 +1,47 @@
 # frozen_string_literal: true
 require 'docx'
-require 'forwardable'
+
+# Problem:
+# Scrape City of Winnipeg Council meeting dispositions from a Word document.
+#
+# Knows:
+# - The Winnipeg Clerks Dept records council dispositions in Word documents.
+# - The Clerks Dept structures disposition documents using tables.
+# - Word documents (*.docx) are actually compressed zip files full of XML.
+# - The docx Rubygem has a simple API for interacting with Word documents.
+# - The docx gem can extract disposition data by searching for table headers.
+# - Tables found in the disposition document:
+#   + Attendance (Council and Public Servants)
+#   + Bylaws Passed on Third Reading
+#   + Bylaws Receiving First Reading
+#   + Notice of Motions
+#   + Motions
+#   + Reports
+#   + Recorded Votes
+#   + Conflict of Interest Declarations
+#
+# TODO:
+# - Attendance scraping. (Council and Public Servant)
+# - Recorded votes scraping. Sometimes not present.
+# - Conflict of interest declaration scraping. Often not present.
+# - Implement first reading bylaw scraping. Often not present.
+# - Implement notice of motion scraping. Often not present.
 
 class Disposition
-  extend Forwardable
+  # Table Headers Used for Dispositoin Extraction
+  BYLAWS_PASSED_HEADER    = 'BY-LAWS PASSED (RECEIVED THIRD READING)'.freeze
+  BYLAWS_FIRST_HEADER     = 'BY-LAWS RECEIVING FIRST READING ONLY'.freeze
+  COUNCIL_MOTIONS_HEADER  = 'COUNCIL MOTIONS'.freeze
+  NOTICE_OF_MOTION_HEADER = 'NOTICE OF MOTION'.freeze
+  REPORT_HEADER_REGEXP    = /^REPORT/
 
-  def initialize(filename)
-    @doc = Docx::Document.open(filename)
+  # Dispositions are built from a path to a docx disposition document.
+  def initialize(docx_file_path)
+    # Use the private getter to access @doc within this class.
+    @doc = Docx::Document.open(docx_file_path)
   end
+
+  # Public API (Written as one-liners to read like a table of contents.)
 
   def bylaws_passed
     bylaws_passed_collection
@@ -23,12 +57,8 @@ class Disposition
 
   private
 
-  attr_reader :doc
-  def_delegator :doc, :tables # Why isn't this delegator private?
-
-  # BYLAWS
-
-  BYLAWS_PASSED_HEADER = 'BY-LAWS PASSED (RECEIVED THIRD READING)'.freeze
+  # BYLAWS PASSED
+  # Bylaws are assumed to be stored in a single table.
 
   def bylaws_passed_collection
     bylaw_table      = select_table(BYLAWS_PASSED_HEADER)
@@ -47,20 +77,15 @@ class Disposition
       disposition: bylaw_columns[2] }
   end
 
-  # TODO: Implement first reading bylaw scraping. Often not present.
-  BYLAWS_FIRST_HEADER = 'BY-LAWS RECEIVING FIRST READING ONLY'.freeze
-
   # MOTIONS
-  #
-  # * Motion table in document cannot be broken into multiple tables.
-  # * Many motion subjects contain lists and other formatting,
-  # * currently this is ignore and converted to text only.
-
-  COUNCIL_MOTIONS_HEADER = 'COUNCIL MOTIONS'.freeze
+  # All motions are assumed to be in a single table.
+  # Many motion subjects contain lists and other formatting, currently
+  # this markup is ignore and converted to text only.
 
   def motions_collection
-    motion_table = select_table(COUNCIL_MOTIONS_HEADER)
+    motion_table      = select_table(COUNCIL_MOTIONS_HEADER)
     motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
+
     motion_table_rows.map do |motion_row|
       motion_builder(motion_row)
     end
@@ -81,13 +106,14 @@ class Disposition
     end
   end
 
-  # TODO: Implement notice of motion scraping. Often not present.
-  NOTICE_OF_MOTION_HEADER = 'NOTICE OF MOTION'.freeze
-
   # REPORTS
+  # Unlike motions or bylaws, reports are stored in multiple tables.
+  # The reports collection will be an array of hashes.
+  # Each hash has a report title and an array of report items.
 
   def reports_collection
-    report_tables = select_tables(/^REPORT/)
+    report_tables = select_tables(REPORT_HEADER_REGEXP)
+
     report_tables.map do |report_table|
       { title: report_table.rows[0].cells[0].text,
         items: report_items(report_table) }
@@ -110,10 +136,19 @@ class Disposition
       disposition: item_columns[2] }
   end
 
-  # HELPERS
+  # TABLE HELPERS
+  # These table helpers feel like the start of a class.
+  # I've tried to spike the class a few times, but it grew overly complex.
+
+  attr_reader :doc
+
+  def tables
+    doc.tables
+  end
 
   # Find all tables in the document where the top/left
   # cell text matches a given regexp.
+  # Returns an array of tables.
   def select_tables(heading_regexp)
     tables.select do |t|
       heading_regexp.match(t.rows[0].cells[0].text)
@@ -122,6 +157,7 @@ class Disposition
 
   # Find the first table in the document where the top/left
   # cell text matches a given string.
+  # Returns a single table.
   def select_table(heading)
     tables.find do |t|
       t.rows[0].cells[0].text == heading
