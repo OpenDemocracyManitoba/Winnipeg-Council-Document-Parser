@@ -1,10 +1,29 @@
+# rubocop:disable Metrics/LineLength
 require 'spec_helper'
 
+# FIXTURES
+# ========
+#
+# - DISPOSITION-2015-09-30.docx (Septerber 30, 2015)
+#   + Attendance (15 Counil Members, 5 Public Service)
+#   + Reports (7)
+#   + Notice of Motions (Not Present)
+#   + Motions (13)
+#   + Bylaws 1st Reading (3)
+#   + Bylaws 3rd Reading (16)
+# - DISPOSITION-2016-04-27.docx (April 27, 2016)
+#   + Notice of Motions (1)
+#   + Bylaws 1st Reading (Not Present)
+#   + Recorded Votes (5)
+#   + Conflict of Interest Declaration (Not Present)
+# - DISPOSITION-2016-07-13.docx (July 13, 2016)
+#   + Conflict of Interest Declaration (1)
+#
+#
 describe Disposition do
   DISPOSITION_PATH = File.dirname(__FILE__) +
                      '/fixtures/DISPOSITION-2015-09-30.docx'
 
-  # TODO: Also need to parse out first and second reading bylaws.
   context 'when working with a disposition that include bylaw' do
     subject(:disposition) do
       Disposition.new(DISPOSITION_PATH)
@@ -19,11 +38,9 @@ describe Disposition do
     end
 
     it 'should correctly identify the first passed bylaw' do
-      # rubocop:disable Metrics/LineLength
       first_bylaw = { number:      '43/2015',
                       subject:     'To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976 – SPA 1/2015',
                       disposition: 'PASSED' }
-      # rubocop:enable Metrics/LineLength
       expect(disposition.bylaws_passed.first).to eq(first_bylaw)
     end
   end
@@ -39,12 +56,10 @@ describe Disposition do
 
     it 'should correctly identity the third motion' do
       # 3rd motion selected for it's brevity.
-      # rubocop:disable Metrics/LineLength
       third_motion = { number:      '3',
                        movers:      ['Councillor Eadie', 'Councillor Allard'],
                        subject:     'That the Winnipeg public service look to other Canadian cities for cannabis regulatory provisions in order to establish limits on cannabis related facilities in Winnipeg.',
                        disposition: 'AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT' }
-      # rubocop:enable Metrics/LineLength
       expect(disposition.motions[2]).to eq(third_motion)
     end
   end
@@ -54,7 +69,6 @@ describe Disposition do
       Disposition.new(DISPOSITION_PATH)
     end
 
-    # rubocop:disable Metrics/LineLength
     it 'should locate the correct number of reports' do
       expect(disposition.reports.size).to eq(7)
     end
@@ -86,6 +100,7 @@ describe Disposition do
       first_item   = first_report[:items].first
       expect(first_item[:number]).to eq('1')
     end
-    # rubocop:enable Metrics/LineLength
   end
 end
+
+# rubocop:enable Metrics/LineLength
