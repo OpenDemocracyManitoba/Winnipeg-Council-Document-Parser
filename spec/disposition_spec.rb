@@ -33,28 +33,45 @@ class DispositionFixture
       with_conflict_of_interest:    path('2016-07-13'),
       with_recorded_votes:          path('2016-04-27'),
       with_notice_of_motions:       path('2016-04-27'),
-
-      # Without testing required? Or single test for option collections?
-      # without_notice_of_motions:    path(''),
-      # without_bylaw_1st_reading:    path(''),
-      # without_recorded_votes:       path(''),
-      # without_conflict_of_interest: path(''),
+      # Without testing required?
     }[name]
   end
 end
 
 describe Disposition do
-  FIXTURE_WITH_CONFLICT_OF_INTEREST = DispositionFixture.fixtures(:with_conflict_of_interest)
-  FIXTURE_WITH_RECORDED_VOTES       = DispositionFixture.fixtures(:with_recorded_votes)
-  FIXTURE_WITH_NOTICE_OF_MOTIONS    = DispositionFixture.fixtures(:with_notice_of_motions)
-
-  context 'when working with a disposition that includes bylaws' do
+  context 'when the disposition incluces conflict of interest declarations' do
     subject(:disposition) do
-      Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
+      Disposition.new(DispositionFixture.fixtures(:with_conflict_of_interest))
     end
 
     it 'should instantiate as an object' do
       expect(disposition.class).to eq(Disposition)
+    end
+  end
+
+  context 'when the disposition incluces recorded votes' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:with_recorded_votes))
+    end
+
+    it 'should instantiate as an object' do
+      expect(disposition.class).to eq(Disposition)
+    end
+  end
+
+  context 'when the disposition incluces notice of motions' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:with_notice_of_motions))
+    end
+
+    it 'should instantiate as an object' do
+      expect(disposition.class).to eq(Disposition)
+    end
+  end
+
+  context 'when the disposition includes bylaws' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
 
     it 'should locate the correct number of bylaws passed' do
