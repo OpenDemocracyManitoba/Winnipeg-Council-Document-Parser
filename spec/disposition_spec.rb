@@ -49,7 +49,7 @@ describe Disposition do
     end
   end
 
-  context 'when the disposition incluces recorded votes' do
+  context 'when the disposition includes recorded votes' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_recorded_votes))
     end
@@ -62,6 +62,16 @@ describe Disposition do
   context 'when the disposition includes notice of motions' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_notice_of_motions))
+    end
+
+    it 'should instantiate as an object' do
+      expect(disposition.class).to eq(Disposition)
+    end
+  end
+
+  context 'when the disposition includes attendance' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
 
     it 'should instantiate as an object' do
