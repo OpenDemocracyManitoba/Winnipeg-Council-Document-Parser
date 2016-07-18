@@ -59,7 +59,7 @@ describe Disposition do
     end
   end
 
-  context 'when the disposition incluces notice of motions' do
+  context 'when the disposition includes notice of motions' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_notice_of_motions))
     end
@@ -69,7 +69,28 @@ describe Disposition do
     end
   end
 
-  context 'when the disposition includes bylaws' do
+  context 'when the disposition includes 1st reading bylaws' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
+    end
+
+    it 'should instantiate as an object' do
+      expect(disposition.class).to eq(Disposition)
+    end
+
+    # it 'should locate the correct number of 1st reading bylaws' do
+      # expect(disposition.bylaws_passed.size).to eq(16)
+    # end
+
+    # it 'should correctly identify the first of the 1st reading bylaws' do
+      # first_bylaw = { number:      '',
+                      # subject:     '',
+                      # disposition: '' }
+      # expect(disposition.bylaws_passed.first).to eq(first_bylaw)
+    # end
+  end
+
+  context 'when the disposition includes bylaws 3rd reading' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
@@ -86,7 +107,7 @@ describe Disposition do
     end
   end
 
-  context 'when working with a disposition that includes motions' do
+  context 'when the disposition includes motions' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
@@ -105,7 +126,7 @@ describe Disposition do
     end
   end
 
-  context 'when working with a disposition that includes reports' do
+  context 'when the disposition includes reports' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
