@@ -19,10 +19,32 @@ require 'spec_helper'
 # - DISPOSITION-2016-07-13.docx (July 13, 2016)
 #   + Conflict of Interest Declaration (1)
 #
-#
+
+class DispositionFixture
+  def self.path(iso_date) # YYYY-MM-DD
+    filename = "DISPOSITION-#{iso_date}.docx"
+    File.join(File.dirname(__FILE__), 'fixtures', filename)
+  end
+
+  def self.fixtures
+    {
+      with_attendance_reports_motions_bylaws: fixture_path('2015-09-30'),
+
+      with_conflict_of_interest:    fixture_path('2016-07-13'),
+      with_recorded_votes:          fixture_path('2016-04-27'),
+      with_notice_of_motions:       fixture_path('2016-04-27'),
+
+      # Without testing required? Or single test for option collections?
+      # without_notice_of_motions:    fixture_path(''),
+      # without_bylaw_1st_reading:    fixture_path(''),
+      # without_recorded_votes:       fixture_path(''),
+      # without_conflict_of_interest: fixture_path(''),
+    }
+  end
+end
+
 describe Disposition do
-  DISPOSITION_PATH = File.dirname(__FILE__) +
-                     '/fixtures/DISPOSITION-2015-09-30.docx'
+  DISPOSITION_PATH = DispositionFixture.path('2015-09-30')
 
   context 'when working with a disposition that include bylaw' do
     subject(:disposition) do
