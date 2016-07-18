@@ -26,29 +26,31 @@ class DispositionFixture
     File.join(File.dirname(__FILE__), 'fixtures', filename)
   end
 
-  def self.fixtures
+  def self.fixtures(name)
     {
-      with_attendance_reports_motions_bylaws: fixture_path('2015-09-30'),
+      with_attendance_reports_motions_bylaws: path('2015-09-30'),
 
-      with_conflict_of_interest:    fixture_path('2016-07-13'),
-      with_recorded_votes:          fixture_path('2016-04-27'),
-      with_notice_of_motions:       fixture_path('2016-04-27'),
+      with_conflict_of_interest:    path('2016-07-13'),
+      with_recorded_votes:          path('2016-04-27'),
+      with_notice_of_motions:       path('2016-04-27'),
 
       # Without testing required? Or single test for option collections?
-      # without_notice_of_motions:    fixture_path(''),
-      # without_bylaw_1st_reading:    fixture_path(''),
-      # without_recorded_votes:       fixture_path(''),
-      # without_conflict_of_interest: fixture_path(''),
-    }
+      # without_notice_of_motions:    path(''),
+      # without_bylaw_1st_reading:    path(''),
+      # without_recorded_votes:       path(''),
+      # without_conflict_of_interest: path(''),
+    }[name]
   end
 end
 
 describe Disposition do
-  DISPOSITION_PATH = DispositionFixture.path('2015-09-30')
+  FIXTURE_WITH_CONFLICT_OF_INTEREST = DispositionFixture.fixtures(:with_conflict_of_interest)
+  FIXTURE_WITH_RECORDED_VOTES       = DispositionFixture.fixtures(:with_recorded_votes)
+  FIXTURE_WITH_NOTICE_OF_MOTIONS    = DispositionFixture.fixtures(:with_notice_of_motions)
 
-  context 'when working with a disposition that include bylaw' do
+  context 'when working with a disposition that includes bylaws' do
     subject(:disposition) do
-      Disposition.new(DISPOSITION_PATH)
+      Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
 
     it 'should instantiate as an object' do
@@ -67,9 +69,9 @@ describe Disposition do
     end
   end
 
-  context 'when working with a disposition that include motions' do
+  context 'when working with a disposition that includes motions' do
     subject(:disposition) do
-      Disposition.new(DISPOSITION_PATH)
+      Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
 
     it 'should locate the correct number of motions' do
@@ -88,7 +90,7 @@ describe Disposition do
 
   context 'when working with a disposition that includes reports' do
     subject(:disposition) do
-      Disposition.new(DISPOSITION_PATH)
+      Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
 
     it 'should locate the correct number of reports' do
