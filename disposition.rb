@@ -21,7 +21,6 @@ require 'docx'
 #   + Conflict of Interest Declarations
 #
 # TODO:
-# - Add new docx fixtures and spec contexts.
 # - Attendance scraping. (Council and Public Servant)
 # - Recorded votes scraping. Sometimes not present.
 # - Conflict of interest declaration scraping. Often not present.
