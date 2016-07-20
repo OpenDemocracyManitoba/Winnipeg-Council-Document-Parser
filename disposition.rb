@@ -21,10 +21,8 @@ require 'docx'
 #   + Conflict of Interest Declarations
 #
 # TODO:
-# - Attendance scraping. (Council and Public Servant)
 # - Recorded votes scraping. Sometimes not present.
 # - Conflict of interest declaration scraping. Often not present.
-# - Implement first reading bylaw scraping. Often not present.
 # - Implement notice of motion scraping. Often not present.
 
 class Disposition

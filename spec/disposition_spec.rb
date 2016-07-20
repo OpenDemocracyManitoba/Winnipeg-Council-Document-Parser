@@ -91,7 +91,6 @@ describe Disposition do
     it 'should identify the first public servant in attendance' do
       expect(disposition.attendance_public_service.first).to eq('Mr. R. Kachur, City Clerk')
     end
-
   end
 
   context 'when the disposition includes 1st reading bylaws' do
