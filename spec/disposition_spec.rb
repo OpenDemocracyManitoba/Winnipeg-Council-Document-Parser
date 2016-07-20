@@ -74,8 +74,9 @@ describe Disposition do
       Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
 
-    it 'should instantiate as an object' do
-      expect(disposition.class).to eq(Disposition)
+    it 'should find the correct council attendance count' do
+      in_attendance = disposition.attendance_council.size
+      expect(in_attendance).to eq(15)
     end
   end
 

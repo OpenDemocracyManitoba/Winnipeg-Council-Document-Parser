@@ -29,6 +29,7 @@ require 'docx'
 
 class Disposition
   # Table Headers Used for Dispositoin Extraction
+  ATTENDANCE_HEADER       = 'MEMBERS PRESENT'.freeze
   BYLAWS_PASSED_HEADER    = 'BY-LAWS PASSED (RECEIVED THIRD READING)'.freeze
   BYLAWS_FIRST_HEADER     = 'BY-LAWS RECEIVING FIRST READING ONLY'.freeze
   COUNCIL_MOTIONS_HEADER  = 'COUNCIL MOTIONS'.freeze
@@ -59,7 +60,35 @@ class Disposition
     reports_collection
   end
 
+  def attendance_council
+    attendance_collection[:council]
+  end
+
+  # Extracted disposition as hash.
+  def to_h
+    {
+      bylaws_passed:        by_laws_passed,
+      bylaws_first_reading: bylaws_first_reading,
+      motions:              motions,
+      reports:              reports
+    }
+  end
+
   private
+
+  # ATTENDANCE
+  # Single table with header row, but no title row.
+  # First column is council attendance.
+  # Second column is public service attendance.
+
+  def attendance_collection
+    attendance_table = select_table(ATTENDANCE_HEADER)
+    attendance_table_rows = attendance_table.rows[1..-1] # Header row removed.
+
+    {
+      council: attendance_table_rows
+    }
+  end
 
   # BYLAWS - FIRST READING
   # Bylaws are assumed to be stored in a single table.
