@@ -5,7 +5,7 @@ require 'spec_helper'
 # ========
 #
 # - DISPOSITION-2015-09-30.docx (Septerber 30, 2015)
-#   + Attendance (15 Counil Members, 5 Public Service)
+#   + Attendance (15 Council Members, 5 Public Service)
 #   + Reports (7)
 #   + Notice of Motions (Not Present)
 #   + Motions (13)
@@ -84,20 +84,16 @@ describe Disposition do
       Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
     end
 
-    it 'should instantiate as an object' do
-      expect(disposition.class).to eq(Disposition)
+    it 'should locate the correct number of 1st reading bylaws' do
+      expect(disposition.bylaws_first_reading.size).to eq(3)
     end
 
-    # it 'should locate the correct number of 1st reading bylaws' do
-      # expect(disposition.bylaws_passed.size).to eq(16)
-    # end
-
-    # it 'should correctly identify the first of the 1st reading bylaws' do
-      # first_bylaw = { number:      '',
-                      # subject:     '',
-                      # disposition: '' }
-      # expect(disposition.bylaws_passed.first).to eq(first_bylaw)
-    # end
+    it 'should correctly identify the first of the 1st reading bylaws' do
+      first_bylaw = { number:      '81/2015',
+                      subject:     'To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976. - SPA 4/2015',
+                      disposition: 'RECEIVED FIRST READING ONLY' }
+      expect(disposition.bylaws_first_reading.first).to eq(first_bylaw)
+    end
   end
 
   context 'when the disposition includes bylaws 3rd reading' do

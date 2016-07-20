@@ -47,6 +47,10 @@ class Disposition
     bylaws_passed_collection
   end
 
+  def bylaws_first_reading
+    bylaws_first_reading_collection
+  end
+
   def motions
     motions_collection
   end
@@ -56,6 +60,26 @@ class Disposition
   end
 
   private
+
+  # BYLAWS - FIRST READING
+  # Bylaws are assumed to be stored in a single table.
+
+  def bylaws_first_reading_collection
+    bylaw_table      = select_table(BYLAWS_FIRST_HEADER)
+    bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
+
+    bylaw_table_rows.map do |bylaw_row|
+      bylaw_first_reading_builder(bylaw_row)
+    end
+  end
+
+  def bylaw_first_reading_builder(bylaw_row)
+    bylaw_columns = row_cells_to_text_columns(bylaw_row)
+
+    { number:      bylaw_columns[0],
+      subject:     bylaw_columns[1],
+      disposition: bylaw_columns[2] }
+  end
 
   # BYLAWS PASSED
   # Bylaws are assumed to be stored in a single table.
