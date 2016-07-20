@@ -64,13 +64,18 @@ class Disposition
     attendance_collection[:council]
   end
 
+  def attendance_public_service
+    attendance_collection[:public_service]
+  end
+
   # Extracted disposition as hash.
   def to_h
     {
-      bylaws_passed:        by_laws_passed,
+      bylaws_passed:        bylaws_passed,
       bylaws_first_reading: bylaws_first_reading,
       motions:              motions,
-      reports:              reports
+      reports:              reports,
+      attendance:           attendance_collection
     }
   end
 
@@ -85,9 +90,18 @@ class Disposition
     attendance_table = select_table(ATTENDANCE_HEADER)
     attendance_table_rows = attendance_table.rows[1..-1] # Header row removed.
 
+    attendance = attendance_table_rows.map do |attendee_row|
+      attendance_builder(attendee_row)
+    end
+
     {
-      council: attendance_table_rows
+      council: attendance.map(&:first),
+      public_service: attendance.map(&:last).reject(&:empty?)
     }
+  end
+
+  def attendance_builder(attendee_row)
+    row_cells_to_text_columns(attendee_row)
   end
 
   # BYLAWS - FIRST READING

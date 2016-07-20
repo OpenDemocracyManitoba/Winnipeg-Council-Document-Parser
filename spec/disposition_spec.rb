@@ -78,6 +78,20 @@ describe Disposition do
       in_attendance = disposition.attendance_council.size
       expect(in_attendance).to eq(15)
     end
+
+    it 'should identify the first council member in attendance' do
+      expect(disposition.attendance_council.first).to eq('His Worship Mayor Bowman')
+    end
+
+    it 'should find the correct public service attendance count' do
+      in_attendance = disposition.attendance_public_service.size
+      expect(in_attendance).to eq(5)
+    end
+
+    it 'should identify the first public servant in attendance' do
+      expect(disposition.attendance_public_service.first).to eq('Mr. R. Kachur, City Clerk')
+    end
+
   end
 
   context 'when the disposition includes 1st reading bylaws' do
