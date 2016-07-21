@@ -146,6 +146,10 @@ describe Disposition do
     # TODO: This triggers an error when parsing motions.
     # This disposition fixture word doc is broken in a way that
     # makes the motions scraper include extra non-motion rows.
+    # In the fixture doc the motions table is connected to the
+    # bylaws passed table. My guess is that bylaws passed parsing
+    # is therefore also broken. I'll fix doc by hand rather than
+    # add a special case in the code.
     #
     # it 'should find the correct number of motions' do
     #   expect(disposition.motions.size).to eq(6)

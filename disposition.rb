@@ -21,9 +21,9 @@ require 'docx'
 #   + Conflict of Interest Declarations
 #
 # TODO:
-# - Notice of motion scraping. Often not present.
 # - Recorded votes scraping. Sometimes not present.
 # - Conflict of interest declaration scraping. Often not present.
+# - 2016-04-27 fixture: Fix table connection between motions and passed bylaws.
 # - Null Objects or Empty Arrays needed for public API for optional sections?
 
 class Disposition
