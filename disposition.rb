@@ -21,9 +21,10 @@ require 'docx'
 #   + Conflict of Interest Declarations
 #
 # TODO:
+# - Notice of motion scraping. Often not present.
 # - Recorded votes scraping. Sometimes not present.
 # - Conflict of interest declaration scraping. Often not present.
-# - Implement notice of motion scraping. Often not present.
+# - Null Objects or Empty Arrays needed for public API for optional sections?
 
 class Disposition
   # Table Headers Used for Dispositoin Extraction
