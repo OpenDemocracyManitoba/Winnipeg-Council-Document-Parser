@@ -51,6 +51,10 @@ class Disposition
     bylaws_first_reading_collection
   end
 
+  def notice_of_motions
+    notice_of_motions_collection
+  end
+
   def motions
     motions_collection
   end
@@ -111,11 +115,11 @@ class Disposition
     bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
 
     bylaw_table_rows.map do |bylaw_row|
-      bylaw_first_reading_builder(bylaw_row)
+      bylaw_builder(bylaw_row)
     end
   end
 
-  def bylaw_first_reading_builder(bylaw_row)
+  def bylaw_builder(bylaw_row)
     bylaw_columns = row_cells_to_text_columns(bylaw_row)
 
     { number:      bylaw_columns[0],
@@ -135,17 +139,9 @@ class Disposition
     end
   end
 
-  def bylaw_builder(bylaw_row)
-    bylaw_columns = row_cells_to_text_columns(bylaw_row)
-
-    { number:      bylaw_columns[0],
-      subject:     bylaw_columns[1],
-      disposition: bylaw_columns[2] }
-  end
-
   # MOTIONS
   # All motions are assumed to be in a single table.
-  # Many motion subjects contain lists and other formatting, currently
+  # Motion subject may contain lists and other formatting, currently
   # this markup is ignore and converted to text only.
 
   def motions_collection
@@ -157,6 +153,10 @@ class Disposition
     end
   end
 
+  def split_and_title_movers(movers_text)
+    movers_text.split('/').map(&:strip)
+  end
+
   def motion_builder(motion_row)
     motion_columns = row_cells_to_text_columns(motion_row)
 
@@ -166,10 +166,26 @@ class Disposition
       disposition: motion_columns[3] }
   end
 
-  def split_and_title_movers(movers_text)
-    movers_text.split('/').map do |mover|
-      "Councillor #{mover}"
+  # NOTICE OF MOTIONS
+  # All motions are assumed to be in a single table.
+  # Motion subject may contain lists and other formatting, currently
+  # this markup is ignore and converted to text only.
+
+  def notice_of_motions_collection
+    motion_table      = select_table(NOTICE_OF_MOTION_HEADER)
+    motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
+
+    motion_table_rows.map do |motion_row|
+      notice_of_motion_builder(motion_row)
     end
+  end
+
+  def notice_of_motion_builder(motion_row)
+    motion_columns = row_cells_to_text_columns(motion_row)
+
+    { movers:      split_and_title_movers(motion_columns[0]),
+      subject:     motion_columns[1],
+      disposition: motion_columns[2] }
   end
 
   # REPORTS

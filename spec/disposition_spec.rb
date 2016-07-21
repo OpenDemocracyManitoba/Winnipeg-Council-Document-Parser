@@ -29,11 +29,9 @@ class DispositionFixture
   def self.fixtures(name)
     {
       with_attendance_reports_motions_bylaws: path('2015-09-30'),
-
       with_conflict_of_interest:    path('2016-07-13'),
       with_recorded_votes:          path('2016-04-27'),
-      with_notice_of_motions:       path('2016-04-27'),
-      # Without testing required?
+      with_notice_of_motions:       path('2016-04-27')
     }[name]
   end
 end
@@ -52,16 +50,6 @@ describe Disposition do
   context 'when the disposition includes recorded votes' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_recorded_votes))
-    end
-
-    it 'should instantiate as an object' do
-      expect(disposition.class).to eq(Disposition)
-    end
-  end
-
-  context 'when the disposition includes notice of motions' do
-    subject(:disposition) do
-      Disposition.new(DispositionFixture.fixtures(:with_notice_of_motions))
     end
 
     it 'should instantiate as an object' do
@@ -139,10 +127,35 @@ describe Disposition do
     it 'should correctly identity the third motion' do
       # 3rd motion selected for it's brevity.
       third_motion = { number:      '3',
-                       movers:      ['Councillor Eadie', 'Councillor Allard'],
+                       movers:      %w(Eadie Allard),
                        subject:     'That the Winnipeg public service look to other Canadian cities for cannabis regulatory provisions in order to establish limits on cannabis related facilities in Winnipeg.',
                        disposition: 'AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT' }
       expect(disposition.motions[2]).to eq(third_motion)
+    end
+  end
+
+  context 'when the disposition includes notice of motions' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:with_notice_of_motions))
+    end
+
+    it 'should find the correct number of notice of motions' do
+      expect(disposition.notice_of_motions.size).to eq(1)
+    end
+
+    # TODO: This triggers an error when parsing motions.
+    # This disposition fixture word doc is broken in a way that
+    # makes the motions scraper include extra non-motion rows.
+    #
+    # it 'should find the correct number of motions' do
+    #   expect(disposition.motions.size).to eq(6)
+    # end
+
+    it 'should identify the first motion' do
+      first_motion = { movers:      %w(Schreyer Wyatt),
+                       subject:     'THEREFORE BE IT RESOLVED THAT the City of Winnipeg request the Province of Manitoba to refer to the Public Utilities Board (PUB) and call public hearings on the following:A)The proposed Water and Sewer Rate Increases of 2016, 2017, and 2018;B)The approved  ‘dividend’ from the Water and Waste Department to the Operating/Capital Budget of the City of Winnipeg;C)The Capital Budget Program of Water and Waste, both 2016 Capital Budget and the 5 Year Forecast 2017 to 2021;D)The environmental regulatory obligations on the City of Winnipeg in regard to its Water and Waste systems;E)The Business Plans and all Capital project strategies/plans of the Water and Waste Department;F)Options for Provincial and Federal Funding of the regulatory capital program requirements.',
+                       disposition: 'LOST' }
+      expect(disposition.notice_of_motions.first).to eq(first_motion)
     end
   end
 
