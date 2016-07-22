@@ -29,9 +29,9 @@ class DispositionFixture
   def self.fixtures(name)
     {
       with_attendance_reports_motions_bylaws: path('2015-09-30'),
-      with_conflict_of_interest:    path('2016-07-13'),
-      with_recorded_votes:          path('2016-04-27'),
-      with_notice_of_motions:       path('2016-04-27')
+      with_conflict_of_interest:              path('2016-07-13'),
+      with_recorded_votes:                    path('2016-04-27'),
+      with_notice_of_motions:                 path('2016-04-27')
     }[name]
   end
 end
