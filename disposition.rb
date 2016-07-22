@@ -74,10 +74,10 @@ class Disposition
   # Extracted disposition as hash.
   def to_h
     {
-      bylaws_passed:        bylaws_passed,
-      bylaws_first_reading: bylaws_first_reading,
-      motions:              motions,
-      reports:              reports,
+      bylaws_passed:        bylaws_passed_collection,
+      bylaws_first_reading: bylaws_first_reading_collection,
+      motions:              motions_collection,
+      reports:              reports_collection,
       attendance:           attendance_collection
     }
   end
@@ -153,7 +153,7 @@ class Disposition
     end
   end
 
-  def split_and_title_movers(movers_text)
+  def split_mover_names(movers_text)
     movers_text.split('/').map(&:strip)
   end
 
@@ -161,7 +161,7 @@ class Disposition
     motion_columns = row_cells_to_text_columns(motion_row)
 
     { number:      motion_columns[0],
-      movers:      split_and_title_movers(motion_columns[1]),
+      movers:      split_mover_names(motion_columns[1]),
       subject:     motion_columns[2],
       disposition: motion_columns[3] }
   end
@@ -183,7 +183,7 @@ class Disposition
   def notice_of_motion_builder(motion_row)
     motion_columns = row_cells_to_text_columns(motion_row)
 
-    { movers:      split_and_title_movers(motion_columns[0]),
+    { movers:      split_mover_names(motion_columns[0]),
       subject:     motion_columns[1],
       disposition: motion_columns[2] }
   end
