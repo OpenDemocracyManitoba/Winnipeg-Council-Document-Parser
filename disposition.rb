@@ -222,8 +222,8 @@ class Disposition
   # Includes a title row.
 
   # TODO: Does this title contain a typo? Should RECORDS be REPORTS?
-  #       If so, change to a REGEXP to wildcard the fourth word.
-  RECORDED_VOTES_TITLE = /RECORDED VOTES FOR RECORDS, MOTIONS AND BY-LAWS/
+  #       Forth word wildcarded 7 letters starting with R to support both.
+  RECORDED_VOTES_TITLE = /RECORDED VOTES FOR R......, MOTIONS AND BY-LAWS/
 
   # Includes a header row with four column headers:
   # - Subject
