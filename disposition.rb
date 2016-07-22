@@ -28,12 +28,12 @@ require 'docx'
 
 class Disposition
   # Table Headers Used for Dispositoin Extraction
-  ATTENDANCE_HEADER       = 'MEMBERS PRESENT'.freeze
-  BYLAWS_PASSED_HEADER    = 'BY-LAWS PASSED (RECEIVED THIRD READING)'.freeze
-  BYLAWS_FIRST_HEADER     = 'BY-LAWS RECEIVING FIRST READING ONLY'.freeze
-  COUNCIL_MOTIONS_HEADER  = 'COUNCIL MOTIONS'.freeze
-  NOTICE_OF_MOTION_HEADER = 'NOTICE OF MOTION'.freeze
-  REPORT_HEADER_REGEXP    = /^REPORT/
+  ATTENDANCE_TITLE       = /MEMBERS PRESENT/
+  BYLAWS_PASSED_TITLE    = /BY-LAWS PASSED \(RECEIVED THIRD READING\)/
+  BYLAWS_FIRST_TITLE     = /BY-LAWS RECEIVING FIRST READING ONLY/
+  COUNCIL_MOTIONS_TITLE  = /COUNCIL MOTIONS/
+  NOTICE_OF_MOTION_TITLE = /NOTICE OF MOTION/
+  REPORT_TITLE           = /^REPORT/
 
   # Dispositions are built from a path to a docx disposition document.
   def initialize(docx_file_path)
@@ -90,7 +90,7 @@ class Disposition
   # Second column is public service attendance.
 
   def attendance_collection
-    attendance_table = select_table(ATTENDANCE_HEADER)
+    attendance_table = select_table(ATTENDANCE_TITLE)
     attendance_table_rows = attendance_table.rows[1..-1] # Header row removed.
 
     attendance = attendance_table_rows.map do |attendee_row|
@@ -111,7 +111,7 @@ class Disposition
   # Bylaws are assumed to be stored in a single table.
 
   def bylaws_first_reading_collection
-    bylaw_table      = select_table(BYLAWS_FIRST_HEADER)
+    bylaw_table      = select_table(BYLAWS_FIRST_TITLE)
     bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
 
     bylaw_table_rows.map do |bylaw_row|
@@ -131,7 +131,7 @@ class Disposition
   # Bylaws are assumed to be stored in a single table.
 
   def bylaws_passed_collection
-    bylaw_table      = select_table(BYLAWS_PASSED_HEADER)
+    bylaw_table      = select_table(BYLAWS_PASSED_TITLE)
     bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
 
     bylaw_table_rows.map do |bylaw_row|
@@ -145,7 +145,7 @@ class Disposition
   # this markup is ignore and converted to text only.
 
   def motions_collection
-    motion_table      = select_table(COUNCIL_MOTIONS_HEADER)
+    motion_table      = select_table(COUNCIL_MOTIONS_TITLE)
     motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
 
     motion_table_rows.map do |motion_row|
@@ -172,7 +172,7 @@ class Disposition
   # this markup is ignore and converted to text only.
 
   def notice_of_motions_collection
-    motion_table      = select_table(NOTICE_OF_MOTION_HEADER)
+    motion_table      = select_table(NOTICE_OF_MOTION_TITLE)
     motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
 
     motion_table_rows.map do |motion_row|
@@ -194,7 +194,7 @@ class Disposition
   # Each hash has a report title and an array of report items.
 
   def reports_collection
-    report_tables = select_tables(REPORT_HEADER_REGEXP)
+    report_tables = select_tables(REPORT_TITLE)
 
     report_tables.map do |report_table|
       { title: report_table.rows[0].cells[0].text,
@@ -218,6 +218,23 @@ class Disposition
       disposition: item_columns[2] }
   end
 
+  # RECORDED VOTES
+  # Includes a title row.
+
+  # TODO: Does this title contain a typo? Should RECORDS be REPORTS?
+  #       If so, change to a REGEXP to wildcard the fourth word.
+  RECORDED_VOTES_TITLE = /RECORDED VOTES FOR RECORDS, MOTIONS AND BY-LAWS/
+
+  # Includes a header row with four column headers:
+  # - Subject
+  # - Yeas
+  # - Nays
+  # - Disposition
+  #
+  def recorded_votes_collection
+    report_tables = select_tables(RECORDED_VOTES_TITLE)
+  end
+
   # TABLE HELPERS
   # These table helpers feel like the start of a class.
   # I've tried to spike the class a few times, but it grew overly complex.
@@ -238,11 +255,11 @@ class Disposition
   end
 
   # Find the first table in the document where the top/left
-  # cell text matches a given string.
+  # cell text matches a given regexp.
   # Returns a single table.
-  def select_table(heading)
+  def select_table(heading_regexp)
     tables.find do |t|
-      t.rows[0].cells[0].text == heading
+      heading_regexp.match(t.rows[0].cells[0].text)
     end
   end
 
