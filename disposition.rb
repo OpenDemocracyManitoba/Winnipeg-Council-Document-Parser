@@ -236,11 +236,24 @@ class Disposition
   # - Nays
   # - Disposition
   #
+  # NOTE: The Yeas and Nays are sometimes separated into multiple rows
+  # within a table, and sometimes they are separated by newlines with a
+  # single table cell!
   def recorded_votes_collection
     recorded_votes_table = select_table(RECORDED_VOTES_TITLE)
 
     # First 2 rows are headers, so [2..-1]
     recorded_votes_table_rows = recorded_votes_table.rows[2..-1]
+
+    recorded_votes_table_rows.map do |recorded_votes_row|
+      recorded_votes_builder(recorded_votes_row)
+    end
+  end
+
+  def recorded_votes_builder(votes_row)
+    {
+      subject: votes_row.cells[0].paragraphs.map(&:text).join(' ').strip
+    }
   end
 
   # TABLE HELPERS
@@ -272,10 +285,14 @@ class Disposition
   end
 
   # Take a docx array of cells and convert into
-  # an array of Strings built from the cell text.
+  # an array of Strings built from the cell paragraph's text.
   def row_cells_to_text_columns(table_row)
     table_row.cells.map do |cell|
-      cell.text.strip
+      cell.paragraphs        # Find all the cell's paragraphs
+          .map(&:text)       # Extract the text from each paragraph
+          .map(&:strip)      # Remove leading/trailing spaces from text
+          .reject(&:empty?)  # Throw away blank text
+          .join(' ')         # Join all the text using a space delimiter
     end
   end
 end

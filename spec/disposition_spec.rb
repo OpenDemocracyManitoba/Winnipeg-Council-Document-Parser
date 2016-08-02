@@ -56,6 +56,12 @@ describe Disposition do
       recorded_votes = disposition.recorded_votes
       expect(recorded_votes.size).to eq(5)
     end
+
+    it 'should correctly identify the subject of the first voting item' do
+      recorded_votes = disposition.recorded_votes
+      vote_subject = recorded_votes[3][:subject]
+      expect(vote_subject).to eq('Motion 5 Wyatt / Eadie')
+    end
   end
 
   context 'when the disposition includes attendance' do
@@ -158,7 +164,7 @@ describe Disposition do
 
     it 'should identify the first motion' do
       first_motion = { movers:      %w(Schreyer Wyatt),
-                       subject:     'THEREFORE BE IT RESOLVED THAT the City of Winnipeg request the Province of Manitoba to refer to the Public Utilities Board (PUB) and call public hearings on the following:A)The proposed Water and Sewer Rate Increases of 2016, 2017, and 2018;B)The approved  ‘dividend’ from the Water and Waste Department to the Operating/Capital Budget of the City of Winnipeg;C)The Capital Budget Program of Water and Waste, both 2016 Capital Budget and the 5 Year Forecast 2017 to 2021;D)The environmental regulatory obligations on the City of Winnipeg in regard to its Water and Waste systems;E)The Business Plans and all Capital project strategies/plans of the Water and Waste Department;F)Options for Provincial and Federal Funding of the regulatory capital program requirements.',
+                       subject:     'THEREFORE BE IT RESOLVED THAT the City of Winnipeg request the Province of Manitoba to refer to the Public Utilities Board (PUB) and call public hearings on the following: A)The proposed Water and Sewer Rate Increases of 2016, 2017, and 2018; B)The approved  ‘dividend’ from the Water and Waste Department to the Operating/Capital Budget of the City of Winnipeg; C)The Capital Budget Program of Water and Waste, both 2016 Capital Budget and the 5 Year Forecast 2017 to 2021; D)The environmental regulatory obligations on the City of Winnipeg in regard to its Water and Waste systems; E)The Business Plans and all Capital project strategies/plans of the Water and Waste Department; F)Options for Provincial and Federal Funding of the regulatory capital program requirements.',
                        disposition: 'LOST' }
       expect(disposition.notice_of_motions.first).to eq(first_motion)
     end
