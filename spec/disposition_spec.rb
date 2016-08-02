@@ -52,8 +52,9 @@ describe Disposition do
       Disposition.new(DispositionFixture.fixtures(:with_recorded_votes))
     end
 
-    it 'should instantiate as an object' do
-      expect(disposition.class).to eq(Disposition)
+    it 'should find the correct recorded votes count' do
+      recorded_votes = disposition.recorded_votes
+      expect(recorded_votes.size).to eq(5)
     end
   end
 

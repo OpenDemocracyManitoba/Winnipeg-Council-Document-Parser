@@ -71,6 +71,10 @@ class Disposition
     attendance_collection[:public_service]
   end
 
+  def recorded_votes
+    recorded_votes_collection
+  end
+
   # Extracted disposition as hash.
   def to_h
     {
@@ -78,7 +82,8 @@ class Disposition
       bylaws_first_reading: bylaws_first_reading_collection,
       motions:              motions_collection,
       reports:              reports_collection,
-      attendance:           attendance_collection
+      attendance:           attendance_collection,
+      recorded_votes:       recorded_votes_collection
     }
   end
 
@@ -232,7 +237,10 @@ class Disposition
   # - Disposition
   #
   def recorded_votes_collection
-    report_tables = select_tables(RECORDED_VOTES_TITLE)
+    recorded_votes_table = select_table(RECORDED_VOTES_TITLE)
+
+    # First 2 rows are headers, so [2..-1]
+    recorded_votes_table_rows = recorded_votes_table.rows[2..-1]
   end
 
   # TABLE HELPERS
