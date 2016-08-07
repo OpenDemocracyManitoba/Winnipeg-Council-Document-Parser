@@ -14,3 +14,12 @@ Ruby methods exist to extract:
 * Motions (done)
 * Recorded Votes (in progress)
 * Conflict of Interest Declarations (to do)
+
+### Setup Instructions
+
+Assuming command line with git and Ruby (2.3.x) installed:
+
+    git clone git@github.com:OpenDemocracyManitoba/Winnipeg-Council-Document-Parser.git
+    cd Winnipeg-Council-Document-Parser
+    bundle install
+    bundle exec guard
