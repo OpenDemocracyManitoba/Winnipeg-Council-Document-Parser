@@ -59,8 +59,8 @@ describe Disposition do
 
     it 'should correctly identify the subject of the first voting item' do
       recorded_votes = disposition.recorded_votes
-      vote_subject = recorded_votes[3][:subject]
-      expect(vote_subject).to eq('Motion 5 Wyatt / Eadie')
+      vote_subject = recorded_votes.first[:subject]
+      expect(vote_subject).to eq('Motion 4 Schreyer / Wyatt')
     end
   end
 
