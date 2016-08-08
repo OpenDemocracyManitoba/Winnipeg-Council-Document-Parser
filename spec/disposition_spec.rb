@@ -86,6 +86,24 @@ describe Disposition do
       first_yea = first_vote[:yeas].last
       expect(first_yea).to eq('Councillor Wyatt')
     end
+
+    it 'should find the correct NAYS count on the first voting item' do
+      first_vote = disposition.recorded_votes.first
+      nays_count = first_vote[:nays].size
+      expect(nays_count).to eq(11)
+    end
+
+    it 'should find the name of the first NAY on the first voting item' do
+      first_vote = disposition.recorded_votes.first
+      first_nay = first_vote[:nays].first
+      expect(first_nay).to eq('His Worship Mayor Bowman')
+    end
+
+    it 'should find the name of the last NAY on the first voting item' do
+      first_vote = disposition.recorded_votes.first
+      first_nay = first_vote[:nays].last
+      expect(first_nay).to eq('Councillor Sharma')
+    end
   end
 
   context 'when the disposition includes attendance' do

@@ -263,7 +263,8 @@ class Disposition
     {
       subject: votes_columns[0],
       disposition: votes_columns[3],
-      yeas: cell_paragraphs(votes_row.cells[1])
+      yeas: cell_paragraphs(votes_row.cells[1]),
+      nays: cell_paragraphs(votes_row.cells[2])
     }
   end
 
