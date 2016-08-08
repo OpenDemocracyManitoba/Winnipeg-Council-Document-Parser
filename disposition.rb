@@ -41,7 +41,11 @@ class Disposition
     @doc = Docx::Document.open(docx_file_path)
   end
 
-  # Public API (Written as one-liners to read like a table of contents.)
+  # Public API 
+  #
+  # Written as one-liners to read like a table of contents.
+  #
+  # API Behaviour Specification: spec/disposition_spec.rb
 
   def bylaws_passed
     bylaws_passed_collection
@@ -76,6 +80,7 @@ class Disposition
   end
 
   # Extracted disposition as hash.
+  # This hash can be easily converted to JSON for file export.
   def to_h
     {
       bylaws_passed:        bylaws_passed_collection,
@@ -238,7 +243,9 @@ class Disposition
   #
   # NOTE: The Yeas and Nays are sometimes separated into multiple rows
   # within a table, and sometimes they are separated by newlines with a
-  # single table cell!
+  # single table cell! Code doesn't handle for this, so the affected
+  # tables are manually fixed in Word.
+
   def recorded_votes_collection
     recorded_votes_table = select_table(RECORDED_VOTES_TITLE)
 
@@ -251,8 +258,10 @@ class Disposition
   end
 
   def recorded_votes_builder(votes_row)
+    votes_columns = row_cells_to_text_columns(votes_row)
     {
-      subject: votes_row.cells[0].paragraphs.map(&:text).join(' ').strip
+      subject: votes_columns[0],
+      disposition: votes_columns[3]
     }
   end
 

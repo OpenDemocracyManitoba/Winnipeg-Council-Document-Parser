@@ -62,6 +62,12 @@ describe Disposition do
       vote_subject = recorded_votes.first[:subject]
       expect(vote_subject).to eq('Motion 4 Schreyer / Wyatt')
     end
+
+    it 'should correctly identify the disposition of the first voting item' do
+      recorded_votes = disposition.recorded_votes
+      vote_subject = recorded_votes.first[:disposition]
+      expect(vote_subject).to eq('LOST')
+    end
   end
 
   context 'when the disposition includes attendance' do
