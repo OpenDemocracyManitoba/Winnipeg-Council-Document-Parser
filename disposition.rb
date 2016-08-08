@@ -41,7 +41,7 @@ class Disposition
     @doc = Docx::Document.open(docx_file_path)
   end
 
-  # Public API 
+  # Public API
   #
   # Written as one-liners to read like a table of contents.
   #
@@ -259,9 +259,11 @@ class Disposition
 
   def recorded_votes_builder(votes_row)
     votes_columns = row_cells_to_text_columns(votes_row)
+
     {
       subject: votes_columns[0],
-      disposition: votes_columns[3]
+      disposition: votes_columns[3],
+      yeas: cell_paragraphs(votes_row.cells[1])
     }
   end
 
@@ -297,11 +299,18 @@ class Disposition
   # an array of Strings built from the cell paragraph's text.
   def row_cells_to_text_columns(table_row)
     table_row.cells.map do |cell|
-      cell.paragraphs        # Find all the cell's paragraphs
-          .map(&:text)       # Extract the text from each paragraph
-          .map(&:strip)      # Remove leading/trailing spaces from text
-          .reject(&:empty?)  # Throw away blank text
-          .join(' ')         # Join all the text using a space delimiter
+      # Join paragraphs into a String using a space delimiter.
+      cell_paragraphs(cell).join(' ')
     end
+  end
+
+  # Takes a docx table cell as input.
+  # Returns a collection of Strings, one per cell paragraph.
+  # Blank or whitespace-only paragraphs are removed.
+  def cell_paragraphs(cell)
+    cell.paragraphs
+        .map(&:text)       # Extract the text from each paragraph
+        .map(&:strip)      # Remove leading/trailing spaces from text
+        .reject(&:empty?)  # Throw away blank paragraphs
   end
 end

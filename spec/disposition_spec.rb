@@ -57,16 +57,34 @@ describe Disposition do
       expect(recorded_votes.size).to eq(5)
     end
 
-    it 'should correctly identify the subject of the first voting item' do
+    it 'should find the subject of the first voting item' do
       recorded_votes = disposition.recorded_votes
       vote_subject = recorded_votes.first[:subject]
       expect(vote_subject).to eq('Motion 4 Schreyer / Wyatt')
     end
 
-    it 'should correctly identify the disposition of the first voting item' do
+    it 'should find the disposition of the first voting item' do
       recorded_votes = disposition.recorded_votes
       vote_subject = recorded_votes.first[:disposition]
       expect(vote_subject).to eq('LOST')
+    end
+
+    it 'should find the correct YEAS count on the first voting item' do
+      first_vote = disposition.recorded_votes.first
+      yeas_count = first_vote[:yeas].size
+      expect(yeas_count).to eq(5)
+    end
+
+    it 'should find the name of the first YEA on the first voting item' do
+      first_vote = disposition.recorded_votes.first
+      first_yea = first_vote[:yeas].first
+      expect(first_yea).to eq('Councillor Allard')
+    end
+
+    it 'should find the name of the last YEA on the first voting item' do
+      first_vote = disposition.recorded_votes.first
+      first_yea = first_vote[:yeas].last
+      expect(first_yea).to eq('Councillor Wyatt')
     end
   end
 
