@@ -21,10 +21,12 @@ require 'docx'
 #   + Conflict of Interest Declarations
 #
 # TODO:
-# - Recorded votes scraping. Sometimes not present.
 # - Conflict of interest declaration scraping. Often not present.
 # - 2016-04-27 fixture: Fix table connection between motions and passed bylaws.
 # - Null Objects or Empty Arrays needed for public API for optional sections?
+# - Download all available Word Dispositions.
+# - Update all recorded votes lists to text paragraphs.
+# - Convert all dispositions to JSON.
 
 class Disposition
   # Table Headers Used for Dispositoin Extraction
@@ -77,6 +79,10 @@ class Disposition
 
   def recorded_votes
     recorded_votes_collection
+  end
+
+  def conflict_of_interest_declarations
+    conflict_of_interest_declarations_collection
   end
 
   # Extracted disposition as hash.
@@ -268,6 +274,29 @@ class Disposition
     }
   end
 
+  # CONFLICT OF INTEREST DECLARATIONS
+
+  DECLARATIONS_TITLE = /CONFLICT OF INTEREST DECLARATIONS/
+
+  def conflict_of_interest_declarations_collection
+    declaration_table = select_table(DECLARATIONS_TITLE)
+
+    # First 2 rows are headers, so [2..-1]
+    declaration_table_rows = declaration_table.rows[2..-1]
+
+    declaration_table_rows.map do |declaration_row|
+      declaration_builder(declaration_row)
+    end
+  end
+
+  def declaration_builder(declaration_row)
+    declarations_columns = row_cells_to_text_columns(declaration_row)
+
+    {
+      subject: declarations_columns[0]
+    }
+  end
+
   # TABLE HELPERS
   # These table helpers feel like the start of a class.
   # I've tried to spike the class a few times, but it grew overly complex.
@@ -284,7 +313,7 @@ class Disposition
   def select_tables(heading_regexp)
     tables.select do |t|
       heading_regexp.match(t.rows[0].cells[0].text)
-    end
+    end # Add an || here to replace nils with structs with 'rows' prop set to []
   end
 
   # Find the first table in the document where the top/left

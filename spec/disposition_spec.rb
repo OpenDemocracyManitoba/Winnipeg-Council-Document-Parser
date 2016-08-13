@@ -42,8 +42,15 @@ describe Disposition do
       Disposition.new(DispositionFixture.fixtures(:with_conflict_of_interest))
     end
 
-    it 'should instantiate as an object' do
-      expect(disposition.class).to eq(Disposition)
+    it 'should find the correct conflict of interest declaration count' do
+      conflict_declarations = disposition.conflict_of_interest_declarations
+      expect(conflict_declarations.size).to eq(1)
+    end
+
+    it 'should find the subject of the first delclaration item' do
+      conflict_declarations = disposition.conflict_of_interest_declarations
+      declaration_subject = conflict_declarations.first[:subject]
+      expect(declaration_subject).to eq('Item 2 Report of the Executive Policy Committee Dated July 6, 2016')
     end
   end
 
