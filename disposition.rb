@@ -293,7 +293,8 @@ class Disposition
     declarations_columns = row_cells_to_text_columns(declaration_row)
 
     {
-      subject: declarations_columns[0]
+      subject: declarations_columns[0],
+      members: cell_paragraphs(declaration_row.cells[1])
     }
   end
 

@@ -52,6 +52,18 @@ describe Disposition do
       declaration_subject = conflict_declarations.first[:subject]
       expect(declaration_subject).to eq('Item 2 Report of the Executive Policy Committee Dated July 6, 2016')
     end
+
+    it 'should find the correct declaration member count' do
+      conflict_declarations = disposition.conflict_of_interest_declarations
+      declaration_members = conflict_declarations.first[:members]
+      expect(declaration_members.size).to eq(1)
+    end
+
+    it 'should find the name of the first declaration member' do
+      conflict_declarations = disposition.conflict_of_interest_declarations
+      declaration_members = conflict_declarations.first[:members]
+      expect(declaration_members.first).to eq('Councillor Mayes')
+    end
   end
 
   context 'when the disposition includes recorded votes' do
