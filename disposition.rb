@@ -314,7 +314,7 @@ class Disposition
       heading_regexp.match(t.rows[0].cells[0].text)
     end
 
-    table.rows[number_of_header_rows..-1]
+    table ? table.rows[number_of_header_rows..-1] : []
   end
 
   # Take a docx array of cells and convert into

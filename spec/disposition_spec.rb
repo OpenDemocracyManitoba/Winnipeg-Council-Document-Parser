@@ -74,7 +74,7 @@ describe Disposition do
 
     it 'should find the correct conflict of interest declaration count' do
       conflict_declarations = disposition.conflict_of_interest_declarations
-      expect(conflict_declarations.size).to eq(1)
+      expect(conflict_declarations.size).to eq(0)
     end
   end
 
