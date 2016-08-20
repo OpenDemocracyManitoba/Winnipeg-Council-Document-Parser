@@ -33,7 +33,8 @@ class DispositionFixture
       with_recorded_votes:                    path('2016-04-27'),
       with_notice_of_motions:                 path('2016-04-27'),
       without_conflict_of_interest:           path('2016-04-27'),
-      without_recorded_votes:                 path('2016-07-13')
+      without_recorded_votes:                 path('2016-07-13'),
+      without_1st_reading_bylaws:             path('2016-04-27')
     }[name]
   end
 end
@@ -187,6 +188,16 @@ describe Disposition do
                       subject:     'To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976. - SPA 4/2015',
                       disposition: 'RECEIVED FIRST READING ONLY' }
       expect(disposition.bylaws_first_reading.first).to eq(first_bylaw)
+    end
+  end
+
+  context 'when the disposition does not include 1st reading bylaws' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:without_1st_reading_bylaws))
+    end
+
+    it 'should locate the correct number of 1st reading bylaws' do
+      expect(disposition.bylaws_first_reading.size).to eq(0)
     end
   end
 
