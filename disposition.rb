@@ -122,83 +122,6 @@ class Disposition
     row_cells_to_text_columns(attendee_row)
   end
 
-  # BYLAWS - FIRST READING
-  # Bylaws are assumed to be stored in a single table.
-
-  def bylaws_first_reading_collection
-    bylaw_table_rows = select_table(BYLAWS_FIRST_TITLE, 2)
-
-    bylaw_table_rows.map do |bylaw_row|
-      bylaw_builder(bylaw_row)
-    end
-  end
-
-  def bylaw_builder(bylaw_row)
-    bylaw_columns = row_cells_to_text_columns(bylaw_row)
-
-    { number:      bylaw_columns[0],
-      subject:     bylaw_columns[1],
-      disposition: bylaw_columns[2] }
-  end
-
-  # BYLAWS PASSED
-  # Bylaws are assumed to be stored in a single table.
-
-  def bylaws_passed_collection
-    bylaw_table_rows = select_table(BYLAWS_PASSED_TITLE, 2)
-
-    bylaw_table_rows.map do |bylaw_row|
-      bylaw_builder(bylaw_row)
-    end
-  end
-
-  # MOTIONS
-  # All motions are assumed to be in a single table.
-  # Motion subject may contain lists and other formatting, currently
-  # this markup is ignore and converted to text only.
-
-  def motions_collection
-    motion_table_rows = select_table(COUNCIL_MOTIONS_TITLE, 2)
-
-    motion_table_rows.map do |motion_row|
-      motion_builder(motion_row)
-    end
-  end
-
-  def split_mover_names(movers_text)
-    movers_text.split('/').map(&:strip)
-  end
-
-  def motion_builder(motion_row)
-    motion_columns = row_cells_to_text_columns(motion_row)
-
-    { number:      motion_columns[0],
-      movers:      split_mover_names(motion_columns[1]),
-      subject:     motion_columns[2],
-      disposition: motion_columns[3] }
-  end
-
-  # NOTICE OF MOTIONS
-  # All motions are assumed to be in a single table.
-  # Motion subject may contain lists and other formatting, currently
-  # this markup is ignore and converted to text only.
-
-  def notice_of_motions_collection
-    motion_table_rows = select_table(NOTICE_OF_MOTION_TITLE, 2)
-
-    motion_table_rows.map do |motion_row|
-      notice_of_motion_builder(motion_row)
-    end
-  end
-
-  def notice_of_motion_builder(motion_row)
-    motion_columns = row_cells_to_text_columns(motion_row)
-
-    { movers:      split_mover_names(motion_columns[0]),
-      subject:     motion_columns[1],
-      disposition: motion_columns[2] }
-  end
-
   # REPORTS
   # Unlike motions or bylaws, reports are stored in multiple tables.
   # The reports collection will be an array of hashes.
@@ -227,6 +150,83 @@ class Disposition
     { number: item_columns[0],
       title: item_columns[1],
       disposition: item_columns[2] }
+  end
+
+  # NOTICE OF MOTIONS
+  # All motions are assumed to be in a single table.
+  # Motion subject may contain lists and other formatting, currently
+  # this markup is ignore and converted to text only.
+
+  def notice_of_motions_collection
+    motion_table_rows = select_table(NOTICE_OF_MOTION_TITLE, 2)
+
+    motion_table_rows.map do |motion_row|
+      notice_of_motion_builder(motion_row)
+    end
+  end
+
+  def notice_of_motion_builder(motion_row)
+    motion_columns = row_cells_to_text_columns(motion_row)
+
+    { movers:      split_mover_names(motion_columns[0]),
+      subject:     motion_columns[1],
+      disposition: motion_columns[2] }
+  end
+
+  # MOTIONS
+  # All motions are assumed to be in a single table.
+  # Motion subject may contain lists and other formatting, currently
+  # this markup is ignore and converted to text only.
+
+  def motions_collection
+    motion_table_rows = select_table(COUNCIL_MOTIONS_TITLE, 2)
+
+    motion_table_rows.map do |motion_row|
+      motion_builder(motion_row)
+    end
+  end
+
+  def split_mover_names(movers_text)
+    movers_text.split('/').map(&:strip)
+  end
+
+  def motion_builder(motion_row)
+    motion_columns = row_cells_to_text_columns(motion_row)
+
+    { number:      motion_columns[0],
+      movers:      split_mover_names(motion_columns[1]),
+      subject:     motion_columns[2],
+      disposition: motion_columns[3] }
+  end
+
+  # BYLAWS - FIRST READING
+  # Bylaws are assumed to be stored in a single table.
+
+  def bylaws_first_reading_collection
+    bylaw_table_rows = select_table(BYLAWS_FIRST_TITLE, 2)
+
+    bylaw_table_rows.map do |bylaw_row|
+      bylaw_builder(bylaw_row)
+    end
+  end
+
+  def bylaw_builder(bylaw_row)
+    bylaw_columns = row_cells_to_text_columns(bylaw_row)
+
+    { number:      bylaw_columns[0],
+      subject:     bylaw_columns[1],
+      disposition: bylaw_columns[2] }
+  end
+
+  # BYLAWS PASSED
+  # Bylaws are assumed to be stored in a single table.
+
+  def bylaws_passed_collection
+    bylaw_table_rows = select_table(BYLAWS_PASSED_TITLE, 2)
+
+    bylaw_table_rows.map do |bylaw_row|
+      bylaw_builder(bylaw_row)
+    end
   end
 
   # RECORDED VOTES
