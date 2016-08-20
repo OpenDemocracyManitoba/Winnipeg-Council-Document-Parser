@@ -106,8 +106,7 @@ class Disposition
   # Second column is public service attendance.
 
   def attendance_collection
-    attendance_table = select_table(ATTENDANCE_TITLE)
-    attendance_table_rows = attendance_table.rows[1..-1] # Header row removed.
+    attendance_table_rows = select_table(ATTENDANCE_TITLE, 1)
 
     attendance = attendance_table_rows.map do |attendee_row|
       attendance_builder(attendee_row)
@@ -127,8 +126,7 @@ class Disposition
   # Bylaws are assumed to be stored in a single table.
 
   def bylaws_first_reading_collection
-    bylaw_table      = select_table(BYLAWS_FIRST_TITLE)
-    bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
+    bylaw_table_rows = select_table(BYLAWS_FIRST_TITLE, 2)
 
     bylaw_table_rows.map do |bylaw_row|
       bylaw_builder(bylaw_row)
@@ -147,8 +145,7 @@ class Disposition
   # Bylaws are assumed to be stored in a single table.
 
   def bylaws_passed_collection
-    bylaw_table      = select_table(BYLAWS_PASSED_TITLE)
-    bylaw_table_rows = bylaw_table.rows[2..-1] # First 2 rows are headers
+    bylaw_table_rows = select_table(BYLAWS_PASSED_TITLE, 2)
 
     bylaw_table_rows.map do |bylaw_row|
       bylaw_builder(bylaw_row)
@@ -161,8 +158,7 @@ class Disposition
   # this markup is ignore and converted to text only.
 
   def motions_collection
-    motion_table      = select_table(COUNCIL_MOTIONS_TITLE)
-    motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
+    motion_table_rows = select_table(COUNCIL_MOTIONS_TITLE, 2)
 
     motion_table_rows.map do |motion_row|
       motion_builder(motion_row)
@@ -188,8 +184,7 @@ class Disposition
   # this markup is ignore and converted to text only.
 
   def notice_of_motions_collection
-    motion_table      = select_table(NOTICE_OF_MOTION_TITLE)
-    motion_table_rows = motion_table.rows[2..-1] # First 2 rows are headers
+    motion_table_rows = select_table(NOTICE_OF_MOTION_TITLE, 2)
 
     motion_table_rows.map do |motion_row|
       notice_of_motion_builder(motion_row)
@@ -253,10 +248,7 @@ class Disposition
   # tables are manually fixed in Word.
 
   def recorded_votes_collection
-    recorded_votes_table = select_table(RECORDED_VOTES_TITLE)
-
-    # First 2 rows are headers, so [2..-1]
-    recorded_votes_table_rows = recorded_votes_table.rows[2..-1]
+    recorded_votes_table_rows = select_table(RECORDED_VOTES_TITLE, 2)
 
     recorded_votes_table_rows.map do |recorded_votes_row|
       recorded_votes_builder(recorded_votes_row)
@@ -279,10 +271,7 @@ class Disposition
   DECLARATIONS_TITLE = /CONFLICT OF INTEREST DECLARATIONS/
 
   def conflict_of_interest_declarations_collection
-    declaration_table = select_table(DECLARATIONS_TITLE)
-
-    # First 2 rows are headers, so [2..-1]
-    declaration_table_rows = declaration_table.rows[2..-1]
+    declaration_table_rows = select_table(DECLARATIONS_TITLE, 2)
 
     declaration_table_rows.map do |declaration_row|
       declaration_builder(declaration_row)
@@ -320,10 +309,12 @@ class Disposition
   # Find the first table in the document where the top/left
   # cell text matches a given regexp.
   # Returns a single table.
-  def select_table(heading_regexp)
-    tables.find do |t|
+  def select_table(heading_regexp, number_of_header_rows)
+    table = tables.find do |t|
       heading_regexp.match(t.rows[0].cells[0].text)
     end
+
+    table.rows[number_of_header_rows..-1]
   end
 
   # Take a docx array of cells and convert into

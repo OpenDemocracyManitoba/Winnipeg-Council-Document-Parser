@@ -31,7 +31,8 @@ class DispositionFixture
       with_attendance_reports_motions_bylaws: path('2015-09-30'),
       with_conflict_of_interest:              path('2016-07-13'),
       with_recorded_votes:                    path('2016-04-27'),
-      with_notice_of_motions:                 path('2016-04-27')
+      with_notice_of_motions:                 path('2016-04-27'),
+      without_conflict_of_interest:           path('2016-04-27')
     }[name]
   end
 end
@@ -63,6 +64,17 @@ describe Disposition do
       conflict_declarations = disposition.conflict_of_interest_declarations
       declaration_members = conflict_declarations.first[:members]
       expect(declaration_members.first).to eq('Councillor Mayes')
+    end
+  end
+
+  context 'when the disposition does not include conflict of interest declarations' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:without_conflict_of_interest))
+    end
+
+    it 'should find the correct conflict of interest declaration count' do
+      conflict_declarations = disposition.conflict_of_interest_declarations
+      expect(conflict_declarations.size).to eq(1)
     end
   end
 
