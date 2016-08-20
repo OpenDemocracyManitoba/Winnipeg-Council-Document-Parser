@@ -12,8 +12,14 @@ Ruby methods exist to extract:
 * Reports to Council (done)
 * Bylaws (done)
 * Motions (done)
-* Recorded Votes (in progress)
-* Conflict of Interest Declarations (to do)
+* Recorded Votes (done)
+* Conflict of Interest Declarations (done)
+
+### To Do
+
+* Docx Disposition to JSON Script
+* Docx Disposition Download Script
+* JSON to HTML5 Disposition Viewer 
 
 ### Setup Instructions
 
