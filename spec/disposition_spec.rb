@@ -32,7 +32,8 @@ class DispositionFixture
       with_conflict_of_interest:              path('2016-07-13'),
       with_recorded_votes:                    path('2016-04-27'),
       with_notice_of_motions:                 path('2016-04-27'),
-      without_conflict_of_interest:           path('2016-04-27')
+      without_conflict_of_interest:           path('2016-04-27'),
+      without_recorded_votes:                 path('2016-07-13')
     }[name]
   end
 end
@@ -134,6 +135,17 @@ describe Disposition do
       first_vote = disposition.recorded_votes.first
       first_nay = first_vote[:nays].last
       expect(first_nay).to eq('Councillor Sharma')
+    end
+  end
+
+  context 'when the disposition does not include recorded votes' do
+    subject(:disposition) do
+      Disposition.new(DispositionFixture.fixtures(:without_recorded_votes))
+    end
+
+    it 'should find the correct recorded votes count' do
+      recorded_votes = disposition.recorded_votes
+      expect(recorded_votes.size).to eq(0)
     end
   end
 
