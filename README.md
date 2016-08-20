@@ -19,6 +19,9 @@ Ruby methods exist to extract:
 
 * Docx Disposition to JSON Script
 * Docx Disposition Download Script
+* Change recorded vote members in all docx dispositions from tables to paragraphs.
+* Change conflict of interest declaration members in all docx dispositoins from tables to paragraphs.
+* Fix April 27, 2016 docx disposition. Motion table is connected to the bylaws table. Then remove TODO from spec code.
 * JSON to HTML5 Disposition Viewer 
 
 ### Setup Instructions
