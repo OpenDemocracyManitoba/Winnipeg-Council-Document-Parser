@@ -2,9 +2,11 @@
 require 'docx'
 
 # Problem:
+#
 # Scrape City of Winnipeg Council meeting dispositions from a Word document.
 #
 # Knows:
+#
 # - The Winnipeg Clerks Dept records council dispositions in Word documents.
 # - The Clerks Dept structures disposition documents using tables.
 # - Word documents (*.docx) are actually compressed zip files full of XML.
@@ -19,14 +21,6 @@ require 'docx'
 #   + Reports
 #   + Recorded Votes
 #   + Conflict of Interest Declarations
-#
-# TODO:
-# - Conflict of interest declaration scraping. Often not present.
-# - 2016-04-27 fixture: Fix table connection between motions and passed bylaws.
-# - Null Objects or Empty Arrays needed for public API for optional sections?
-# - Download all available Word Dispositions.
-# - Update all recorded votes lists to text paragraphs.
-# - Convert all dispositions to JSON.
 
 class Disposition
   # Table Headers Used for Dispositoin Extraction

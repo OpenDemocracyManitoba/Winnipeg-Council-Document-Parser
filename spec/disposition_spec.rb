@@ -120,18 +120,6 @@ describe Disposition do
       expect(disposition.notice_of_motions.size).to eq(1)
     end
 
-    # TODO: This triggers an error when parsing motions.
-    # This disposition fixture word doc is broken in a way that
-    # makes the motions scraper include extra non-motion rows.
-    # In the fixture doc the motions table is connected to the
-    # bylaws passed table. My guess is that bylaws passed parsing
-    # is therefore also broken. I'll fix doc by hand rather than
-    # add a special case in the code.
-    #
-    # it 'should find the correct number of motions' do
-    #   expect(disposition.motions.size).to eq(6)
-    # end
-
     it 'should identify the first motion' do
       first_motion = { movers:      %w(Schreyer Wyatt),
                        subject:     'THEREFORE BE IT RESOLVED THAT the City of Winnipeg request the Province of Manitoba to refer to the Public Utilities Board (PUB) and call public hearings on the following: A)The proposed Water and Sewer Rate Increases of 2016, 2017, and 2018; B)The approved  ‘dividend’ from the Water and Waste Department to the Operating/Capital Budget of the City of Winnipeg; C)The Capital Budget Program of Water and Waste, both 2016 Capital Budget and the 5 Year Forecast 2017 to 2021; D)The environmental regulatory obligations on the City of Winnipeg in regard to its Water and Waste systems; E)The Business Plans and all Capital project strategies/plans of the Water and Waste Department; F)Options for Provincial and Federal Funding of the regulatory capital program requirements.',
