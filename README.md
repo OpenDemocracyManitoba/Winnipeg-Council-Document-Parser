@@ -26,10 +26,10 @@ Ruby methods exist to extract:
 
 ### Changes Made to Official Disposition Docx Files
 
-* *April 27, 2016* Motion table was connected to the bylaws table. Split the tables.
-* *April 27, 2016* Recorded vote Yeas/Nays lists changed from tables to line-separated text.
-* *September 30, 2015* Recorded vote Yeas/Nays lists changed from tables to line-separated text
-* *July 13, 2016* Conflict of interest declaration member lists changes from table to line line-separated text.
+* *April 27, 2016* - Motion table was connected to the bylaws table. Split the tables.
+* *April 27, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text.
+* *September 30, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
+* *July 13, 2016* - Conflict of interest declaration member lists changes from table to line line-separated text.
 
 ### Setup Instructions
 
