@@ -8,12 +8,12 @@ Word saves files in docx format, which is actually a zip file full of XML. The [
 
 Ruby methods exist to extract:
 
-* Council Meeting Attendance (done)
-* Reports to Council (done)
-* Bylaws (done)
-* Motions (done)
-* Recorded Votes (done)
-* Conflict of Interest Declarations (done)
+* Council Meeting Attendance
+* Reports to Council
+* Bylaws
+* Motions
+* Recorded Votes
+* Conflict of Interest Declarations
 
 ### To Do
 
