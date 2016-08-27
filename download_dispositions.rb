@@ -1,8 +1,9 @@
+# frozen_string_literal: true
 require 'open-uri'
 require_relative 'disposition_feed'
 
-FEED_URL = 'https://data.winnipeg.ca/api/views/hsbq-sj6t/rows.json?accessType=DOWNLOAD'
-TEMP_FEED_FILE = 'temporary_feed.json'
+FEED_URL = 'https://data.winnipeg.ca/api/views/hsbq-sj6t/rows.json?accessType=DOWNLOAD'.freeze
+TEMP_FEED_FILE = 'temporary_feed.json'.freeze
 
 def download_file(url, save_file)
   File.open(save_file, 'w') do |saved_feed|
@@ -24,7 +25,4 @@ regular_dispositions.each do |disposition|
   download_file(disposition[:url], save_file)
 end
 
-if File.exists?(TEMP_FEED_FILE)
-  File.delete(TEMP_FEED_FILE)
-end
-
+File.delete(TEMP_FEED_FILE) if File.exist?(TEMP_FEED_FILE)
