@@ -4,11 +4,9 @@ require_relative 'disposition_feed'
 FEED_URL = 'https://data.winnipeg.ca/api/views/hsbq-sj6t/rows.json?accessType=DOWNLOAD'
 TEMP_FEED_FILE = 'temporary_feed.json'
 
-def download_file(url, save_file, binary = false)
-  read_mode = binary ? 'rb' : 'r'
-  write_mode = binary ? 'wb' : 'w'
-  File.open(save_file, write_mode) do |saved_feed|
-    open(url, read_mode) do |feed|
+def download_file(url, save_file)
+  File.open(save_file, 'w') do |saved_feed|
+    open(url, 'r') do |feed|
       saved_feed.write(feed.read)
     end
   end
