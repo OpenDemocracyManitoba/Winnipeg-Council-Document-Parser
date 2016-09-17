@@ -32,6 +32,10 @@ Ruby methods exist to extract:
 * *April 27, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text.
 * *July 13, 2016* - Conflict of interest declaration member lists changes from table to line line-separated text.
 
+### Report to City Clerks' Department
+
+* Changes to disposition template: Recorded vote and conflict of interest lists changes from tables to line-separated text.
+* Some dispositions listed through the data.winnipeg.ca Word Dispositions Dataset unavailable. Unavailable dispositions are listed with the incorrect MIME type. When loaded a login prompt is shown. Only one regular council meeting dispostion (27-01-2016) is missing.
 
 ### Setup Instructions
 
