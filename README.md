@@ -19,8 +19,8 @@ Ruby methods exist to extract:
 
 * ~~Docx Disposition Download Script~~
 * ~~Download all available docx dispositions.~~
-* Change recorded vote members in all docx dispositions from tables to paragraphs.
-* Change conflict of interest declaration members in all docx dispositoins from tables to paragraphs.
+* ~~Change recorded vote members in all docx dispositions from tables to paragraphs.~~
+* ~~Change conflict of interest declaration members in all docx dispositoins from tables to paragraphs.~~
 * Docx Disposition to JSON Script
 * JSON to HTML5 Disposition Viewer 
 
