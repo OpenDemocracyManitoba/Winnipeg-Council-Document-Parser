@@ -17,4 +17,4 @@ docx_input_filepath = ARGV[0]
 json_output_filepath = ARGV[1]
 
 disposition = Disposition.new(docx_input_filepath)
-puts JSON.generate(disposition.to_h)
+puts JSON.pretty_generate(disposition.to_h)

@@ -1,0 +1,242 @@
+{
+  "bylaws_passed": [
+    {
+      "number": "96/2015",
+      "subject": "To authorize the borrowing of money in the amount of $2,000,000.00",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "112/2015",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 265 Provencher in the Riel Community – DAZ 214/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "113/2015",
+      "subject": "To amend various by-laws to reflect changes to the organizational structure of Standing Policy Committees of Council",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "114/2015",
+      "subject": "To provide for discounts where real or personal property taxes or business taxes are prepaid in 2016",
+      "disposition": "PASSED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "motions": [
+    {
+      "number": "Leave of Absence",
+      "movers": [
+        "Browaty",
+        "Schreyer"
+      ],
+      "subject": "That Councillor Wyatt be granted a leave of absence from today’s meeting due to a personal family matter.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "1",
+      "movers": [
+        "Gerbasi",
+        "Pagtakhan"
+      ],
+      "subject": "That Item 4 of the Report of Executive Policy Committee dated November 18, 2015 be amended to delete Recommendation No. 1 and replace it with the following: “1. That consideration be given to changing jurisdiction over funding of the Public Art Strategy to the Standing Policy Committee on Protection and Community Services and Parks during the annual budget review.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Eadie",
+        "Schreyer"
+      ],
+      "subject": "That the Winnipeg Public Service work with the City of Winnipeg’s CUPE 500 representatives to provide a report on implementing cost saving measures identified in the CUPE 500 report describing a potential savings of $3,000,000.00.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Allard",
+        "Mayes"
+      ],
+      "subject": "That the administration report in 90 days on the implementation of free wifi services to the public in city of Winnipeg facilities",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Eadie",
+        "Dobson"
+      ],
+      "subject": "That the Winnipeg Public Service provide a report to the SPC On Water and Waste, Riverbank Management and Environment about how a potential breach and contamination of the aqueduct can be dealt with to ensure the City of Winnipeg suffers limited damages; That this report describe the potential damages to the City of Winnipeg given a disastrous event where the six pipe line right of way intersects with the aqueduct.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Mayes"
+      ],
+      "subject": "That the 2016 Council Meetings outlined on Appendices \"A\" and “B” be changed as follows: May 18 to May 25 June 15 to June 22 July 13 to July 20",
+      "disposition": "LOST"
+    }
+  ],
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 18, 2015",
+      "items": [
+        {
+          "number": "1",
+          "title": "CentreVenture Development Corporation – Long Term Funding Solution",
+          "disposition": "EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Downtown Taxi Strategy – Taxi Stand and Loading Zone Pilot Projects",
+          "disposition": "60 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "3",
+          "title": "Cross Jurisdictional Review of Open Government Policies",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Winnipeg Arts Council Inc. / Public Art Program",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "5",
+          "title": "Rezoning – 630 Jessie Avenue – DAZ 219/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Discounts to be allowed for the Prepayment of 2016 Realty, Personal Property and Business Taxes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Award of Contract for the Purchase of P25 Public Safety Radio System and Services – Request for Proposal 635-2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Funding Plan for Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON DOWNTOWN DEVELOPMENT, HERITAGE AND RIVERBANK MANAGEMENT dated October 5, 2015",
+      "items": [
+        {
+          "number": "1",
+          "title": "Canadian Veterans Recognition",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE RECOMMENDATION AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON DOWNTOWN DEVELOPMENT, HERITAGE AND RIVERBANK MANAGEMENT dated November 2, 2015",
+      "items": [
+        {
+          "number": "1",
+          "title": "Application for St. Giles Presbyterian (United) Church, 294 Burrows Avenue, to be removed from the List of Historical Resources",
+          "disposition": "APPLICATION DENIED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 10, 2015",
+      "items": [
+        {
+          "number": "1",
+          "title": "South Winnipeg Recreation Initiative",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE RECOMMENDATION AND ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Cannabis Regulatory Provisions",
+          "disposition": "REFERRED TO THE WINNIPEG PUBLIC SERVICE"
+        },
+        {
+          "number": "3",
+          "title": "Lease Agreement to Allow for the Use of a Portion of City-Owned Property at 517 Pandora Avenue for the purpose of a Sports Shop",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Local Area Planning Initiatives for 2015-2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Rezoning – 1355 Lee Boulevard – DAZ 211/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Encroachment Agreement to Allow for the Use of City-Owned Right-of-Way Adjacent to 440 Don Avenue for the Purpose of Developing and Maintaining a Parking Area",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated November 12, 2015",
+      "items": [
+        {
+          "number": "1",
+          "title": "Financial Status Report and Forecast to September 30, 2015",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated November 5, 2015",
+      "items": [
+        {
+          "number": "1",
+          "title": "2016 Council and Committee Schedule of Meetings",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE RECOMMENDATION AND ADOPTED"
+        }
+      ]
+    }
+  ],
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Ms J. Marques, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Operating Officer"
+    ]
+  },
+  "recorded_votes": [
+    {
+      "subject": "Motion 5",
+      "disposition": "LOST",
+      "yeas": [
+
+      ],
+      "nays": [
+
+      ]
+    }
+  ]
+}
