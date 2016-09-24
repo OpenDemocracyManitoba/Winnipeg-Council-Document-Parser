@@ -1,222 +1,30 @@
 {
-  "bylaws_passed": [
-    {
-      "number": "43/2015",
-      "subject": "To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976 – SPA 1/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "82/2015",
-      "subject": "To amend the 2015 Civic and Police Employees’ Group Life Insurance Plans By-law No. 80/2015 and restate that By-law as amended",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "83/2015",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 655 Notre Dame and 790 Sherbrook Street in the Lord Selkirk-West Kildonan Community – DASZ 3/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "84/2015",
-      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 851 Tache Avenue in the Riel Community. – DAZ 208/2013",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "85/2015",
-      "subject": "To open the Northeast Corner of Portage Avenue and Furby Street, the Southeast Corner of Furby Street and Furby Place and the Southwest Corner of Furby Place and Langside Street – DAO 7/2014",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "86 2015",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 603 and 611 Redwood Avenue in the Lord Selkirk-West Kildonan Community – DASZ 17/2014",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "87/2015",
-      "subject": "To amend the Schedule – School Zones with Reduced Speed Limits to the Reduced-Speed School Zones By-law No. 76/2014",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "88/2015",
-      "subject": "To open Chief Peguis Trail, Molson Street and Lagimodiere Boulevard -  DAO 2/2013",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "89/2015",
-      "subject": "To open Chief Peguis Trail, Douglas Avenue and Henderson Highway – DAO 2/2013",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "90/2015",
-      "subject": "To open Raleigh Street, Gateway Road, Gilmore Avenue and Chief Peguis Trail – DAO 2/2013",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "92/2015",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 780 Ravelston Avenue West in the East Kildonan-Transcona Community – DASZ 36/2014",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "93/2015",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 159-175 Mayfair Avenue in the City Centre Community – DASZ 11/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "94/2015",
-      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at Lark Ridge Way in the Riel  Community – DAZ 203/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "95/2015",
-      "subject": "To amend the Local Improvement Regulation By-law",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "97/2015",
-      "subject": "To amend the Freedom of Information and Protection of Privacy Act By-law",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "98/2015",
-      "subject": "To amend the Schedule – School Zones with Reduced Speed Limits to the Reduced-Speed School Zones By-law No. 76/2014",
-      "disposition": "PASSED"
-    }
-  ],
-  "bylaws_first_reading": [
-    {
-      "number": "81/2015",
-      "subject": "To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976. - SPA 4/2015",
-      "disposition": "RECEIVED FIRST READING ONLY"
-    },
-    {
-      "number": "91/2015",
-      "subject": "To amend the Osborne Village Neighbourhood Plan By-law No. 220/2006 - SPA 5/2015",
-      "disposition": "RECEIVED FIRST READING ONLY"
-    },
-    {
-      "number": "96/2015",
-      "subject": "To authorize the borrowing of money in the amount of $2,000,000.00.",
-      "disposition": "RECEIVED FIRST READING ONLY"
-    }
-  ],
-  "motions": [
-    {
-      "number": "1",
-      "movers": [
-        "Lukes",
-        "Orlikow"
-      ],
-      "subject": "That Council amend its decision of May 27, 2015, with respect to Item 5 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated May 5, 2015, by deleting Recommendation 8 of and replacing it with the following: 8.That the Public Works Department be directed to fund The Chancellor Matheson Pathway from Investors Group Field to Pembina Highway Project, in an amount to be determined by the Director of Public Works, to a maximum of $350,000.00 from the identified Active Transportation accounts, and that any required funding in excess of $350,000.00 be allocated by the Director of Public Works by identifying budget surpluses from approved projects in the 2015 Capital Local Street Renewals, Alley Renewals, Thin Bituminous Overlays and Granular Roadway Improvements Program, and that any residual Active Transportation Funding be put into the 2016 Active Transportation budget.",
-      "disposition": "CARRIED"
-    },
-    {
-      "number": "2",
-      "movers": [
-        "Gilroy",
-        "Pagtakhan"
-      ],
-      "subject": "That the Winnipeg Public Service be directed to review and report back to the November 10, 2015 meeting of the Standing Policy Committee on Property and Development regarding the potential lease of the City-owned parcel of land located at the northwest corner of Young Street and Cumberland Avenue (Roll Number 13051180200), to the Portuguese Association of Manitoba, at an annual cost of $1.00, for the future development of a commemorative park.",
-      "disposition": "CARRIED"
-    },
-    {
-      "number": "3",
-      "movers": [
-        "Eadie",
-        "Allard"
-      ],
-      "subject": "That the Winnipeg public service look to other Canadian cities for cannabis regulatory provisions in order to establish limits on cannabis related facilities in Winnipeg.",
-      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT"
-    },
-    {
-      "number": "4",
-      "movers": [
-        "Wyatt",
-        "Sharma"
-      ],
-      "subject": "That this matter be referred to the Governance Committee of Council for review and report back to Council within 90 days, with a view to developing an implementation plan to transfer hearings for land matters such as variances and conditional uses back to the five respective Community Committees.",
-      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
-    },
-    {
-      "number": "5",
-      "movers": [
-        "Orlikow",
-        "Lukes"
-      ],
-      "subject": "That Council amend its decision of July 15, 2015, with respect to Item  2 of the report of the Standing Policy Committee on Property and Development dated June 26, 2015, by replacing recommendations 8 and 9 with the following: 8.That the subdivision section of the by-law shall come into force and effect upon registration of the Plan of Subdivision in the Winnipeg Land Titles Office. 9.That the zoning section of the by-law shall come into force and effect when the Plan of Subdivision is registered in the Winnipeg Land Titles Office and the Zoning Agreement is registered in the Winnipeg Land Titles Office by caveat against the subject lands, provided that the said effective date occurs within one year from the date the by-law is passed. failing which the by-law will expire and the matter shall be deemed to be concluded and shall not be proceeded with unless an extension of time is applied for prior to the expiry of the one year period and Council approves the extension.",
-      "disposition": "CARRIED"
-    },
-    {
-      "number": "6",
-      "movers": [
-        "Allard",
-        "Mayes"
-      ],
-      "subject": "That the City of Winnipeg join the Francophone and Francophile Cities Network in order to capitalize on the opportunities afforded a city with such a rich francophone heritage and culture.",
-      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
-    },
-    {
-      "number": "7",
-      "movers": [
-        "Eadie",
-        "Wyatt"
-      ],
-      "subject": "That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Burrows Avenue from the Red River to Main Street. That the proposed green way on Pritchard Avenue from the Red River to Charles Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the Pedestrian and Cycling Strategies Final Report maps add a proposed green way from the Red River to Charles Street.",
-      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
-    },
-    {
-      "number": "8",
-      "movers": [
-        "Eadie",
-        "Wyatt"
-      ],
-      "subject": "That the proposed green way on Jefferson Avenue from Main Street to Sinclair Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the proposed green way on Seven Oaks Avenue from Scotia Street to Main Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the Pedestrian and Cycling Strategies Final Report maps be amended to include a proposed green way on Hartford Avenue from Scotia Street to Sinclair Street.",
-      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
-    },
-    {
-      "number": "9",
-      "movers": [
-        "Eadie",
-        "Wyatt"
-      ],
-      "subject": "That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Sutherland Avenue from Higgins Avenue to Yard Street; That Euclid Avenue from Sutherland Avenue to Main Street be defined on the Pedestrian and Cycling Strategies Final Report maps as a proposed green way; That the Pedestrian and Cycling Strategies Final Report maps be updated to reflect proposed painted bicycle lanes on Sutherland Avenue from Annabella Street to Euclid Avenue.",
-      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
-    },
-    {
-      "number": "10",
-      "movers": [
-        "Eadie",
-        "Wyatt"
-      ],
-      "subject": "That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Salter Street from Leila Avenue to Templeton Avenue; That Weinberg and the extension of Sly Drive from Weinberg to Templeton be added as a proposed green way.",
-      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
-    },
-    {
-      "number": "11",
-      "movers": [
-        "Gillingham",
-        "Morantz"
-      ],
-      "subject": "That Recommendation 4 of item 2. of the report of the Executive Policy Committee dated September 16, 2015, entitled “Winnipeg Convention Centre Corporation – Loan Guarantee Update” be amended by adding the words “including a repayment schedule for all monies advanced pursuant to Recommendation 1” after the words “this report”.",
-      "disposition": "CARRIED"
-    },
-    {
-      "number": "12",
-      "movers": [
-        "Wyatt",
-        "Dobson"
-      ],
-      "subject": "That for the purpose of hiring the Director of Public Works that a Committee of Council be formed made up of one Councillor appointed by each respective Community Committee and by an appointment by the Mayor’s Office, for a total hiring committee of 6 members of Council, and that the said hiring committee then recommend to Council, for Council approval, the new Director of Public Works, with input during the process from the Chief Administrative Officer of the City of Winnipeg.",
-      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
-    },
-    {
-      "number": "13",
-      "movers": [
-        "Wyatt",
-        "Browaty"
-      ],
-      "subject": "That Councillor Schreyer be granted a leave of absence from today’s meeting due to a personal family matter.",
-      "disposition": "CARRIED"
-    }
-  ],
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Mr. A. Poitras,  Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Operating Officer"
+    ]
+  },
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated September 16, 2015",
@@ -494,32 +302,227 @@
       ]
     }
   ],
-  "attendance": {
-    "council": [
-      "His Worship Mayor Bowman",
-      "The Speaker, Councillor Sharma",
-      "Deputy Speaker Councillor Gerbasi",
-      "Councillor Allard",
-      "Councillor Browaty",
-      "Councillor Dobson",
-      "Councillor Eadie",
-      "Councillor Gillingham",
-      "Councillor Gilroy",
-      "Councillor Lukes",
-      "Councillor Mayes",
-      "Councillor Morantz",
-      "Councillor Orlikow",
-      "Councillor Pagtakhan",
-      "Councillor Wyatt"
-    ],
-    "public_service": [
-      "Mr. R. Kachur, City Clerk",
-      "Mr. M. Lemoine, Deputy City Clerk",
-      "Mr. A. Poitras,  Senior Committee Clerk",
-      "Mr. D. McNeil, Chief Administrative Officer",
-      "Mr. M. Jack, Chief Operating Officer"
-    ]
-  },
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Lukes",
+        "Orlikow"
+      ],
+      "subject": "That Council amend its decision of May 27, 2015, with respect to Item 5 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated May 5, 2015, by deleting Recommendation 8 of and replacing it with the following: 8.That the Public Works Department be directed to fund The Chancellor Matheson Pathway from Investors Group Field to Pembina Highway Project, in an amount to be determined by the Director of Public Works, to a maximum of $350,000.00 from the identified Active Transportation accounts, and that any required funding in excess of $350,000.00 be allocated by the Director of Public Works by identifying budget surpluses from approved projects in the 2015 Capital Local Street Renewals, Alley Renewals, Thin Bituminous Overlays and Granular Roadway Improvements Program, and that any residual Active Transportation Funding be put into the 2016 Active Transportation budget.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Gilroy",
+        "Pagtakhan"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to review and report back to the November 10, 2015 meeting of the Standing Policy Committee on Property and Development regarding the potential lease of the City-owned parcel of land located at the northwest corner of Young Street and Cumberland Avenue (Roll Number 13051180200), to the Portuguese Association of Manitoba, at an annual cost of $1.00, for the future development of a commemorative park.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Eadie",
+        "Allard"
+      ],
+      "subject": "That the Winnipeg public service look to other Canadian cities for cannabis regulatory provisions in order to establish limits on cannabis related facilities in Winnipeg.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Wyatt",
+        "Sharma"
+      ],
+      "subject": "That this matter be referred to the Governance Committee of Council for review and report back to Council within 90 days, with a view to developing an implementation plan to transfer hearings for land matters such as variances and conditional uses back to the five respective Community Committees.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Orlikow",
+        "Lukes"
+      ],
+      "subject": "That Council amend its decision of July 15, 2015, with respect to Item  2 of the report of the Standing Policy Committee on Property and Development dated June 26, 2015, by replacing recommendations 8 and 9 with the following: 8.That the subdivision section of the by-law shall come into force and effect upon registration of the Plan of Subdivision in the Winnipeg Land Titles Office. 9.That the zoning section of the by-law shall come into force and effect when the Plan of Subdivision is registered in the Winnipeg Land Titles Office and the Zoning Agreement is registered in the Winnipeg Land Titles Office by caveat against the subject lands, provided that the said effective date occurs within one year from the date the by-law is passed. failing which the by-law will expire and the matter shall be deemed to be concluded and shall not be proceeded with unless an extension of time is applied for prior to the expiry of the one year period and Council approves the extension.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Allard",
+        "Mayes"
+      ],
+      "subject": "That the City of Winnipeg join the Francophone and Francophile Cities Network in order to capitalize on the opportunities afforded a city with such a rich francophone heritage and culture.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Eadie",
+        "Wyatt"
+      ],
+      "subject": "That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Burrows Avenue from the Red River to Main Street. That the proposed green way on Pritchard Avenue from the Red River to Charles Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the Pedestrian and Cycling Strategies Final Report maps add a proposed green way from the Red River to Charles Street.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "8",
+      "movers": [
+        "Eadie",
+        "Wyatt"
+      ],
+      "subject": "That the proposed green way on Jefferson Avenue from Main Street to Sinclair Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the proposed green way on Seven Oaks Avenue from Scotia Street to Main Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the Pedestrian and Cycling Strategies Final Report maps be amended to include a proposed green way on Hartford Avenue from Scotia Street to Sinclair Street.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "9",
+      "movers": [
+        "Eadie",
+        "Wyatt"
+      ],
+      "subject": "That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Sutherland Avenue from Higgins Avenue to Yard Street; That Euclid Avenue from Sutherland Avenue to Main Street be defined on the Pedestrian and Cycling Strategies Final Report maps as a proposed green way; That the Pedestrian and Cycling Strategies Final Report maps be updated to reflect proposed painted bicycle lanes on Sutherland Avenue from Annabella Street to Euclid Avenue.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "10",
+      "movers": [
+        "Eadie",
+        "Wyatt"
+      ],
+      "subject": "That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Salter Street from Leila Avenue to Templeton Avenue; That Weinberg and the extension of Sly Drive from Weinberg to Templeton be added as a proposed green way.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "11",
+      "movers": [
+        "Gillingham",
+        "Morantz"
+      ],
+      "subject": "That Recommendation 4 of item 2. of the report of the Executive Policy Committee dated September 16, 2015, entitled “Winnipeg Convention Centre Corporation – Loan Guarantee Update” be amended by adding the words “including a repayment schedule for all monies advanced pursuant to Recommendation 1” after the words “this report”.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "12",
+      "movers": [
+        "Wyatt",
+        "Dobson"
+      ],
+      "subject": "That for the purpose of hiring the Director of Public Works that a Committee of Council be formed made up of one Councillor appointed by each respective Community Committee and by an appointment by the Mayor’s Office, for a total hiring committee of 6 members of Council, and that the said hiring committee then recommend to Council, for Council approval, the new Director of Public Works, with input during the process from the Chief Administrative Officer of the City of Winnipeg.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "13",
+      "movers": [
+        "Wyatt",
+        "Browaty"
+      ],
+      "subject": "That Councillor Schreyer be granted a leave of absence from today’s meeting due to a personal family matter.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "81/2015",
+      "subject": "To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976. - SPA 4/2015",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    },
+    {
+      "number": "91/2015",
+      "subject": "To amend the Osborne Village Neighbourhood Plan By-law No. 220/2006 - SPA 5/2015",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    },
+    {
+      "number": "96/2015",
+      "subject": "To authorize the borrowing of money in the amount of $2,000,000.00.",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "43/2015",
+      "subject": "To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976 – SPA 1/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "82/2015",
+      "subject": "To amend the 2015 Civic and Police Employees’ Group Life Insurance Plans By-law No. 80/2015 and restate that By-law as amended",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "83/2015",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 655 Notre Dame and 790 Sherbrook Street in the Lord Selkirk-West Kildonan Community – DASZ 3/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "84/2015",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 851 Tache Avenue in the Riel Community. – DAZ 208/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "85/2015",
+      "subject": "To open the Northeast Corner of Portage Avenue and Furby Street, the Southeast Corner of Furby Street and Furby Place and the Southwest Corner of Furby Place and Langside Street – DAO 7/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "86 2015",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 603 and 611 Redwood Avenue in the Lord Selkirk-West Kildonan Community – DASZ 17/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "87/2015",
+      "subject": "To amend the Schedule – School Zones with Reduced Speed Limits to the Reduced-Speed School Zones By-law No. 76/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "88/2015",
+      "subject": "To open Chief Peguis Trail, Molson Street and Lagimodiere Boulevard -  DAO 2/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "89/2015",
+      "subject": "To open Chief Peguis Trail, Douglas Avenue and Henderson Highway – DAO 2/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "90/2015",
+      "subject": "To open Raleigh Street, Gateway Road, Gilmore Avenue and Chief Peguis Trail – DAO 2/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "92/2015",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 780 Ravelston Avenue West in the East Kildonan-Transcona Community – DASZ 36/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "93/2015",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 159-175 Mayfair Avenue in the City Centre Community – DASZ 11/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "94/2015",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at Lark Ridge Way in the Riel  Community – DAZ 203/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "95/2015",
+      "subject": "To amend the Local Improvement Regulation By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "97/2015",
+      "subject": "To amend the Freedom of Information and Protection of Privacy Act By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "98/2015",
+      "subject": "To amend the Schedule – School Zones with Reduced Speed Limits to the Reduced-Speed School Zones By-law No. 76/2014",
+      "disposition": "PASSED"
+    }
+  ],
   "recorded_votes": [
     {
       "subject": "Item 5 of the Report of the Standing Policy Committee on Property and Development dated September 17, 2015 Library Redevelopment Strategy - Old Kildonan Ward",
@@ -544,5 +547,8 @@
         "Councillor Eadie"
       ]
     }
+  ],
+  "conflict_of_interest_declarations": [
+
   ]
 }

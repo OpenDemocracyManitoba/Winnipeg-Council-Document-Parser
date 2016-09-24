@@ -1,103 +1,30 @@
 {
-  "bylaws_passed": [
-    {
-      "number": "20/2016",
-      "subject": "To authorize the borrowing of money in the amount of up to $112,000,000.00",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "58/2016",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 113 St. Anne’s Road in the Riel Community. DASZ 36/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "59/2016",
-      "subject": "To allow enforcement of City by-laws under The Municipal By-law Enforcement Act",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "63/2016",
-      "subject": "To approve a plan of subdivision for land located at 166, 176, 178, 180 and 184 Roslyn Road in the City Centre Community.",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "64/2016",
-      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 971 Main Street in the Lord Selkirk-West Kildonan Community. DAZ 223/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "65/2016",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located on the West side of Litchfield Boulevard, south of Dearsley Place (formerly 845 Shaftsbury Boulevard) in the Assiniboia Community. DASZ 25/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "66/2016",
-      "subject": "To impose planning, development and building fees",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "67/2016",
-      "subject": "To open Leila Avenue, west of Strasbourg Drive – DAO 1/2013",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "68/2016",
-      "subject": "To close part of the public lane, Plan No. 11857 at the rear of 176 Roslyn Road. DAC 3/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "69/2016",
-      "subject": "To close part of Mission Street between Panet Road and Lagimodiere Boulevard and open the east side of Panet Road at Mission Street. DAOC 3/2014",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "70/2016",
-      "subject": "To open the west side of Peguis Street, south of CPR Plan 1042. DAO 9/2015",
-      "disposition": "NOT PROCEEDED WITH"
-    },
-    {
-      "number": "71/2016",
-      "subject": "To close part of Springfield Road between Dunits Drive and Chief Peguis Trail",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "72/2016",
-      "subject": "To amend the Neighbourhood Liveability and the Vacant Buildings By-laws.",
-      "disposition": "PASSED"
-    }
-  ],
-  "bylaws_first_reading": [
-
-  ],
-  "motions": [
-    {
-      "number": "1",
-      "movers": [
-        "Wyatt",
-        "Eadie"
-      ],
-      "subject": "THAT the City of Winnipeg direct the public service to immediately develop a solution to ensure grass is cut based on the growing cycle of lawns in our parks and on our boulevards by ensuring the frequency of mowing is increased when the grass actually grows rapidly, namely in the months of May, June, and early July, and to report to Council within 60 days of the steps taken to ensure this is done.",
-      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
-    },
-    {
-      "number": "2",
-      "movers": [
-        "Wyatt",
-        "Schreyer"
-      ],
-      "subject": "THAT Recommendation No. 1 of Item 9 of the Report of Executive Policy Committee dated May 11, 2016 be amended by adding the following name to serve as a member of the Board of Revision:  Don Mitchelson",
-      "disposition": "REFERRED TO THE EXECUTIVE POLICY COMMITTEE"
-    },
-    {
-      "number": "Leave of Absence",
-      "movers": [
-        "Schreyer",
-        "Wyatt"
-      ],
-      "subject": "THAT Councillor Browaty be granted a leave of absence from today’s meeting due to his absence from the City on City Business.",
-      "disposition": "Carried"
-    }
-  ],
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Mr. S. Armbruster, Manager of Special Projects",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Operating Officer"
+    ]
+  },
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated May 4, 2016",
@@ -270,32 +197,108 @@
       ]
     }
   ],
-  "attendance": {
-    "council": [
-      "His Worship Mayor Bowman",
-      "The Speaker, Councillor Sharma",
-      "Deputy Speaker Councillor Gerbasi",
-      "Councillor Allard",
-      "Councillor Dobson",
-      "Councillor Eadie",
-      "Councillor Gillingham",
-      "Councillor Gilroy",
-      "Councillor Lukes",
-      "Councillor Mayes",
-      "Councillor Morantz",
-      "Councillor Orlikow",
-      "Councillor Pagtakhan",
-      "Councillor Schreyer",
-      "Councillor Wyatt"
-    ],
-    "public_service": [
-      "Mr. R. Kachur, City Clerk",
-      "Mr. M. Lemoine, Deputy City Clerk",
-      "Mr. S. Armbruster, Manager of Special Projects",
-      "Mr. D. McNeil, Chief Administrative Officer",
-      "Mr. M. Jack, Chief Operating Officer"
-    ]
-  },
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "THAT the City of Winnipeg direct the public service to immediately develop a solution to ensure grass is cut based on the growing cycle of lawns in our parks and on our boulevards by ensuring the frequency of mowing is increased when the grass actually grows rapidly, namely in the months of May, June, and early July, and to report to Council within 60 days of the steps taken to ensure this is done.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Wyatt",
+        "Schreyer"
+      ],
+      "subject": "THAT Recommendation No. 1 of Item 9 of the Report of Executive Policy Committee dated May 11, 2016 be amended by adding the following name to serve as a member of the Board of Revision:  Don Mitchelson",
+      "disposition": "REFERRED TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "Leave of Absence",
+      "movers": [
+        "Schreyer",
+        "Wyatt"
+      ],
+      "subject": "THAT Councillor Browaty be granted a leave of absence from today’s meeting due to his absence from the City on City Business.",
+      "disposition": "Carried"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "20/2016",
+      "subject": "To authorize the borrowing of money in the amount of up to $112,000,000.00",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "58/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 113 St. Anne’s Road in the Riel Community. DASZ 36/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "59/2016",
+      "subject": "To allow enforcement of City by-laws under The Municipal By-law Enforcement Act",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "63/2016",
+      "subject": "To approve a plan of subdivision for land located at 166, 176, 178, 180 and 184 Roslyn Road in the City Centre Community.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "64/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 971 Main Street in the Lord Selkirk-West Kildonan Community. DAZ 223/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "65/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located on the West side of Litchfield Boulevard, south of Dearsley Place (formerly 845 Shaftsbury Boulevard) in the Assiniboia Community. DASZ 25/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "66/2016",
+      "subject": "To impose planning, development and building fees",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "67/2016",
+      "subject": "To open Leila Avenue, west of Strasbourg Drive – DAO 1/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "68/2016",
+      "subject": "To close part of the public lane, Plan No. 11857 at the rear of 176 Roslyn Road. DAC 3/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "69/2016",
+      "subject": "To close part of Mission Street between Panet Road and Lagimodiere Boulevard and open the east side of Panet Road at Mission Street. DAOC 3/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "70/2016",
+      "subject": "To open the west side of Peguis Street, south of CPR Plan 1042. DAO 9/2015",
+      "disposition": "NOT PROCEEDED WITH"
+    },
+    {
+      "number": "71/2016",
+      "subject": "To close part of Springfield Road between Dunits Drive and Chief Peguis Trail",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "72/2016",
+      "subject": "To amend the Neighbourhood Liveability and the Vacant Buildings By-laws.",
+      "disposition": "PASSED"
+    }
+  ],
   "recorded_votes": [
     {
       "subject": "Item 3 – Report of the Executive Policy Committee dated May 11, 2016",
@@ -307,5 +310,8 @@
 
       ]
     }
+  ],
+  "conflict_of_interest_declarations": [
+
   ]
 }

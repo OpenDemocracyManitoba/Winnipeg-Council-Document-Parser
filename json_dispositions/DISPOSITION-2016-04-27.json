@@ -1,120 +1,31 @@
 {
-  "bylaws_passed": [
-    {
-      "number": "32/2016",
-      "subject": "To reactivate certain local improvements on 2125 Inkster Boulevard deferred pursuant to By-law No. 6438/94.",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "35/2016",
-      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 177 Eugenie Street in the Riel Community – DAZ 229/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "36/2016",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 15 to 35 Minerva Avenue in the Riel Community - DASZ 33/2014",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "37/2016",
-      "subject": "To open the north side of Wilkes Avenue, east and west of Charleswood Road. DAO 5/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "38/2016",
-      "subject": "To correct a technical error in the 2016 Business Tax Rate By-law",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "39/2016",
-      "subject": "To amend the Planning, Development and Building Fees By-law No. 77/2009 to correct an error.",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "40/2016",
-      "subject": "To authorize the borrowing of money in the amount of up to $ 681,682,000.00 and to rescind certain unused borrowing authority",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "56/2016",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located south of Fermor Avenue, north of Dawson Road South, and west of Plessis Road in the Riel Community – DASZ 52/2013",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "57/2016",
-      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at the Southwest corner of McPhillips Street and Murray Avenue in the Lord Selkirk West Kildonan Community - DASZ 40/2015",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "61/2016",
-      "subject": "To correct a technical error in By-law No. 54/2016.",
-      "disposition": "PASSED"
-    },
-    {
-      "number": "62/2016",
-      "subject": "To open Transcona Boulevard.",
-      "disposition": "PASSED"
-    }
-  ],
-  "bylaws_first_reading": [
-
-  ],
-  "motions": [
-    {
-      "number": "1",
-      "movers": [
-        "Mayes",
-        "Browaty"
-      ],
-      "subject": "THAT Item No. 2 of the Report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated April 14, 2016, be amended by deleting recommendation 1 and replacing it with the following: 1.That the Council motion of February 24, 2016 be received as information.",
-      "disposition": "REFERRED TO THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT"
-    },
-    {
-      "number": "2",
-      "movers": [
-        "Gerbasi",
-        "Gilroy"
-      ],
-      "subject": "THAT Item No. 1 of the report of the Standing Policy Committee on Innovation dated February 22, 2016, be amended by adding the following recommendation: “That the City administration meet with CUPE representatives and make all reasonable efforts to negotiate a letter of Understanding regarding the Automatic Vehicle Location System (AVL) to ensure the interests of both the City and its employees are appropriately safeguarded.”",
-      "disposition": "CARRIED"
-    },
-    {
-      "number": "3",
-      "movers": [
-        "Eadie",
-        "Lukes"
-      ],
-      "subject": "THEREFORE BE IT RESOLVED THAT the Winnipeg Public Service undertake whatever it must do to have existing building inspectors conduct annual inspections of rooming houses to ensure all Neighbourhood Liveability by-law dwelling provisions are met in “Part 1” and “Part 2”.",
-      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
-    },
-    {
-      "number": "4",
-      "movers": [
-        "Schreyer",
-        "Wyatt"
-      ],
-      "subject": "THAT the resolution of the Notice of Motion being considered as an amendment to Item No. 1 of the report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment be replaced by the following: THEREFORE BE IT RESOLVED THAT the City of Winnipeg request the Province of Manitoba to refer to the Public Utilities Board (PUB) and call public hearings on the following: A) The proposed Water and Sewer Rate Increases of 2016, 2017, and 2018 and all associated budgets.",
-      "disposition": "LOST"
-    },
-    {
-      "number": "5",
-      "movers": [
-        "Wyatt",
-        "Eadie"
-      ],
-      "subject": "THAT Item No. 3 of the report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated April 14, 2016, be amended by adding a bullet iv. to Recommendation 1.B as follows: 1.B. iv. That any introduction / implementation of a Curbside SSO (Kitchen Waste) program, which is not optional for homeowners, not derive its funding source in any way from a user fee or flat tax.",
-      "disposition": "LOST"
-    },
-    {
-      "number": "Motion 4 from Council Meeting of March 23, 2016",
-      "movers": [
-        "Schreyer",
-        "Eadie"
-      ],
-      "subject": "THAT Item No. 1 of the Report of Standing Policy Committee on Innovation dated February 22, 2016 be amended by adding an additional recommendation as follows: To cancel the acquisition of the Automatic Vehicle Location System (AVL) for a savings of approximately $2 million, including foregoing of outsourcing of jobs out of the Province.",
-      "disposition": "WITHDRAWN"
-    }
-  ],
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Ms D. Watt, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Operating Officer"
+    ]
+  },
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 13, 2016",
@@ -312,33 +223,132 @@
       ]
     }
   ],
-  "attendance": {
-    "council": [
-      "His Worship Mayor Bowman",
-      "The Speaker, Councillor Sharma",
-      "Deputy Speaker Councillor Gerbasi",
-      "Councillor Allard",
-      "Councillor Browaty",
-      "Councillor Dobson",
-      "Councillor Eadie",
-      "Councillor Gillingham",
-      "Councillor Gilroy",
-      "Councillor Lukes",
-      "Councillor Mayes",
-      "Councillor Morantz",
-      "Councillor Orlikow",
-      "Councillor Pagtakhan",
-      "Councillor Schreyer",
-      "Councillor Wyatt"
-    ],
-    "public_service": [
-      "Mr. R. Kachur, City Clerk",
-      "Mr. M. Lemoine, Deputy City Clerk",
-      "Ms D. Watt, Senior Committee Clerk",
-      "Mr. D. McNeil, Chief Administrative Officer",
-      "Mr. M. Jack, Chief Operating Officer"
-    ]
-  },
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Schreyer",
+        "Wyatt"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT the City of Winnipeg request the Province of Manitoba to refer to the Public Utilities Board (PUB) and call public hearings on the following: A)The proposed Water and Sewer Rate Increases of 2016, 2017, and 2018; B)The approved  ‘dividend’ from the Water and Waste Department to the Operating/Capital Budget of the City of Winnipeg; C)The Capital Budget Program of Water and Waste, both 2016 Capital Budget and the 5 Year Forecast 2017 to 2021; D)The environmental regulatory obligations on the City of Winnipeg in regard to its Water and Waste systems; E)The Business Plans and all Capital project strategies/plans of the Water and Waste Department; F)Options for Provincial and Federal Funding of the regulatory capital program requirements.",
+      "disposition": "LOST"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Mayes",
+        "Browaty"
+      ],
+      "subject": "THAT Item No. 2 of the Report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated April 14, 2016, be amended by deleting recommendation 1 and replacing it with the following: 1.That the Council motion of February 24, 2016 be received as information.",
+      "disposition": "REFERRED TO THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Gerbasi",
+        "Gilroy"
+      ],
+      "subject": "THAT Item No. 1 of the report of the Standing Policy Committee on Innovation dated February 22, 2016, be amended by adding the following recommendation: “That the City administration meet with CUPE representatives and make all reasonable efforts to negotiate a letter of Understanding regarding the Automatic Vehicle Location System (AVL) to ensure the interests of both the City and its employees are appropriately safeguarded.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Eadie",
+        "Lukes"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT the Winnipeg Public Service undertake whatever it must do to have existing building inspectors conduct annual inspections of rooming houses to ensure all Neighbourhood Liveability by-law dwelling provisions are met in “Part 1” and “Part 2”.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Schreyer",
+        "Wyatt"
+      ],
+      "subject": "THAT the resolution of the Notice of Motion being considered as an amendment to Item No. 1 of the report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment be replaced by the following: THEREFORE BE IT RESOLVED THAT the City of Winnipeg request the Province of Manitoba to refer to the Public Utilities Board (PUB) and call public hearings on the following: A) The proposed Water and Sewer Rate Increases of 2016, 2017, and 2018 and all associated budgets.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "THAT Item No. 3 of the report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated April 14, 2016, be amended by adding a bullet iv. to Recommendation 1.B as follows: 1.B. iv. That any introduction / implementation of a Curbside SSO (Kitchen Waste) program, which is not optional for homeowners, not derive its funding source in any way from a user fee or flat tax.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "Motion 4 from Council Meeting of March 23, 2016",
+      "movers": [
+        "Schreyer",
+        "Eadie"
+      ],
+      "subject": "THAT Item No. 1 of the Report of Standing Policy Committee on Innovation dated February 22, 2016 be amended by adding an additional recommendation as follows: To cancel the acquisition of the Automatic Vehicle Location System (AVL) for a savings of approximately $2 million, including foregoing of outsourcing of jobs out of the Province.",
+      "disposition": "WITHDRAWN"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "32/2016",
+      "subject": "To reactivate certain local improvements on 2125 Inkster Boulevard deferred pursuant to By-law No. 6438/94.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "35/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 177 Eugenie Street in the Riel Community – DAZ 229/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "36/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 15 to 35 Minerva Avenue in the Riel Community - DASZ 33/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "37/2016",
+      "subject": "To open the north side of Wilkes Avenue, east and west of Charleswood Road. DAO 5/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "38/2016",
+      "subject": "To correct a technical error in the 2016 Business Tax Rate By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "39/2016",
+      "subject": "To amend the Planning, Development and Building Fees By-law No. 77/2009 to correct an error.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "40/2016",
+      "subject": "To authorize the borrowing of money in the amount of up to $ 681,682,000.00 and to rescind certain unused borrowing authority",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "56/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located south of Fermor Avenue, north of Dawson Road South, and west of Plessis Road in the Riel Community – DASZ 52/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "57/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at the Southwest corner of McPhillips Street and Murray Avenue in the Lord Selkirk West Kildonan Community - DASZ 40/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "61/2016",
+      "subject": "To correct a technical error in By-law No. 54/2016.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "62/2016",
+      "subject": "To open Transcona Boulevard.",
+      "disposition": "PASSED"
+    }
+  ],
   "recorded_votes": [
     {
       "subject": "Motion 4 Schreyer / Wyatt",
@@ -460,5 +470,8 @@
         "Councillor Wyatt"
       ]
     }
+  ],
+  "conflict_of_interest_declarations": [
+
   ]
 }
