@@ -83,12 +83,14 @@ class Disposition
   # This hash can be easily converted to JSON for file export.
   def to_h
     {
-      bylaws_passed:        bylaws_passed_collection,
-      bylaws_first_reading: bylaws_first_reading_collection,
-      motions:              motions_collection,
-      reports:              reports_collection,
-      attendance:           attendance_collection,
-      recorded_votes:       recorded_votes_collection
+      attendance:                        attendance_collection,
+      reports:                           reports_collection,
+      notice_of_motions:                 notice_of_motions_collection,
+      motions:                           motions_collection,
+      bylaws_first_reading:              bylaws_first_reading_collection,
+      bylaws_passed:                     bylaws_passed_collection,
+      recorded_votes:                    recorded_votes_collection,
+      conflict_of_interest_declarations: conflict_of_interest_declarations_collection
     }
   end
 
