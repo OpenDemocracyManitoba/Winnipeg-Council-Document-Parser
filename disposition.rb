@@ -299,7 +299,7 @@ class Disposition
   def select_tables(heading_regexp)
     tables.select do |t|
       heading_regexp.match(t.rows[0].cells[0].text)
-    end # Add an || here to replace nils with structs with 'rows' prop set to []
+    end
   end
 
   # Find the first table in the document where the top/left
