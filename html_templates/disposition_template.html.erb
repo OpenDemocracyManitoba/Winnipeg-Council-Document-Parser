@@ -1,0 +1,254 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title><%= @data.date_of_meeting %> Winipeg Council Meeting</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link rel="stylesheet" href="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+</head>
+<body>
+    <header class="navbar navbar-inverse navbar-fixed-top">
+        <div class="toggle-nav">
+            <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"></div>
+        </div>
+
+        <a class="navbar-brand" href="#">Winnipeg <span class="lite">City Council</span> Dashboard </a>
+
+        <form class="navbar-form navbar-right hidden-xs">
+            <div class="form-group has-feedback">
+                <input class="form-control" placeholder="Search" type="text">
+                <i class="glyphicon glyphicon-search form-control-feedback"></i>
+            </div>
+        </form>
+    </header>
+
+    <div class="container-fluid">
+        <h2 class="manual-section">Winnipeg City Council Meeting &ndash; <%= @data.date_of_meeting %></h2>
+        <br>
+        <div class="row">
+            <div class="motion-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-send"></i>
+                    <p><%= @data.motion_sections.size %></p>
+                    <h2>Motions</h2>
+                </div>
+            </div>
+            <div class="recorded-vote-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-ok-sign"></i>
+                    <p><%= @data.vote_sections.size %></p>
+                    <h2>Recorded Votes</h2>
+                </div>
+            </div>
+            <div class="by-law-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-list-alt"></i>
+                    <p><%= @data.by_laws_counted.size %></p>
+                    <h2>By Laws Mentioned</h2>
+                    <ul class="hidden">
+                    <% @data.by_laws_counted.each do |by_law| %>
+                        <li><%= by_law.first %> - <%= by_law.last %></li>
+                    <% end %>
+                    </ul>
+                </div>
+            </div>
+            <div class="duration-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-time"></i>
+                    <p><%= @data.all_words_count / 1000 %>K</p>
+                    <h2>Words Spoken</h2>
+                </div>
+            </div>
+        </div>
+        <h2 class="manual-section">Popular Capitalized Phrases &amp; Words</h2>
+        <br>
+        <div class="row" >
+            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="ct-chart capitalized-phrases">
+                   <h2>Popular Capitalized Phrases</h2>
+                </div>
+            </div>
+            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="ct-chart popular-terms">
+                   <h2>Popular Words</h2>
+                </div>
+            </div>
+        </div>
+        <h2 class="manual-section">Attendance &amp; Participation</h2>
+        <br>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="roll_call">
+                    <h2><i class="glyphicon glyphicon-user"></i> &nbsp; Attendance in Order of Appreance</h2>
+                    <% @data.attendance_with_guests.each do |name| %>
+                        <div class="attendee">
+                            <img src="images/<%= name.gsub(' ','_') %>.jpg">
+                            <p><%= name %></p>
+                        </div>
+                    <% end %>
+                </div>
+            </div>
+            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="ct-chart words-spoken">
+                   <h2><i class="glyphicon glyphicon-bullhorn"></i> &nbsp; Number of Words Spoken</h2>
+                </div>
+            </div>
+        </div>
+        <h2 class="manual-section" id="navigation">Hansard Navigation</h2>
+        <br>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="section-links">
+                    <h2><i class="glyphicon glyphicon-bookmark"></i> &nbsp; Meeting Agenda Items</h2>
+                    <ul>
+                    <% @data.all_sections.each_with_index do |section, i| %>
+                        <% if section['type'] == 'section'
+                          name = section['name'].split(' ').map { |n| n.downcase.capitalize}.join(' ')
+                        %>
+                            <li>
+                                &#9679; &nbsp; <a href="#<%= section['type'] + i.to_s %>" title="<%= name %>"><%= name %></a>
+                            </li>
+                        <% end %>
+                    <% end %>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="section-links">
+                    <h2><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h2>
+                    <ul>
+                    <% @data.all_sections.each_with_index do |section, i| %>
+                        <% if section['type'] == 'motion'
+                          name = section['name'].split(' ').map { |n| n.downcase.capitalize}.join(' ')
+                        %>
+                            <li>
+                                &#9679; &nbsp; <a href="#<%= section['type'] + i.to_s %>" title="<%= name %>"><%= name %></a>
+                            </li>
+                        <% end %>
+                    <% end %>
+                    </ul>
+                    <br>
+                    <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Recorded Votes</h2>
+                    <ul>
+                    <% @data.all_sections.each_with_index do |section, i| %>
+                        <% if section['type'] == 'vote'
+                          name = section['name'].split(' ').map { |n| n.downcase.capitalize}.join(' ')
+                        %>
+                            <li>
+                                &#9679; &nbsp; <a href="#<%= section['type'] + i.to_s %>" title="<%= name %>"><%= name %></a>
+                            </li>
+                        <% end %>
+                    <% end %>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class='sections row'>
+            <div class="chat col-lg-6 col-md-12 col-sm-12 col-xs-12">
+            <% @data.all_sections.each_with_index do |section, i| %>
+                <div class="row section <%= section['type'] %>" id="<%= section['type'] + i.to_s %>">
+                    <% if section['type'] == 'section' %>
+                        <h2 class="col-lg-12 col-md-12 col-sm-12 col-xs-12"><%= section['name'] %></h2>
+                    <% elsif section['type'] == 'speaker' %>
+                        <header class="col-lg-2 col-md-2 col-sm-2 col-xs-3">
+                            <img src="images/<%= section['name'].gsub(' ','_') %>.jpg">
+                        </header>
+                        <div class="col-lg-10 col-md-10 col-sm-10 col-xs-9">
+                            <section >
+                                <h2><%= section['name'] %></h2>
+                                <blockquote>
+                                    <%= section['spoken'] %>
+                                </blockquote>
+                            </section>
+                        </div>
+                    <% elsif section['type'] == 'vote' %>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <h2>Recorded Vote - <%= section['name'] %></h2>
+                            <dl>
+                                <dt>Outcome</dt>
+                                <dd><%= section['outcome'] %></dd>
+                                <dt>Yeas - <%= section['yeas'].split(',').size %></dt>
+                                <dd><%= section['yeas'] %></dd>
+                                <dt>Nays - <%= section['nays'].split(',').size %></dt>
+                                <dd><%= section['nays'] %></dd>
+                            </dl>
+                            <p><a href="#navigation">Return To Top</a></p>
+                        </div>
+                    <% elsif section['type'] == 'motion' %>
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <h2>Motion - <%= section['name'] %></h2>
+                            <div class="moved">
+                                <div>
+                                    <p><strong>Moved By</strong></p>
+                                    <div>
+                                        <img src="images/<%= section['moved_by'].gsub(' ','_') %>.jpg">
+                                        <p><%= section['moved_by'] %></p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <p><strong>Seconded By</strong></p>
+                                    <div>
+                                        <img src="images/<%= section['seconded_by'].gsub(' ','_') %>.jpg">
+                                        <p><%= section['seconded_by'] %></p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="text">
+                                <p><strong>Motion Text</strong></p>
+                                <div><%= section['motion_text'] %></div>
+                                <br>
+                                <p><a href="#navigation">Return To Top</a></p>
+                            </div>
+                        </div>
+                    <% end %>
+                </div>
+            <% end %>
+            </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <h2>COUNCIL MEETING VIDEO</h2>
+                <div class="video">
+                    <iframe src="https://www.youtube.com/embed/la__Srt3Vks" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/readmore.js"></script>
+    <script src="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js"></script>
+    <script>
+    var capitalized_phrases = {
+      // A labels array that can contain any sort of values
+      labels: [<%= @data.capitalized_phrases_counted.take(10).map { |(p,_)| "'#{p}'" }.join(',') %>],
+      // Our series array that contains series objects or in this case series data arrays
+      series: [
+        [<%= @data.capitalized_phrases_counted.take(10).map { |(_,c)| c }.join(',') %>]
+      ]
+    };
+    var popular_terms = {
+      // A labels array that can contain any sort of values
+      labels: [<%= @data.sorted_word_occurrences.take(10).map { |(p,_)| "'#{p.capitalize}'" }.join(',') %>],
+      // Our series array that contains series objects or in this case series data arrays
+      series: [
+        [<%= @data.sorted_word_occurrences.take(10).map { |(_,c)| c }.join(',') %>]
+      ]
+    };
+
+    var words_spoken_by_councillors = {
+      // A labels array that can contain any sort of values
+      labels: [<%= @data.speakers_sorted_by_counted_words.map { |(p,_)| "'#{p}'" }.join(',') %>],
+      // Our series array that contains series objects or in this case series data arrays
+      series: [
+        [<%= @data.speakers_sorted_by_counted_words.map { |(_,c)| c }.join(',') %>]
+      ]
+    };
+    </script>
+    <script src="js/chart.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>
+

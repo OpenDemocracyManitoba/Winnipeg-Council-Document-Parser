@@ -1,0 +1,303 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
+
+body {
+    padding-top: 85px;
+    font-family: 'Lato', sans-serif;
+    padding-bottom: 50px;
+}
+
+#overview {
+    overflow: auto;
+    zoom: 1;
+}
+
+#overview section {
+    width: 50%;
+    float: left;
+}
+
+h2.manual-section {
+    color: #444;
+    text-transform: uppercase;
+    margin-top: 0;
+}
+
+/* Section Links */
+
+.section-links {
+    background-color: #ddd;
+    padding: 15px;
+    margin-bottom: 30px;
+}
+
+    .section-links ul {
+        padding-left: 1px;
+        list-style: none;
+    }
+
+    .section-links li {
+       white-space: nowrap;
+       overflow: hidden;
+       text-overflow: ellipsis;
+    }
+
+    .section-links h2 {
+        color: #777;
+        margin-top: 0;
+        font-size: 17px;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+    }
+
+/* HEADER */
+
+header .form-group {
+ margin: 0 15px;
+}
+
+.hidden {
+    display: none;
+}
+
+/* CHART */
+
+.ct-chart .ct-series.ct-series-a .ct-bar {
+    stroke: #CC3333 !important;
+}
+
+.ct-chart.words-spoken .ct-series.ct-series-a .ct-bar {
+    stroke: #3366CC !important;
+}
+
+.ct-label {
+  font-size: 16px !important;
+  color: #666 !important;
+}
+
+.chart > div {
+  background-color: #ddd;
+  padding: 15px;
+  padding-bottom: 0;
+  margin-bottom: 30px;
+}
+
+.chart h2 {
+    color: #777;
+    margin-top: 0;
+    font-size: 17px;
+    text-transform: uppercase;
+}
+
+/* ROLL CALL */
+
+.roll_call {
+    overflow: auto;
+    padding: 15px 15px 15px 0;
+    margin-bottom: 30px;
+    background-color: #ddd;
+}
+    .roll_call  h2 {
+        color: #777;
+        margin-top: 0;
+        font-size: 17px;
+        padding-left: 15px;
+        margin-bottom: 20px;
+        text-transform: uppercase;
+    }
+    .roll_call .attendee {
+        float: left;
+        width: 61px;
+        height: 122px;
+        margin-left: 15px;
+    }
+        .roll_call .attendee img {
+            width: 100%;
+            height: 75px;
+        }
+
+        .roll_call .attendee p {
+            margin-top: 4px;
+            line-height: 1.1em;
+        }
+
+@media (min-width: 992px) {
+/*
+    .roll_call {
+        min-height: 556px;
+    }
+*/
+    .section-links {
+        min-height: 516px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .roll_call .attendee {
+        width: 96px;
+        height: 163px;
+    }
+        .roll_call .attendee img {
+            height: 115px;
+        }
+
+    .chat {
+        height: 600px;
+        overflow-y: scroll;
+    }
+}
+
+/* INFO BOX */
+
+.info-box {
+  background-color: #3366CC;
+  min-height: 150px;
+  margin-bottom: 30px;
+  padding: 10px;
+  color: white;
+  overflow: auto;
+  }
+
+.info-box, .chart > div, .roll_call, .section-links, div.section.vote, div.section.motion, div.section.speaker header img {
+  -webkit-box-shadow: inset 0 0 1px 1px rgba(255, 255, 255, 0.3), 0 3px 1px -1px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: inset 0 0 1px 1px rgba(255, 255, 255, 0.3), 0 3px 1px -1px rgba(0, 0, 0, 0.1);
+  box-shadow: inset 0 0 1px 1px rgba(255, 255, 255, 0.3), 0 3px 1px -1px rgba(0, 0, 0, 0.1);
+}
+
+div.section.speaker section {
+  -webkit-box-shadow: 0 3px 1px -1px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 3px 1px -1px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 1px -1px rgba(0, 0, 0, 0.1);
+}
+
+    .info-box i {
+      display: block;
+      height: 130px;
+      font-size: 60px;
+      line-height: 100px;
+      width: 100px;
+      float: left;
+      text-align: center;
+      margin-right: 10px;
+      padding-right: 20px;
+      color: rgba(255, 255, 255, 0.75);
+    }
+
+    .info-box p {
+      margin-top: 24px;
+      font-size: 40px;
+      font-weight: 700;
+    }
+    .info-box h2 {
+      margin-top: 0;
+      font-size: 15px;
+      text-transform: uppercase;
+    }
+
+.info-box p.smaller {
+    margin-top: 32px;
+    font-size: 34px;
+}
+
+div.sections, blockquote, li.section.speaker h2 {
+    margin: 0;
+    padding: 0;
+}
+
+div.sections {
+    list-style: none;
+}
+    div.section {
+        margin-bottom: 2em;
+    }
+
+    div.section > h2 {
+        margin-left: -15px;
+    }
+
+    div.section.motion {
+        background-color: #ff9999;
+        overflow: auto;
+        font-size: 16px;
+    }
+        div.section.motion h2 {
+            margin-bottom: 15px;
+        }
+        div.section.motion .moved {
+            float: left;
+            width: 10%;
+            margin-right: 4%;
+        }
+        div.section.motion .text {
+            float: left;
+            width: 85%;
+            margin-bottom: 15px;
+        }
+        div.section.motion .moved img {
+            width: 100%;
+        }
+
+    div.section.vote {
+        background-color: #FFFFB2;
+        font-size: 16px;
+    }
+        div.section.vote dd {
+            margin-bottom: 1em;
+        }
+
+    div.section.speaker {
+        overflow: auto;
+        margin-left: -30px;
+    }
+        div.section.speaker section {
+            background-color: #89C4F4;
+            padding: 15px;
+            position: relative;
+        }
+        div.section.speaker section:after {
+            content: '';
+            position: absolute;
+            border-style: solid;
+            border-width: 15px 15px 0 0;
+            border-color: transparent #89C4F4;
+            display: block;
+            width: 0;
+            z-index: 1;
+            left: -15px;
+            top: 50px;
+            }
+        div.section.speaker:nth-child(odd) section {
+            background-color: #C5EFF7;
+        }
+        div.section.speaker:nth-child(odd) section:after {
+            border-color: transparent #C5EFF7;
+        }
+        div.section.speaker section h2 {
+            margin-bottom: 15px;
+            margin-top: 0;
+        }
+        div.section.speaker img {
+            width: 100%;
+        }
+        div.section.speaker blockquote {
+            line-height: 1.5em;
+        }
+
+blockquote {
+    border-left: none;
+}
+
+.video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+    .video iframe {
+        position: absolute;
+        top:0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
