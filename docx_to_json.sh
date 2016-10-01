@@ -5,6 +5,11 @@
 # Command line argument #1: DOCX Input Folder
 # Command line argument #2: JSON Output Folder
 
+if [ "$#" -ne 2 ]; then
+    echo "USAGE: $(basename $0) docx_input_folder json_output_folder"
+    exit
+fi
+
 for f in $1/*.docx
 do
     echo "Processing $f file"
