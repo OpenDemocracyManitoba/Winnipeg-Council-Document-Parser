@@ -43,6 +43,10 @@ class Disposition
   #
   # API Behaviour Specification: spec/disposition_spec.rb
 
+  def meeting_date
+    scan_for_meeting_date
+  end
+
   def bylaws_passed
     bylaws_passed_collection
   end
@@ -95,6 +99,23 @@ class Disposition
   end
 
   private
+
+  # MEETING DATE
+  # Builds an array of parsed dates for the first 20 document paragraphs. If
+  # parsing fails nil, is added to the array. Parsed date collection is then
+  # compacted to remove nils. The first, and likely only, parsed date in the
+  # collection is the meeting date.
+  #
+  # Date::parse docs warn against using it as a date validator --I imagine
+  # it's very permissive-- but that's what I'm doing here.
+
+  def scan_for_meeting_date
+    doc.paragraphs[0..20].map do |paragraph|
+      # Exceptional handling as validator. :S
+      puts paragraph
+      Date.parse(paragraph.text) rescue nil
+    end.compact.first
+  end
 
   # ATTENDANCE
   # Single table with header row, but no title row.
@@ -309,7 +330,7 @@ class Disposition
     table = tables.find do |t|
       heading_regexp.match(t.rows[0].cells[0].text)
     end
-
+    # If not table was found, return an empty array instead of nil.
     table ? table.rows[number_of_header_rows..-1] : []
   end
 

@@ -43,6 +43,20 @@ describe Disposition do
   # ATTENDANCE
   # ----------
 
+  context 'for all dispositions' do
+    subject(:dispositions) do
+      { '2015-09-30' => Disposition.new(DispositionFixture.path('2015-09-30')),
+        '2016-04-27' => Disposition.new(DispositionFixture.path('2016-04-27')),
+        '2016-07-13' => Disposition.new(DispositionFixture.path('2016-07-13')) }
+    end
+
+    it 'should identify the correct meeting date' do
+      dispositions.each do |date, disposition|
+        expect(disposition.meeting_date).to eq(Date.parse(date))
+      end
+    end
+  end
+
   context 'when the disposition includes attendance' do
     subject(:disposition) do
       Disposition.new(DispositionFixture.fixtures(:with_attendance_reports_motions_bylaws))
