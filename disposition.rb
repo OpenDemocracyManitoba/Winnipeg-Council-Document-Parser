@@ -87,6 +87,7 @@ class Disposition
   # This hash can be easily converted to JSON for file export.
   def to_h
     {
+      meeting_date:                      scan_for_meeting_date,
       attendance:                        attendance_collection,
       reports:                           reports_collection,
       notice_of_motions:                 notice_of_motions_collection,
@@ -112,7 +113,6 @@ class Disposition
   def scan_for_meeting_date
     doc.paragraphs[0..20].map do |paragraph|
       # Exceptional handling as validator. :S
-      puts paragraph
       Date.parse(paragraph.text) rescue nil
     end.compact.first
   end
