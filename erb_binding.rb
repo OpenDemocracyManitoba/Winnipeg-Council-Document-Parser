@@ -9,6 +9,6 @@ class ErbBinding
   end
 
   def render
-    return ERB.new(@template).result(binding)
+    ERB.new(@template).result(binding)
   end
 end
