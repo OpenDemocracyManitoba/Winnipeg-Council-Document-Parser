@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 require 'docx'
+require 'date'
 
 # Problem:
 #
@@ -113,7 +114,11 @@ class Disposition
   def scan_for_meeting_date
     doc.paragraphs[0..20].map do |paragraph|
       # Exceptional handling as validator. :S
-      Date.parse(paragraph.text) rescue nil
+      begin
+        Date.parse(paragraph.text)
+      rescue ArgumentError
+        nil
+      end
     end.compact.first
   end
 
