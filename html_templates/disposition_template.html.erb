@@ -100,15 +100,17 @@
                         </li>
                     <% end %>
                     </ul>
-                    <br>
-                    <h2><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws - First Reading</h2>
-                    <ul>
-                    <% @data['bylaws_first_reading'].each do |report| %>
-                        <li>
-                            &#9679; &nbsp; <%= report['subject'] %>
-                        </li>
+                    <% unless @data['bylaws_first_reading'].empty? %>
+                        <br>
+                        <h2><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws - First Reading</h2>
+                        <ul>
+                        <% @data['bylaws_first_reading'].each do |report| %>
+                            <li>
+                                &#9679; &nbsp; <%= report['subject'] %>
+                            </li>
+                        <% end %>
+                        </ul>
                     <% end %>
-                    </ul>
                     <br>
                     <h2><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws - 3rd Reading</h2>
                     <ul>
@@ -141,15 +143,28 @@
                         </li>
                     <% end %>
                     </ul>
-                    <br>
-                    <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Recorded Votes</h2>
-                    <ul>
-                    <% @data['recorded_votes'].each do |vote| %>
-                        <li>
-                            &#9679; &nbsp; <%= vote['subject'] %>
-                        </li>
+                    <% unless @data['recorded_votes'].empty? %>
+                        <br>
+                        <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Recorded Votes</h2>
+                        <ul>
+                        <% @data['recorded_votes'].each do |vote| %>
+                            <li>
+                                &#9679; &nbsp; <%= vote['subject'] %>
+                            </li>
+                        <% end %>
+                        </ul>
                     <% end %>
-                    </ul>
+                    <% unless @data['conflict_of_interest_declarations'].empty? %>
+                        <br>
+                        <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Conflict of Interest Declarations</h2>
+                        <ul>
+                        <% @data['conflict_of_interest_declarations'].each do |conflict| %>
+                            <li>
+                            &#9679; &nbsp; <%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %>
+                            </li>
+                        <% end %>
+                        </ul>
+                    <% end %>
                 </div>
             </div>
         </div>
@@ -157,7 +172,7 @@
             <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
                 <h2>COUNCIL MEETING VIDEO</h2>
                 <div class="video">
-                    <iframe src="https://www.youtube.com/embed/QXbU0ln7lo8" frameborder="0" allowfullscreen></iframe>
+                    <iframe src="https://www.youtube.com/embed/Rd4ByL6C4pM" frameborder="0" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
