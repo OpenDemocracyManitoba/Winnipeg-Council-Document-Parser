@@ -107,7 +107,7 @@ header .form-group {
     .roll_call .attendee {
         float: left;
         width: 61px;
-        height: 122px;
+        height: 155px;
         margin-left: 15px;
     }
         .roll_call .attendee img {
@@ -121,20 +121,23 @@ header .form-group {
         }
 
 @media (min-width: 992px) {
-/*
     .roll_call {
-        min-height: 556px;
+        min-height: 380px;
     }
-*/
+
     .section-links {
         min-height: 516px;
     }
 }
 
 @media (min-width: 1200px) {
+    .roll_call {
+        min-height: 440px;
+    }
+
     .roll_call .attendee {
         width: 96px;
-        height: 163px;
+        height: 185px;
     }
         .roll_call .attendee img {
             height: 115px;
@@ -177,18 +180,19 @@ div.section.speaker section {
       width: 100px;
       float: left;
       text-align: center;
-      margin-right: 10px;
+      margin-right: 5px;
       padding-right: 20px;
       color: rgba(255, 255, 255, 0.75);
     }
 
     .info-box p {
-      margin-top: 24px;
-      font-size: 40px;
+      margin: 0 0 0 -5px;
+      font-size: 70px;
       font-weight: 700;
     }
     .info-box h2 {
       margin-top: 0;
+      margin-left: 5px;
       font-size: 15px;
       text-transform: uppercase;
     }

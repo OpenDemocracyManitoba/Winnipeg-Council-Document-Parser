@@ -30,18 +30,18 @@
         <h2 class="manual-section">Winnipeg City Council Meeting &ndash; <%= @data['meeting_date'] %></h2>
         <br>
         <div class="row">
+            <div class="duration-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-time"></i>
+                    <p><%= @data['reports'].size  %></p>
+                    <h2>Reports</h2>
+                </div>
+            </div>
             <div class="motion-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
                 <div class="info-box">
                     <i class="glyphicon glyphicon-send"></i>
                     <p><%= @data['motions'].size + @data['notice_of_motions'].size  %></p>
                     <h2>Motions</h2>
-                </div>
-            </div>
-            <div class="recorded-vote-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-ok-sign"></i>
-                    <p><%= @data['recorded_votes'].size %></p>
-                    <h2>Recorded Votes</h2>
                 </div>
             </div>
             <div class="by-law-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
@@ -51,42 +51,39 @@
                     <h2>By Laws Read</h2>
                 </div>
             </div>
-            <div class="duration-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+            <div class="recorded-vote-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
                 <div class="info-box">
-                    <i class="glyphicon glyphicon-time"></i>
-                    <h2>Words Spoken</h2>
+                    <i class="glyphicon glyphicon-ok-sign"></i>
+                    <p><%= @data['recorded_votes'].size %></p>
+                    <h2>Recorded Votes</h2>
                 </div>
             </div>
         </div>
-        <h2 class="manual-section">Popular Capitalized Phrases &amp; Words</h2>
-        <br>
-        <div class="row" >
-            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <div class="ct-chart capitalized-phrases">
-                   <h2>Popular Capitalized Phrases</h2>
-                </div>
-            </div>
-            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <div class="ct-chart popular-terms">
-                   <h2>Popular Words</h2>
-                </div>
-            </div>
-        </div>
-        <h2 class="manual-section">Attendance &amp; Participation</h2>
+        <h2 class="manual-section">Attendance</h2>
         <br>
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
                 <div class="roll_call">
-                    <h2><i class="glyphicon glyphicon-user"></i> &nbsp; Attendance in Order of Appreance</h2>
+                    <h2><i class="glyphicon glyphicon-user"></i> &nbsp; Council Attendance</h2>
+                    <% @data['attendance']['council'].each do |attendee| %>
+                        <%
+                            image_name = attendee.split(' ').last(2).join('_')
+                        %>
                         <div class="attendee">
-                        <img src="images/<!-- %= name.gsub(' ','_') %> -->.jpg">
-                        <p><!-- %= # name %> --></p>
+                            <img src="images/<%= image_name %>.jpg">
+                            <p><%= attendee %></p>
                         </div>
+                    <% end %>
                 </div>
             </div>
-            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <div class="ct-chart words-spoken">
-                   <h2><i class="glyphicon glyphicon-bullhorn"></i> &nbsp; Number of Words Spoken</h2>
+            <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="roll_call">
+                    <h2><i class="glyphicon glyphicon-user"></i> &nbsp; Public Servant Attendance</h2>
+                    <ul>
+                        <% @data['attendance']['public_service'].each do |attendee| %>
+                            <li><%= attendee %></li>
+                        <% end %>
+                    </ul>
                 </div>
             </div>
         </div>
