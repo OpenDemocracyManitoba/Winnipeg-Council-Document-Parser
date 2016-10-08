@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>2015-09-30 Winipeg Council Meeting</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+    <link rel="stylesheet" href="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
+</head>
+<body>
+    <header class="navbar navbar-inverse navbar-fixed-top">
+        <div class="toggle-nav">
+            <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"></div>
+        </div>
+
+        <a class="navbar-brand" href="#">Winnipeg <span class="lite">City Council</span> Dashboard </a>
+
+        <form class="navbar-form navbar-right hidden-xs">
+            <div class="form-group has-feedback">
+                <input class="form-control" placeholder="Search" type="text">
+                <i class="glyphicon glyphicon-search form-control-feedback"></i>
+            </div>
+        </form>
+    </header>
+
+    <div class="container-fluid">
+        <h2 class="manual-section">Winnipeg City Council Meeting &ndash; 2015-09-30</h2>
+        <br>
+        <div class="row">
+            <div class="motion-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-send"></i>
+                    <p>13</p>
+                    <h2>Motions</h2>
+                </div>
+            </div>
+            <div class="recorded-vote-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-ok-sign"></i>
+                    <p>1</p>
+                    <h2>Recorded Votes</h2>
+                </div>
+            </div>
+            <div class="by-law-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-list-alt"></i>
+                    <p>19</p>
+                    <h2>By Laws Read</h2>
+                </div>
+            </div>
+            <div class="duration-stats col-lg-3 col-md-3 col-sm-12 col-xs-12">
+                <div class="info-box">
+                    <i class="glyphicon glyphicon-time"></i>
+                    <h2>Words Spoken</h2>
+                </div>
+            </div>
+        </div>
+        <h2 class="manual-section">Popular Capitalized Phrases &amp; Words</h2>
+        <br>
+        <div class="row" >
+            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="ct-chart capitalized-phrases">
+                   <h2>Popular Capitalized Phrases</h2>
+                </div>
+            </div>
+            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="ct-chart popular-terms">
+                   <h2>Popular Words</h2>
+                </div>
+            </div>
+        </div>
+        <h2 class="manual-section">Attendance &amp; Participation</h2>
+        <br>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="roll_call">
+                    <h2><i class="glyphicon glyphicon-user"></i> &nbsp; Attendance in Order of Appreance</h2>
+                        <div class="attendee">
+                        <img src="images/<!-- %= name.gsub(' ','_') %> -->.jpg">
+                        <p><!-- %= # name %> --></p>
+                        </div>
+                </div>
+            </div>
+            <div class="chart col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="ct-chart words-spoken">
+                   <h2><i class="glyphicon glyphicon-bullhorn"></i> &nbsp; Number of Words Spoken</h2>
+                </div>
+            </div>
+        </div>
+        <h2 class="manual-section" id="navigation">Hansard Navigation</h2>
+        <br>
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="section-links">
+                    <h2><i class="glyphicon glyphicon-bookmark"></i> &nbsp; Meeting Agenda Items</h2>
+                    <ul>
+                            <li>
+                            &#9679; &nbsp; <a href="#<!-- %= section['type'] + i.to_s % -->" title="<!-- %= name % -->">name</a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="section-links">
+                    <h2><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h2>
+                    <ul>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That Council amend its decision of May 27, 2015, with respect to Item 5 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated May 5, 2015, by deleting Recommendation 8 of and replacing it with the following: 8.That the Public Works Department be directed to fund The Chancellor Matheson Pathway from Investors Group Field to Pembina Highway Project, in an amount to be determined by the Director of Public Works, to a maximum of $350,000.00 from the identified Active Transportation accounts, and that any required funding in excess of $350,000.00 be allocated by the Director of Public Works by identifying budget surpluses from approved projects in the 2015 Capital Local Street Renewals, Alley Renewals, Thin Bituminous Overlays and Granular Roadway Improvements Program, and that any residual Active Transportation Funding be put into the 2016 Active Transportation budget.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That the Winnipeg Public Service be directed to review and report back to the November 10, 2015 meeting of the Standing Policy Committee on Property and Development regarding the potential lease of the City-owned parcel of land located at the northwest corner of Young Street and Cumberland Avenue (Roll Number 13051180200), to the Portuguese Association of Manitoba, at an annual cost of $1.00, for the future development of a commemorative park.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That the Winnipeg public service look to other Canadian cities for cannabis regulatory provisions in order to establish limits on cannabis related facilities in Winnipeg.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That this matter be referred to the Governance Committee of Council for review and report back to Council within 90 days, with a view to developing an implementation plan to transfer hearings for land matters such as variances and conditional uses back to the five respective Community Committees.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That Council amend its decision of July 15, 2015, with respect to Item  2 of the report of the Standing Policy Committee on Property and Development dated June 26, 2015, by replacing recommendations 8 and 9 with the following: 8.That the subdivision section of the by-law shall come into force and effect upon registration of the Plan of Subdivision in the Winnipeg Land Titles Office. 9.That the zoning section of the by-law shall come into force and effect when the Plan of Subdivision is registered in the Winnipeg Land Titles Office and the Zoning Agreement is registered in the Winnipeg Land Titles Office by caveat against the subject lands, provided that the said effective date occurs within one year from the date the by-law is passed. failing which the by-law will expire and the matter shall be deemed to be concluded and shall not be proceeded with unless an extension of time is applied for prior to the expiry of the one year period and Council approves the extension.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That the City of Winnipeg join the Francophone and Francophile Cities Network in order to capitalize on the opportunities afforded a city with such a rich francophone heritage and culture.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Burrows Avenue from the Red River to Main Street. That the proposed green way on Pritchard Avenue from the Red River to Charles Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the Pedestrian and Cycling Strategies Final Report maps add a proposed green way from the Red River to Charles Street.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That the proposed green way on Jefferson Avenue from Main Street to Sinclair Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the proposed green way on Seven Oaks Avenue from Scotia Street to Main Street be removed from the Pedestrian and Cycling Strategies Final Report maps. That the Pedestrian and Cycling Strategies Final Report maps be amended to include a proposed green way on Hartford Avenue from Scotia Street to Sinclair Street.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Sutherland Avenue from Higgins Avenue to Yard Street; That Euclid Avenue from Sutherland Avenue to Main Street be defined on the Pedestrian and Cycling Strategies Final Report maps as a proposed green way; That the Pedestrian and Cycling Strategies Final Report maps be updated to reflect proposed painted bicycle lanes on Sutherland Avenue from Annabella Street to Euclid Avenue.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That the Pedestrian and Cycling Strategies Final Report maps be amended to remove the proposed green way on Salter Street from Leila Avenue to Templeton Avenue; That Weinberg and the extension of Sly Drive from Weinberg to Templeton be added as a proposed green way.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That Recommendation 4 of item 2. of the report of the Executive Policy Committee dated September 16, 2015, entitled “Winnipeg Convention Centre Corporation – Loan Guarantee Update” be amended by adding the words “including a repayment schedule for all monies advanced pursuant to Recommendation 1” after the words “this report”.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That for the purpose of hiring the Director of Public Works that a Committee of Council be formed made up of one Councillor appointed by each respective Community Committee and by an appointment by the Mayor’s Office, for a total hiring committee of 6 members of Council, and that the said hiring committee then recommend to Council, for Council approval, the new Director of Public Works, with input during the process from the Chief Administrative Officer of the City of Winnipeg.</a>
+                        </li>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">That Councillor Schreyer be granted a leave of absence from today’s meeting due to a personal family matter.</a>
+                        </li>
+                    
+                    </ul>
+                    <br>
+                    <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Recorded Votes</h2>
+                    <ul>
+                    
+                        <li>
+                            &#9679; &nbsp; <a href="#" title="">Item 5 of the Report of the Standing Policy Committee on Property and Development dated September 17, 2015 Library Redevelopment Strategy - Old Kildonan Ward</a>
+                        </li>
+                    
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class='sections row'>
+            <div class="chat col-lg-6 col-md-12 col-sm-12 col-xs-12">
+           </div>
+            <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+                <h2>COUNCIL MEETING VIDEO</h2>
+                <div class="video">
+                    <iframe src="https://www.youtube.com/embed/la__Srt3Vks" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
