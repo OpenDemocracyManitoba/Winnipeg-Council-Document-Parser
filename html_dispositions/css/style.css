@@ -19,12 +19,18 @@ body {
 h2.manual-section {
     color: #444;
     text-transform: uppercase;
-    margin-top: 0;
+    margin: 0.5em 0 1em 0;
 }
 
-/* Section Links */
+p.work-in-progress {
+    margin-top: -1em;
+    color: #777;
+}
 
-.section-links {
+/* Section Links & About */
+
+.section-links,
+.about {
     background-color: #ddd;
     padding: 15px;
     margin-bottom: 30px;
@@ -41,7 +47,8 @@ h2.manual-section {
        text-overflow: ellipsis;
     }
 
-    .section-links h2 {
+    .section-links h3,
+    .about h3 {
         color: #777;
         margin-top: 0;
         font-size: 17px;
@@ -59,35 +66,6 @@ header .form-group {
     display: none;
 }
 
-/* CHART */
-
-.ct-chart .ct-series.ct-series-a .ct-bar {
-    stroke: #CC3333 !important;
-}
-
-.ct-chart.words-spoken .ct-series.ct-series-a .ct-bar {
-    stroke: #3366CC !important;
-}
-
-.ct-label {
-  font-size: 16px !important;
-  color: #666 !important;
-}
-
-.chart > div {
-  background-color: #ddd;
-  padding: 15px;
-  padding-bottom: 0;
-  margin-bottom: 30px;
-}
-
-.chart h2 {
-    color: #777;
-    margin-top: 0;
-    font-size: 17px;
-    text-transform: uppercase;
-}
-
 /* ROLL CALL */
 
 .roll_call {
@@ -96,7 +74,14 @@ header .form-group {
     margin-bottom: 30px;
     background-color: #ddd;
 }
-    .roll_call  h2 {
+    .roll_call ul {
+        margin-left: -6px;
+        font-size: 1.05em;
+    }
+        .roll_call ul li {
+            margin-bottom: 1em;
+        }
+    .roll_call  h3 {
         color: #777;
         margin-top: 0;
         font-size: 17px;
@@ -126,7 +111,7 @@ header .form-group {
     }
 
     .section-links {
-        min-height: 516px;
+        min-height: 570px;
     }
 }
 
@@ -153,7 +138,7 @@ header .form-group {
 
 .info-box {
   background-color: #3366CC;
-  min-height: 150px;
+  min-height: 162px;
   margin-bottom: 30px;
   padding: 10px;
   color: white;
@@ -173,14 +158,15 @@ div.section.speaker section {
 }
 
     .info-box i {
+      margin-left: -80px; /* Start hidden for screen widths < 500px */
       display: block;
       height: 130px;
       font-size: 60px;
       line-height: 100px;
       width: 100px;
       float: left;
-      text-align: center;
       margin-right: 5px;
+      text-align: center;
       padding-right: 20px;
       color: rgba(255, 255, 255, 0.75);
     }
@@ -190,16 +176,22 @@ div.section.speaker section {
       font-size: 70px;
       font-weight: 700;
     }
-    .info-box h2 {
+    .info-box h3 {
       margin-top: 0;
-      margin-left: 5px;
       font-size: 15px;
       text-transform: uppercase;
     }
 
-.info-box p.smaller {
-    margin-top: 32px;
-    font-size: 34px;
+    .info-box p.smaller {
+        margin-top: 32px;
+        font-size: 34px;
+    }
+
+@media (min-width: 500px) {
+    /* Show the info box icon for screen widths > 500px */
+    .info-box i {
+        margin-left: 0;
+    }
 }
 
 div.sections, blockquote, li.section.speaker h2 {
