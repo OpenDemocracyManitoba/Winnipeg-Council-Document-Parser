@@ -1,15 +1,16 @@
 require './file_helpers.rb'
 require './erb_binding.rb'
 
-if ARGV.size != 3
+if ARGV.size != 4
   puts 'Missing required arguments.'
-  puts 'Example: #{$PROGRAM_NAME} erb_template input_folder output_folder'
+  puts 'Example: #{$PROGRAM_NAME} disposition_template index_template input_folder output_folder'
   exit
 end
 
 erb_template = erb_template_from_file(ARGV[0])
-input_folder = ARGV[1]
-output_folder = ARGV[2]
+index_erb_template = erb_template_from_file(ARGV[1])
+input_folder = ARGV[2]
+output_folder = ARGV[3]
 
 disposition_meta = {
   '2015-09-30' => { 'youtube' => 'QXbU0ln7lo8', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=14677&SectionId=&InitUrl=' },
@@ -25,6 +26,8 @@ disposition_meta = {
   #'2016-09-28' => { 'youtube' => 'fXQYVzhJgVY', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15468&SectionId=&InitUrl=' },
 }
 
+all_dispositions = []
+
 def date_to_json_url(date)
   "https://github.com/OpenDemocracyManitoba/Winnipeg-Council-Document-Parser/blob/master/json_dispositions/DISPOSITION-#{date}.json"
 end
@@ -38,6 +41,7 @@ disposition_meta.each do |date, meta|
   # Inject Metadata
   disposition.merge!(meta)
   disposition.merge!({ 'source_json' => date_to_json_url(date) })
+  all_dispositions << disposition
 
   generated_html = ErbBinding.new(erb_template: erb_template,
                                   data_to_bind: disposition)
@@ -45,4 +49,12 @@ disposition_meta.each do |date, meta|
   File.open(html_file, 'w:UTF-8') do |f|
     f.write(generated_html.render)
   end
+end
+
+index_html_file = "#{output_folder}/index.html"
+generated_html  = ErbBinding.new(erb_template: index_erb_template,
+                                 data_to_bind: all_dispositions.reverse)
+
+File.open(index_html_file, 'w:UTF-8') do |f|
+  f.write(generated_html.render)
 end

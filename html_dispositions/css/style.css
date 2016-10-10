@@ -22,6 +22,16 @@ h2.manual-section {
     margin: 0.5em 0 1em 0;
 }
 
+h2.manual-section a {
+    color: #444;
+}
+
+h3.view-details {
+    color: #444;
+    padding-left: 15px;
+    margin-bottom: 2em;
+}
+
 p.work-in-progress {
     margin-top: -1em;
     color: #777;
