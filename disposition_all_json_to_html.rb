@@ -23,7 +23,7 @@ disposition_meta = {
   '2016-05-18' => { 'youtube' => 'fAsou9J29no', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15306&SectionId=&InitUrl=' },
   '2016-06-15' => { 'youtube' => 'mfyigVDfy_s', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15382&SectionId=&InitUrl=' },
   '2016-07-13' => { 'youtube' => 'OCK3nx5PQYo', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15468&SectionId=&InitUrl=' }
-  #'2016-09-28' => { 'youtube' => 'fXQYVzhJgVY', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15468&SectionId=&InitUrl=' },
+  # '2016-09-28' => { 'youtube' => 'fXQYVzhJgVY', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15468&SectionId=&InitUrl=' },
 }
 
 all_dispositions = []
@@ -40,7 +40,7 @@ disposition_meta.each do |date, meta|
 
   # Inject Metadata
   disposition.merge!(meta)
-  disposition.merge!({ 'source_json' => date_to_json_url(date) })
+  disposition['source_json'] = date_to_json_url(date)
   all_dispositions << disposition
 
   generated_html = ErbBinding.new(erb_template: erb_template,
