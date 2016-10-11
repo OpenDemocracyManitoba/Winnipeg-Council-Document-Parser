@@ -32,6 +32,10 @@ h3.view-details {
     margin-bottom: 1.5em;
 }
 
+h3.view-details a {
+    text-decoration: underline;
+}
+
 p.work-in-progress {
     margin-top: -1em;
     color: #777;
@@ -74,6 +78,34 @@ header .form-group {
 
 .hidden {
     display: none;
+}
+
+.navbar-brand i,
+.back-top i  {
+    margin-right: 0.5em;
+}
+
+.navbar-header {
+    float: left;
+}
+
+.navbar-header span {
+    display: none;
+}
+
+#navbar {
+    overflow: auto;
+}
+
+#navbar .navbar-nav {
+    float: right;
+    margin-right: 0;
+}
+
+@media (min-width: 720px) {
+    .navbar-header span {
+        display: inline;
+    }
 }
 
 /* ROLL CALL */

@@ -4,31 +4,33 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Winipeg Council Meetings</title>
+    <title>Winipeg Elected - City Council Meeting Dispositions</title>
     <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-theme.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
-    <link rel="stylesheet" href="http://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css">
 </head>
 <body>
     <header class="navbar navbar-inverse navbar-fixed-top">
-        <div class="toggle-nav">
-            <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"></div>
-        </div>
-
-        <a class="navbar-brand" href="#">Winnipeg <span class="lite">City Council</span> Dashboard </a>
-
-        <!--
-        <form class="navbar-form navbar-right hidden-xs">
-            <div class="form-group has-feedback">
-                <input class="form-control" placeholder="Search" type="text">
-                <i class="glyphicon glyphicon-search form-control-feedback"></i>
+        <div class="navbar-header">
+            <div class="toggle-nav">
+                <div class="icon-reorder tooltips" data-original-title="Toggle Navigation" data-placement="bottom"></div>
             </div>
-        </form>
-        -->
+
+            <a class="navbar-brand" href="index.html"><i class="glyphicon glyphicon-home"></i>WinnipegElected.ca <span>- City Council Meeting Dispositions</span></a>
+        </div>
+        <div id="navbar">
+            <ul class="nav navbar-nav">
+                <li class="back-top"><a href="#"><i class="glyphicon glyphicon-arrow-up"></i>Back to Top</a></li>
+            </ul>
+        </div>
     </header>
 
+
     <div class="container-fluid">
+        <h2 class="manual-section">Winnipeg City Council Meeting Dispositions</h2>
+        <p>These visualizations of Winnipeg City Council Dispositions were created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using information from the <a href="http://winnipeg.ca/data">Winnipeg.ca Open Data Portal</a>. See the <a href="#about">bottom of the page for more details...</a></p>
+        <br>
+        <hr>
         
             <h2 class="manual-section"><a href="disposition-2016-07-13.html">Winnipeg City Council Meeting &ndash; 2016-07-13</a></h2>
             <div class="row">
@@ -371,19 +373,34 @@
             </div>
         
         <h2 class="manual-section">About This Website</h2>
-        <div class="about">
+        <div id="about" class="about">
             <h3><i class="glyphicon glyphicon-pencil"></i> &nbsp; How These Documents Were Created</h3>
-            <p>These visualizations of Winnipeg City Council Dispositions were created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using information from the <a href="http://winnipeg.ca/data">Winnipeg.ca Open Data Portal</a>.
-            <p>Dispositions are prepared by the City Clerks' Department using Microsoft Word. Tables are used in the Word Dispositions to structure the council meeting information. Word Dispositions are retrieved by Open Democracy Manitoba from the Winnipeg Open Data Portal and converted, first into JSON (a structured data format) and then into webpages like this one.</a>
+            <p>These visualizations of Winnipeg City Council Dispositions were created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using information from the <a href="http://winnipeg.ca/data">Winnipeg.ca Open Data Portal</a>.</p>
+            <p>Dispositions are prepared by the City Clerks' Department using Microsoft Word. Tables are used in the Word Dispositions to structure the council meeting information. Word Dispositions are retrieved by Open Democracy Manitoba from the Winnipeg Open Data Portal and converted, first into JSON (a structured data format) and then into webpages like this one.</a></p>
             <br><br>
             <h3><i class="glyphicon glyphicon-link"></i> &nbsp; Sources</h3>
             <ul>
-                <li><a href="https://github.com/OpenDemocracyManitoba/Winnipeg-Council-Document-Parser/tree/master/json_dispositions">All JSON Diposition Data Files</a></li>
+                <li><a href="https://github.com/OpenDemocracyManitoba/Winnipeg-Council-Document-Parser/tree/master/json_dispositions">All JSON Disposition Data Files</a></li>
                 <li><a href="https://github.com/OpenDemocracyManitoba/Winnipeg-Council-Document-Parser">Source Code of Programs Used to Convert Dispositions in Web Pages</a></li>
             </ul>
             <p><em>The authoritative source for all Winnipeg City Council Dispositions is the <a href="http://clkapps.winnipeg.ca/dmis/DocSearch.asp?CommitteeType=C&DocumentType=D">Winnipeg Decision Making Information System</a>.</em></p>
+            <br><br>
+            <h3><i class="glyphicon glyphicon-info-sign"></i> &nbsp; Open Democracy Manitoba</h3>
+            <p>Open Democracy Manitoba (ODM) is a community organization that builds online resources with the goal of fostering government accountability, transparency and public education. Our websites are volunteer-run and are operated in the spirit of openness, community and accountability.</p>
+            <p>For more information about our other projects <a href="http://opendemocracymanitoba.ca">visit opendemocracymanitoba.ca</a>.</p>
+
         </div>
     </div>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67716608-1', 'auto');
+  ga('send', 'pageview');
+</script>
 </body>
 </html>
 
