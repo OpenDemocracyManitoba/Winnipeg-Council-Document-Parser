@@ -41,6 +41,10 @@ p.work-in-progress {
     color: #777;
 }
 
+.hidden {
+    display: none;
+}
+
 /* Section Links & About */
 
 .section-links,
@@ -76,9 +80,6 @@ header .form-group {
  margin: 0 15px;
 }
 
-.hidden {
-    display: none;
-}
 
 .navbar-brand i,
 .back-top i  {

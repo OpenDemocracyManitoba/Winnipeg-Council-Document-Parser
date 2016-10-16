@@ -87,21 +87,36 @@
         <h2 class="manual-section" id="navigation">Meeting Dispositions</h2>
         <p class="work-in-progress">
             <i class="glyphicon glyphicon-info-sign"></i> 
-            This section is a work in progress. Many of the forthcoming details are missing or truncated.
+            The follow sections are a work in progress. Many of the forthcoming details are missing or truncated.
             <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see all the disposition details.<% end %>
         </p>
+        <h2 class="manual-section"><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h2>
+        <div class="row">
+        <% @data['reports'].each do |report| %>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <h3><%= report['title'] %></h3>
+                <table class="table table-condensed">
+                    <tr>
+                        <th>Item</th>
+                        <th>Title</th>
+                        <th>Disposition</th>
+                    </tr>
+                <% report['items'].each do |item| %>
+                    <tr>
+                        <td><%= item['number'] %></td>
+                        <td><%= item['title'] %></td>
+                        <td><%= item['disposition'] %></td>
+                    </tr>
+                <% end %>
+                </table>
+            </div>
+        <% end %>
+    </div>
+
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="section-links">
-                    <h3><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h3>
-                    <ul>
-                    <% @data['reports'].each do |report| %>
-                        <li>
-                            &#9679; &nbsp; <%= report['title'] %>
-                        </li>
-                    <% end %>
-                    </ul>
-                    <% unless @data['bylaws_first_reading'].empty? %>
+                                        <% unless @data['bylaws_first_reading'].empty? %>
                         <br>
                         <h3><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws - First Reading</h3>
                         <ul>
