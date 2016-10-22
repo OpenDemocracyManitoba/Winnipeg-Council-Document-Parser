@@ -1,6 +1,8 @@
 require './file_helpers.rb'
 require './erb_binding.rb'
 
+# rubocop:disable Metrics/LineLength
+
 if ARGV.size != 4
   puts 'Missing required arguments.'
   puts 'Example: #{$PROGRAM_NAME} disposition_template index_template input_folder output_folder'
@@ -31,6 +33,8 @@ all_dispositions = []
 def date_to_json_url(date)
   "https://github.com/OpenDemocracyManitoba/Winnipeg-Council-Document-Parser/blob/master/json_dispositions/DISPOSITION-#{date}.json"
 end
+
+# rubocop:enable Metrics/LineLength
 
 disposition_meta.each do |date, meta|
   json_file   = "#{input_folder}/DISPOSITION-#{date}.json"

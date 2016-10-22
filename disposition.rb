@@ -153,9 +153,20 @@ class Disposition
     report_tables = select_tables(REPORT_TITLE)
 
     report_tables.map do |report_table|
-      { title: report_table.rows[0].cells[0].text,
-        items: report_items(report_table) }
+      report_builder(report_table)
     end
+  end
+
+  def report_builder(report_table)
+    title     = report_table.rows[0].cells[0].text
+    date      = Date.parse(title.split('dated').last.strip)
+    committee = title.match(/REPORT OF (.+) dated (.+)/)[1]
+    committee = committee.split(' ').map(&:capitalize).join(' ')
+
+    { title: title,
+      date: date,
+      committee: committee,
+      items: report_items(report_table) }
   end
 
   def report_items(report_table)

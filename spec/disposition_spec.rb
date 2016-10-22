@@ -98,6 +98,16 @@ describe Disposition do
       expect(first_report[:title]).to eq('REPORT OF THE EXECUTIVE POLICY COMMITTEE dated September 16, 2015')
     end
 
+    it 'should correctly identity the date of the first report' do
+      first_report = disposition.reports.first
+      expect(first_report[:date]).to eq(Date.parse('September 16, 2015'))
+    end
+
+    it 'should correctly identity the committee of the first report' do
+      first_report = disposition.reports.first
+      expect(first_report[:committee]).to eq('The Executive Policy Committee')
+    end
+
     it 'should identity the correct number of items in the first report' do
       first_report = disposition.reports.first
       expect(first_report[:items].size).to eq(7)
