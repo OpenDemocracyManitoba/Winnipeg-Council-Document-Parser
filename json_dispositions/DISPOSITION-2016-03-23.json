@@ -28,6 +28,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated March 9, 2016",
+      "date": "2016-03-09",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -53,6 +55,8 @@
     },
     {
       "title": "REPORT “A” OF THE EXECUTIVE POLICY COMMITTEE dated March 16, 2016",
+      "date": "2016-03-16",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -78,6 +82,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated March 14, 2016",
+      "date": "2016-03-14",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -93,6 +99,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated February 22, 2016",
+      "date": "2016-02-22",
+      "committee": "Standing Policy Committee On Innovation",
       "items": [
         {
           "number": "1",
@@ -103,6 +111,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated March 8, 2016",
+      "date": "2016-03-08",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
       "items": [
         {
           "number": "1",
@@ -123,6 +133,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated March 7, 2016 (reconvened March 10 and 11, 2016)",
+      "date": "2016-03-07",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
       "items": [
         {
           "number": "1",

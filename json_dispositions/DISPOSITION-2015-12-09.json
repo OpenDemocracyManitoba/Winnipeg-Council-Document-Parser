@@ -30,6 +30,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated December 9, 2015",
+      "date": "2015-12-09",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -40,6 +42,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 30, 2015",
+      "date": "2015-11-30",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
       "items": [
         {
           "number": "1",
@@ -100,6 +104,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated November 24, 2015",
+      "date": "2015-11-24",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -110,6 +116,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated November 23, 2015",
+      "date": "2015-11-23",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
       "items": [
         {
           "number": "1",

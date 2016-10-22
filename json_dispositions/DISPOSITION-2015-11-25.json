@@ -29,6 +29,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 18, 2015",
+      "date": "2015-11-18",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -74,6 +76,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON DOWNTOWN DEVELOPMENT, HERITAGE AND RIVERBANK MANAGEMENT dated October 5, 2015",
+      "date": "2015-10-05",
+      "committee": "Standing Policy Committee On Downtown Development, Heritage And Riverbank Management",
       "items": [
         {
           "number": "1",
@@ -84,6 +88,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON DOWNTOWN DEVELOPMENT, HERITAGE AND RIVERBANK MANAGEMENT dated November 2, 2015",
+      "date": "2015-11-02",
+      "committee": "Standing Policy Committee On Downtown Development, Heritage And Riverbank Management",
       "items": [
         {
           "number": "1",
@@ -94,6 +100,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 10, 2015",
+      "date": "2015-11-10",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
       "items": [
         {
           "number": "1",
@@ -129,6 +137,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated November 12, 2015",
+      "date": "2015-11-12",
+      "committee": "Standing Policy Committee On Finance",
       "items": [
         {
           "number": "1",
@@ -139,6 +149,8 @@
     },
     {
       "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated November 5, 2015",
+      "date": "2015-11-05",
+      "committee": "Governance Committee Of Council",
       "items": [
         {
           "number": "1",

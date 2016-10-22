@@ -29,6 +29,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated June 29, 2016",
+      "date": "2016-06-29",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -59,6 +61,8 @@
     },
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated July 6, 2016",
+      "date": "2016-07-06",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -109,6 +113,8 @@
     },
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated July 13, 2016",
+      "date": "2016-07-13",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -134,6 +140,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated June 21, 2016",
+      "date": "2016-06-21",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
       "items": [
         {
           "number": "1",
@@ -144,6 +152,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated June 20, 2016",
+      "date": "2016-06-20",
+      "committee": "Standing Policy Committee On Innovation",
       "items": [
         {
           "number": "1",
@@ -154,6 +164,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated July 5, 2016",
+      "date": "2016-07-05",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
       "items": [
         {
           "number": "1",
@@ -299,6 +311,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated July 11, 2016 ",
+      "date": "2016-07-11",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
       "items": [
         {
           "number": "1",
@@ -324,6 +338,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated June 28, 2016",
+      "date": "2016-06-28",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -354,6 +370,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS  dated July 4, 2016",
+      "date": "2016-07-04",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",

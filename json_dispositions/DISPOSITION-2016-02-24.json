@@ -30,6 +30,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 3, 2016",
+      "date": "2016-02-03",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -50,6 +52,8 @@
     },
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 17, 2016",
+      "date": "2016-02-17",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -100,6 +104,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated February 1, 2016",
+      "date": "2016-02-01",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
       "items": [
         {
           "number": "1",
@@ -110,6 +116,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated February 16, 2016",
+      "date": "2016-02-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
       "items": [
         {
           "number": "1",
@@ -200,6 +208,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated February 8, 2016",
+      "date": "2016-02-08",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
       "items": [
         {
           "number": "1",
@@ -215,6 +225,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated February 2, 2016",
+      "date": "2016-02-02",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -230,6 +242,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated February 12, 2016",
+      "date": "2016-02-12",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",

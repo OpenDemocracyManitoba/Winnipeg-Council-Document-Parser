@@ -30,6 +30,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 13, 2016",
+      "date": "2016-04-13",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -70,6 +72,8 @@
     },
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 20, 2016",
+      "date": "2016-04-20",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -115,6 +119,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated April 5, 2016",
+      "date": "2016-04-05",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -125,6 +131,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated April 14, 2016",
+      "date": "2016-04-14",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
       "items": [
         {
           "number": "1",
@@ -145,6 +153,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated February 22, 2016",
+      "date": "2016-02-22",
+      "committee": "Standing Policy Committee On Innovation",
       "items": [
         {
           "number": "1",
@@ -155,6 +165,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated April 12, 2016",
+      "date": "2016-04-12",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
       "items": [
         {
           "number": "1",

@@ -105,7 +105,7 @@ describe Disposition do
 
     it 'should correctly identity the committee of the first report' do
       first_report = disposition.reports.first
-      expect(first_report[:committee]).to eq('The Executive Policy Committee')
+      expect(first_report[:committee]).to eq('Executive Policy Committee')
     end
 
     it 'should identity the correct number of items in the first report' do

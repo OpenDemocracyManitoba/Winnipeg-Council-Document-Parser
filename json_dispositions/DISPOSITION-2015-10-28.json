@@ -30,6 +30,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 14, 2015",
+      "date": "2015-10-14",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -60,6 +62,8 @@
     },
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 21, 2015",
+      "date": "2015-10-21",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -130,6 +134,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION AND COMMUNITY SERVICES dated October 9, 2015",
+      "date": "2015-10-09",
+      "committee": "Standing Policy Committee On Protection And Community Services",
       "items": [
         {
           "number": "1",
@@ -140,6 +146,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated October 6, 2015",
+      "date": "2015-10-06",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -180,6 +188,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT dated October 13, 2015",
+      "date": "2015-10-13",
+      "committee": "Standing Policy Committee On Property And Development",
       "items": [
         {
           "number": "1",
@@ -215,6 +225,8 @@
     },
     {
       "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated October 15, 2015",
+      "date": "2015-10-15",
+      "committee": "Governance Committee Of Council",
       "items": [
         {
           "number": "1",

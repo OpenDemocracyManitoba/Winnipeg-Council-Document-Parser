@@ -29,6 +29,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated September 16, 2015",
+      "date": "2015-09-16",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -69,6 +71,8 @@
     },
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated September 23, 2015",
+      "date": "2015-09-23",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -124,6 +128,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated September 21, 2015",
+      "date": "2015-09-21",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -159,6 +165,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON DOWNTOWN DEVELOPMENT, HERITAGE AND RIVERBANK MANAGEMENT dated  May 25, 2015",
+      "date": "2015-05-25",
+      "committee": "Standing Policy Committee On Downtown Development, Heritage And Riverbank Management",
       "items": [
         {
           "number": "1",
@@ -169,6 +177,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON DOWNTOWN DEVELOPMENT, HERITAGE AND RIVERBANK MANAGEMENT dated September 21, 2015",
+      "date": "2015-09-21",
+      "committee": "Standing Policy Committee On Downtown Development, Heritage And Riverbank Management",
       "items": [
         {
           "number": "1",
@@ -184,6 +194,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT dated September 15, 2015",
+      "date": "2015-09-15",
+      "committee": "Standing Policy Committee On Property And Development",
       "items": [
         {
           "number": "1",
@@ -269,6 +281,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION AND COMMUNITY SERVICES dated September 14, 2015",
+      "date": "2015-09-14",
+      "committee": "Standing Policy Committee On Protection And Community Services",
       "items": [
         {
           "number": "1",

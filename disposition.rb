@@ -160,7 +160,7 @@ class Disposition
   def report_builder(report_table)
     title     = report_table.rows[0].cells[0].text
     date      = Date.parse(title.split('dated').last.strip)
-    committee = title.match(/REPORT OF (.+) dated (.+)/)[1]
+    committee = title.match(/REPORT.+OF THE (.+) dated (.+)/)[1]
     committee = committee.split(' ').map(&:capitalize).join(' ')
 
     { title: title,

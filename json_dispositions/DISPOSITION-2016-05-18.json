@@ -29,6 +29,8 @@
   "reports": [
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated May 4, 2016",
+      "date": "2016-05-04",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -49,6 +51,8 @@
     },
     {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated May 11, 2016",
+      "date": "2016-05-11",
+      "committee": "Executive Policy Committee",
       "items": [
         {
           "number": "1",
@@ -99,6 +103,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated May 10, 2016",
+      "date": "2016-05-10",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
       "items": [
         {
           "number": "1",
@@ -149,6 +155,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated May 9, 2016",
+      "date": "2016-05-09",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
       "items": [
         {
           "number": "1",
@@ -159,6 +167,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated May 3, 2016",
+      "date": "2016-05-03",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
       "items": [
         {
           "number": "1",
@@ -169,6 +179,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated April 14, 2016",
+      "date": "2016-04-14",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
       "items": [
         {
           "number": "2",
@@ -179,6 +191,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated May 2, 2016",
+      "date": "2016-05-02",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
       "items": [
         {
           "number": "1",
@@ -189,6 +203,8 @@
     },
     {
       "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated April 18, 2016",
+      "date": "2016-04-18",
+      "committee": "Standing Policy Committee On Innovation",
       "items": [
         {
           "number": "1",
