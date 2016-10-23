@@ -220,7 +220,7 @@
                     <ul>
                     <% @data['conflict_of_interest_declarations'].each do |conflict| %>
                         <li>
-                        &#9679; &nbsp; <%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %>
+                        <%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %>
                         </li>
                     <% end %>
                     </ul>
