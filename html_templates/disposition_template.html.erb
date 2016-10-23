@@ -87,7 +87,7 @@
         <h2 class="manual-section" id="navigation">Meeting Dispositions</h2>
         <p class="work-in-progress">
             <i class="glyphicon glyphicon-info-sign"></i> 
-            The follow sections are a work in progress. Some details are missing or truncated. Improved navigation to come.
+            The follow sections are a work in progress. Improved navigation to come. Use Ctrl-F to search for reports, motions and by laws.
             <br><br>
             <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see all the disposition details.<% end %>
         </p>
@@ -203,30 +203,34 @@
 
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <div class="section-links">
-                    <% unless @data['recorded_votes'].empty? %>
-                        <br>
-                        <h3><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h3>
-                        <ul>
-                        <% @data['recorded_votes'].each do |vote| %>
-                            <li>
-                                &#9679; &nbsp; <%= vote['subject'] %>
-                            </li>
-                        <% end %>
-                        </ul>
+                <% unless @data['recorded_votes'].empty? %>
+                    <br>
+                    <h2><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h2>
+                    <ul>
+                    <% @data['recorded_votes'].each do |vote| %>
+                        <li>
+                            <%= vote['subject'] %>
+                        </li>
                     <% end %>
-                    <% unless @data['conflict_of_interest_declarations'].empty? %>
-                        <br>
-                        <h3><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Conflict of Interest Declarations</h3>
-                        <ul>
-                        <% @data['conflict_of_interest_declarations'].each do |conflict| %>
-                            <li>
-                            &#9679; &nbsp; <%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %>
-                            </li>
-                        <% end %>
-                        </ul>
+                    </ul>
+                <% end %>
+                <% unless @data['conflict_of_interest_declarations'].empty? %>
+                    <br>
+                    <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Conflict of Interest Declarations</h2>
+                    <ul>
+                    <% @data['conflict_of_interest_declarations'].each do |conflict| %>
+                        <li>
+                        &#9679; &nbsp; <%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %>
+                        </li>
                     <% end %>
-                </div>
+                    </ul>
+                <% end %>
+                <br>
+                <p class="work-in-progress">
+                    <i class="glyphicon glyphicon-info-sign"></i> Some details are not yet being displayed.
+                    <br><br>
+                    <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see all the disposition details.<% end %>
+                </p>
             </div>
         </div>
         <div class='sections row'>
