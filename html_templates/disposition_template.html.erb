@@ -64,10 +64,10 @@
                     <h3><i class="glyphicon glyphicon-user"></i> &nbsp; Council Attendance</h3>
                     <% @data['attendance']['council'].each do |attendee| %>
                         <%
-                            image_name = attendee.split(' ').last(2).join('_')
+                            image_name = attendee.split(' ').last(2).join('_') + '.jpg'
                         %>
                         <div class="attendee">
-                            <img src="images/<%= image_name %>.jpg">
+                            <img src="images/<%= image_name %>" alt="<%= attendee %>">
                             <p><%= attendee %></p>
                         </div>
                     <% end %>
@@ -87,78 +87,123 @@
         <h2 class="manual-section" id="navigation">Meeting Dispositions</h2>
         <p class="work-in-progress">
             <i class="glyphicon glyphicon-info-sign"></i> 
-            The follow sections are a work in progress. Many of the forthcoming details are missing or truncated.
+            The follow sections are a work in progress. Some details are missing or truncated. Improved navigation to come.
+            <br><br>
             <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see all the disposition details.<% end %>
         </p>
-        <h2 class="manual-section"><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h2>
         <div class="row">
-        <% @data['reports'].each do |report| %>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <h3><%= report['title'] %></h3>
-                <table class="table table-condensed">
-                    <tr>
-                        <th>Item</th>
-                        <th>Title</th>
-                        <th>Disposition</th>
-                    </tr>
-                <% report['items'].each do |item| %>
-                    <tr>
-                        <td><%= item['number'] %></td>
-                        <td><%= item['title'] %></td>
-                        <td><%= item['disposition'] %></td>
-                    </tr>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section"><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h2>
+                <% @data['reports'].each do |report| %>
+                    <h3><%= report['committee'] %> <span class="small"><%= report['date'] %></span></h3>
+                        <table class="table table-condensed report-table">
+                            <thead>
+                                <tr>
+                                    <th>#</th>
+                                    <th>Title</th>
+                                    <th>Disposition</th>
+                                </tr>
+                            </thead>
+                            <% report['items'].each do |item| %>
+                                <tr>
+                                    <td><%= item['number'] %></td>
+                                    <td><%= item['title'] %></td>
+                                    <td><%= item['disposition'] %></td>
+                                </tr>
+                            <% end %>
+                        </table>
                 <% end %>
-                </table>
             </div>
-        <% end %>
-    </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section"><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h2>
+                <% if @data['notice_of_motions'].any? %>
+                    <h3>Notice of Motion</h3>
+                    <table class="table table-condensed notice-table">
+                        <tr>
+                            <th>Movers</th>
+                            <th>Subject</th>
+                            <th>Disposition</th>
+                        </tr>
+                        <% @data['notice_of_motions'].each do |motion| %>
+                            <tr>
+                                <td><%= motion['movers'].join(', ') %></td>
+                                <td><%= motion['subject'] %></td>
+                                <td><%= motion['disposition'] %></td>
+                            </tr>
+                        <% end %>
+                    </table>
+                <% end %>
+                <h3>Council Motions</h3>
+                <% if @data['motions'].empty? %>
+                    <p>No motions were made.</p>
+                <% else %>
+                    <table class="table table-condensed motion-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Movers</th>
+                                <th>Subject</th>
+                                <th>Disposition</th>
+                            </tr>
+                        </thead>
+                        <% @data['motions'].each do |motion| %>
+                            <tr>
+                                <td><%= motion['number'] %></td>
+                                <td><%= motion['movers'].join(', ') %></td>
+                                <td><%= motion['subject'] %></td>
+                                <td><%= motion['disposition'] %></td>
+                            </tr>
+                        <% end %>
+                    </table>
+                <% end %>
+            </div>
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws</h2>
+                <% if @data['bylaws_first_reading'].any? %>
+                    <h3>By Laws - First Reading</h3>
+                    <table class="table table-condensed motion-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Subject</th>
+                                <th>Disposition</th>
+                            </tr>
+                        </thead>
+                        <% @data['bylaws_first_reading'].each do |bylaw| %>
+                            <tr>
+                                <td><%= bylaw['number'] %></td>
+                                <td><%= bylaw['subject'] %></td>
+                                <td><%= bylaw['disposition'] %></td>
+                            </tr>
+                        <% end %>
+                    </table>
+                <% end %>
+                <% if @data['bylaws_passed'].any? %>
+                    <h3>By Laws - 3rd Reading</h3>
+                    <table class="table table-condensed motion-table">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Subject</th>
+                                <th>Disposition</th>
+                            </tr>
+                        </thead>
+                        <% @data['bylaws_passed'].each do |bylaw| %>
+                            <tr>
+                                <td><%= bylaw['number'] %></td>
+                                <td><%= bylaw['subject'] %></td>
+                                <td><%= bylaw['disposition'] %></td>
+                            </tr>
+                        <% end %>
+                    </table>
+
+                <% end %>
+            </div>
+        </div>
 
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <div class="section-links">
-                                        <% unless @data['bylaws_first_reading'].empty? %>
-                        <br>
-                        <h3><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws - First Reading</h3>
-                        <ul>
-                        <% @data['bylaws_first_reading'].each do |report| %>
-                            <li>
-                                &#9679; &nbsp; <%= report['subject'] %>
-                            </li>
-                        <% end %>
-                        </ul>
-                    <% end %>
-                    <br>
-                    <h3><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws - 3rd Reading</h3>
-                    <ul>
-                    <% @data['bylaws_passed'].each do |report| %>
-                        <li>
-                            &#9679; &nbsp; <%= report['subject'] %>
-                        </li>
-                    <% end %>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <div class="section-links">
-                    <% unless @data['notice_of_motions'].empty? %>
-                        <h3><i class="glyphicon glyphicon-send"></i> &nbsp; Notice of Motions</h3>
-                        <ul>
-                        <% @data['notice_of_motions'].each do |motion| %>
-                            <li>
-                                &#9679; &nbsp; <%= motion['subject'] %>
-                            </li>
-                        <% end %>
-                        </ul>
-                        <br>
-                    <% end %>
-                    <h3><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h3>
-                    <ul>
-                    <% @data['motions'].each do |motion| %>
-                        <li>
-                            &#9679; &nbsp; <%= motion['subject'] %>
-                        </li>
-                    <% end %>
-                    </ul>
                     <% unless @data['recorded_votes'].empty? %>
                         <br>
                         <h3><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h3>
@@ -198,7 +243,7 @@
                 <div class="about">
                     <h3><i class="glyphicon glyphicon-pencil"></i> &nbsp; How This Document Was Created</h3>
                     <p>This visualization of the <%= @data['meeting_date'] %> Winnipeg City Council Disposition was created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using information from the <a href="http://data.winnipeg.ca">Winnipeg.ca Open Data Portal</a>.
-                    <p>Dispositions are prepared by the City Clerks' Department using Microsoft Word. Tables are used in the Word Dispositions to structure the council meeting information. Word Dispositions are retrieved by Open Democracy Manitoba from the Winnipeg Open Data Portal and converted, first into JSON (a structured data format) and then into webpages like this one.</a>
+                    <p>Dispositions are prepared by the City Clerks' Department using Microsoft Word. Tables are used in the Word Dispositions to structure the council meeting information. Word Dispositions are retrieved by Open Democracy Manitoba from the Winnipeg Open Data Portal and converted, first into JSON (a structured data format) and then into webpages like this one.</p>
                     <br><br>
                     <h3><i class="glyphicon glyphicon-link"></i> &nbsp; Sources</h3>
                     <ul>
