@@ -26,7 +26,7 @@
     </header>
 
     <div class="container-fluid">
-        <h2 class="manual-section">Winnipeg City Council Meeting &ndash; <%= @data['meeting_date'] %></h2>
+        <h2 class="manual-section">Winnipeg City Council Meeting on <%= DateTime.parse(@data['meeting_date']).strftime('%B %d, %Y') %></h2>
         <div class="row">
             <div class="reports-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
                 <div class="info-box">
@@ -87,9 +87,9 @@
         <h2 class="manual-section" id="navigation">Meeting Dispositions</h2>
         <p class="work-in-progress">
             <i class="glyphicon glyphicon-info-sign"></i> 
-            The follow sections are a work in progress. Improved navigation to come. Use Ctrl-F to search for reports, motions and by laws.
+            The follow sections are a work in progress. Improved navigation and better text formatting to come. Use Ctrl-F to search for reports, motions and by laws.
             <br><br>
-            <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see all the disposition details.<% end %>
+            <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see full disposition details.<% end %>
         </p>
         <div class="row">
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -206,30 +206,28 @@
                 <% unless @data['recorded_votes'].empty? %>
                     <br>
                     <h2><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h2>
-                    <ul>
                     <% @data['recorded_votes'].each do |vote| %>
-                        <li>
-                            <%= vote['subject'] %>
-                        </li>
+                        <h3><%= vote['subject'] %></h3>
+                        <h4>Outcome of Vote: <%= vote['disposition'] %></h4>
+                        <p><strong>Yeas / For:</strong> <%= vote['yeas'].join(', ') %></p>
+                        <p><strong>Nays / Against:</strong> <%= vote['nays'].join(', ') %></p>
                     <% end %>
-                    </ul>
                 <% end %>
                 <% unless @data['conflict_of_interest_declarations'].empty? %>
                     <br>
                     <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Conflict of Interest Declarations</h2>
-                    <ul>
                     <% @data['conflict_of_interest_declarations'].each do |conflict| %>
-                        <li>
-                        <%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %>
-                        </li>
+                        <h4><%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %></h4>
                     <% end %>
-                    </ul>
                 <% end %>
                 <br>
                 <p class="work-in-progress">
-                    <i class="glyphicon glyphicon-info-sign"></i> Some details are not yet being displayed.
-                    <br><br>
-                    <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see all the disposition details.<% end %>
+                    <% if @data['dmis'] %>
+                        <i class="glyphicon glyphicon-info-sign"></i> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see all the disposition details.
+                        <br>
+                        <br>
+                        <br>
+                    <% end %>
                 </p>
             </div>
         </div>

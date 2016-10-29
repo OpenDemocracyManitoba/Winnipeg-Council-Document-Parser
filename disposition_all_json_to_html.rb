@@ -1,5 +1,6 @@
 require './file_helpers.rb'
 require './erb_binding.rb'
+require 'date'
 
 # rubocop:disable Metrics/LineLength
 

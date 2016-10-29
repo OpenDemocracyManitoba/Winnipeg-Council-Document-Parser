@@ -27,12 +27,17 @@
 
 
     <div class="container-fluid">
+        <div class="index-intro">
+            <p>Winnipeg City Council decisions on reports, motions and by laws.</p>
+            <p>This website was created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using the official dispositions from <a href="http://data.winnipeg.ca">data.winnipeg.ca</a>.</p>
+            <br>
+            <p>Only regular council meetings are shown. Special council meetings can be found <a href="http://clkapps.winnipeg.ca/DMIS/DocSearch.asp?CommitteeType=C&DocumentType=D" title="Winnipeg.ca Decision Making Information System">in PDF format on the City's DMIS site</a>.
+            <p>Please see the <a href="#about">bottom of the page for project details.</a></p>
+        </div>
         <h2 class="manual-section">Winnipeg City Council Meeting Dispositions</h2>
-        <p>These visualizations of Winnipeg City Council Dispositions were created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using information from the <a href="http://data.winnipeg.ca">Winnipeg.ca Open Data Portal</a>. See the <a href="#about">bottom of the page for more details...</a></p>
-        <br>
         <hr>
         <% @data.each do |disposition| %>
-            <h2 class="manual-section"><a href="disposition-<%= disposition['meeting_date'] %>.html">Winnipeg City Council Meeting &ndash; <%= disposition['meeting_date'] %></a></h2>
+            <h2 class="manual-section"><a href="disposition-<%= disposition['meeting_date'] %>.html"><%= DateTime.parse(disposition['meeting_date']).strftime('%B %d, %Y') %></a></h2>
             <div class="row">
                 <div class="reports-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
                     <div class="info-box">

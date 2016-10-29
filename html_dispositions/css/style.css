@@ -355,4 +355,13 @@ blockquote {
     width: 16%;
 }
 
+/* INDEX PAGE */
 
+.index-intro {
+    margin-bottom: 3em;
+    font-size: 1.4em;
+}
+
+.index-intro p:first-child {
+    font-weight: bold;
+}
