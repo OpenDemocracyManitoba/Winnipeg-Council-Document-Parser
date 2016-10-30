@@ -355,6 +355,17 @@ blockquote {
     width: 16%;
 }
 
+/* RECORDED VOTES */
+
+.recorded_vote img {
+    height: 60px;
+    width: 49px;
+}
+
+.recorded_vote  {
+    margin-bottom: 3em;
+}
+
 /* INDEX PAGE */
 
 .index-intro {

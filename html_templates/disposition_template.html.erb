@@ -63,11 +63,8 @@
                 <div class="roll_call">
                     <h3><i class="glyphicon glyphicon-user"></i> &nbsp; Council Attendance</h3>
                     <% @data['attendance']['council'].each do |attendee| %>
-                        <%
-                            image_name = attendee.split(' ').last(2).join('_') + '.jpg'
-                        %>
                         <div class="attendee">
-                            <img src="images/<%= image_name %>" alt="<%= attendee %>">
+                            <img src="images/<%= @data.image_filename(attendee) %>" alt="<%= attendee %>">
                             <p><%= attendee %></p>
                         </div>
                     <% end %>
@@ -207,10 +204,24 @@
                     <br>
                     <h2><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h2>
                     <% @data['recorded_votes'].each do |vote| %>
-                        <h3><%= vote['subject'] %></h3>
-                        <h4>Outcome of Vote: <%= vote['disposition'] %></h4>
-                        <p><strong>Yeas / For:</strong> <%= vote['yeas'].join(', ') %></p>
-                        <p><strong>Nays / Against:</strong> <%= vote['nays'].join(', ') %></p>
+                        <div class="recorded_vote">
+                            <h3><%= vote['subject'] %></h3>
+                            <h4>Outcome of Vote: <%= vote['disposition'] %></h4>
+                            <h4>Yeas / For (<%= vote['yeas'].size %>)</h4> 
+                            <p>
+                                <% vote['yeas'].each do |yea| %>
+                                    <img src="images/<%= @data.image_filename(yea) %>" alt="<%= yea %>" title="<%= yea %>">
+                                <% end %>
+                            </p>
+                            <p><%= vote['yeas'].join(', ') %></p>
+                            <h4>Nays / Against (<%= vote['nays'].size %>)</h4> 
+                            <p>
+                                <% vote['nays'].each do |nay| %>
+                                    <img src="images/<%= @data.image_filename(nay) %>" alt="<%= nay %>" title="<%= nay %>">
+                                <% end %>
+                            </p>
+                            <p><%= vote['nays'].join(', ') %></p>
+                        </div>
                     <% end %>
                 <% end %>
                 <% unless @data['conflict_of_interest_declarations'].empty? %>
