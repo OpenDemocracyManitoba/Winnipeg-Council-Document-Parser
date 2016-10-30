@@ -1,5 +1,6 @@
 require './file_helpers.rb'
 require './erb_binding.rb'
+require './disposition_presenter.rb'
 
 if ARGV.size != 2
   puts 'Missing required arguments.'
@@ -7,7 +8,7 @@ if ARGV.size != 2
   exit
 end
 
-disposition  = json_disposition_from_file(ARGV[0])
+disposition  = DispositionPresenter.new(json_disposition_from_file(ARGV[0]))
 erb_template = erb_template_from_file(ARGV[1])
 
 generated_html = ErbBinding.new(erb_template: erb_template,

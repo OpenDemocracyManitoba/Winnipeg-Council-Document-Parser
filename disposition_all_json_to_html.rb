@@ -1,6 +1,6 @@
 require './file_helpers.rb'
 require './erb_binding.rb'
-require 'date'
+require './disposition_presenter.rb'
 
 # rubocop:disable Metrics/LineLength
 
@@ -41,11 +41,12 @@ disposition_meta.each do |date, meta|
   json_file   = "#{input_folder}/DISPOSITION-#{date}.json"
   html_file   = "#{output_folder}/disposition-#{date}.html"
 
-  disposition = json_disposition_from_file(json_file)
+  disposition_hash = json_disposition_from_file(json_file)
 
   # Inject Metadata
-  disposition.merge!(meta)
-  disposition['source_json'] = date_to_json_url(date)
+  disposition_hash.merge!(meta)
+  disposition_hash['source_json'] = date_to_json_url(date)
+  disposition = DispositionPresenter.new(disposition_hash)
   all_dispositions << disposition
 
   generated_html = ErbBinding.new(erb_template: erb_template,

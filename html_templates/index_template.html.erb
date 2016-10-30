@@ -37,7 +37,7 @@
         <h2 class="manual-section">Winnipeg City Council Meeting Dispositions</h2>
         <hr>
         <% @data.each do |disposition| %>
-            <h2 class="manual-section"><a href="disposition-<%= disposition['meeting_date'] %>.html"><%= DateTime.parse(disposition['meeting_date']).strftime('%B %d, %Y') %></a></h2>
+            <h2 class="manual-section"><a href="disposition-<%= disposition['meeting_date'] %>.html"><%= disposition.humanized_meeting_date %></h2>
             <div class="row">
                 <div class="reports-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
                     <div class="info-box">
