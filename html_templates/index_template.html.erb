@@ -67,7 +67,7 @@
                         <h3>Recorded Votes</h3>
                     </div>
                 </div>
-                <h3 class="view-details"><a href="disposition-<%= disposition['meeting_date'] %>.html">View Details of the <%= DateTime.parse(disposition['meeting_date']).strftime('%B %d, %Y') %> Council Meeting</a></h3>
+                <h3 class="view-details"><a href="disposition-<%= disposition['meeting_date'] %>.html">View Details of the <%= disposition.humanized_meeting_date %> Council Meeting</a></h3>
                 <hr>
             </div>
         <% end %>
