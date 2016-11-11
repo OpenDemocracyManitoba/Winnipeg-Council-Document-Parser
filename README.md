@@ -15,17 +15,26 @@ Ruby methods exist to extract:
 * Recorded Votes
 * Conflict of Interest Declarations
 
+Scripts exist to:
+
+* Download all available DOCX Disposition From Wpg Open Data Portal
+* Convert DOCX Dispositions to JSON Format
+* Convert JSON Dispositions to Web Pages for WinnipegElected.ca
+
 ### To Do
 
-* ~~Docx Disposition Download Script~~
-* ~~Download all available docx dispositions.~~
-* ~~Change recorded vote members in all docx dispositions from tables to paragraphs.~~
-* ~~Change conflict of interest declaration members in all docx dispositoins from tables to paragraphs.~~
-* ~~Docx Disposition to JSON Script~~
+* Make Top Tiles Links to Sub-Sections
+* Add images of "Movers" to Council Motions
+* Style Recorded Votes with Icons and Colours for Web Dispositions
+* Colourize Disposition Column for Reports, Motions, ByLaws
 * Pre-process all Docx Disposition tables to remove blank rows.
-* JSON to HTML5 Disposition Viewer
 
 ### Changes Made to Official Disposition Docx Files
+
+When downloading new Disposition Docx files:
+
+* Change recorded vote members in all docx dispositions from tables to paragraphs.
+* Change conflict of interest declaration members in all docx dispositoins from tables to paragraphs.
 
 * *September 30, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *October 28, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text

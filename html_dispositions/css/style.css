@@ -37,8 +37,9 @@ h3.view-details a {
 }
 
 p.work-in-progress {
-    margin-top: -1em;
+    margin-bottom: 2em;
     color: #777;
+    font-size: 1.2em;
 }
 
 .hidden {
