@@ -7,7 +7,7 @@
     <title>Winnipeg Elected - <%= @data['meeting_date'] %> Council Meeting Disposition</title>
     <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-theme.min.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css?3">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css?4">
 </head>
 <body>
     <header class="navbar navbar-inverse navbar-fixed-top">
@@ -29,34 +29,49 @@
         <h2 class="manual-section">Winnipeg City Council Meeting on <%= @data.humanized_meeting_date %></h2>
         <div class="row">
             <div class="reports-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-book"></i>
-                    <p><%= @data['reports'].size  %></p>
-                    <h3>Reports</h3>
-                </div>
+                <a href="#reports">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-book"></i>
+                        <p><%= @data['reports'].size  %></p>
+                        <h3>Reports</h3>
+                    </div>
+                </a>
             </div>
             <div class="motion-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-send"></i>
-                    <p><%= @data['motions'].size + @data['notice_of_motions'].size  %></p>
-                    <h3>Motions</h3>
-                </div>
+                <a href="#motions">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-send"></i>
+                        <p><%= @data['motions'].size + @data['notice_of_motions'].size  %></p>
+                        <h3>Motions</h3>
+                    </div>
+                </a>
             </div>
             <div class="by-law-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-list-alt"></i>
-                    <p><%= @data['bylaws_first_reading'].size + @data['bylaws_passed'].size %></p>
-                    <h3>By Laws Read</h3>
-                </div>
+                <a href="#bylaws">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-list-alt"></i>
+                        <p><%= @data['bylaws_first_reading'].size + @data['bylaws_passed'].size %></p>
+                        <h3>By Laws Read</h3>
+                    </div>
+                </a>
             </div>
             <div class="recorded-vote-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-ok-circle"></i>
-                    <p><%= @data['recorded_votes'].size %></p>
-                    <h3>Recorded Votes</h3>
-                </div>
+                <a href="#votes">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-ok-circle"></i>
+                        <p><%= @data['recorded_votes'].size %></p>
+                        <h3>Recorded Votes</h3>
+                    </div>
+                </a>
             </div>
         </div>
+        <p class="work-in-progress">
+            <i class="glyphicon glyphicon-info-sign"></i> 
+            Improved navigation and better text formatting to come. Computer users can Ctrl-F to search for reports, motions and by laws.
+            <br><br>
+            <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see full disposition details.<% end %> <a href="about">Project details at the bottom of the page.</a>
+            <br><br>
+        </p>
         <h2 class="manual-section">Attendance</h2>
         <div class="row">
             <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
@@ -81,16 +96,9 @@
                 </div>
             </div>
         </div>
-        <h2 class="manual-section" id="navigation">Meeting Dispositions</h2>
-        <p class="work-in-progress">
-            <i class="glyphicon glyphicon-info-sign"></i> 
-            The follow sections are a work in progress. Improved navigation and better text formatting to come. Use Ctrl-F to search for reports, motions and by laws.
-            <br><br>
-            <% if @data['dmis'] %> View the <a href="<%= @data['dmis'] %>">PDF version of the <%= @data['meeting_date'] %> disposition</a> to see full disposition details.<% end %>
-        </p>
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h2 class="manual-section"><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h2>
+            <div id="reports" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section linked"><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h2>
                 <% @data['reports'].each do |report| %>
                     <h3><%= report['committee'] %> <span class="small"><%= report['date'] %></span></h3>
                         <table class="table table-condensed report-table">
@@ -111,8 +119,8 @@
                         </table>
                 <% end %>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h2 class="manual-section"><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h2>
+            <div id="motions" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section linked"><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h2>
                 <% if @data['notice_of_motions'].any? %>
                     <h3>Notice of Motion</h3>
                     <table class="table table-condensed notice-table">
@@ -154,8 +162,8 @@
                     </table>
                 <% end %>
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h2><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws</h2>
+            <div id="bylaws" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section linked"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws</h2>
                 <% if @data['bylaws_first_reading'].any? %>
                     <h3>By Laws - First Reading</h3>
                     <table class="table table-condensed motion-table">
@@ -199,10 +207,9 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div id="votes" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 <% unless @data['recorded_votes'].empty? %>
-                    <br>
-                    <h2><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h2>
+                    <h2 class="manual-section linked"><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h2>
                     <% @data['recorded_votes'].each do |vote| %>
                         <div class="recorded_vote">
                             <h3><%= vote['subject'] %></h3>
@@ -225,8 +232,7 @@
                     <% end %>
                 <% end %>
                 <% unless @data['conflict_of_interest_declarations'].empty? %>
-                    <br>
-                    <h2><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Conflict of Interest Declarations</h2>
+                    <h2 class="manual-section linked" ><i class="glyphicon glyphicon-ok-sign"></i> &nbsp; Conflict of Interest Declarations</h2>
                     <% @data['conflict_of_interest_declarations'].each do |conflict| %>
                         <h4><%= conflict['members'].join(' - ') %> - <%= conflict['subject'] %></h4>
                     <% end %>
@@ -252,7 +258,7 @@
             </div>
             <% end %>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <h2 class="manual-section">ABOUT THIS DOCUMENT</h2>
+                <h2 id="about" class="manual-section">ABOUT THIS DOCUMENT</h2>
                 <div class="about">
                     <h3><i class="glyphicon glyphicon-pencil"></i> &nbsp; How This Document Was Created</h3>
                     <p>This visualization of the <%= @data['meeting_date'] %> Winnipeg City Council Disposition was created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using information from the <a href="http://data.winnipeg.ca">Winnipeg.ca Open Data Portal</a>.

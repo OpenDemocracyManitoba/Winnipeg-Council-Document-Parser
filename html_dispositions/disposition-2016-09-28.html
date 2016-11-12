@@ -7,7 +7,7 @@
     <title>Winnipeg Elected - 2016-09-28 Council Meeting Disposition</title>
     <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap-theme.min.css">
-    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css?3">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css?4">
 </head>
 <body>
     <header class="navbar navbar-inverse navbar-fixed-top">
@@ -29,34 +29,49 @@
         <h2 class="manual-section">Winnipeg City Council Meeting on September 28, 2016</h2>
         <div class="row">
             <div class="reports-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-book"></i>
-                    <p>8</p>
-                    <h3>Reports</h3>
-                </div>
+                <a href="#reports">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-book"></i>
+                        <p>8</p>
+                        <h3>Reports</h3>
+                    </div>
+                </a>
             </div>
             <div class="motion-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-send"></i>
-                    <p>8</p>
-                    <h3>Motions</h3>
-                </div>
+                <a href="#motions">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-send"></i>
+                        <p>8</p>
+                        <h3>Motions</h3>
+                    </div>
+                </a>
             </div>
             <div class="by-law-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-list-alt"></i>
-                    <p>16</p>
-                    <h3>By Laws Read</h3>
-                </div>
+                <a href="#bylaws">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-list-alt"></i>
+                        <p>16</p>
+                        <h3>By Laws Read</h3>
+                    </div>
+                </a>
             </div>
             <div class="recorded-vote-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                <div class="info-box">
-                    <i class="glyphicon glyphicon-ok-circle"></i>
-                    <p>1</p>
-                    <h3>Recorded Votes</h3>
-                </div>
+                <a href="#votes">
+                    <div class="info-box">
+                        <i class="glyphicon glyphicon-ok-circle"></i>
+                        <p>1</p>
+                        <h3>Recorded Votes</h3>
+                    </div>
+                </a>
             </div>
         </div>
+        <p class="work-in-progress">
+            <i class="glyphicon glyphicon-info-sign"></i> 
+            Improved navigation and better text formatting to come. Computer users can Ctrl-F to search for reports, motions and by laws.
+            <br><br>
+             View the <a href="http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15468&SectionId=&InitUrl=">PDF version of the 2016-09-28 disposition</a> to see full disposition details. <a href="about">Project details at the bottom of the page.</a>
+            <br><br>
+        </p>
         <h2 class="manual-section">Attendance</h2>
         <div class="row">
             <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
@@ -164,16 +179,9 @@
                 </div>
             </div>
         </div>
-        <h2 class="manual-section" id="navigation">Meeting Dispositions</h2>
-        <p class="work-in-progress">
-            <i class="glyphicon glyphicon-info-sign"></i> 
-            The follow sections are a work in progress. Improved navigation and better text formatting to come. Use Ctrl-F to search for reports, motions and by laws.
-            <br><br>
-             View the <a href="http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15468&SectionId=&InitUrl=">PDF version of the 2016-09-28 disposition</a> to see full disposition details.
-        </p>
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h2 class="manual-section"><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h2>
+            <div id="reports" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section linked"><i class="glyphicon glyphicon-book"></i> &nbsp; Reports</h2>
                 
                     <h3>Executive Policy Committee <span class="small">2016-09-14</span></h3>
                         <table class="table table-condensed report-table">
@@ -572,8 +580,8 @@
                         </table>
                 
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h2 class="manual-section"><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h2>
+            <div id="motions" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section linked"><i class="glyphicon glyphicon-send"></i> &nbsp; Motions</h2>
                 
                 <h3>Council Motions</h3>
                 
@@ -646,8 +654,8 @@
                     </table>
                 
             </div>
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <h2><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws</h2>
+            <div id="bylaws" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <h2 class="manual-section linked"><i class="glyphicon glyphicon-list-alt"></i> &nbsp; By Laws</h2>
                 
                 
                     <h3>By Laws - 3rd Reading</h3>
@@ -763,10 +771,9 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <div id="votes" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                 
-                    <br>
-                    <h2><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h2>
+                    <h2 class="manual-section linked"><i class="glyphicon glyphicon-ok-circle"></i> &nbsp; Recorded Votes</h2>
                     
                         <div class="recorded_vote">
                             <h3>Report of the Executive Policy Committee dated September 14, 2016 – Item 4 - Loan Guarantee Policy</h3>
@@ -838,7 +845,7 @@
             </div>
             
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                <h2 class="manual-section">ABOUT THIS DOCUMENT</h2>
+                <h2 id="about" class="manual-section">ABOUT THIS DOCUMENT</h2>
                 <div class="about">
                     <h3><i class="glyphicon glyphicon-pencil"></i> &nbsp; How This Document Was Created</h3>
                     <p>This visualization of the 2016-09-28 Winnipeg City Council Disposition was created by <a href="http://opendemocracymanitoba.ca">Open Democracy Manitoba</a> using information from the <a href="http://data.winnipeg.ca">Winnipeg.ca Open Data Portal</a>.

@@ -22,6 +22,11 @@ h2.manual-section {
     margin: 0.5em 0 1em 0;
 }
 
+h2.manual-section.linked {
+    margin-top: 0em;
+    padding-top: 2em;
+}
+
 h2.manual-section a {
     color: #444;
 }
@@ -37,7 +42,6 @@ h3.view-details a {
 }
 
 p.work-in-progress {
-    margin-bottom: 2em;
     color: #777;
     font-size: 1.2em;
 }
