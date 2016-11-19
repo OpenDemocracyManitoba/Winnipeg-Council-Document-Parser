@@ -1,0 +1,594 @@
+{
+  "meeting_date": "2016-10-26",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Mr. C. Gameiro, Manager of the Decision Making Process",
+      "Ms D. Watt, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 12, 2016",
+      "date": "2016-10-12",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Memorandum of Understanding with YMCA-YWCA – Three Model Expansion Partnership",
+          "disposition": "FOR REPORT BACK IN 30 DAYS"
+        },
+        {
+          "number": "2",
+          "title": "Agreement between Canadian Centre for Child Protection Inc. and The City of Winnipeg",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Federal Funding for the Intergovernmental Strategic Aboriginal Alignment (ISAA) Working Group Coordinator",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 19, 2016",
+      "date": "2016-10-19",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Initiation of the OurWinnipeg Review Process",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Funding Contribution for Jurisdictional Economic Advantage Assessment",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Amendment to SHED TIF Zone By-law No. 98/2012 to remove three properties from the Sports, Hospitality and Entertainment District (SHED)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Agreement to establish the Winnipeg Police Service School Resource Officer Program in the Louis Riel School Division",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Implementation of an Impact Fee",
+          "disposition": "AMENDED AND ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Annual Evaluations of City Council’s Four Statutory Officers",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "7",
+          "title": "Citizen Members Appointments – Board of Adjustment",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated October 4, 2016",
+      "date": "2016-10-04",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Unmanned Aerial Vehicles (UAVs) and Drones",
+          "disposition": "FOR REPORT BACK IN 120 DAYS"
+        },
+        {
+          "number": "2",
+          "title": "Diamond Lane Pilot Project – Taxi and Handi-Transit",
+          "disposition": "FOR REPORT BACK IN 180 DAYS"
+        },
+        {
+          "number": "3",
+          "title": "Waverley Street at CN Mainline (Rivers) Grade Separation Project –Delegation of Authority to Award a Construction Contract Exceeding $5,000,000 and a Single Source Contract for Rail Work – MM Ref. #749-2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Emes Road West of McPhillips Street – Maintenance Agreement",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated October 3, 2016",
+      "date": "2016-10-03",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Basement Flooding Protection Subsidy Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Agreement with the Government of Manitoba regarding financial support for the 4R Winnipeg Depot Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Award of Contract for Integrated Solid Waste Collection in the City of Winnipeg – Request for Proposal No. 302-2016",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated September 23, 2016",
+      "date": "2016-09-23",
+      "committee": "Standing Policy Committee On Innovation",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Parking Authority (Special Operating Agency) Selection Report – 2016 Business Plan",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated October 11, 2016",
+      "date": "2016-10-11",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Closing of part of Chief Peguis Trail and Opening of Public Lane, both adjoining No. 1513 Rothesay Street – DAOC 2/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Extension of Time – 741-765 Bonner Avenue – DASZ 19/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time – 1101-1121 Wabasha Street – DASZ 31/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Local Area Planning Initiatives for 2016-2017",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Review of the Southdale Arena Plant",
+          "disposition": "FILED"
+        },
+        {
+          "number": "6",
+          "title": "Amendment to the Building Communities Initiative II – Phase 2 – St. Norbert Ward Capital Program Budget",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Amendment to the 2016 Cemeteries Improvements Capital Program Budget",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated October 14, 2016",
+      "date": "2016-10-14",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Agreement to Share Data between the Winnipeg Fire Paramedic Service and the University of Manitoba, Manitoba Centre for Health Policy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Police Board – 2015 Annual Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg Police Board – 2015 Summary of Expenses",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Winnipeg Police Service – 2015 Statement of Revenues and Expenses",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE dated October 6, 2016",
+      "date": "2016-10-06",
+      "committee": "Governance Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendment to Councillors’ Ward Allowance (CWA) Fund Policy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2.",
+          "title": "2017 Council and Committee Schedule of Meetings",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Dobson",
+        "Wyatt"
+      ],
+      "subject": "That the City of Winnipeg Organizational By-law No. 7100/97 be amended so as to provide for a dual reporting relationship of Department Heads to both the Chief Administrative Officer and the Standing Committees, in order to provide for better information sharing. That the City of Winnipeg Organizational By-law No. 7100/97 be further amended to grant Standing Committees the authority to recommend to Council individuals for appointment as Department Heads, and where necessary or appropriate, the suspension or dismissal of a Department Head. That the City Solicitor/ Director of Legal Services be directed to submit within 30 days to Council, the appropriate amendments to the City of Winnipeg Organizational By-law No. 7100/97, to reflect the intent of the above.",
+      "disposition": "LOST"
+    },
+    {
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "That the City Organizational By-law be amended to allow Council to: 1)Conduct a full, comprehensive and independent civic governance and operational review and performance assessment that will set as its goal an improved civic government in terms of democratic reforms, transparency, openness, and accountability, by directly taking steps to reduce administrative red tape and costs and restore the balance of power between the Office of the Mayor, Councillors and the Public Service via structural changes that will permanently empower the elected Council and the Standing Policy Committees, including but not limited to the following process: a)To review the adopted George B. Cuff – Organizational Review and Performance Assessment Report of October, 1997, including an analysis of its strengths and weaknesses b)To review all revisions made to the Organization By-law, including changes to the administrative and political structures since the adoption of the George B. Cuff – Organizational Review and Performance Assessment Report of October, 1997, including an analysis of all strengths and weaknesses c)To review the powers, roles, responsibilities, budgetary costs/resources and reporting relationships of the: i)CAO/City Manager model and the senior management team (See Organization Chart, Appendix B), including an analysis of the advantages/strengths, disadvantages/weaknesses, and the best practices with Manitoba Cities and Canadian Cities in English Canada; ii)Office of the Mayor/Strong Mayor Model, including an analysis of its advantages/strengths, disadvantages/weaknesses, and the best practices with Manitoba Cities and Canadian Cities in English Canada, iii)Executive Policy Committee and that of informal/planning Executive Policy Committee, its legality under existing legislation, and its ability to conduct priority setting/strategic planning and budget formulation and delivery, including an analysis of its advantages/strengths and disadvantages/weaknesses and the best practices with Manitoba Cities and Canadian Cities in English Canada iv)Office of the City Councillor and Council in general, including an analysis of its advantages/strengths, disadvantages/weaknesses, and the best practices with Manitoba Cities and Canadian Cites in English Canada v)Standing Policy Committees, including an analysis of its advantages/strengths, disadvantages/weaknesses, the number of Standing Policy Committees and their alignment and the best practices with Manitoba Cities and Canadian Cities in English Canada vi)Administrative departments, including an analysis of its advantages/strengths, disadvantages/weaknesses, the number of departments and their alignment and the best practices with Manitoba Cities and Canadian Cities in English Canada d)An analysis of the potential benefits of a Treasury Board or Board of Control within the Civic Government and how this may be applied to ensure the oversight and the effective use of resources for both operational program spending and capital budget project spending. 2)Council shall oversee and approve the Terms of Reference, the tendering, hiring, public consultation and reviews of draft and final reports of the full and independent civic governance and operational review and performance assessment, with said final report being submitted to Council for consideration and approval, as outlined in clause 1), within six months as of the approval of this motion. 3)The said final report shall, as outlined in Clause 1 and Clause 2 provide comprehensive recommendations including, but not limited to, all necessary steps that will provide for the systematic structural changes required for the democratic reforms and mandate outlined in all Council By-laws, Procedures, informal or not, Council Policies, Administrative Directives and Provincial Legislation required for the democratic reform of civic governance and to be reported with the said timeline stated in Clause 2 4)A temporary suspension, effective 4:00 p.m., Friday, September 23, 2016 of the CAO’s powers to reorganize the administrative structure/organization, and said suspension of said delegated powers shall be in effect until such time as determined by Council. That resources for said independent civic governance and operational review and performance assessment shall be found from within the existing administrative budgets and that appropriate officers of the Public Service do all things necessary to implement the foregoing.",
+      "disposition": "REFERRED TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "movers": [
+        "Schreyer",
+        "Dobson"
+      ],
+      "subject": "That Council direct the Administration to call public hearings on the proposed Water and Sewer Rate Increases of 2017 and 2018",
+      "disposition": "LAID OVER TO APRIL 2017"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Orlikow",
+        "Morantz"
+      ],
+      "subject": "1.That the Map in Appendix D of Item No. 5 of the Report of the Executive Policy Committee dated October 19, 2016 be replaced with Map 1 attached to this motion. 2.That Map 1 and Map 6 of Schedule “A” to By-law No. 127/2016 be replaced with the maps attached to this motion and identified as Map 1 and Map 6, respectively, and the map attached to this motion and identified as Map 11 be added as Map 11 to Schedule “A” to By-law No. 127/2016 to •exclude the 1500 Plessis Road Major Redevelopment Site; and •show the area within The North Henderson Highway District Plan as approved in By-law No. 1300/76 and the portion of the area within the Henderson Highway Corridor Secondary Plan as approved in Bylaw No. 3215/82 that falls within the Recent Communities policy plate. 3.Subsection 13(1) of By-law No. 127/2016 be amended by replacing “Maps 2 to 10” with “Maps 2 to 11” to reflect the addition of Map 11 to Schedule “A”.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Orlikow",
+        "Wyatt"
+      ],
+      "subject": "That the annual fee increase by construction inflation be capped at 5% per year. That the City of Winnipeg record the fees collected by each area as outlined on the map in Appendix D, and allow Councillors access to the area information on an ongoing basis with accumulative totals.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Dobson",
+        "Eadie"
+      ],
+      "subject": "That all bid opportunity documents provide for the following: That all future bid opportunities issued by the City of Winnipeg incorporate wording that states that Elected Officials may be provided access to information submitted as part of the bid; That Members of Council be granted, upon request and upon having signed an appropriate non-disclosure document, access to the summary of all bids received and access to Materials Management Standards Scoring Matrix, for any bids being decided upon by Council and its Committees.",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Mayes",
+        "Browaty"
+      ],
+      "subject": "That the Public Service be directed to explore and report back by September 2017 on cost sharing options for residents living on gravel roads, based on the cost-sharing pilot project model adopted by Council in November 2013 for gravel lanes.  This study will include options for concrete, asphalt and/ or chip sealing of gravel roads.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Eadie",
+        "Schreyer"
+      ],
+      "subject": "That the Winnipeg Public Service undertake all things necessary to bring the collection of “bulky waste” into the Winnipeg Public Service with enough flexibility all allow environmental efforts from organizations for specific types of bulky waste.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Dobson",
+        "Eadie"
+      ],
+      "subject": "That all future Solicitations (such as Bid Opportunities and Requests for Proposals) issued by the City of Winnipeg be amended to incorporate wording to provide for the following: That when in the role of the Award Authority or a Committee considering an Award Report in the process of being submitted to the Award Authority, Members of Council will, upon request and upon having signed an appropriate non-disclosure document, be granted access to the summary of all bids received and access to Materials Management Standard Scoring Matrix.",
+      "disposition": "NOTICE OF MOTION"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "105/2016",
+      "subject": "To open parts of Waverley Street and Taylor Avenue for the purpose  of construction of the Waverley Street at CN Mainline (Rivers) Grade Separation Project, in the City of Winnipeg, in Manitoba",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "112/2016",
+      "subject": "To amend the Schedule to the Reduced-Speed School Zones By-law to correct an error",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "117/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 237 Lowson Crescent in the Assiniboine Community – DAZ 204/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "118/2016",
+      "subject": "To amend the SHED TIF Zone By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "119/2016",
+      "subject": "To close part of James Avenue between Amy Street and Waterfront Drive",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "120/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at Bridgwater Trails Phase 4 in the Riel Community – DASZ 41/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "121/2016",
+      "subject": "To open the West side of King Edward Street between Legion Avenue and Notre Dame Avenue – DAO 7/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "122/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 255 Redonda Street in the East Kildonan-Transcona Community – DASZ 22/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "123/2016",
+      "subject": "To open the South-East Corner of Rue Archibald and Mission Street – DAO 3/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "124/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 472 and 474 Henderson Highway in the East Kildonan-Transcona Community – DASZ 1/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "125/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at Waterford Green Phase 3: East of King Edward Street and Old Commonwealth Path in the Lord Selkirk-West Kildonan Community – DASZ 12/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "126/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 60 Osborne Street North in the City Centre Community – DASZ 31/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "127/2016",
+      "subject": "To impose fees on new development to assist with the costs associated with accommodating and managing growth and development",
+      "disposition": "AMENDED AND PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion 2",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Motion 1",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Report 5 of the Executive Policy Committee, as amended, dated October 19, 2016 – Implementation of an Impact Fee",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Notice of Motion – Executive Policy Committee – Governance",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "By-law No. 127/2016 (second reading)",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Suspension of Rules for third reading of By-law No. 127/2016",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "By-law No. 127/2016 (third reading)",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Report 3 of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated October 3, 2016 - Award of Contract for Integrated Solid Waste Collection in the City of Winnipeg - Request for Proposal No. 302-2016",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ],
+      "nays": [
+        "Councillor Allard",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

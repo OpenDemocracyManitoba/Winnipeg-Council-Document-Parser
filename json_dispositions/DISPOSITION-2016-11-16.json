@@ -1,0 +1,379 @@
+{
+  "meeting_date": "2016-11-16",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Mr. C. Gameiro, Manager of the Decision Making Process",
+      "Ms J. Marques, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 9, 2016",
+      "date": "2016-11-09",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Annual Evaluations of City Council’s Four Statutory Officers",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Civic Governance and Operational Review and Performance Assessment",
+          "disposition": "LAID OVER FOR 120 DAYS"
+        },
+        {
+          "number": "3",
+          "title": "Subdivision and Rezoning – 650 Stafford Street – DASZ 36/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning – 3977 and 4055 Portage Avenue – DASZ 33/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Letter of Agreement – The Manitoba Public Insurance Corporation and The City of Winnipeg for Vehicle Standards and Inspections Officers Training.",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Renaming Administration Building of the City Hall Campus to “Susan A. Thompson Building”",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Expropriation Settlement – Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Project – Holding #27, 1500 Parker Ave",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT “A” OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated October 14, 2016",
+      "date": "2016-10-14",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Community Incentive Grant – Sierra Leone Nationals Association of Manitoba (Salnam) Inc.",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated November 7, 2016",
+      "date": "2016-11-07",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Operating Grants – Museums",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Recreation Facility Master Planning Model: Proposed Scope and Schedule",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Annual Inspection of Converted Residential Dwellings (CRD) with shared Facilities (Rooming Houses)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Memorandum of Understanding with YMCA-YWCA – Three Model Expansion",
+          "disposition": "60 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated November 7, 2016",
+      "date": "2016-11-07",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Expansion of Transit Vehicle Overhaul and Maintenance Facilities Capital Project",
+          "disposition": "REFERRED TO THE EXECUTIVE POLICY COMMITTEE"
+        },
+        {
+          "number": "2",
+          "title": "Cost Sharing Option for Residents Living on Gravel Roads",
+          "disposition": "FOR REPORT BACK BY SEPTEMBER 2017"
+        },
+        {
+          "number": "3",
+          "title": "Investigation of Functional Design Options along Marion Street between Lagimodiere Boulevard and Youville Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Google Inc. – Connected Citizens Program for the Implementation of the Transportation Management Centre (TMC), Materials Management Reference No. 815-2016",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated October 31, 2016",
+      "date": "2016-10-31",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Capital Budget Amendment and First Charge – Lyndale Drive Retaining Wall Rehabilitation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Update to the Community-Wide Climate Change Action Plan Development",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 8, 2016",
+      "date": "2016-11-08",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning - 757-759 Jubilee Avenue – DASZ 38/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Secondary Plan Amendment - Corydon-Osborne Area Plan – SPA 1/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Rezoning - Corydon Osborne Planned Development Overlay 1 – DAZ 213/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Closing - Public Lane South of Rue Hébert, East of Avenue Taché for Incorporation into DASZ 26/2016 - DAC 9/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Subdivision and Rezoning - 836-842 Taché Avenue - DASZ 26/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Closing – Public Lane between Rues Darveau and Hébert, West of Avenue Taché for Incorporation into DASZ 34/2016 - DAC 13/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Subdivision and Rezoning - 825 Taché Avenue - DASZ 34/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Plan of Subdivision – Former School Site: Edmund Gale north of George Reshaur Bay Intersection - DAS 17/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Subdivision and Rezoning -1500 Plessis Road - DASZ 39/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Subdivision and Rezoning – North East corner of Almey Avenue at Ravelston Avenue West – DASZ 31/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Subdivision and Rezoning - 567-573 Talbot Avenue - DASZ 5/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Plan for Red River Exhibition Lands - SP 1/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning on Land Located on South Side of Taylor Avenue between Wilton Street and 1260 Taylor Avenue - DASZ 4/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – Lots 2 and 3, Plan 45753, Peguis Street and Reenders Drive - DASZ 33/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Development Agreement Amendment for File DASZ 30/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Planning, Development and Building Fees By-law No. 66/2016 Amendments",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "Declaration of Surplus Land – Property located at the Northeast corner of Markham Road and Gull Lake Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "18",
+          "title": "Award of Due Diligence Agreement for the Exclusive Right to a Due Diligence Period and Preparation of a Proposal for the City-Owned Property located at 266 Graham Avenue, Winnipeg, Manitoba, Expression of Interest No. 340-2016",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Dobson",
+        "Eadie"
+      ],
+      "subject": "That all future Solicitations (such as Bid Opportunities and Requests for Proposals) issued by the City of Winnipeg be amended to incorporate wording to provide for the following: That when in the role of the Award Authority or a Committee considering an Award Report in the process of being submitted to the Award Authority, Members of Council will, upon request and upon having signed an appropriate non-disclosure document, be granted access to the summary of all bids received and access to Materials Management Standard Scoring Matrix.",
+      "disposition": "AMENDED BY MOTION 2 AND CARRIED"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Eadie",
+        "Dobson"
+      ],
+      "subject": "THAT a “Mayor’s Office Allowance” Policy be created before the end of the 2016 fiscal year, reporting but not limited to the following expenditure categories: Various expense categories similar to those included in the Councillors Ward Allowance Policy including human resource costs related to running the day to day operations of a Mayor’s office; Operating expenses related to running the EPC and IEPC; Operating expenses and human resource costs for the Mayor’s policy support office; Operating expenses for the Mayor’s advisory committees reporting directly to the Mayor’s Office; And providing an annually updated Mayor’s office organizational chart; THAT the Mayor’s Office Allowance Policy be adopted by Council and include an annual audit by the City Auditor of all Mayor’s Office spending, similar to the annual audit undertaken as part of the Councillor’s Ward allowance Policy, with the first audit of Mayor’s Office spending to occur on the 2017 fiscal year expenses.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Dobson",
+        "Eadie"
+      ],
+      "subject": "THAT the Notice of Motion moved by Councillors Dobson and Eadie dealing with Materials Management bid information be amended by deleting the words “the summary of” from the THEREFORE BE IT RESOLVED section as shown below: “THEREFORE BE IT RESOLVED THAT all future Solicitations (such as Bid Opportunities and Requests for Proposals) issued by the City of Winnipeg be amended to incorporate the following: That when in the role of the Award Authority or a Committee considering an Award Report in the process of being submitted to the Award Authority, Members of Council will, upon request and upon having signed an appropriate non-disclosure document, be granted access to the summary of all bids received and access to Materials Management Standard Scoring Matrix.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "Leave of Absence",
+      "movers": [
+        "Browaty",
+        "Schreyer"
+      ],
+      "subject": "THAT Councillor Wyatt be granted a leave of absence from today’s meeting due to his absence from the City on City Business",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "55/2016",
+      "subject": "To amend the Corydon-Osborne Area Plan By-Law No. 99/2014 - SPA 1/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "128/2016",
+      "subject": "To amend By-law No. 73/2016. File DASZ 21/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "129/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at Peguis Street North of Almey Avenue in the East Kildonan-Transcona Community – DAZ 212/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "130/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 641 St. Matthews Avenue in the City Centre Community – DAZ 210/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "131/2016",
+      "subject": "To amend the Planning, Development and Building Fees By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "132/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 123 Doncaster Street in the Assiniboia Community – DASZ 25/2016",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Report 6 of the Executive Policy Committee dated November 9, 2016 - Renaming Administration Building of the City Hall Campus to “Susan A. Thompson Building”",
+      "disposition": "ADOPTED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion to lay over to the December meeting of Council Report 3 of the Standing Policy Committee on Infrastructure Renewal and Public Works dated November 7, 2016 - Investigation of Functional Design Options along Marion Street between Lagimodiere Boulevard and Youville Street",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
