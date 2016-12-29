@@ -27,6 +27,7 @@ Scripts exist to:
 * Add images of "Movers" to Council Motions
 * Style Recorded Votes with Icons and Colours for Web Dispositions
 * Colourize Disposition Column for Reports, Motions, ByLaws
+* Create DB for YouTube & DMIS disposition metadata.
 * Pre-process all Docx Disposition tables to remove blank rows.
 
 ### Changes Made to Official Disposition Docx Files
@@ -62,3 +63,11 @@ Assuming command line with git and Ruby (2.3.x) installed:
     cd Winnipeg-Council-Document-Parser
     bundle install
     bundle exec guard
+    
+### WinnipegElection.ca Build Process
+
+    ruby download_dispositions.rb -l -f word_dispositions/
+    ./all_docx_to_json.sh word_dispositions json_dispositions
+    ruby ./disposition_all_json_to_html.rb html_templates/disposition_template.html.erb html_templates/index_template.html.erb json_dispositions html_dispositions
+
+Note: The `disposition_all_json_to_html.rb` script must be manually updated for each new disposition with YouTube and DMIS details.
