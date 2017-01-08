@@ -279,6 +279,7 @@ class Disposition
   # within a table, and sometimes they are separated by newlines with a
   # single table cell! Code doesn't handle for this, so the affected
   # tables are manually fixed in Word.
+  # NOTE 2: Sometimes an empty list of voters contains a single voter of "NIL".
 
   def recorded_votes_collection
     recorded_votes_table_rows = select_table(RECORDED_VOTES_TITLE, 2)
@@ -294,8 +295,8 @@ class Disposition
     {
       subject: votes_columns[0],
       disposition: votes_columns[3],
-      yeas: cell_paragraphs(votes_row.cells[1]),
-      nays: cell_paragraphs(votes_row.cells[2])
+      yeas: cell_paragraphs(votes_row.cells[1]).reject { |voter| voter.strip == 'NIL' },
+      nays: cell_paragraphs(votes_row.cells[2]).reject { |voter| voter.strip == 'NIL' }
     }
   end
 
