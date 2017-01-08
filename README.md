@@ -40,7 +40,7 @@ When downloading new Disposition Docx files:
 * *September 30, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *October 28, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *November 25, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
-* *January 01, 2016* - Disposition not downloadable via data.winnipeg.ca. Download url shows as zip instead of msword.
+* *January 01, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text. Recorded votes had to be combined into a single table.
 * *February 25, 2016* - Conflict of interest declaration member lists changes from table to line line-separated text.
 * *March 23, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *April 27, 2016* - Motion table was connected to the bylaws table. Split the tables.
@@ -49,6 +49,9 @@ When downloading new Disposition Docx files:
 * *June 15, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *July 13, 2016* - Conflict of interest declaration member lists changes from table to line line-separated text.
 * *September 28, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
+* *October 26, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
+* *November 16, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
+* *December 14, 2016* - Recorded vote Yeas/Nays and conflict of interest lists changed from tables to line-separated text
 
 ### Report to City Clerks' Department
 
