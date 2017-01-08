@@ -29,6 +29,33 @@
   },
   "reports": [
     {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 6, 2016",
+      "date": "2016-01-06",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Rezoning – 885 McMillan Avenue – DAZ 227/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – Land located at 1133 Portage Avenue and 1137 Portage Avenue – DASZ 34/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Soldiers’ Taxation Relief for 2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Office of Integrity (Ethics) Commissioner",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    },
+    {
       "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 13, 2016",
       "date": "2016-01-13",
       "committee": "Executive Policy Committee",
@@ -124,12 +151,14 @@
           "number": "10",
           "title": "CN Rail Cost Apportionment and Capital Budget Amendment – Plessis Road Twinning and Grade Separation at CN Rail, & Southwest Transitway (Stage 2) and Pembina Highway Underpass",
           "disposition": "AMENDED AND ADOPTED (See Motion 8)"
-        },
-        {
-          "number": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated January 4, 2016",
-          "title": null,
-          "disposition": null
-        },
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated January 4, 2016",
+      "date": "2016-01-04",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
         {
           "number": "1",
           "title": "Aqueduct – Emergency Preparedness",
@@ -562,7 +591,7 @@
         "Councillor Sharma"
       ],
       "nays": [
-        "NIL"
+
       ]
     },
     {
