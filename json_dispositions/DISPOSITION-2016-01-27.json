@@ -1,0 +1,764 @@
+{
+  "meeting_date": "2016-01-27",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. C. Gameiro, Manager of the Decision Making Process",
+      "Mr. S. Armbruster, Manager of Special Projects",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Operating Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 13, 2016",
+      "date": "2016-01-13",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1.",
+          "title": "Opening – Northwest Corner of Whytewold Road and Ness Avenue – DAO 8/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2.",
+          "title": "Agreement to Allow Communication of City Employee Vaccination Information with Manitoba Health Electronic Records",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3.",
+          "title": "Gateway Recreation Centre Inc. – Loan Guarantee Request",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4.",
+          "title": "Single Source Negotiation of Contract for the Extended Warranty Repair and  Maintenance of On-line Street Parking Revenue Control System",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5.",
+          "title": "Memorandum of Understanding between the Royal Canadian Mounted Police and the City of Winnipeg - Manitoba Integrated High Risk Offender Unit",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6.",
+          "title": "Extension of the Memorandum of Understanding between the Government of Manitoba Sheriff Services and the Winnipeg Police Service – Warrant Diversion",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7.",
+          "title": "Agreement between the Government of Manitoba and The City of Winnipeg – Winnipeg Police Service Court Unit",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 20, 2016",
+      "date": "2016-01-20",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Citizen Member Appointments – Committees, Boards and Commissions",
+          "disposition": "AMENDED AND ADOPTED (See Motion 4)"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – Bridgwater Trails Phase 3 - DASZ 37/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Subdivision and Rezoning – Bridgwater Trails Phase 4 - DASZ 41/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Rezoning – 177 Eugenie Street – DAZ 229/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Rezoning – 275 Beliveau Road – DAZ 220/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Text Amendment – Downtown Winnipeg Zoning By-law No. 100/2004 – DAZ 226/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Kinsmen Club of Winnipeg – Revised Naming Right Sponsorship",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Results of Downtown Taxicab Strategy Pilot Project - Taxi Stand and Loading Zones",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "311 Contact Centre - Revised Performance Target and Service Efficiencies",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "CN Rail Cost Apportionment and Capital Budget Amendment – Plessis Road Twinning and Grade Separation at CN Rail, & Southwest Transitway (Stage 2) and Pembina Highway Underpass",
+          "disposition": "AMENDED AND ADOPTED (See Motion 8)"
+        },
+        {
+          "number": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated January 4, 2016",
+          "title": null,
+          "disposition": null
+        },
+        {
+          "number": "1",
+          "title": "Aqueduct – Emergency Preparedness",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "The Blue Dot Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Water Charge Waiver – Arena Listing",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated January 18, 2016",
+      "date": "2016-01-18",
+      "committee": "Standing Policy Committee On Innovation",
+      "items": [
+        {
+          "number": "1",
+          "title": "City of Winnipeg Golf Services – Special Operating Agency – 2016 Business Plan",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 12, 2016",
+      "date": "2016-01-12",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Rezoning – 761 McMillan Avenue – DAZ 222/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Rezoning – 552 Sherbrook Street – DAZ 224/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Subdivision and Rezoning – 60 Osborne Street North (Portion) – DASZ 31/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Secondary Plan Amendment – 1914 Henderson Highway – SPA 4/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Subdivision and Rezoning – 1914 Henderson Highway – DASZ 17/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Extension of Time – 405 Hamel Street – DASZ 26/2011",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Extension of Time – Subdivision and Rezoning on Land Located on South Side of Taylor Avenue between Wilton Street and 1260 Taylor Avenue – DASZ 4/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Extension of Time – 301 Lagimodiere Boulevard – By-law No. 212/2007 – DASZ 51/2005",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Improving Safety for New Development in Proximity to Railway Operations in the City of Winnipeg",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Grant for Residential Project at 320 Colony Street (formerly 460 Portage Avenue)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Free WiFi in City of Winnipeg Facilities",
+          "disposition": "FOR REPORT BACK TO COMMITTEE IN 90 DAYS"
+        },
+        {
+          "number": "12",
+          "title": "Additions to the List of Historical Resources, Winnipeg Hotel (214 Main Street) and the MacDonald Block (226 Main Street)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "List of Historical Resources – Fortune Block, 232 Main Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Downtown Winnipeg Business Improvement Zone Back Lane Project Funding",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Requirement for Additional Funds and Increased Delegated Award Authority for a Single Source Contract with Manitoba Hydro for Electrical and Natural Gas Servicing in the St. Boniface Industrial Park Phase 2 Development",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Extension of Time – Subdivision and Rezoning on Land Located at 221 Stradbrook Avenue – DASZ 41/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "Expropriation of Lands – Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "18",
+          "title": "Expropriation of Lands – Cockburn-Calrossie Combined Sewer Area – Drainage Upgrade Project",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 15, 2016",
+      "date": "2016-01-15",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – Southwest corner of McPhillips Street and Murray Avenue (Precinct “F”) – DASZ 40/2015",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated January 11, 2016",
+      "date": "2016-01-11",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Police Board – 2016 Strategic Plan Update",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated January 5, 2016",
+      "date": "2016-01-05",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Snow Clearing Cost Saving Measures – C.U.P.E. 500 Report",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Regional and Local Street Program – Amendment of Approved 2014 Capital Budget to Include Funding for Installation of Tree Vaults",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Amendment to the City of Winnipeg Streets and Traffic By-laws – St. Matthews Avenue Extension",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Orlikow",
+        "Lukes"
+      ],
+      "subject": "Expropriation Confirming Motion – Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Project",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Orlikow",
+        "Mayes"
+      ],
+      "subject": "Expropriation Confirming Motion – Cockburn-Calrossie Combined Sewer Area – Drainage Upgrade Project",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Mayes",
+        "Lukes"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to establish a Ward Boundaries Commission in 2017; That the Winnipeg Public Service be directed to work with Statistics Canada to ensure that the data from the 2016 General Census be available to the Ward Boundaries Commission for their process in 2017.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Gillingham",
+        "His Worship Mayor Bowman"
+      ],
+      "subject": "That Recommendation 18. A. of Item 1 of the report of the Executive Policy Committee dated January 20, 2016 be amended by deleting the name “Ken Matchett”.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "That the Council Meeting of March 25th, 2015 Decision of Minute No. 245, Report of the Executive Policy Committee – March 24, 2015, be amended by deleting clause 1 and replacing it with the following: 1.That the priorities for the Building Canada Fund applications be set as follows: 1) Chief Peguis Trail — Main Street to Route 90 2) Kenaston Boulevard Widening 3) Waverley Street Underpass 4) Marion Street Widening/Grade Separation and Improvements – Archibald Street to Lagimodiere Boulevard.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Eadie",
+        "Gerbasi"
+      ],
+      "subject": "That the Winnipeg Public Service undertake a consultation with Winnipeggers in 2016 to determine what can be done to enhance these original parks and commemorate Victoria Park, in order to celebrate the 125 years of parks in Winnipeg in 2018 and report back to Council through the Standing Policy Committee on Protection and Community Services and Parks.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "That “Report of the Executive Policy Committee, January 20 2016, Item No.10. CN Rail Cost Apportionment & Capital Budget Amendment-Plessis Road Twinning and Grade Separation at CN Rail at Southwest TransitWay (Stage 2) and Pembina Highway Underpass” be amended so that the recommendations 1 through to 7 and “A” through “G” as stated in the body of the report remove any and all delegated authority to the CAO or any other administrator of the City of Winnipeg in order to ensure be no agreement can be signed with CN Rail or any other rail authority, that involved said repayments of their costs associated with grade separations. That Winnipeg City Council request the Public Service, in the future of any requests for delegated authorities of any officer or staff member of the City of Winnipeg, be required to recommend and explicitly outline in any recommendation to Council, what that authority will mean in terms of the powers being granted for said authority, with the full powers of authority being outlined within any future report.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "8",
+      "movers": [
+        "His Worship Mayor Bowman",
+        "Morantz"
+      ],
+      "subject": "That Item 10 of the Report of the Executive Policy Committee dated January 20, 2016 be amended so that the Winnipeg Public Service be directed to create a process to have cost certainty incorporated in future negotiations regarding rail to prevent the potential predicament the Councillor from Transcona rightfully has concerns about should future plans with rail rationalization impact future discussions with the rail industry.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "9",
+      "movers": [
+        "Wyatt",
+        "Dobson"
+      ],
+      "subject": "That the Public Service be directed to: Create an app/service that allows smaller private contractors and individuals to bid on snow clearing opportunities on P3 designated streets, sidewalks and in backlanes where existing larger private contractors offer services; That the app shall be tested as a pilot project in a smaller geographical area of the City and that this be targeted for the 2016/2017 winter season and; That the Public Service report back to the Standing Policy Committee on Infrastructure Renewal and Public Works with the results of the pilot project; In the event the pilot project is successful, that the City begin to expand the app services into other areas of the City for P3 snow clearing of roads, sidewalks, and back lanes where existing services are offered presently by existing contractors.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "10",
+      "movers": [
+        "Wyatt",
+        "Schreyer"
+      ],
+      "subject": "That the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 12, 2016, Item 18 “Expropriation of Lands-Cockburn-Calrossie Combined Sewer Area-Drainage Upgrade Project” be referred back to the Standing Policy Committee with the following instructions that are consistent with the closing comments made by the Inquiry Officer, G.E. Ulyatt, dated November 23, 2015, that the City of Winnipeg be instructed to consider all other options and alternatives for the proposed project, in light of the circumstances concerning this proposed expropriation as outlined in this report; That all of these options and costs be subject to a Class 3 cost budget estimation and that they be outlined both in terms of their budget detail for scope and costs and that this be reported back via the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment prior to any consideration by the Standing Policy Committee on Property and Development, Heritage and Downtown Development.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "11",
+      "movers": [
+        "Orlikow",
+        "Morantz"
+      ],
+      "subject": "That the following recommendations from the report titled “Waverley Street at CN Mainline (Rivers) Grade Separation” from the January 18, 2016 meeting of IRPW be approved by Council: 1.That a new 2016 capital project in the amount of $155,082,000 be authorized and included in the 2016 capital Budget for “Waverley Street at CN Mainline (Rivers) Grade Separation” (hereinafter “Project”) with the financing sources and description as set out in Appendix A. The related borrowing by-law will be prepared in conjunction with the 2016 Capital Budget. 2.That the Director of Planning, Property, and Development be authorized to negotiate the acquisition of land required for the Project. 3.That the City enter into, execute and deliver funding agreements with the Province of Manitoba and Government of Canada with respect to Provincial and Federal funding contributions to the Project and that the Chief Administrative Officer be authorized to negotiate and approve the terms and conditions of such funding agreements in accordance with this Report and such terms and conditions deemed necessary by the City Solicitor/Director of Legal Services to protect the interests of the City. 4.That the City enter into, execute and deliver all agreements with Canadian National Railway Company (“CN”) and Manitoba Hydro as determined necessary by the City Solicitor/Director of Legal Services with respect to the Project and that the Chief Administrative Officer be authorized to negotiate and approve the terms and conditions of such agreements in accordance with this Report and such terms and conditions deemed necessary by the City Solicitor/Director of Legal Services to protect the interests of the City. 5.That authority be delegated to the Chief Administrative Officer to negotiate and award single source contracts not exceeding a total of $13.0 million (included in the Project budget and identified in the Class 3 estimate) with Manitoba Hydro for power distribution and street lighting works. 6.That the Chief Administrative Officer be delegated authority to approve the overexpenditures, if any, relating to contract(s) with Manitoba Hydro providing monies are available within the applicable capital budget as approved by Council. 7.That, in the interest of meeting the project timeline, authority be delegated to the Chief Administrative Officer to negotiate and award a single source contract for consulting engineering services not exceeding $12.3 million (included in the Project budget and identified in the Class 3 estimate) to Dillon Consulting Limited. to undertake detailed design, contract administration, and post construction services. 8.That the Chief Administrative Officer be delegated authority to approve over-expenditures, if any, relating to the Contract with Dillon Consulting Limited providing monies are available within the applicable capital budget as approved by Council. 9.That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "Condolence",
+      "movers": [
+        "Browaty",
+        "Schreyer"
+      ],
+      "subject": "That Council place on record its profound sorrow at the death of former Councillor Anne Jorowski, which occurred on January 8, 2016.",
+      "disposition": "Carried by Silent Standing Vote"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "19/2016",
+      "subject": "To authorize the borrowing of money in the amount of $5,164,000.00 (U-Pass)",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    },
+    {
+      "number": "20/2016",
+      "subject": "To authorize the borrowing of money in the amount of up to $112,000,000.00 (Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Project",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "81/2015",
+      "subject": "To amend the North Henderson Highway Secondary Plan By-law No. 1300/1976",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "100/2015",
+      "subject": "To amend Downtown Winnipeg Zoning By-law No. 100/2004 to incorporate minor improvements and corrections per the OurWinnipeg Implementation Plan.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "1/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 265 Provencher – DAZ 214/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "2/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 33 Warnock Street – DASZ 18/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "3/2016",
+      "subject": "To open the southeast corner of Century Street and Saskatchewan Avenue",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "4/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 698 Furby Street– DAZ 204/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "5/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 90 Lexington Park in the East Kildonan-Transcona Community – DASZ 5/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "6/2016",
+      "subject": "To approve a plan of subdivision for land located at 80 Halparin Drive, 420 and 436 Budd Road, and 172 Phil-Chris Way in the Riel Community – DAS 26/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "7/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located north of Templeton Avenue, east of Pipeline Road in the Lord Selkirk-West Kildonan Community – DASZ 37/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "8/2016",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1500 Plessis Road in the East Kildonan-Transcona Community – DASZ 39/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "9/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 212 Langside Street in the City Centre Community - DAZ 205/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "10/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 693 Maryland Street in the City Centre Community – DAZ 206/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "11/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 630 Jessie Avenue in the City Centre Community – DAZ 219/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "12/2016",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at North side of River Avenue immediately West of Mayfair Place in the City Centre Community – DASZ 31/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "17/2016",
+      "subject": "To amend Schedule – School Zones with Reduced Speed Limits to the Reduced-Speed School Zones By-law No. 76/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "18/2016",
+      "subject": "To amend By-law No. 33/2015, being a by-law to acquire land for the purpose of construction of the Southwest Rapid Transit Bus Corridor including widening Markham Road, Southpark Drive, Seel Avenue, Chancellor Drive and Pembina Highway, in the City of Winnipeg, in Manitoba",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "21/2016",
+      "subject": "To amend Schedule 1 to the Traffic By-law No. 1573/77 and Schedule “E” to the Streets By-law No. 1481/77",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "EPC 01 20 2016 - Item 6 Motion to Refer to the Standing Policy Committee on Property and Development, Heritage and Downtown Development",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Mayes",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ]
+    },
+    {
+      "subject": "EPC 01 20 2016 Item 10 Motion 8 His Worship Mayor Bowman / Morantz",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "NIL"
+      ]
+    },
+    {
+      "subject": "EPC 01 20 2016 Item 10 Motion 7 Wyatt / Eadie",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "EPC 01 20 2016 Item 10 Adoption of the Item, as amended by Motion 8",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "Motion 5 Wyatt / Eadie Vote for Rule Suspension to debate the Motion",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Motion 5 Wyatt / Eadie",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Eadie",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Motion 10 Wyatt / Schreyer",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "PDHDD – 01 12 2016 – Item 18 Vote for Adoption of the Item",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "Motion 2 - Orlikow / Mayes Vote for Referral",
+      "disposition": "MOTION TO REFER - LOST",
+      "yeas": [
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Motion 2 - Orlikow / Mayes",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
