@@ -23,10 +23,10 @@ Scripts exist to:
 
 ### To Do
 
-* Make Top Tiles Links to Sub-Sections
 * Add images of "Movers" to Council Motions
 * Style Recorded Votes with Icons and Colours for Web Dispositions
 * Colourize Disposition Column for Reports, Motions, ByLaws
+* Show Councillors Not in Attendance
 * Create DB for YouTube & DMIS disposition metadata.
 * Pre-process all Docx Disposition tables to remove blank rows.
 
@@ -55,8 +55,7 @@ When downloading new Disposition Docx files:
 
 ### Report to City Clerks' Department
 
-* Changes to disposition template: Recorded vote and conflict of interest lists changes from tables to line-separated text.
-* Some dispositions listed through the data.winnipeg.ca Word Dispositions Dataset unavailable. Unavailable dispositions are listed with the incorrect MIME type. When loaded a login prompt is shown. Only one regular council meeting dispostion (27-01-2016) is missing.
+* Reported: Changes to disposition template: Recorded vote and conflict of interest lists changes from tables to line-separated text.
 
 ### Setup Instructions
 
