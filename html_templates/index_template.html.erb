@@ -39,7 +39,7 @@
         </div>
         <h2 class="manual-section">Winnipeg City Council Meeting Dispositions</h2>
         <p class="work-in-progress">
-            <i class="glyphicon glyphicon-info-sign"></i> 
+            <i class="glyphicon glyphicon-info-sign"></i>
             Only regular council meetings are shown. Special council meetings can be found <a href="http://clkapps.winnipeg.ca/DMIS/DocSearch.asp?CommitteeType=C&DocumentType=D" title="Winnipeg.ca Decision Making Information System">in PDF format on the City's DMIS site</a>.
         </p>
         <hr>
@@ -47,32 +47,40 @@
             <h2 class="manual-section"><a href="disposition-<%= disposition['meeting_date'] %>.html"><%= disposition.humanized_meeting_date %></a></h2>
             <div class="row">
                 <div class="reports-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                    <div class="info-box">
-                        <i class="glyphicon glyphicon-book"></i>
-                        <p><%= disposition['reports'].size  %></p>
-                        <h3>Reports</h3>
-                    </div>
+                    <a href="disposition-<%= disposition['meeting_date'] %>.html#reports">
+                        <div class="info-box">
+                            <i class="glyphicon glyphicon-book"></i>
+                            <p><%= disposition['reports'].size  %></p>
+                            <h3>Reports</h3>
+                        </div>
+                    </a>
                 </div>
                 <div class="motion-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                    <div class="info-box">
-                        <i class="glyphicon glyphicon-send"></i>
-                        <p><%= disposition['motions'].size + disposition['notice_of_motions'].size  %></p>
-                        <h3>Motions</h3>
-                    </div>
+                    <a href="disposition-<%= disposition['meeting_date'] %>.html#motions">
+                        <div class="info-box">
+                            <i class="glyphicon glyphicon-send"></i>
+                            <p><%= disposition['motions'].size + disposition['notice_of_motions'].size  %></p>
+                            <h3>Motions</h3>
+                        </div>
+                    </a>
                 </div>
                 <div class="by-law-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                    <div class="info-box">
-                        <i class="glyphicon glyphicon-list-alt"></i>
-                        <p><%= disposition['bylaws_first_reading'].size + disposition['bylaws_passed'].size %></p>
-                        <h3>By Laws Read</h3>
-                    </div>
+                    <a href="disposition-<%= disposition['meeting_date'] %>.html#bylaws">
+                        <div class="info-box">
+                            <i class="glyphicon glyphicon-list-alt"></i>
+                            <p><%= disposition['bylaws_first_reading'].size + disposition['bylaws_passed'].size %></p>
+                            <h3>By Laws Read</h3>
+                        </div>
+                    </a>
                 </div>
                 <div class="recorded-vote-stats col-lg-3 col-md-3 col-sm-6 col-xs-6">
-                    <div class="info-box">
-                        <i class="glyphicon glyphicon-ok-circle"></i>
-                        <p><%= disposition['recorded_votes'].size %></p>
-                        <h3>Recorded Votes</h3>
-                    </div>
+                    <a href="disposition-<%= disposition['meeting_date'] %>.html#votes">
+                        <div class="info-box">
+                            <i class="glyphicon glyphicon-ok-circle"></i>
+                            <p><%= disposition['recorded_votes'].size %></p>
+                            <h3>Recorded Votes</h3>
+                        </div>
+                    </a>
                 </div>
                 <h3 class="view-details"><a href="disposition-<%= disposition['meeting_date'] %>.html">View Details of the <%= disposition.humanized_meeting_date %> Council Meeting</a></h3>
                 <hr>
