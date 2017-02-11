@@ -30,7 +30,8 @@ disposition_meta = {
   '2016-09-28' => { 'youtube' => 'fXQYVzhJgVY', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15578&SectionId=&InitUrl=' },
   '2016-10-26' => { 'youtube' => 'smtUoXfVdMI', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15661&SectionId=&InitUrl=' },
   '2016-11-16' => { 'youtube' => 'ZkejgGTnNWk', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15721&SectionId=&InitUrl=' },
-  '2016-12-14' => { 'youtube' => '4yGGgD-cYTk', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15803&SectionId=&InitUrl=' }
+  '2016-12-14' => { 'youtube' => '4yGGgD-cYTk', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15803&SectionId=&InitUrl=' },
+  '2017-01-25' => { 'youtube' => 'nhBNBCGPqUM', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15885&SectionId=&InitUrl=' }
 }
 
 all_dispositions = []
