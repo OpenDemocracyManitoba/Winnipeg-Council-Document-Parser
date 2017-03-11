@@ -1,0 +1,346 @@
+{
+  "meeting_date": "2017-02-22",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Ms J. Marques, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 18, 2017",
+      "date": "2017-01-18",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "6",
+          "title": "Louis Riel School Division Operating Grant – Dakota Alumni Field",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 8, 2017",
+      "date": "2017-02-08",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendment to Memorandum of Understanding – Strategic Economic Development Incentive – Expansion of Maple Leaf Foods Inc.",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Council Initiated Local Improvement – Wastewater Sewer and Watermain on Grassie Boulevard",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Subdivision and Rezoning – 341/345 Springfield Road – DASZ 37/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Formation of Winnipeg Food Council – Stakeholder Engagement Report and Recommendations",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 15, 2017",
+      "date": "2017-02-15",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Award of Contract for an Integrity Commissioner – Expression of Interest 454-2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Council Appointment – Board of Trustees of the Winnipeg Civic Employees’ Benefits Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Open Government Policy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Public Inquiry – Conflict of Interest and Disclosure",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated JANUARY 30, 2017",
+      "date": "2017-01-30",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Bulky Waste",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Approval of Contract Over-Expenditure No. 1 for Wilkes Reservoir North Cell Rehabilitation Bid Opportunity No. 930-2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Award of Contract for Transparent LAN Services at Sewage Treatment Plants Request for Proposal No. 459-2016",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT ‘A’ OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated December 5, 2016",
+      "date": "2016-12-05",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "List of Historical Resources – Nomination of Power Building, 428 Portage Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "List of Historical Resources – Nomination of Miller, Morse & Company Building, 317 McDermot Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT ‘A’ OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 17, 2017",
+      "date": "2017-01-17",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "List of Historical Resources – Nomination of Keewayden Block (Jacob-Crowley Building) – 138 Portage Avenue East",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "List of Historical Resources – Nomination of Reliable Service Station, 98 Albert Street",
+          "disposition": "LAID OVER TO THE MARCH 8, 2017 MEETING OF THE EXECUTIVE POLICY COMMITTEE"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 17, 2017",
+      "date": "2017-01-17",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "3",
+          "title": "Subdivision and Rezoning – 150 Pandora Avenue West – DASZ 23/2016",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated February 7, 2017",
+      "date": "2017-02-07",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 1414 Ravelston Avenue West – DASZ 24/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Correction of an Error in Winnipeg Zoning By-law No. 200/2006 – DAZ 215/2015, 171 Cole Avenue and City-owned Land to the South – Lot 4, Block 9, Plan 6519",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Correction of an Error in Winnipeg Zoning By-law No. 200/2006 Associated with Dimensional Standards Updated under DAZ 214/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Gail Parvin Hammerquist Fund – City-Wide Heritage Program – 2017 Criteria and Procedures",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated February 6, 2017",
+      "date": "2017-02-06",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Police Board – 2017 Strategic Plan Update",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated January 31, 2017",
+      "date": "2017-01-31",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Compensation to U-Pass Partners for Implementation Costs",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Dobson",
+        "Schreyer"
+      ],
+      "subject": "THAT the CAO be directed to ensure the Winnipeg Public Service provides media releases that are relevant to City Council to the Mayor and Councillors at least 1 week prior to the event, so that Councillors can arrange their calendars to attend any public launch and / or be prepared to comment and formulate opinion on these issues that are important to all Winnipeggers and their elected representatives.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Pagtakhan",
+        "Orlikow"
+      ],
+      "subject": "THAT: 1.The November 14, 2012 Council Decision regarding the sale of property at South of Pacific Avenue and West of Paulin Street to Winnipeg Housing Rehabilitation Corporation be rescinded. 2.The vacant, informal green space property located between Pacific Avenue and Ross Avenue, specifically Roll No. 13096115200, be retained by the City and transferred to Parks jurisdiction for establishment as a neighbourhood park. 3.The surface parking lot located at Paulin Street between Pacific Avenue and Ross Avenue, specifically Roll No. 13096115300, be added to the CentureVenture Asset Agreement to facilitate the highest and best use development, in the spirit & intent of the Centennial/West Alexander Secondary Plan, of the subject property within a 24 month period.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Wyatt",
+        "Schreyer"
+      ],
+      "subject": "THAT in light of a recent tragic event in term of Winnipeg Transit, we move to call on the Mayor to immediately hold a special meeting to brief members of Council on the immediate s steps that can be / will be taken for rider and driver safety.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "Condolence",
+      "movers": [
+        "His Worship Mayor Bowman",
+        "Gerbasi"
+      ],
+      "subject": "THAT Council place on record its profound sorrow at the death of Winnipeg Transit Driver Irvine Jubal Fraser, which occurred on February 14, 2017, while in the line of duty",
+      "disposition": "CARRIED BY SILENT STANDING VOTE"
+    },
+    {
+      "number": "Condolence",
+      "movers": [
+        "Gillingham",
+        "Morantz"
+      ],
+      "subject": "THAT Council place on record its profound sorrow at the death of former Alderman John Franklin Johnston, which occurred on February 7, 2017.",
+      "disposition": "CARRIED BY SILENT STANDING VOTE"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "8/2017",
+      "subject": "To amend the Winnipeg Zoning By-law to correct an error – DAZ 213/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "9/2017",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to correct an error in the zoning of the land located at 171 Cole Avenue and immediately to the south of 171 Cole Avenue in the East Kildonan – Transcona Community – DAZ 215/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "10/2017",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1039 Cathedral Avenue in the Lord Selkirk-West Kildonan Community – DAZ 202/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "11/2017",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 291 Nassau Street North in the City Centre Community – DAZ 208/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "12/2017",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to correct an error in amending By-law No. 135/2016 – DAZ 214/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "16/2017",
+      "subject": "To impose local improvement taxes for the cost of installing a 17.5 feet wide grass boulevard on the south side and on the north side of Perfanick Drive from the east limit of Golis Bay (west leg) to the west limit of Filbert Crescent in the City of Winnipeg",
+      "disposition": "LAID OVER TO MARCH 22, 2017 COUNCIL MEETING"
+    },
+    {
+      "number": "17/2017",
+      "subject": "To impose local improvement taxes for the cost of installing a 20.5 feet wide grass boulevard on the south side and on the north side of Perfanick Drive from the east limit of Concordia Avenue to the east limit of Golis Bay (west leg) in the City of Winnipeg",
+      "disposition": "LAID OVER TO MARCH 22, 2017 COUNCIL MEETING"
+    },
+    {
+      "number": "18/2017",
+      "subject": "To impose local improvement taxes for the cost of installing a 20.5 feet wide grass boulevard on the west side of Rue St. Joseph from the south limit of Rue Messager to a point approximately 174 feet south of Rue Messager in the City of Winnipeg",
+      "disposition": "LAID OVER TO MARCH 22, 2017 COUNCIL MEETING"
+    },
+    {
+      "number": "19/2017",
+      "subject": "To impose local improvement taxes for the cost of installing boulevard trees on Rue Messager from Ave Tache to Rue St. Joseph in the City of Winnipeg",
+      "disposition": "LAID OVER TO MARCH 22, 2017 COUNCIL MEETING"
+    },
+    {
+      "number": "20/2017",
+      "subject": "To amend the Parks By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "21/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1500 Plessis Road the East Kildonan-Transcona Community – DASZ 39/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "22/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 2525 Pembina Highway in the Riel Community – DASZ 27/2016",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+
+  ],
+  "conflict_of_interest_declarations": [
+    {
+      "subject": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 15, 2017 Item 1 - Award of Contract for an Integrity Commissioner – Expression of Interest 454-2016",
+      "members": [
+        "Councillor Eadie",
+        "Councillor Orlikow",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ]
+    }
+  ]
+}
