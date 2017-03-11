@@ -52,6 +52,8 @@ When downloading new Disposition Docx files:
 * *October 26, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *November 16, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *December 14, 2016* - Recorded vote Yeas/Nays and conflict of interest lists changed from tables to line-separated text
+* *February 22, 2017* - Conflict of interest declaration member lists changes from table to line line-separated text. Typos and cases fixed in two report headers that were blocking parsing.
+
 
 ### Report to City Clerks' Department
 
