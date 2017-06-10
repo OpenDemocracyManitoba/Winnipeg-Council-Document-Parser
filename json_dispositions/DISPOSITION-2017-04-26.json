@@ -1,0 +1,535 @@
+{
+  "meeting_date": "2017-04-26",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Ms D. Watt, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 12, 2017",
+      "date": "2017-04-12",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 650 Burrows Avenue – DASZ 2/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 93 St. Anne’s Road – DASZ 45/2016",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 19, 2017",
+      "date": "2017-04-19",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Voluntary Lobbyist Registry",
+          "disposition": "AMENDED AND ADOPTED (See Motion 8)"
+        },
+        {
+          "number": "2",
+          "title": "Bicycle Parking Partnership Grants 2016 and 2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Proposed Lane Closing, Rededication and Street Opening – Northwest Corner of Memorial Boulevard and  St. Mary Avenue – DAOC 1/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Strategic Economic Incentive Grant – 245 Graham Avenue (SkyCity)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Citizen Member Appointments – Committees, Boards and Commissions",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project – 2016 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "7",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project – 2016  Quarter 3",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "8",
+          "title": "New Fire Paramedic Stations Construction Project – Status Report 2016 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "9",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status Report 2016 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Winnipeg Police Board Effectiveness Evaluation",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "11",
+          "title": "Audit Department Peer Review",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "12",
+          "title": "Strategic Plan and Audit Plan 2017 - 2018",
+          "disposition": "APPROVED IN PRINCIPLE"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 26, 2017",
+      "date": "2017-04-26",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Negotiations between the City of Winnipeg and the United Fire Fighters of Winnipeg, Union Local 867 of the International Association of Fire Fighters",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated April 13, 2017",
+      "date": "2017-04-13",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Asphaltic Concrete Lane Pavement – West Fernwood Avenue and Bronstone Boulevard",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated April 10, 2017",
+      "date": "2017-04-10",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Adoption of Walk-Up Service for Collections Policy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Single Source Negotiation – Contract Extension for the Processing and Marketing of Recyclables",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT “A” OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 17, 2017",
+      "date": "2017-01-17",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "2",
+          "title": "List of Historical Resources – Nomination of Reliable Service Station, 98 Albert Street",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated March 7, 2017",
+      "date": "2017-03-07",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "13",
+          "title": "Use of City-Owned Property Located at Paulin Street between Pacific Avenue and Ross Avenue",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated April 11, 2017",
+      "date": "2017-04-11",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Proposed Closing and Rededication of the Public Lane between Chancellor Drive and Markham Road – Bus Rapid Transit Phase Two – DAOC 3/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 888 John Bruce Road East – DASZ 46/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Zoning Agreement Amendment – 110 Innovation Drive – ZAA 1/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning for the Sugar Beet Major Redevelopment Site; North of Bishop Grandin, West of the Manitoba Hydro Corridor – DASZ 3/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Extension of Time - Proposed Subdivision and Rezoning On Land Located At 90 Lexington Park – DASZ 21/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Extension of Time - Proposed Subdivision and Rezoning On Land Located At 535 Ham Street DASZ 21/2009",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Extension of Time – Proposed Rezoning on Land Located at the Southwest Corner of Dalhousie Drive and Allegheny Drive – DAZ 210/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Request to Amend Development Agreement Conditions for File DASZ 27/11 (AG 27/2011)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Addition to the List of Historical Resources – 90 Annabella Street – J.R. Watkins Company Factory & Warehouse",
+          "disposition": "AMENDED AND ADOPTED (See Motion 2)"
+        },
+        {
+          "number": "10",
+          "title": "North St. Boniface Secondary Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Amendment to Downtown Residential Development Grant Program By-law No. 77/2010",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Declaration of Surplus Land – 124 Bournais Drive and 1687 Dugald Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Opening and Closing of the Public Lane between Kensington and Madison Streets, North of Silver Avenue – DAOC 2/2017",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated April 10, 2017",
+      "date": "2017-04-10",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Agreements with Winnipeg BIZs and Take Pride Winnipeg Inc. for participation in the WFPS Community Fire Prevention Partnership Program",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Community Incentive Grant – Elmwood Community Resource Centre",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Amendment to the Funding Sources of the 2015 East Elmwood Leisure Centre Amenities and Equipment Capital Project Budget",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated April 18, 2017",
+      "date": "2017-04-18",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "New Fire Prevention By-law",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Grant Agreement with The City of Winnipeg, CN, Communities in Bloom and Tree Canada for CN EcoConnexions From the Ground Up Program 2017",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Schreyer",
+        "Dobson"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT Council direct the Administration to call public hearings on the proposed Water and Sewer Rate Increases of 2017 and 2018.",
+      "disposition": "REFERRED TO THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Orlikow",
+        "Pagtakhan"
+      ],
+      "subject": "BE IT RESOLVED THAT Item 13 of the Standing Policy Committee on Property and Development, Heritage and Downtown Development report dated March 7, 2017, be amended by deleting recommendations 3 and 4 and renumbering recommendation 5 accordingly.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Orlikow",
+        "Dobson"
+      ],
+      "subject": "BE IT RESOLVED THAT Item 9 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated April 11, 2017, be amended as follows: 1.Delete “Detailing of the east side staircase” from the fifth bullet under Recommendation 1, and replace it with “Detailing of the southeast staircase”.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Lukes",
+        "Wyatt"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT Council immediately direct the  Chief Administrative Officer and all senior Directors and senior Management of the Public Service to always accommodate and meet with a member or members of Council,  cooperatively providing all necessary information to the elected official(s) in said meeting, and answering all questions within the 96 hours proceeding a committee meeting. THERFORE BE IT FURTHER RESOLVED Council immediately direct the  Chief Administrative Officer and all senior Directors and senior Management of the Public Service to always accommodate and meet with a member or members of Council,  whether or not the concern is on any agenda and facilitate in a timely manner.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Dobson",
+        "Wyatt"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT the CAO be directed to ensure that all members of Council be included in any briefings provided to EPC at its informal information meetings, to ensure that all relevant information is provided to all decision makers.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Wyatt",
+        "Schreyer"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that City Council direct the Winnipeg Public Service to report back to Council within 60 days on the level of service with regards to utility cut restorations, specifically: 1.Time frames and/or deadlines for the restoration work to be performed following a utility cut made due to a water main break. 2.Quality control guidelines and requirements for the delivery of these restoration works so as to ensure proper workmanship. 3.A reporting process which will ensure the Winnipeg Public Service follows up with both the contractor performing the work and the client, namely the private property owners affected by the repairs. BE IT FURTHER RESOLVED that similar to the reporting provided to Council for missed recycling and garbage pickups, as mandated by Council, that Councillors be provided weekly reports that contain the following: 1.Addresses of all water main breaks that occur within their ward and length of time to repair, and; a.the timeframes and schedules for full restoration. b.Confirmation that full repair and restoration has been done with quality control standards in place for proper completion.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT Council direct the Winnipeg Public Service to immediately develop and implement a city wide program to, as soon as possible, install quick recharging stations in our city for electric cars and to apply for federal funding to help finance this project and that the public service report back to Council within 60 days. AND BE IT FURTHER RESOLVED THAT the Winnipeg Public Service develop the above said initiative, in cooperation with the Manitoba Electric Car Association.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Schreyer",
+        "Wyatt"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that Council recognize national Rail Safety Week, from April 24 to April 30, 2017.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "8",
+      "movers": [
+        "Schreyer",
+        "Wyatt"
+      ],
+      "subject": "THAT the title of Report 1 of the Executive Policy Committee report dated April 19, 2017 be retitled from “Lobbyist Registry” to “Voluntary Lobbyist Registry”.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "9",
+      "movers": [
+        "Schreyer",
+        "Wyatt"
+      ],
+      "subject": "THAT Item 3 of the Report of the Standing Policy Committee on Protection, Community Services and Parks, dated April 10, 2017, be referred back to the Standing Committee with instruction to: 1.Review the budgetary allocations made to the East Elmwood Community Centre in the creation of the new facility and subsequent budgetary allocations, with special reference to the increased cost of the resinous beams.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "Condolence",
+      "movers": [
+        "Sharma",
+        "Mayes"
+      ],
+      "subject": "That Council place on record its profound sorrow at the death of former City Clerk, Robert (Bob) Fergusson, which occurred on March 15, 2017.",
+      "disposition": "CARRIED BY SILENT STANDING VOTE"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "30/2017",
+      "subject": "To approve a Secondary Plan for the North St. Boniface neighbourhood - SP 1/2017",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "26/2017",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 956 and 958 McMillan Avenue in the City Centre Community – DAZ 211/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "27/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at Lots 2 and 3, Plan 45753, Peguis Street and Reenders Drive, East Kildonan-Transcona Community - DASZ 33/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "28/2017",
+      "subject": "To correct errors in By-law No. 29/2016 – DASZ 13/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "29/2017",
+      "subject": "To change the names of certain highways in The City of Winnipeg",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "35/2017",
+      "subject": "To adopt the Manitoba Fire Code and to establish standards and requirements for a variety of situations to prevent fires and increase life safety",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "36/2017",
+      "subject": "To amend the Downtown Residential Development Grant Program By-law to update the values in the grant eligibility grids for 2016",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion 8",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Executive Policy Committee dated April 19, 2017",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie"
+      ]
+    },
+    {
+      "subject": "Item 5 of the Report of the Executive Policy Committee dated April 19, 2017 (Recommendation 3)",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "Motion 9",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
