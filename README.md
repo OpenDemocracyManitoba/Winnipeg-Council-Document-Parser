@@ -53,7 +53,8 @@ When downloading new Disposition Docx files:
 * *November 16, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *December 14, 2016* - Recorded vote Yeas/Nays and conflict of interest lists changed from tables to line-separated text
 * *February 22, 2017* - Conflict of interest declaration member lists changes from table to line line-separated text. Typos and cases fixed in two report headers that were blocking parsing.
-
+* *April 26, 2017* - Added missing date to the header of the water and waste report.
+* *May 24, 2017* - Split two report tables (Finance May 4 and Water and Waste May 1) that were accidentally combined.
 
 ### Report to City Clerks' Department
 
