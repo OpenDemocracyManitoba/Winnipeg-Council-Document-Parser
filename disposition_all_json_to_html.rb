@@ -35,7 +35,9 @@ disposition_meta = {
   '2017-02-22' => { 'youtube' => '1KJYCUJpw5s', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=15955&SectionId=&InitUrl=' },
   '2017-03-22' => { 'youtube' => 'vRi7SF5gB5w', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=16026&SectionId=&InitUrl=' },
   '2017-04-26' => { 'youtube' => 'c1A7_mN4vkg', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=16111&SectionId=&InitUrl=' },
-  '2017-05-24' => { 'youtube' => 'VAlD6ZVODUY', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=16185&SectionId=&InitUrl=' }
+  '2017-05-24' => { 'youtube' => 'VAlD6ZVODUY', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=16185&SectionId=&InitUrl=' },
+  '2017-06-21' => { 'youtube' => 'Pz0tWWLcqoY', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=16253&SectionId=&InitUrl=' },
+  '2017-07-19' => { 'youtube' => 'HgXfEv40f6Y', 'dmis' => 'http://clkapps.winnipeg.ca/dmis/ViewDoc.asp?DocId=16340&SectionId=&InitUrl=' }
 }
 
 all_dispositions = []
