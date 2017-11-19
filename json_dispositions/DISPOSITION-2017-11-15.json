@@ -1,0 +1,274 @@
+{
+  "meeting_date": "2017-11-15",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Ms K. McMillan, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 8, 2017",
+      "date": "2017-11-08",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Religious or Not-For-Profit Cemeteries – Frontage Levy Exemption",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Police Board – Proposed Amendment to Winnipeg Police Board By-law No. 148/2012 – Board Composition",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Provincial Agreement for Enhanced Recreation Programs for Children and Youth in Winnipeg’s Inner City",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Discount(s) to be allowed for the Prepayment of 2018 Realty, Personal Property and Business Taxes",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated October 31, 2017",
+      "date": "2017-10-31",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendments to the Winnipeg Parking By-law",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Innovation On-Street Parking Solutions for the Exchange District",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "Review of Snow Clearing and Ice Control Policy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Cost Sharing Option for Residents Living on Gravel Roads",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "5",
+          "title": "Wilkes Avenue Alignment to William R. Clement Parkway Extension",
+          "disposition": "LAID OVER BY THE EXECUTIVE POLICY COMMITTEE TO ITS MEETING HELD ON NOVEMBER 29, 2017"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 7, 2017",
+      "date": "2017-11-07",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 221 and 227 Stradbrook Avenue – DASZ 14/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 1280 Notre Dame Avenue – DASZ 19/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Rezoning – 108 Yale Avenue – DAZ 207/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 472/474 Henderson Highway DASZ 1/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Downtown Development Projects – CentreVenture Development Corporation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Amendment of the Winnipeg Building By-Law No. 4555/87",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Encroachment Agreement – 225 Carlton Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Extension of Lease Agreement – City-Owned Lands at 900 Waverley Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Lease Agreement – Portion of 603 St. Mary’s Road",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated November 6, 2017",
+      "date": "2017-11-06",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Literacy for Life Fund",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Neighbourhood Liveability By-law No. 1/2008 – Outdoor Patio Music",
+          "disposition": "FOR REPORT BACK WITHIN 120 DAYS"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Wyatt",
+        "Lukes"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the City of Winnipeg revise Zoning By-law No. 200/2006 to require: landscape plans prepared by a member of the Manitoba Association of Landscape Architects (MALA); landscape work securities (letter of credit), based on the cost of landscape works and installation, as shown on the approved landscape plans; inspection of the final landscape works by a member of MALA and submission of a Certificate of Inspection, for the installation, that is embossed with the MALA seal and signed by the Landscape Architect; inspection of final landscape works one (1) year after installation by a member of MALA and submission of a Certificate of Inspection, for the end of one year maintenance and warranty, that is embossed with the MALA seal and signed by the Landscape Architect.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Wyatt",
+        "Schreyer"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the City of Winnipeg formulate a citywide Brownfield Redevelopment Strategy Policy, that will apply to both public and private lands, and that the said policy shall be presented to Council for adoption within 90 days. BE IT FURTHER RESOLVED that the Winnipeg Public Service do all things necessary to implement the intent of the foregoing, including but not limited to the securing of required funding.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the City of Winnipeg create an Arm’s Length Not-For-Profit Corporation, called the Winnipeg Green Energy Organization (from hereon in, known as WPG-GEO) Corporation, which shall be tasked with the generation and production of solar powered electricity to sell back into the Hydro grid, via a mandate to actively facilitate, promote, construct, market and operate, the following: Solar Powered Farms and Solar Cell Arrays on City Facilities and City Lands, both inside and outside the City of Winnipeg; Advance the promotion and conduct the direct sale of all solar powered projects and technologies to City departments, agencies, other governments and government agencies, private homes and private business, both inside and outside Winnipeg; Promote and educate the benefits of Solar Power, including, and via its own business model, by offering incentives to all of its customers and customer markets, both public and private; Set annual and multi-year targets and corresponding strategies to aggressively increase the share of the solar powered market inside Manitoba; BE IT FURTHER RESOLVED that WPG-GEO shall be provided a budget $200,000 a year, starting in 2018, and compounding by $200,000 in every year thereafter, which shall be sustained and sourced from the savings projected by the reduction in Hydroelectric costs associated with the conversion of Overhead Street Lighting to the LED technology, and shall be provided an annual operating budget of a minimum of $1 million within the 5 years from said source of funding; BE IT FURTHER RESOLVED that all City of Winnipeg future Carbon Credits and Carbon offsets, sourced from the coming Provincial and/or Federal Carbon Tax Program, shall be earmarked to WPG-GEO, to facilitate their business plan and its program, with any potential operating surpluses from the said corporation not being taken by City Council until year 10 (ten) of its operation, and; BE IT FURTHER RESOLVED that WPG-GEO shall be required to produce annual audited financial statements to Winnipeg City Council, via EPC, with semi-annual business reports; as well as a Business Plan required at its outset and every 2 years thereafter, for its first 10 years of operation; BE IT FURTHER RESOLVED that a report back to Council on all of the forgoing occur within 60 days; BE IT FURTHER RESOLVED that the Public Service to all things necessary to implement the intent of the foregoing.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Eadie",
+        "Browaty"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the Winnipeg Public Service undertake all things necessary under the City of Winnipeg Charter, pertinent by-laws and pertinent policies to obtain and make ready a city owned or private property other than PR zoned properties for the new North District Police Station within 90 days of the passing of this motion.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT Winnipeg City Council now call on the Province of Manitoba to immediately restore their 50/50 partnership funding of Winnipeg Transit’s operating costs.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Wyatt",
+        "Browaty"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the Winnipeg Public Service be directed to report back to Council in 60 days on options aimed at improving the ability of the Winnipeg Public Service to ensure compliance with approved developer agreements and any approved plans, site plans and elevations required for new developments, plan development overlays (PDO’s), subdivisions, rezoning’s,  conditional uses, and variances.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Wyatt",
+        "Lukes"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that Council and all its Committees, including EPC, immediately cease all informal meetings until such time as: a legal opinion has been obtained by at least two independent, outside attorney’s-at-law, with the above stated concerns being considered and on the legal status of any and all informal meetings and the role of members of EPC, including the two non-epc members, in said informal meetings, in terms of the City of Winnipeg Charter Act and that; The said legal opinions shall be requested and funded via the Governance Committee of Council, and shall be reported to the Governance Committee and then to Winnipeg City Council within 60 days.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "87/2017",
+      "subject": "To amend the Frontage Levy By-law to exempt religious and not-for-profit cemeteries from payment of frontage levies",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "96/2017",
+      "subject": "A borrowing by-law of THE CITY OF WINNIPEG to authorize the borrowing of money in the amount of $17,000,000.00.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "100/2017",
+      "subject": "To amend the Winnipeg Police Board By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "107/2017",
+      "subject": "To close streets and lanes bounded by Chevrier Boulevard, Gregoire Avenue, and Hervo and French Streets, to close part of the Public Road, Plan No. 38641, West of Pembina Highway and open streets and lanes bounded by Chevrier Boulevard, Gregoire Avenue, and Hervo and French Streets – DAOC 1/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "108/2017",
+      "subject": "To amend the Winnipeg Building By-law No. 4555/87",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "110/2017",
+      "subject": "To provide for discounts where real or personal property taxes or business taxes are prepaid in 2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "113/2017",
+      "subject": "To amend various by-laws in respect of parking offences and fines",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

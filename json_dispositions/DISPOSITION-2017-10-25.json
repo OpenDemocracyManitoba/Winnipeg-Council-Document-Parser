@@ -1,0 +1,659 @@
+{
+  "meeting_date": "2017-10-25",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Mr. A. Poitras, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 11, 2017",
+      "date": "2017-10-11",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Religious or Not-For-Profit Cemeteries – Frontage Levy Exemption",
+          "disposition": "30 DAY EXTENTION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Zoning Agreement Amendment – 15 Gelhorn Place – ZAA 2/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Pilot Project Memorandum of Understanding with Canadian Centre for Child Protection",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Negotiations between the City of Winnipeg and the Winnipeg Police Senior Officers Association",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Deacon Water Treatment Plant Deficiencies Review",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Settlement Instructions concerning Court of Queen’s Bench Action CI 15-01-99341, Pakosh v. The City of Winnipeg – an Application to Quash By-law amendments made concerning a development application for 2090 Henderson Highway",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 18, 2017",
+      "date": "2017-10-18",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Deacon Water Treatment Plant",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Take Pride Winnipeg – Snow Angels Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Vehicle for Hire",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning – 108, 110 and 112 Alexander Avenue; 107, 109 and 111 Pacific Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Winnipeg Zoning By-law Text Amendment – To Allow the “Apiary” Use as a Listed Permitted Accessory Use in all Zoning Districts",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "6",
+          "title": "Portage and Main Intersection - Implementation of a Phased-Approach to Below and At-Grade Improvements",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project Audit – Quarter 4 2016",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "8",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project Audit – Quarter 1 2017",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "9",
+          "title": "Report on New Fire Paramedic Stations Construction Project Status of Audit Recommendations 2017 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Winnipeg Police Service Headquarters Construction Project Status of Audit Recommendations 2017 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated October 12, 2017",
+      "date": "2017-10-12",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "Impact Fee Reserve Fund Balance – Report for the Period May 1 to September 30, 2017",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated October 2, 2017",
+      "date": "2017-10-02",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Sewage Treatment Program 2016 Annual Report Program Agreement Between The City Of Winnipeg And VWNA Winnipeg Inc. (Veolia)",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT “A” OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated September 19, 2017",
+      "date": "2017-09-19",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "List of Historical Resources – Nomination of Winnipeg Clinic, 425 St. Mary Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated October 10, 2017",
+      "date": "2017-10-10",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Rezoning – 421 Beaverhill Boulevard – DAZ 203/2017 [c/r DAV 139088/2017D]",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Request to Amend Development Agreement Conditions For File DASZ 3/2016 (AG 3/2016)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Tenant Request to Attain Landlord Consent to Sublease City-Owned Lands at 900 Waverley Street for the Purpose of Parking",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Establishment of Prime Mechanical Contractor’s License",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "The Annual Review of Part II Section 3 (Land Value) of the 2002 Development Agreement Parameters",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Addition of the Name “Shahi” to the Riel Street Name Reserve List and Street Name Change from “Waverley Street” to “Shahi Street” between Point West Way and the Perimeter Highway",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Land Exchange and Lease Agreement between the City of Winnipeg and Louis Riel School Division to Support the St. Vital Memorial Park Redevelopment and YM-YWCA Expansion Project Located at 5 Fermor Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Partial Waiver of the Policy on the Sale/Lease of City Lands to Non-Profit Organizations – Habitat for Humanity",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Amendment to the Lease Agreement between the City of Winnipeg and NRG Athletes Therapy Fitness Inc. at 745 Kingsbury Avenue and Proposed Amendment to the Grant Agreement between the City of Winnipeg and Garden City Community Centre",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated October 6, 2017",
+      "date": "2017-10-06",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Aquatic Parks",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "TD Summer Reading Club Agreement",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated October 4, 2017",
+      "date": "2017-10-04",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Request for First Charge against the 2018 Capital Budget for the Saskatchewan Avenue Culvert (Sturgeon Creek) Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Update on Major Infrastructure Project Studies",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated October 5, 2017",
+      "date": "2017-10-05",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Councillors’ Ward Allowance Amendments",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Procedure By-law Amendment(s)",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Mayor Bowman",
+        "Allard"
+      ],
+      "subject": "That the Winnipeg Public Service work with Provincial officials to develop a proposal to amend The City of Winnipeg Charter Act to require a one year cooling off period for members of Council and the Mayor that is consistent with sections 19.2 to 19.6(inclusive) and section 21.1 of The Legislative Assembly and Executive Council Conflict of Interest Act (the Act).  The relevant sections of the Act are attached to this motion.  References in the Act to the Conflict of Interest Commissioner would be understood to be references to the City’s Integrity Commissioner. BE IT FURTHER RESOLVED THAT the Public Service return within 90 days with a report to Council on changes to The City of Winnipeg Charter Act that are required to implement the cooling off period for members of Council and the Mayor prior to the City making an official request to the Province for legislative changes in this regard.",
+      "disposition": "AMENDED BY MOTION 2 AND CARRIED"
+    },
+    {
+      "movers": [
+        "Dobson",
+        "Schreyer"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED: 1.That the City of Winnipeg Procedure By-law No. 50/2007 be amended to require a 2/3 vote in order for Council to consider any and all items on a special meeting agenda. 2.That the City Solicitor / Director of Legal Services be directed to prepare and submit the necessary amending by-law directly to Council. 3.That the Proper Officers of the City do all things necessary to implement the intent of the foregoing",
+      "disposition": "LOST"
+    },
+    {
+      "movers": [
+        "Dobson",
+        "Browaty"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the Winnipeg Public Service be directed to report back to Council no later than December 13, 2017 with a list of all studies that cost $35,000 or more, between January 1, 2015 and the present day, and include the following information: •     A description of the study; •     Date the study was requested and delivered; •     Cost of the study; •  Department that ordered the study (including Mayor’s Office and Chief Administrator’s Office).",
+      "disposition": "CARRIED"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Orlikow",
+        "Gerbasi"
+      ],
+      "subject": "That the section 109.1 subsection (4) of the draft amending by-law attached to Item No. 5 of the Report of the Executive Policy Committee dated October 18, 2017 be amended to read as follows: “(4) Beehives and nucleus hives are exempt from the requirements under subsections (2) and (3) if they are located:”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Mayes",
+        "Allard"
+      ],
+      "subject": "that the resolution in the Notice of Motion to establish a cooling off period at the Council meeting of September 27, 2017 be replaced with the following: “That the Winnipeg Public Service work with Provincial officials to develop a proposal to amend The City of Winnipeg Charter Act to require a one year cooling off period for members of Council and the Mayor that is consistent with sections 19.2 to 19.6(inclusive) and section 21.1 of The Legislative Assembly and Executive Council Conflict of Interest Act (the Act).  The relevant sections of the Act are attached to this motion.  References in the Act to the Conflict of Interest Commissioner would be understood to be references to the City’s Integrity Commissioner. BE IT FURTHER RESOLVED THAT the Public Service return within 90 days with a report to Council on changes to The City of Winnipeg Charter Act that are required to implement the cooling off period for members of Council and the Mayor prior to the City making an official request to the Province for legislative changes in this regard.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Pagtakhan",
+        "Gerbasi"
+      ],
+      "subject": "That the Standing Policy Committee on Protection, Community Services and Parks direct the Winnipeg Public Service to review and report back within 120 days on the following: 1.       Amendments to Part 5 of the Neighbourhood Liveability By-law No. 1/2008, to include specific restrictions for noise emanating from outdoor patios at restaurants, drinking establishments, micro-brewery, distillery or winery, or any commercial enterprises,  between the hours of 11:00 p.m. and 8:00 a.m. 2.  Measures to enforce compliance and ensure that establishments follow the regulation with minimal impact on surrounding neighbourhoods. 3. Consultation with the Liquor and Gaming Authority of Manitoba",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
+    },
+    {
+      "number": "Leave of Absence",
+      "movers": [
+        "Browaty",
+        "Schreyer"
+      ],
+      "subject": "THAT Councillor Wyatt be granted a leave of absence from today’s  meeting due to his absence from the City on City Business.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "96/2017",
+      "subject": "To authorize the borrowing of money in the amount of $17,000,000.00",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "82/2017",
+      "subject": "To amend the Winnipeg Zoning By-law to accommodate urban beekeeping as an accessory use.- DAZ 210/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "97/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 578 Jessie Avenue in the City Centre Community – DASZ 6/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "98/2017",
+      "subject": "To amend the Procedure By-law to require agendas to be posted at least four business days prior to meetings of Council and Council committees",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "99/2017",
+      "subject": "To amend Schedule – School Zones with Reduced Speed Limits to the Reduced-Speed School Zones By-law No. 76/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "100/2017",
+      "subject": "To amend the Winnipeg Police Board By-law",
+      "disposition": "REFERRED TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "101/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 341-345 Springfield Road in the East Kildonan-Transcona Community – DASZ 37/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "102/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 254/256 Wellington Crescent in the City Centre Community – DASZ 47/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "103/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 590 St. Anne’s Road Avenue in the Riel Community – DASZ 35/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "104/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 567 – 573 Talbot Avenue in the East Kildonan-Trancona Community – DASZ 5/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "105/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at the Sage Creek Phase 8: southwest corner of Des Hivernants Boulevard and Edward Turner Drive in the Riel Community – DASZ 19/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "109/2017",
+      "subject": "To open part of Silver Avenue, between Madison and St. James Streets – DAO 6/2015",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "112/2017",
+      "subject": "To amend the Impact Fee By-law",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 11, 2017",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gilroy",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 1",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 2",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Lukes"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 3",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 4",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 5",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 6",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 7",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 8",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 18, 2018 Recommendation 9",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Executive Policy Committee – Notice of Motion – Special Meetings",
+      "disposition": "CARRIED",
+      "yeas": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated October 11, 2017",
+      "members": [
+        "Councillor Browaty"
+      ]
+    }
+  ]
+}
