@@ -13,6 +13,11 @@ fi
 for f in $1/*.docx
 do
     echo "Processing $f file"
-    echo "Writing $(basename "$f" .docx).json"
-    ruby disposition_docx_to_json.rb $f > $2/$(basename "$f" .docx).json
+    if [ -e $2/$(basename "$f" .docx).json ]
+    then
+        echo "File $(basename "$f" .docx).json exists. Skipping!"
+    else
+        echo "Writing $(basename "$f" .docx).json"
+        ruby disposition_docx_to_json.rb $f > $2/$(basename "$f" .docx).json
+    fi
 done
