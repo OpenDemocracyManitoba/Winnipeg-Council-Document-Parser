@@ -1,0 +1,712 @@
+{
+  "meeting_date": "2017-12-13",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Ms J. Marques, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 29, 2017",
+      "date": "2017-11-29",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Zoning Agreement Amendment – 51 Burnley Place – ZAA 4/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Zoning Agreement Amendment – 19 and 23 John Huyda Drive – ZAA 6/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Rezoning – 22 Loraine Street – DAZ 212/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Agreement between The City of Winnipeg and the Government of Manitoba, Department of Justice to formalize the Gang Response and Suppression Plan (GRASP)",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated December 6, 2017",
+      "date": "2017-12-06",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Studies Awarded for the Portage and Main Intersection from January 1, 2015 to October 25, 2017",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Proposal for Creation of the Winnipeg Green Energy Organization (WPG-GEO)",
+          "disposition": "REFERRED TO THE STANDING POLICY COMMITTEE ON INNOVATION"
+        },
+        {
+          "number": "3",
+          "title": "Legal Opinions – Informal Meetings of Council and Committees",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Citizen Member Appointments – Committees, Boards and Commissions",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Transition of the Regulation of Vehicles for Hire from the Province of Manitoba to the City of Winnipeg",
+          "disposition": "AMENDED AND ADOPTED (See Motion 2)"
+        },
+        {
+          "number": "6",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations 2017 Quarter 3",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "7",
+          "title": "Audit Plan 2018 Update",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "8",
+          "title": "Capital Project Estimates",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "9",
+          "title": "New Fire Paramedic Stations Construction Project – Status of Audit Recommendations 2017 Quarter 3",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated December 4, 2017",
+      "date": "2017-12-04",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Community Incentive Grant – University of Manitoba",
+          "disposition": "COUNCIL DECISION OF JANUARY 25, 2012 RESCINDED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated October 31, 2017",
+      "date": "2017-10-31",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "5",
+          "title": "Wilkes Avenue Alignment to William R. Clement Parkway Extension",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE RECOMMENDATION AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated December 1, 2017",
+      "date": "2017-12-01",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "2018 Pedestrian and Cycling Program – Action Plan",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE RECOMMENDATION AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated November 28, 2017",
+      "date": "2017-11-28",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Results of the Proposed Wastewater Sewer and Watermain – Petition for",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated November 30, 2017",
+      "date": "2017-11-30",
+      "committee": "Standing Policy Committee On Innovation",
+      "items": [
+        {
+          "number": "1",
+          "title": "Animal Services Special Operating Agency - 2018 Business Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Fleet Management Special Operating Agency – 2018 Business Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg Parking Authority Special Operating Agency – 2018 Business Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Winnipeg Golf Services Special Operating Agency – 2018 Business Plan",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 27, 2017",
+      "date": "2017-11-27",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – Southeast Ravenhurst/Pandora/CNR Rail Line/Perimeter Highway Boundaries – DASZ 10/2017 [c/r DCU 144031/2017D]",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 1320 Molson Street – DASZ 15/2017 [c/r DAV 136239/2017D]",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Zoning Agreement Amendment – 776 Bonner Avenue – ZAA 5/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – Proposed Rezoning on land located at 500 Widlake Street – DAZ 208/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 1274-1288 and 1310 Archibald Street – DASZ 1/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Brownfield Redevelopment Strategy",
+          "disposition": "FOR REPORT BACK IN 120 DAYS"
+        },
+        {
+          "number": "7",
+          "title": "Compliance with Approved Site Plans and Development Agreements",
+          "disposition": "CONCURRED IN THE RECOMMENDATION OF SPC ON PDHDD"
+        },
+        {
+          "number": "8",
+          "title": "Winnipeg Zoning By-law Amendment – Landscaping Requirements",
+          "disposition": "CONCURRED IN THE RECOMMENDATION OF SPC ON PDHDD"
+        },
+        {
+          "number": "9",
+          "title": "City-owned Remnant Properties Surplus to the City",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "City-owned Surplus and Approval to Sell Control Strip to Adjacent Property Owner – Strip East of Fultz Boulevard",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "City-Owned Surplus Property – South of Saskatchewan Avenue and West of Moray Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Railside at the Forks Concept Plan – SP 2/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Easement Agreement in favour of Hôtellerie St. Norbert Guest House Inc., operating as St. Norbert Arts Centre (SNAC) – Access and Waste Water Private Connection Line",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Rezoning – 400 Pipeline Road – DAZ 209/2017 [c/r DAV 148753/2017D]",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Extension of Time – Proposed Rezoning – Court Avenue (Lot 1, Plan 52503) – DAZ 203/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Leases – Fort Garry Place (65 Garry Street, 10 Fort Street and 30 Fort Street) – Between the City of Winnipeg and 60961 Manitoba Ltd.",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL DATED NOVEMBER 30, 2017",
+      "date": "2017-11-30",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "2018 Council and Committee Schedule of Meetings",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Wyatt",
+        "Eadie"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT Winnipeg City Council now call on the Province of Manitoba to immediately restore their 50/50 partnership funding of Winnipeg Transit’s operating costs.",
+      "disposition": "CARRIED"
+    },
+    {
+      "movers": [
+        "Eadie",
+        "Browaty"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the Winnipeg Public Service undertake all things necessary under the City of Winnipeg Charter, pertinent by-laws and pertinent policies to obtain and make ready a city owned or private property other than PR zoned properties for the new North District Police Station within 90 days of the passing of this motion.",
+      "disposition": "REFERRED TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Allard",
+        "Gilroy"
+      ],
+      "subject": "That the proposed Schedule of Council and Committee Meetings for 2018 be amended as follows: 1. That the September 27, 2018 meeting of Council be rescheduled to September 20, 2018. 2. That the September 19, 2018,  meeting of Executive Policy Committee be canceled.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2 2 (continued)",
+      "movers": [
+        "Mayor Bowman",
+        "Mayes"
+      ],
+      "subject": "That: 1.Section 43 (1) of the Vehicle for Hire By Law be amended to eliminate the 20 year period to transfer taxicab licenses thereby allowing transferable taxicab licenses to be transferred for an indefinite time period; 2.Council approve the issuance of 60 year round taxicab licenses effective March 1, 2018 with another 60 year round taxicab licenses effective December 1, 2018 all to be allocated through a lottery. 3.Council authorize licenced taxis to travel in diamond lanes effective March 1, 2018 on a one year trial period. 4.A driver safety surcharge of $.03 per trip be applied to Personal Transportation Providers with all revenue raised from this surcharge used to support a program to promote safety and security in the vehicle for hire industry; 5.The Public Service report back in 120 days with recommendations on a program to support safety and security in the vehicle for hire industry to be developed in consultation with stakeholders from this industry; 6.Sections 33, and 34 of the Vehicle for Hire By-Law be amended to enable PTP drivers that have undergone a criminal record and vulnerable person sector search to begin driving in the vehicle for hire industry pending the outcome of a Child Abuse Registry Check. 7.The Vehicles for Hire By-law be amended to make it clear that Taxi drivers with valid licenses on February 28, 2018 may continue driving until their licenses expire, at which point they will require Vulnerable Sector Searches as part of their Criminal Record Check in order to renew their licenses. 8.Section 32 be amended to remove the following from the information required to be provided by Personal Transportation Providers dispatchers to passengers: A.the dispatcher’s contact information; B.the minimum number of seats provided in a PTP vehicle; C.the PTP vehicle’s provincial licence plate number; D.a process to keep a record of the acceptance or refusal of the transportation service and information concerning that process.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Pagtakhan",
+        "Morantz"
+      ],
+      "subject": "That the City enter into an agreement with Manitoba Hydro with respect to the Active Transportation Corridor that includes terms and conditions for the City to act as the one entity dealing with Manitoba Hydro in the ongoing management of community gardens along the subject RO",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Orlikow",
+        "Morantz"
+      ],
+      "subject": "That the CAO be directed to report back in 90 days with a process recommendation for Council consideration that addresses the following: A.That the OurWinnipeg, Complete Communities and the Transportation Master Plan be the tools to ensure infrastructure planning and investment aligns with land use. B.That prior to inclusion in the five (5) year capital budget, all infrastructure development projects shall demonstrate prioritization and alignment with approved OurWinnipeg priorities. C.That all projects in the current five (5) capital budget shall be confirmed through the lens established within the current OurWinnipeg plan.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Pagtakhan",
+        "Morantz"
+      ],
+      "subject": "That: The Public Service be authorized to negotiate the terms and conditions of a license agreement with Manitoba Hydro with respect to the Active Transportation Corridor that includes terms and conditions for the City to act as the one entity dealing with Manitoba Hydro in the ongoing management of community gardens along the subject ROW. The Public Service report back to Council at the conclusion of such negotiations to seek Council approval to enter into, execute and deliver such license agreement. The Proper Officers of the City do all things necessary to implement the intent of the foregoing.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PLANNING, PROPERTY, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Eadie",
+        "Lukes"
+      ],
+      "subject": "That Item No. 5 of the Report of the Executive Policy Committee dated December 6, 2017, entitled Transition of the Regulation of Vehicles for Hire from the Province of Manitoba to the City of Winnipeg, along with any amending motions, be referred back to Executive Policy Committee, with the request that it be referred to the Stakeholder Working Group for due consideration as to the effects of the amendments and how any other changes to the by-law can be more effective, and that the report come back to Council on or before February, 2018.",
+      "disposition": "LOST"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "133/2017",
+      "subject": "To authorize the borrowing of money in the amount of up to $77,357,000.00 and to rescind certain unused borrowing authority.",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "114/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 221 and 227 Stradbrook Avenue in the City Centre Community – DASZ 14/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "115/2017",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 108 Yale Avenue in the City Centre Community – DAZ 207/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "116/2017",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1916, 1918 and 1920 St. Mary’s Road in the Riel Community – DASZ 38/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "117/2017",
+      "subject": "To replace the maps contained in By-law No. 105/2017 – DASZ 19/2016 – DASZ 19/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "118/2017",
+      "subject": "To correct an error in By-law No. 108/2017 which amends the Winnipeg Building By-law No. 4555/87",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "119/2017",
+      "subject": "To amend the Winnipeg Building By-law No. 4555/87 to establish the Prime Mechanical Contractor’s Licence",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "120/2017",
+      "subject": "to amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 421 Beaverhill Boulevard in the Riel Community – DAZ 203/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "121/2017",
+      "subject": "To close parts of the Public Lane, Plan Nos. 10367, 10576 and 30284, between Markham Road and Chancellor Drive, West of Pembina Highway, and rededicate of part of the Public Lane, Plan No. 30284, to Chancellor Drive, West of Pembina Highway – DAOC 3/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "122/2017",
+      "subject": "To close parts of Pelly Avenue, Plan No. 1295, between Derek and Daniel Streets, and to close parts of Daniel Street, Plan No 1295, North of Pelly Avenue, and to close parts of the Public Lane, Plan No. 1295, North of Pelly Avenue, between Daniel and Beaumont Streets – DAC 6/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "123/2017",
+      "subject": "To close parts of the Streets and the Public Lanes bounded by Asquith and Edderton Avenues, and Hurst Way and Derek Street, and re-name part of Hurst Way to Willson Place – DAC 1/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "124/2017",
+      "subject": "To close parts of Windermere Avenue, Somerville Avenue, and Public Lane, Plan No. 1021, and to close part of Waller Avenue, Plan No. 1658, East of Irene Street.- DAC 2/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "127/2017",
+      "subject": "To amend the Tax Certificate Fees By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "128/2017",
+      "subject": "To approve a plan of subdivision for land located at 107 Burning Glass Road and 130 Sage Creek Boulevard in the Riel Community – DAS 20/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "129/2017, as amended",
+      "subject": "To provide for the regulation of vehicles for hire in the city of Winnipeg.",
+      "disposition": "AMENDED AND PASSED"
+    },
+    {
+      "number": "130/2017",
+      "subject": "To authorize the undertaking of certain local improvements.",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion - To extend the time allotted for questions of delegations in support of Item 5 of the Report the Executive Policy Committee dated December 6, 2017, by 5 minutes",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman,",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gilroy",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Motion - To allow 4 additional delegations in opposition to Item 5 of the Report the Executive Policy Committee dated December 6, 2017, to speak for a maximum of 5 minutes each with no questions allowed",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gilroy",
+        "Councillor Gillingham",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Executive Policy Committee dated  December 6, 2017",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "Item 3 of the Report of the Executive Policy Committee dated  December 6, 2017",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "Motion 6 To refer Item 5 of the Report of the Executive Policy Committee dated December 6, 2017",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ]
+    },
+    {
+      "subject": "Item 5, as amended by Motion 2, of the Report of the Executive Policy Committee dated  December 6, 2017",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Notice of Motion – Executive Policy Committee - That Winnipeg City Council now call on the Province of Manitoba to immediately restore their 50/50 partnership funding of Winnipeg Transit’s operating costs.",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty"
+      ]
+    },
+    {
+      "subject": "By-law No. 129/2017, as amended, – First reading",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "By-law No. 129/2017, as amended – Suspension of rules for third reading",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "By-law No. 129/2017, as amended – Third reading",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 12 – Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Schreyer"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "meeting_date": "2018-01-25",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. R. Kachur, City Clerk",
+      "Mr. M. Lemoine, Deputy City Clerk",
+      "Mr. S. Armbruster, Manager of Special Projects",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 10, 2018",
+      "date": "2018-01-10",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Citizen Member Appointments – Transcona Historical Museum Board",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 813 Rathgar Avenue – DASZ 23/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Rezoning – 3555 Pembina Highway – DAZ 206/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Rezoning – 471 Edison Avenue – DAZ 213/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Soldiers’ Taxation Relief for 2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Winnipeg Police Pension Fund Letter of Credit",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "7",
+          "title": "Truth and Reconciliation Calls to Action",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 17, 2018",
+      "date": "2018-01-17",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Private Refugee Sponsorship Assurance Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Cooling Off Period",
+          "disposition": "60 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "3",
+          "title": "Negotiations between the City of Winnipeg and the Winnipeg Fire Paramedic Senior Officers Association",
+          "disposition": "REFERRED BACK TO THE EXECUTIVE POLICY COMMITTEE"
+        },
+        {
+          "number": "4",
+          "title": "Issuance of a Letter of Credit to Fisheries and Oceans Canada in Connection with Application for Tache Promenade Project Authorization",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Audit of the Effectiveness of Current Systems and Processes in Relation to the Sterling Lyon / William Clement Parkway Study",
+          "disposition": "AMENDED AND ADOPTED (See Motion 2)"
+        },
+        {
+          "number": "6",
+          "title": "Clarification to the Council Decision on the Transition of the Regulation of Vehicles for Hire from the  Province of Manitoba to the City of Winnipeg",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 8, 2018",
+      "date": "2018-01-08",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Rezoning – 153 Aubert Street – DAZ 211/2017 [c/r DAV 153639/2017D]",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 755 Golspie Street – DASZ  1/2017 [c/r DCU 146089/2017D and DAV 181067/2016D]",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 741-765 Bonner Avenue – DASZ 19/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – Proposed Rezoning – Peguis Street, North of Almey Avenue – DAZ 212/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 198 Sherbrook Street – File No.DASZ 30/2014 – DASZ 30/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 1680 St. Mary’s Road, 700 and 730 River Road – DASZ 28/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Addition of the Name “Jerry Klein” to the East Kildonan-Transcona Street Name Reserve List and Street Name Change from “Dartmoor Drive” to “Jerry Klein”",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Amendment to Downtown Residential Development Grant Program By-law No. 77/2010",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "North District Police Station",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Disposition of City Owned Lots for Affordable Non-Profit Housing or Mixed Use Development that Includes Affordable Housing as a Pilot Project – William Whyte Neighbourhood",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Community Gardens",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Delegation of Authority to the Chief Administrative Officer to Administer Conforming Construction Agreements",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Extension of Services to One Additional Property in St. Boniface Industrial Park Phase 2",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Sale of City-owned Property – Vimy Arena – 255 Hamilton Avenue",
+          "disposition": "AMENDED AND ADOPTED (See Motion 7)"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated January 9, 2018",
+      "date": "2018-01-09",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Police Board - 2018 Strategic Plan Update",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Facility Renaming – Rita Richard Recreation Centre",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Consolidation of Capital Program Budgets for the Transcona Centennial Pool Project (Transcona Aquatic Park)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Smoking on Outdoor Patios",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Mosquito Control Larviciding Program within the Capital Region",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE RECOMMENDATION AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated January 9, 2018",
+      "date": "2018-01-09",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "The Sounding of Engine Whistles at PTH 101 Crossing Mile 243.67 of the Redditt Subdivision of the Canadian National Railway in the City of Winnipeg",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated December 7, 2017",
+      "date": "2017-12-07",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "Financial Status Report and Forecast to October 31, 2017",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Orlikow",
+        "Morantz"
+      ],
+      "subject": "That the Chief Administrative Officer (CAO) be directed to report back in 90 days with a process recommendation for Council consideration that addresses the following: A.That the OurWinnipeg, Complete Communities and the Transportation Master Plan be the tools to ensure infrastructure planning and investment aligns with land use. B.That prior to inclusion in the five (5) year capital budget, all infrastructure development projects shall demonstrate prioritization and alignment with approved OurWinnipeg priorities. C.That all projects in the current five (5) capital budget shall be confirmed through the lens established within the current OurWinnipeg plan",
+      "disposition": "CARRIED"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Gerbasi",
+        "Gilroy"
+      ],
+      "subject": "That: The Procedure By-law No. 50/2007 be amended to require that at the commencement of each Council or Committee meeting, the Chair acknowledge, in wording of their choosing, that the meeting is taking place on traditional Indigenous & Métis peoples’ lands; 2.The City Solicitor / Manager of Legal Services be directed to prepare the necessary by-law amendment for Council approval within 60 days.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Lukes",
+        "Morantz"
+      ],
+      "subject": "That Item 5 of the Report of the Executive Policy Committee date January 17, 2018 be amended as follows: Amend Recommendation 1 by adding the following wording at the end thereof: “, with a particular focus on the accountability of elected and non-elected City officials that were either directly or indirectly involved in this study from its inception to the present time.” Delete Recommendation 2; Add following new Recommendations and renumber the remaining Recommendation accordingly: “2.That the City Auditor / Chief Performance Officer conduct an audit of the file on the William R. Clement Parkway and the surrounding study area also referred to as the “Extension of the Sterling Lyon Parkway”, ”Expansion of Wilkes” or ”East/West Alignment” with a chronological  timeline, identifying authorizations and knowledge of and direction for planning and engagement of Public Service members, external consultants and elected officials. 3.That the City Auditor / Chief Performance Officer conduct an audit of the capital expenditures with timeline, authorization of, and size and scope of the William R Clement Parkway file and study area referred to as the “Extension of the Sterling Lyon Parkway”, ”Expansion of Wilkes” or ”East/West Alignment” 4.That the City Auditor / Chief Performance Officer conduct an audit of the scope and execution of work performed by WSP/MMM starting November 25th,  2014, until current, focusing on who provided direction to WSP/MMM from the Public service. 5.That the City Auditor / Chief Performance Officer complete and report back to Council by May 1st, 2018 (90 days).”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Mayes",
+        "Pagtakhan"
+      ],
+      "subject": "That the Mayor and Councillors refrain from making any funding announcements pertaining to expenditures from Land Dedication Reserve, Community Incentive Grants and Per Capita grants in the sixty (60) day period prior to the 2018 civic election.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Pagtakhan",
+        "Morantz"
+      ],
+      "subject": "That the Winnipeg Public Service study the feasibility and implications of a back-in-angled parking solution for Rupert Avenue and Pacific Avenue, from Main Street & Lily Street.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Dobson",
+        "Eadie"
+      ],
+      "subject": "That item 14 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 8, 2018 be referred back to the Standing Policy Committee to allow the Winnipeg Public Service to report back to Council within 60 days with the following information: 1.A new Asset Assessment of the Vimy Arena based on the premise that the building would be repurposed as a year round recreational facility and not an indoor ice rink and that existing equipment that does not need to be replaced would be maintained. 2.A new appraisal of the property based on the new Asset Assessment. 3. Clarification that the current appraisal was based on the value of the land only.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Schreyer",
+        "Dobson"
+      ],
+      "subject": "That: The City administration be directed to initiate a proactive and progressive process of establishing a set of criteria by which drug rehabilitation facilities can be zoned and established within the City of Winnipeg and; 2.The City establish a list of City-owned sites where drug rehabilitation facilities can be established.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Gillingham",
+        "Orlikow"
+      ],
+      "subject": "That Recommendation 6 of Item No. 14 of the Report of the Standing Policy Committee on Property and Development Heritage and Downtown Development dated January 8, 2018 be deleted in its entirety and replaced with the following: “6.     That the City of Winnipeg Public Service include a reversionary clause in the land sale agreement with Manitoba Housing and Renewal Corporation (“MHRC”) for 255 Hamilton Avenue (the “Property”) that includes the following elements, and if such elements are not complied with the Property shall revert back to the City: That MHRC and/or the proponent of the addictions treatment and recovery center (the “Proponent”) submit a complete application to the City of Winnipeg for all necessary planning, subdivision and rezoning approvals required to permit the use of the Property for an addictions treatment and recovery center and that such necessary planning, subdivision and rezoning approvals be obtained from the City of Winnipeg within two years after the sale of the Property from the City to MHRC. That MHRC enter into a Ground Lease Agreement (“Agreement”) with the Proponent within four years after the sale of the Property from the City of Winnipeg to MHRC that requires the exclusive use of the Property as an addictions treatment and recovery center, and such Agreement shall be terminated if Recommendation 6C is not satisfied. That MHRC and/or the proponent be required to build an addictions treatment and recovery center and obtain an unconditional occupancy permit therefor within four years after the sale of the Property from the City of Winnipeg to MHRC; That MHRC and/or the Proponent provide a letter of credit in an amount sufficient to restore the land to its original condition in the event that construction for an addictions treatment and recovery center is initiated but not completed.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "Leave of Absence",
+      "movers": [
+        "Schreyer",
+        "Dobson"
+      ],
+      "subject": "THAT Councillor Wyatt be granted a leave of absence from today’s meeting due to a personal family matter.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "133/2017",
+      "subject": "To authorize the borrowing of money in the amount of up to $77,357,000.00 and to rescind certain unused borrowing authority",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "2/2018",
+      "subject": "To close part of Brandon Avenue and public lane plan 1606 - west of Nassau Street south – DAC 1/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "3/2018",
+      "subject": "To amend the Downtown Residential Development Grant Program By-law to update the values in the grant eligibility grids for 2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "4/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at Brandon Avenue (Lots 9-21, Block 6, Plan 1606), 615 Hethrington Avenue, and 421 Osborne Street in the City Centre Community – DASZ 12/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "6/2018",
+      "subject": "To prohibit the sounding of engine whistles at certain Canadian National Railway crossings within the City of Winnipeg",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "7/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 982 John Bruce Road East in the Riel Community – DASZ 9/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "8/2018",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 22 Loraine Street in the Riel Community – DAZ 212/2017",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Item 5 of the Report of the Executive Policy Committee Committee dated January 17, 2018",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion 2 – Amendment to Item 5 of the Report of the Executive Policy Committee dated January 17, 2018  – Audit of the Effectiveness of Current Systems and Processes in Relation to the Sterling Lyon / William Clement Parkway Study",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 9 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development Committee dated January 8, 2018",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Motion 5 – Amendment to Item 14 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 8, 2018  - Sale of City-owned Property – Vimy Arena – 255 Hamilton Avenue",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Dobson",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Motion 7 – Amendment to Item 14 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 8, 2018  - Sale of City-owned Property – Vimy Arena – 255 Hamilton Avenue",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Schreyer",
+        "Councillor Eadie"
+      ]
+    },
+    {
+      "subject": "Item 14, as amended, of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 8, 2018  - Sale of City-owned Property – Vimy Arena – 255 Hamilton Avenue",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Dobson",
+        "Councillor Schreyer",
+        "Councillor Eadie"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
