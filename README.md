@@ -29,6 +29,7 @@ Scripts exist to:
 * Show Councillors Not in Attendance
 * Create DB for YouTube & DMIS disposition metadata.
 * Pre-process all Docx Disposition tables to remove blank rows.
+* Some tables span multiple pages and can accumulate bad data when the paragraphs within the cells are join. For an example, [see motion 2 in Dec 2017](http://www.winnipegelected.ca/disposition-2017-12-13.html#motions).  
 
 ### Changes Made to Official Disposition Docx Files
 
@@ -55,6 +56,7 @@ When downloading new Disposition Docx files:
 * *February 22, 2017* - Conflict of interest declaration member lists changes from table to line line-separated text. Typos and cases fixed in two report headers that were blocking parsing.
 * *April 26, 2017* - Added missing date to the header of the water and waste report.
 * *May 24, 2017* - Split two report tables (Finance May 4 and Water and Waste May 1) that were accidentally combined.
+* *December 13, 2017* - Removed a misplaced comma from the end of mayor's entry in one of the recorded votes.
 
 ### Report to City Clerks' Department
 
