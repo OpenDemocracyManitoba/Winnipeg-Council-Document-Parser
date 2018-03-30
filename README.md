@@ -57,6 +57,7 @@ When downloading new Disposition Docx files:
 * *April 26, 2017* - Added missing date to the header of the water and waste report.
 * *May 24, 2017* - Split two report tables (Finance May 4 and Water and Waste May 1) that were accidentally combined.
 * *December 13, 2017* - Removed a misplaced comma from the end of mayor's entry in one of the recorded votes.
+* *March 22, 1018* - Removed a rogue number "3" in under By-Law number 30/2018.
 
 ### Report to City Clerks' Department
 
