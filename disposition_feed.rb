@@ -5,6 +5,7 @@ class DispositionFeed
   def initialize(feed_path)
     feed_file = File.open(feed_path, 'r:UTF-8')
     @feed_json = JSON.parse(feed_file.read)
+    feed_file.close
   end
 
   def regular_dispositions
