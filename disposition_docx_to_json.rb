@@ -4,6 +4,8 @@
 #
 # Generated JSON is sent to STDOUT.
 
+require 'rubygems'
+require 'bundler/setup'
 require 'json'
 require_relative 'disposition'
 
