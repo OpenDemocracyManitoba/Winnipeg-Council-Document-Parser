@@ -1,0 +1,367 @@
+{
+  "meeting_date": "2018-04-26",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Manager of the Decision Making Process",
+      "Ms K. McMillan, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 11, 2018",
+      "date": "2018-04-11",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Agreement between the City of Winnipeg and Main Street Project Inc.",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Vehicles for Hire – Safety and Security",
+          "disposition": "EXTENSION OF TIME OF UP TO 180 DAYS GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 17, 2018",
+      "date": "2018-04-17",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Cooling Off Period",
+          "disposition": "90 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Rezoning – 3021 Pembina Highway -  DAZ 220/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Infrastructure Planning and OurWinnipeg",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "“Buy Local” Procurement Procedure",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "5",
+          "title": "Audit of the Effectiveness of Current Systems and Processes in Relation to the Sterling Lyon / William Clement Parkway Study",
+          "disposition": "EXTENSION OF TIME GRANTED FOR REPORT BACK TO THE EXECUTIVE POLICY COMMITTEE ON JUNE 13, 2018"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated April 16, 2018",
+      "date": "2018-04-16",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Award of Contract for Processing and Marketing of Recyclable Materials",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE RECOMMENDATION AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated April 16, 2018",
+      "date": "2018-04-16",
+      "committee": "Standing Policy Committee On Innovation",
+      "items": [
+        {
+          "number": "1",
+          "title": "High Resolution Cameras - Surveillance of Illegal Dumping",
+          "disposition": "FOR REPORT BACK TO STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS IN 90 DAYS"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT DATED APRIL 9, 2018",
+      "date": "2018-04-09",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Closing – Turenne Street between Dugald and Panet Roads – DAC 3/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Openings, Closings and Rededications – Disraeli Bridges Rehabilitation Project – DAOC 2B/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Openings, Closings and Rededications – Disraeli Bridges Rehabilitation Project – DAOC 2C/2015",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – 1274-1288 and 1310 Archibald Street – DASZ 1/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Extension of Time – North and East of Edward Turner / East of Hydro Lines / North of Dragonfly / South of future Bishop Grandin to the East City Limit – DASZ 30/2012",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "List of Historical Resources – Nomination of Walter P. Moss House (Max Kantor and Mireille Grandpierre-Kantor House), 218 Roslyn Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Sale of Vacant Land – 992 Alexander Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Operating Cost Recovery for Community Not-for-profit Groups Occupying City-owned Buildings",
+          "disposition": "FOR REPORT BACK TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT IN 120 DAYS"
+        },
+        {
+          "number": "9",
+          "title": "Completed Real Property Sale & Lease Transactions – 2017",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Land Exchange Agreement and Declaration of Surplus Land for the Southwest Rapid Transitway – Stage I Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "The Annual Review of Part II Section 3 (Land Value) of the 2002 Development Agreement Parameters",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Expropriation of Lands and Opening of Public Right-of-Way – Pembina Highway – Grant Avenue to Osborne Street – Major Rehabilitation and Buffered Bike Lanes Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Declaration of Surplus Land – City-owned Properties identified on Misc. Plan Nos. 14750/3 and 14754/3",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Declaration of Surplus Land and Sale – City-owned Property Adjacent to 101 Creek Bend Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Lease of 311 Call Centre – Unit 500-234 Donald Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – Northwest Intersection of King Edward Street and Inkster Boulevard",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated April 10, 2018",
+      "date": "2018-04-10",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Appointment of Weed Inspectors under the Noxious Weeds Act",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "2018 Operating Grant – Ross House Museum",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated April 6, 2018",
+      "date": "2018-04-06",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Criteria and Weighting for the Eastern Corridor Study",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated April 4, 2018",
+      "date": "2018-04-04",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Community Committee Composition",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "2018 Election Preparation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Scent Free Workplace",
+          "disposition": "FOR REPORT BACK TO COUNCIL WITHIN 90 DAYS"
+        },
+        {
+          "number": "4",
+          "title": "Report of the Integrity Commissioner Recommending an Amendment to the Code of Conduct for Members of Council for the City of Winnipeg",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Election Financing Commission",
+          "disposition": "REFERRED TO THE 2019 BUDGET REVIEW PROCESS"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "His Worship Mayor Bowan",
+        "Gillingham"
+      ],
+      "subject": "That Recommendation 1 of Item 4 of the Report of Executive Policy Committee dated April 17, 2018 be deleted and replaced with the following: 1.That the Winnipeg Public Service be directed to consult with stakeholders including but not limited to the Winnipeg Chamber of Commerce, the Manitoba Heavy Construction Association and Manitoba Business Council on options to amend the Materials Management Policy to implement a buy local procurement procedure for City contracts valued at less than $100,000.00, and other ways that the City can better support local businesses to participate in the City’s procurement processes. 2.That the Public Service report back to Council in 90 days with a recommendation on the aforementioned buy local procurement procedure and  recommendations on other ways that the City of Winnipeg can better support local businesses to participate in the City procurement processes.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Eadie",
+        "Schreyer"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to: 1.Identify neighbourhoods and business improvement zones which need safety strategies, neighbourhoods and business improvement zones which cannot depend on voluntary citizen patrols, communities needing 24/7 youth drop in centres and organizations that deliver safety/crime prevention services; 2.Estimate the costs to provide grants to cover the costs of formulating safety strategies, safety patrols, 24/7 youth drop in centres and various crime prevention initiatives in order to utilize a onetime property tax increase in a dedicated city fund allocated annually for said purposes beginning in 2019’s budget; 3.Establish a grant application process that would allow a not for profit entity to request funding to create a safety strategy, safety patrol, 24/7 youth drop in centre and various crime prevention services identified in the first be it resolved.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
+    },
+    {
+      "number": "LEAVE OF ABSENCE",
+      "movers": [
+        "Schreyer",
+        "Browaty"
+      ],
+      "subject": "That Councillor Wyatt be granted a leave of absence from today’s meeting due to a personal family matter.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "27/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located west of Boulevard Des Hivernants N., North and South of Edward Turner Drive, Proposed Blocks 4 and 11 in the Riel Community – DASZ 27/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "28/2018",
+      "subject": "To correct an error in By-law No. 128/2017 – DAS 20/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "33/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1280 Notre Dame Avenue in the City Centre Community – DASZ 19/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "34/2018",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 380 Osborne Street in the City Centre Community – DAZ 217/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "35/2018",
+      "subject": "To acquire land for the purpose of Expropriation of Lands and Opening of Public Right-of-Way – Pembina Highway – Grant Avenue to Osborne Street – Major Rehabilitation and Buffered Bike Lanes Project in the City of Winnipeg, in Manitoba.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "36/2018",
+      "subject": "To change the names of certain highways in The City of Winnipeg (changing to Shahi Street)",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "37/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1320 Molson Street in the East Kildonan-Transcona Community – DASZ 15/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "44/2018",
+      "subject": "To amend the Complaint Protocol of the Members of Council Code of Conduct By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "45/2018",
+      "subject": "To replace By-law No. 22/2006",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "46/2018",
+      "subject": "To amend the Campaign Expenses and Contributions By-law to prohibit official agents from acting as an election official, a candidate or an auditor for a candidate in a civic election",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Executive Policy Committee Notice of Motion - Repeal of Rebate of Election Contributions By-law No. 9/2010",
+      "disposition": "LOST",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Morantz"
+      ],
+      "nays": [
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
