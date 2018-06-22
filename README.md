@@ -52,11 +52,12 @@ When downloading new Disposition Docx files:
 * *September 28, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *October 26, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *November 16, 2016* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
-* *December 14, 2016* - Recorded vote Yeas/Nays and conflict of interest lists changed from tables to line-separated text
+* *December 14, 2016* - Recorded vote Yeas/Nays and conflict of interest lists changed from tables to line-separated text. Fix recorded votes to match hansard. 
 * *February 22, 2017* - Conflict of interest declaration member lists changes from table to line line-separated text. Typos and cases fixed in two report headers that were blocking parsing.
 * *April 26, 2017* - Added missing date to the header of the water and waste report.
 * *May 24, 2017* - Split two report tables (Finance May 4 and Water and Waste May 1) that were accidentally combined.
-* *December 13, 2017* - Removed a misplaced comma from the end of mayor's entry in one of the recorded votes.
+* *July 19, 2017* - Fixed spacing in recorded vote subjects. Fix recorded votes to match hansard. 
+* *December 13, 2017* - Removed a misplaced comma from the end of mayor's entry in one of the recorded votes. Fix recorded votes to match hansard. 
 * *March 22, 1018* - Removed a rogue number "3" in under By-Law number 30/2018.
 
 ### Report to City Clerks' Department
