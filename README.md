@@ -59,6 +59,7 @@ When downloading new Disposition Docx files:
 * *July 19, 2017* - Fixed spacing in recorded vote subjects. Fix recorded votes to match hansard. 
 * *December 13, 2017* - Removed a misplaced comma from the end of mayor's entry in one of the recorded votes. Fix recorded votes to match hansard. 
 * *March 22, 1018* - Removed a rogue number "3" in under By-Law number 30/2018.
+* *July 19, 2018* - Two rows from one of the report tables were orphaned. Joined these rows to the correct table.
 
 ### Report to City Clerks' Department
 
