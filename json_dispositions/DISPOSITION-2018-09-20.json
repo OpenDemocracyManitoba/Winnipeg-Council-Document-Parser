@@ -1,0 +1,734 @@
+{
+  "meeting_date": "2018-09-20",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Gerbasi",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Dobson",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Morantz",
+      "Councillor Orlikow",
+      "Councillor Pagtakhan",
+      "Councillor Schreyer",
+      "Councillor Wyatt"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms K. McMillan, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated September 12, 2018",
+      "date": "2018-09-12",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Pilot Project for Centennial West Alexander BIZ",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Rezoning – 939 Mountain Avenue - File DAZ 207/2018 [c/r DAV 126024/2018D]",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Land Dedication Reserve Fund – Gas Station Arts Centre – Common Space Safety and Enhancement",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Commercial Agricultural Uses",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "2017 Single Source Assignments for Consultants, Goods and Services",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Community Centres – Liability Insurance and Vehicle/Equipment Insurance Costs",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Destination Marketing Reserve Fund – Revised Funding Allocation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Interim Universal Funding Formula (UFF) Continuation and Adjustments to 2017 and 2018 UFF Grants to Reflect Preliminary 2016 Statistics Canada Census Data",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Open Government Annual Review",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Proposed General Council of Winnipeg Community Centres 2018 – 2020 Business Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Opening – Fultz Boulevard at Henlow Bay - File DAO 4/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Revised Accelerated Regional Street Renewal for Federal Funding",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Whistleblower Protection",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Methamphetamine Crisis",
+          "disposition": "AMENDED AND ADOPTED (See Motion 7)"
+        },
+        {
+          "number": "15",
+          "title": "TN Square Inc. and Northland Properties Funding Agreements",
+          "disposition": "AMENDED AND ADOPTED (See Motion 2)"
+        },
+        {
+          "number": "16",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations 2018 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "17",
+          "title": "Report on New Fire Paramedic Stations Construction Project – Status of Audit Recommendations 2018 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "18",
+          "title": "Audit of Procurement for the Pedestrian and Cycling Strategies and Review of the Employee Code of Conduct – Status of Audit Recommendations 2018 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "19",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project Audit – Quarter 4 2017",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "20",
+          "title": "By-Law Amalgamation Audit",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "21",
+          "title": "Audit of the William R. Clement Parkway / Sterling Lyon Parkway Extension Project – Supplemental Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "22",
+          "title": "Safety Review of the City of Winnipeg Outdoor Aquatic Facilities",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated June 25, 2018",
+      "date": "2018-06-25",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "List of Historical Resources – Nomination of International Harvester Building, 782 Main Street",
+          "disposition": "EXTENSION OF TIME GRANTED FOR REPORT BACK AT THE DECEMBER 13, 2018 COUNCIL MEETING"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated September 4, 2018",
+      "date": "2018-09-04",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 281 River Avenue – DASZ 13/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 21 Clayton Drive – DASZ 2/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time – Subdivision and Rezoning – 703 St. Anne’s Road – DASZ 10/2012",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – Subdivision and Rezoning – 989-1001 Ducharme Avenue – DASZ 29/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Extension of Time – North East corner of Almey Avenue at Ravelston Avenue West – DASZ 31/2016",
+          "disposition": "FILED"
+        },
+        {
+          "number": "6",
+          "title": "Extension of Time – Gunn Road, Hewitson Road and Redonda Street (Northwoods) – DASZ 18/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Assignment of Heritage Conservation Tax Credit for 352 Donald Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "CentreVenture Development Corporation: Drive for 2020",
+          "disposition": "90 DAY EXTENSION OF TIME GRANTED FOR THE WINNIPEG PUBLIC SERVICE TO REPORT BACK"
+        },
+        {
+          "number": "9",
+          "title": "Encroachment Agreement between 109 James Avenue Ltd. and the City of Winnipeg to Allow for the use of City Right-of-Way Adjacent to 109 James Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Expropriation of Lands for the Regional Street Renewal Program - St. James Street – Sargent Avenue to Ellice Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Request to Rescind the Expropriation Proceedings for the Southwest Rapid Transit (Stage 2) and Pembina Highway Underpass Project (Misc. Plan 14307/10)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Request to Rescind the Expropriation Proceedings for the Cockburn-Calrossie Combined Sewer Area – Drainage Upgrade Project (Misc. Plan 14762/1)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Local Area Planning Initiatives for 2018 - 2019",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "14",
+          "title": "Winnipeg Electrical By-law – Adoption of the 2018 Canadian Electrical Code",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "New Heritage Conservation Districts By-Law",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "SP 2/2018 – Proposed Secondary Plan for Precinct ‘G’ of the Complete Communities Direction Strategy – First Reading",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "SP 1/2018 – Parker Lands Major Redevelopment Site Secondary Plan (First Reading)",
+          "disposition": "LAID OVER INDEFINITELY"
+        },
+        {
+          "number": "18",
+          "title": "Readying the Former Public Safety Building and Civic Centre Car Park Lands for Redevelopment – Project No. MA2018-097",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated September 11, 2018",
+      "date": "2018-09-11",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Renewal of Fire Protection Services Agreement with Border Chemical Company Limited",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Community Incentive Grant – Centre de Renouveau Aulneau Renewal Centre",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Handbills and Posters – Neighbourhood Liveability By-law Review",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Museums – Special Operating Agency",
+          "disposition": "AMENDED AND ADOPTED (See Motion 5)"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated September 7, 2018",
+      "date": "2018-09-07",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Free Access to all Transit Service for all Armed Forces Veterans and Serving Personnel Annually on Remembrance Day",
+          "disposition": "AMENDED AND ADOPTED (See Motion 6)"
+        },
+        {
+          "number": "2",
+          "title": "Negotiation of U-Pass Agreements with University of Manitoba, University of Winnipeg and Red River College",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Capital Budget Amendment and Delegation of Authority to Award General Capital Fund Contract Exceeding $5,000,000.00 for Empress Street and Empress Street East – St. Matthews Avenue to Portage Avenue for Bridge Rehabilitations, Pavement Rehabilitations, Pavement Reconstructions and Riverbank Stabilization",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Rail Safety Week",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated September 6, 2018",
+      "date": "2018-09-06",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Mattress and Box Spring Recycling Pilot Project with Mother Earth Recycling",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Climate Action Plan",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated September 6, 2018",
+      "date": "2018-09-06",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Candidate Advertising",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "2019 Council and Committee Schedule of Meetings",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Report of the Integrity Commissioner - Recommending an increase to the Annual Budget for the Office of the Integrity Commissioner",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Endorsement for Vice President of the Association of Manitoba Municipalities",
+          "disposition": "LAID OVER BY THE EXECUTIVE POLICY COMMITTEE TO ITS NOVEMBER 28, 2018 MEETING"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Gilroy",
+        "Pagtakhan"
+      ],
+      "subject": "That the City of Winnipeg request the Province of Manitoba to amend the City of Winnipeg Charter to make it mandatory for an elected member of Council to take a paid leave of absence while facing criminal charges including, but not necessarily limited to, assault and sexual assault.",
+      "disposition": "REFERRED TO THE EXECUTIVE POLICY COMMITTEE"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Morantz",
+        "Gillingham"
+      ],
+      "subject": "That all future applications to the Innovation Capital Fund clearly identify in the administrative report what the tangible financial return on the investment is and how long it would take for that investment to be realized.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INNOVATION"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Gilroy",
+        "Gerbasi"
+      ],
+      "subject": "That Item 15. of the Report of the Executive Policy Committee dated September 12, 2018 be amended by adding the following new recommendation: “6.That TN Square Inc. provide a cash contribution to the City of Winnipeg in a manner satisfactory to the Chief Financial Officer that is equal to 10% of the projected incremental municipal property taxes generated from the residential developments to be constructed at 220 and 225 Carlton Street, for the first 5 years after occupancy and final assessment is attained, and that this contribution be used to support construction of affordable housing in Winnipeg, in a manner to be determined by City Council.”, and the remaining recommendations be renumbered accordingly.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Pagtakhan",
+        "Eadie"
+      ],
+      "subject": "That Recommendation 1.A of Item 2 of the report of the Standing Policy Committee on Protection, Community Services and Parks dated April 10, 2018, as approved by Council on April 26, 2018, requiring that Seven Oaks House Museum enter into a lease agreement with the City of Winnipeg in order to qualify for the 2018 Ross House Museum grant be rescinded in order to provide the 2018 grant.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Mayes",
+        "Gillingham"
+      ],
+      "subject": "That the July 13, 2016 adopted Council Motion approving a Community Incentive Grant to Heritage Winnipeg Corporation (Minute No. 489) be rescinded and replaced with the following: 1.That the following eligibility criteria for the Community Incentive Grant Program be waived in this instance, namely: A.The project is a capital improvement or the purchase of a capital asset that will be retained for more than 1 year B.Total City of Winnipeg contribution is 50% or less. (The applicant can access this funding at 100%) C.Projects must be initiated and substantially completed within two (2) years of award 2.That a Community Incentive Grant in the total amount of $30,000 for capital or other expenses related to the First World War Digital Memorial Project be approved as follows: A. Riel Community Committee total of $10,000, funded as follows: $10,000 from the St. Vital Ward allocation; B. City Centre Community Committee in the total amount of $2,000, funded as follows: $2,000 from the Fort-Rouge-East Fort Garry Ward allocation; C. Assiniboia Community Committee in the total amount of $13,000, funded as follows: $1,000 from the St. James-Brooklands-Weston Ward allocation; $2,000 from the Charleswood –Tuxedo –Whyte Ridge Ward allocation; $10,000 from the St. Charles Ward allocation; D. Lord Selkirk-West Kildonan Community Committee in the total amount of $3,000, funded as follows: $2,000 from the Point Douglas Ward allocation; $1,000 from the Old Kildonan Ward allocation; E. East Kildonan – Transcona Community Committee in the total amount of $2,000, funded as follows: $666.67 from the Transcona Ward allocation; $666.67 from the Elmwood-East Kildonan Ward allocation; $666.67 from the North Kildonan Ward allocation be approved to the Heritage Winnipeg Cooperation to assist with the cost of the First World War Digital Memorial Project , subject to the following conditions: Approval of final plans and specifications for the project by the City of Winnipeg. The applicant entering into a formal agreement with the City of Winnipeg. That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Pagtakhan",
+        "Orlikow"
+      ],
+      "subject": "That the following recommendation be added to Item 4 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated September 11, 2018: “4.That the WAC be directed, in consultation with museums in Winnipeg, to determine thru appropriate policies & processes for distribution of the Museum Grant Funds to all qualifying museums in Winnipeg in time for the calendar year 2022, and to administer and distribute those Museum Grant Funds annually thereafter as per a transparent, juried process open to all qualifying museums.” and the remaining recommendations be renumbered accordingly.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Gillingham",
+        "Mayes"
+      ],
+      "subject": "That Item 1 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated September 7, 2018 be amended by replacing Recommendation 1 with the following: “1.That armed forces veterans, current serving personnel, including cadets and reservists, be allowed to ride Winnipeg Transit buses (including Handi-Transit service) for free annually on Remembrance Day while wearing a military uniform or presenting a military identification or CF1 card at the time of boarding.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Wyatt",
+        "Schreyer"
+      ],
+      "subject": "That Item 14. of the Report of the Executive Policy Committee dated September 12, 2018 be amended by adding the following new recommendation: “3.That in the event the Provincial and/or Federal Governments fail to create an intergovernmental task force on the methamphetamine crisis within the next 60 days, as of the adoption of this motion, that the City of Winnipeg shall create and lead a Crystal Meth Crisis Taskforce. and the remaining recommendation be renumbered accordingly.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "8",
+      "movers": [
+        "Browaty",
+        "Lukes"
+      ],
+      "subject": "1.That Winnipeg City Council support and endorse Councillor Jeff Browaty to run for the position of Vice – President of the Association of Manitoba Municipalities. 2. That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "AUTOMATIC REFERRAL TO THE GOVERNANCE COMMITTEE OF COUNCIL"
+    },
+    {
+      "number": "Condolence",
+      "movers": [
+        "Wyatt",
+        "Schreyer"
+      ],
+      "subject": "That Council place on record its profound sorrow at the death of former Councillor George Marshall, which occurred on August 7, 2018.",
+      "disposition": "CARRIED BY SILENT STANDING VOTE"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "1/2018 PD Sept 4 Item 17",
+      "subject": "To adopt a secondary plan for Major Redevelopment Site ‘G’ of the Complete Communities Direction Strategy By-law No. 68/2010",
+      "disposition": "LAID OVER INDEFINITELY"
+    },
+    {
+      "number": "5/2018 PD Sept 4 Item 16",
+      "subject": "To adopt a secondary plan for Precinct ‘G’ of the Complete Communities Direction Strategy By-law No. 68/2010",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    },
+    {
+      "number": "89/2018 EPC Sept 12 Item 15",
+      "subject": "To authorize the borrowing of money in the amount of $9,316,700.00",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "72/2018",
+      "subject": "To amend Part 4 of the Neighbourhood Liveability By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "75/2018",
+      "subject": "To close streets and lanes bounded by part of Timberline Drive and open streets and lanes bounded by Timberline Drive south of Eaglemere Drive – DAOC 5/2009",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "77/2018",
+      "subject": "To amend By-law No. 65/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "78/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 173 Notre Dame in the Riel Community – DASZ 8/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "79/2018",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to replace Map 1 in Schedule “O” – DAZ 215/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "80/2018",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1466 Templeton Avenue in the Lord Selkirk–West Kildonan Community – DAZ 207/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "81/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at northeast corner of Almey Avenue at Ravelston Avenue West in the East Kildonan-Transcona Community – DASZ 31/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "82/2018",
+      "subject": "To open St. James Street, Sargent Avenue to Ellice Avenue",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "83/2018",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 384 Stradbrook Avenue in the City Centre Community – DAZ 205/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "84/2018",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 721 Oxford Street in the City Centre Community. – DAZ 221/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "85/2018",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 607 Flora Avenue in the Lord Selkirk-West Kildonan Community.- DAZ 202/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "86/2018",
+      "subject": "Adopting and varying the 2018 Canadian Electrical Code",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "87/2018",
+      "subject": "To protect and conserve areas within the City of Winnipeg that are of special architectural or historical interest",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "90/2018",
+      "subject": "To amend the SHED TIF Zone By-law to remove the property located at 225 Carlton Street",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "91/2018",
+      "subject": "To close streets and lanes bounded by the Public Lane north of St. Mary Avenue, east of Colony Street and open streets and lanes bounded by St. Mary Avenue and Memorial Boulevard – DAOC 1/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "92/2018",
+      "subject": "To open Fultz Boulevard at Henlow Bay – DAO 4/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "93/2018",
+      "subject": "To open the Public Lane between Bell and River Avenues, east of Clarke Street. – DAO 3/2018",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion to suspend rules 51(1) and 51(9) of the Procedure By-law to allow a delegation in opposition to Item 17 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development to be heard",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Eadie",
+        "Councillor Lukes",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 12 of the Report of the Executive Policy Committee dated September 12, 2018",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion 7 To amend Item 14 of the Report of the Executive Policy Committee dated September 12, 2018",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 14, as amended by Motion 7, of the Report of the Executive Policy Committee dated September 12, 2018",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Eadie",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion 2 To amend Item 15 of the Report of the Executive Policy Committee dated September 12, 2018",
+      "disposition": "",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Schreyer",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie"
+      ]
+    },
+    {
+      "subject": "Item 15, as amended by Motion 2, of the Report of the Executive Policy Committee dated September 12, 2018",
+      "disposition": "",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Dobson",
+        "Councillor Gerbasi",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Morantz",
+        "Councillor Orlikow",
+        "Councillor Pagtakhan",
+        "Councillor Wyatt",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Schreyer"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+    {
+      "subject": "Delegation – Steve Strang, Director, Red River Basin Commission, in support of  Item 2 of the Report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated September 6, 2018",
+      "members": [
+        "Councillor Allard"
+      ]
+    },
+    {
+      "subject": "Item 5 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated September 4, 2018",
+      "members": [
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "By-law 81/2018",
+      "members": [
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "Executive Policy Committee Notice of Motion",
+      "members": [
+        "Councillor Wyatt"
+      ]
+    },
+    {
+      "subject": "Item 2 of the Report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated September 6, 2018",
+      "members": [
+        "Councillor Allard"
+      ]
+    }
+  ]
+}

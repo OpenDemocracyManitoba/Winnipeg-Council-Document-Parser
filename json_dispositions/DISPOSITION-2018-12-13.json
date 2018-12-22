@@ -1,0 +1,510 @@
+{
+  "meeting_date": "2018-12-13",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Lukes",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor  Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. S. Armbruster , Manager of Special Projects",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 28, 2018",
+      "date": "2018-11-28",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Paid Leave of Absence",
+          "disposition": "FOR REPORT BACK IN 180 DAYS"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – Templeton Avenue/Thorn Drive – DASZ 11/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Rezoning – 469 Beresford Avenue – DAZ 203/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Request for a Traffic Light – Gunn Road at the Perimeter Highway",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "2019 Local Improvement Interest Rates",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Opening – Black Diamond Boulevard, west of Mazenod Road - File DAO 5/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Sponsorship Agreement with Sun Life Assurance Company of Canada for Naming Right of Musical Instrument Lending Library",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Discount(s) to be allowed for the Prepayment of 2019 Realty, Personal Property and Business Taxes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Subdivision and Rezoning – Dedrick Bay– Dedrick Bay – DASZ 18/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Subdivision and Rezoning – 900 Elmhurst Road– DASZ 15/2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated December 5, 2018",
+      "date": "2018-12-05",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 2700 King Edward Street & Lot 5, Plan 17736 - DASZ 17/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Committee for Safety – Contract Renewal for Committee Coordinator",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Access to Rehabilitation for Addictions Recovery",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Human Rights Committee of Council – Terms of Reference",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "5",
+          "title": "Community Centre Boundary Review",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "2019 Transit Fare Freeze",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Winnipeg Food Council – Council Appointments",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated November 22, 2018",
+      "date": "2018-11-22",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Comprehensive Integrated Waste Management Strategy Review",
+          "disposition": "EXTENSION OF TIME OF UP TO 90 DAYS GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Single Source Negotiation and Award of Contract - Manitoba Hydro Power Supply Agreement Associated with North End Sewage Treatment Plant Biological Nutrient Removal Upgrade Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Enactment of New Sewer By-law to Replace Sewer By-Law No. 92/2010",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Award of Contract for Construction of Trunk Sewer and LDS Separation - Cockburn and Calrossie Sewer Relief Works",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Winnipeg Sewage Treatment Program 2017 Annual Report Program Agreement Between The City Of Winnipeg and VWNA Winnipeg Inc.",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "6",
+          "title": "2017 Comprehensive Integrated Waste Management Strategy Annual Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "7",
+          "title": "Award of Contract for Hourly and Volume Rates for Hired Equipment Services for the Brady Road Resource Management Facility",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated November 26, 2018",
+      "date": "2018-11-26",
+      "committee": "Standing Policy Committee On Innovation",
+      "items": [
+        {
+          "number": "1",
+          "title": "Innovation Capital Funding - Applications",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated June 25, 2018",
+      "date": "2018-06-25",
+      "committee": "Standing Policy Committee Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "7",
+          "title": "List of Historical Resources – Nomination of International Harvester Building, 782 Main Street",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 19, 2018",
+      "date": "2018-11-19",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Proposed Sale of City-owned land, commonly known as Murray Industrial Park Spur Line",
+          "disposition": "LAID OVER FOR 60 DAYS"
+        },
+        {
+          "number": "2",
+          "title": "Encroachment Agreement between Kildonan Crossing Shopping Centre Ltd. and the City of Winnipeg to allow for the use of City Right-of-Way at the Northwest Corner of Regent Avenue West and Lagimodiere Boulevard",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Closing – Normand Avenue, West of St. Mary’s Road – DAC 1/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning – 1982, 1984 St. Mary’s Road; 2, 44, 66, 88, 108 Normand Avenue DASZ 6/2018",
+          "disposition": "AMENDED AND ADOPTED (See Motion 3)"
+        },
+        {
+          "number": "5",
+          "title": "Zoning Agreement Amendment – 50 Bison Drive – ZAA 3/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Subdivision and Rezoning – 1493 Magnus Avenue – DASZ 9/2018",
+          "disposition": "REFERRED BACK TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+        },
+        {
+          "number": "7",
+          "title": "Assignment of Development Agreement – Subdivision and Rezoning – Gunn Road, Hewitson Road and Redonda Street – AG 18/14",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "List of Historical Resources – Nomination of Great West Life Building, 185 Lombard Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "List of Historical Resources – Nomination of Christie Block, 245 Notre Dame Avenue",
+          "disposition": "LAID OVER BY THE EXECUTIVE POLICY COMMITTEE FOR UP TO 30 DAYS"
+        },
+        {
+          "number": "10",
+          "title": "Transfer of Heritage Conservation Grant – 541 Selkirk Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated November 23, 2018",
+      "date": "2018-11-23",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Police Board – 2017 Annual Report.",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Police Board – 2017 Summary of Expenses",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg Police Service – 2017 Statement of Revenues and Expenses",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Increase to the Capital Budgets for the Cornish Library Project and St. John’s Library Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Single Source Negotiations and Award of Contract Extension – Active Network Ltd.",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated November 20, 2018",
+      "date": "2018-11-20",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "2019 Pedestrian and Cycling Program – Action Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Results of the May 23, 2018 advertisement of the proposed Asphaltic Concrete Lane Pavement local improvement project (Coniston Street, Lyndale Drive, Ferndale Avenue and Lawndale Avenue)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Results of the May 23, 2018 advertisement of the proposed Asphaltic Concrete Lane Pavement local improvement project (Highfield Street, Coniston Street, Claremont Avenue and Ferndale Avenue)",
+          "disposition": "AMENDED AND ADOPTED (See Motion 2)"
+        },
+        {
+          "number": "4",
+          "title": "Approval of Contract for Bid Opportunity 342-2018 - Provision of Parking Enforcement/Vehicle for Hire Enforcement, and Communication Services",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated November 27, 2018",
+      "date": "2018-11-27",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "Financial Status Report and Forecast to September 30, 2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated September 6, 2018",
+      "date": "2018-09-06",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Endorsement for Vice President of the Association of Manitoba Municipalities",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated November 21, 2018",
+      "date": "2018-11-21",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Council Representative - Association of Manitoba Municipalities",
+          "disposition": "FILED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Sharma",
+        "Bowman"
+      ],
+      "subject": "That Recommendation 1. of Item No. 4 of the Report of the Executive Policy Committee dated December 5, 2018 be amended to read as follows: “That the attached terms of reference for the Human Rights Committee of Council be approved, with the following amendments: Section 5.1 - delete “appointed by the Mayor” and replace it with “appointed by Council, and advertised in accordance with the Council Policy on Citizen Appointments to Boards and Commissions.” Section 10.1 - add the words “for submission to Council for approval” at the end of the bullet.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Allard",
+        "Santos"
+      ],
+      "subject": "That a By-law to authorize the proposed local improvement outlined in Recommendation 1 of this report, be enacted in accordance with the attached draft By-law (Schedule \"A\"), amended as follows: Delete the following: \"(a) Asphaltic Concrete Lane Pavement - approximately 16 feet wide (5 inches thick) on the first lane east, between of Ferndale Avenue and Claremont Avenue, from Highfield Street to Coniston Street.\" and replace with the following: \"(b) Asphaltic Concrete Lane Pavement - approximately 16 feet wide (5 inches thick) on the lane in the block bounded by Highfield Street, Coniston Street, Claremont Avenue and Ferndale Avenue.\"",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Mayes",
+        "Lukes"
+      ],
+      "subject": "That Recommendation 2.A.iii of Item No. 4 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated November 19, 2018 be deleted and replaced with the following: “2.A.iii.That the maximum height of any building shall not exceed 45 feet east of the northeasterly limit of 81 Mardena Crescent (Lot 15, Block 2, Plan 46437).”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Mayes",
+        "Lukes"
+      ],
+      "subject": "That the 2019 Schedule of Meetings be amended by adding the following meeting dates for the Standing Policy Committee on Property and Development, Heritage and Downtown Development, to consider appeals under the Standing Committee jurisdiction: March 18 May 13 July 15 September 23 November 25 Meetings are to begin at 9:30 a.m. in the Council Building.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Eadie",
+        "Rollins"
+      ],
+      "subject": "That the Winnipeg Public Service undertake a consultation with retail outlets, specialty shops and the company that maintains the online bike registry for the purpose of identifying how bicycles can be registered at time of purchase in Winnipeg; That the Winnipeg Public Service report back to City Council with the required amendments to the Doing Business In Winnipeg By-law and plan to implement bicycle registration at time of purchase.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Klein",
+        "Gillingham"
+      ],
+      "subject": "That the City Solicitor be directed to prepare a by-law and forward same to City Council to amend the name of the electoral ward of “Charleswood – Tuxedo” to “Charleswood – Tuxedo – Westwood”. That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "95/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 939 Mountain Avenue in the Lord Selkirk-West Kildonan Community – DAZ 207/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "96/2018",
+      "subject": "To correct an error in By-law No. 83/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "97/2018",
+      "subject": "To authorize the undertaking of certain local improvements",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "98/2018",
+      "subject": "To authorize the undertaking of certain local improvements",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "99/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at north west of Eric Street and Beliveau Road in the Riel Community – DASZ 5/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "100/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at east side of Ravelston Avenue West, north of El Tassi Drive in the East Kildonan-Transcona Community – DASZ 16/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "102/2018",
+      "subject": "To close part of Ravelston Avenue West, Plan No. 9165 north and south of El Tassi Drive- DAC 12/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "103/2018",
+      "subject": "To correct an error in By-law No. 77/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "104/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 174 Provencher Boulevard in the Riel Community – DASZ 25/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "105/2018",
+      "subject": "To correct an error in the map attached as Schedule “A” to By-law No. 79/2018 – DAZ 215/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "106/2018",
+      "subject": "To regulate the use of the City of Winnipeg’s wastewater system and land drainage system",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "107/2018",
+      "subject": "To make technical amendments to Schedule A of the Municipal By-law Enforcement Act (MBEA) Enabling By-law",
+      "disposition": "REFERRED BACK TO LEGAL SERVICES"
+    },
+    {
+      "number": "108/2018",
+      "subject": "To amend the Fees and Charges By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "109/2018",
+      "subject": "To implement a grant program to subsidize the costs of architectural lighting within the downtown area that will create a more inviting and safe pedestrian environment",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "110/2018",
+      "subject": "To amend the City Organization By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "111/2018",
+      "subject": "To provide for discounts where real or personal property taxes or business taxes are prepaid in 2019",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+
+  ],
+  "conflict_of_interest_declarations": [
+    {
+      "subject": "Item 3 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated November 19, 2018 Closing – Normand Avenue, West of St. Mary’s Road",
+      "members": [
+        "Councillor Chambers"
+      ]
+    },
+    {
+      "subject": "Item 4 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated November 19, 2018 Subdivision and Rezoning – 1982, 1984 St. Mary’s Road; 2, 44, 66, 88, 108 Normand Avenue",
+      "members": [
+        "Councillor Chambers"
+      ]
+    }
+  ]
+}
