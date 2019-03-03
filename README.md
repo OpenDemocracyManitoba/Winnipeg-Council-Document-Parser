@@ -68,7 +68,7 @@ When downloading new Disposition Docx files:
 
 ### Setup Instructions
 
-Assuming command line with git and Ruby (2.3.x) installed:
+Assuming command line with git and Ruby (2.6.x) installed:
 
     git clone git@github.com:OpenDemocracyManitoba/Winnipeg-Council-Document-Parser.git
     cd Winnipeg-Council-Document-Parser
