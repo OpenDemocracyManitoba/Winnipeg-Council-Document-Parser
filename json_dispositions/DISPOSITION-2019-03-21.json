@@ -1,0 +1,216 @@
+{
+  "meeting_date": "2019-03-21",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Lukes",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms L. Cowan, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated March 5, 2019",
+      "date": "2019-03-05",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 1415 Regent Avenue West – DASZ 21/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Rezoning – 140 Alfred Avenue – DAZ 213/2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated March 12, 2019",
+      "date": "2019-03-12",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "2019 Business Improvement Zone Levies",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Netley-Libau Marsh Pilot Project",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT “A” OF THE EXECUTIVE POLICY COMMITTEE dated March 19, 2019",
+      "date": "2019-03-19",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "2019 Mill Rates for the Education Support Levy and Special Levy",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated February 26, 2019",
+      "date": "2019-02-26",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Service Agreement between The City of Winnipeg and The Winnipeg Humane Society",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated March 7, 2019",
+      "date": "2019-03-07",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Comprehensive Integrated Waste Management Strategy Review",
+          "disposition": "90 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated March 4, 2019",
+      "date": "2019-03-04",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Sale of City-owned land located at the southeast corner of Madison Street and St. Matthews Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Sale of City-owned property located at 180 Market Avenue, commonly known as the Pantages Playhouse Theatre",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "List of Historical Resources – Nomination of Hudson’s Bay Company Store, 450 Portage Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "List of Historical Resources – Nomination of Masonic Temple, 335 Donald Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Rezoning – 1181 Chamberlain Avenue – DAZ 216/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "City-owned Property Located at 5014 Roblin Boulevard",
+          "disposition": "LAID OVER TO THE APRIL 9, 2019  EPC MEETING"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated February 20, 2019",
+      "date": "2019-02-20",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Re-appointment of the Integrity Commissioner",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Annual Report of the Integrity Commissioner for the period April 1, 2018 to December 31, 2018",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "Councillors' Ward Allowance (CWA) Fund Policy Amendments",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Lukes",
+        "Klein"
+      ],
+      "subject": "That the $100,000 included in the 2019 operating budget, for the procurement of external consulting services for a strategic planning session involving all members of Council for establishing City wide priorities and a process for developing the 2020 multi-year budgets, be included in the budget for the review of the City of Winnipeg’s current governance framework.",
+      "disposition": "NOTICE OF MOTION"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "20/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 180 and 200 Lowson Crescent in the Assiniboia Community - DAZ 210/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "21/2019",
+      "subject": "2019 Business Improvement Zone Levy By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "22/2019",
+      "subject": "To open north and south sides of Court Avenue, west of McPhillips Street – DAO 4/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "31/2019",
+      "subject": "To fix and impose taxes to raise the amounts required in the year 2019 by The Public Schools Finance Board of the Province of Manitoba for education purposes",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "32/2019",
+      "subject": "To fix and impose taxes to raise the amounts required in the year 2019 by certain School Divisions for school purposes",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+
+  ],
+  "conflict_of_interest_declarations": [
+    {
+      "subject": "Item 1 of the Report of the Executive Policy Committee dated March 12, 2019 – Netley-Libau Marsh Pilot Project",
+      "members": [
+        "Councillor Allard"
+      ]
+    }
+  ]
+}
