@@ -1,0 +1,395 @@
+{
+  "meeting_date": "2019-04-25",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Lukes",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. S. Armbruster, Manager of Special Projects",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 9, 2019",
+      "date": "2019-04-09",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 609 and 711 Leola Street; 710 Roanoke Street – DASZ 7/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Cooling Off Period",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Federal Gas Tax Funding",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Road Safety Improvements",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 16, 2019",
+      "date": "2019-04-16",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Agreement between The City of Winnipeg and Springfield Police Service regarding Talk Group Radio Communication with the Winnipeg Police Service",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Memorandum of Understanding between The City of Winnipeg and Springfield Police Service for CPIC System Proxy Access",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Delegation of Single Source Negotiation Authority to the Chief Administrative Officer for Spring Flood 2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Amendment of Waverly Underpass Project",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "5",
+          "title": "Audit of Procurement for the Pedestrian and Cycling Strategies and Review of the Employee Code of Conduct – Status of Audit Recommendations 2018 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "6",
+          "title": "Report on New Fire Paramedic Stations Construction Project – Status of Audit Recommendations 2018 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "7",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project Audit – Quarter 2 2018",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "8",
+          "title": "Strategic Plan and Audit Plan 2019 – 2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations 2018 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated March 4, 2019",
+      "date": "2019-03-04",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "6",
+          "title": "City-owned Property Located at 5014 Roblin Boulevard (Charleswood-Tuxedo-Westwood Ward)",
+          "disposition": "FEBRUARY 28, 2019 COUNCIL MOTION RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated April 1, 2019",
+      "date": "2019-04-01",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – North and East of Edward Turner / East of Hydro Lines / North of Dragonfly / South of future Bishop Grandin to the East City Limit",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Extension of Time – Subdivision and Rezoning –Northwest Corner of Inkster Boulevard and King Edward Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Completed Real Property Sale & Lease Transactions – 2018",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Lease for 1120 Waverley Street – Solid Waste Services and Information Systems and Technology Divisions, Water & Waste Department",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Employment and Commercial Lands Study",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Proposed Secondary Plan for Waverley West Neighbourhood ‘B’ – First Reading",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Secondary Plan Amendment – 700 Elgin Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Subdivision and Rezoning – 700 Elgin Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Closing of Public Lane North of Logan Avenue, West of Ada Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Armstrong’s Point Heritage Conservation District Plan Review and Recommendation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "New Encroachment By-law 12/2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated April 4, 2019",
+      "date": "2019-04-04",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Athletic Field Review Final Report",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE AND ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Appointment of Weed Inspectors under the Noxious Weeds Act",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated April 2, 2019",
+      "date": "2019-04-02",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Allocation of Funds from the Federal Government Gas Tax",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated April 3, 2019",
+      "date": "2019-04-03",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Single Source Negotiation and Award of Contract for Lease of Liquid Oxygen Storage Equipment and Supply and Delivery of Liquid Oxygen",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Low Carbon Economy Fund Grant Agreement for the Brady Road Resource Management Facility Landfill Gas Expansion and Dual-Purpose Well Upgrade Project",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated April 8, 2019",
+      "date": "2019-04-08",
+      "committee": "Standing Policy Committee On Innovation",
+      "items": [
+        {
+          "number": "1",
+          "title": "Animal Services Special Operating Agency - 2019 – 2021 Business Plan (Selection Report)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Fleet Management SOA – 2019 Business Plan (Selection Report)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg Golf Services SOA – 2019 Business Plan (Selection Report)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Winnipeg Parking Authority SOA – 2019 Business Plan (Selection Report)",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Lukes",
+        "Klein"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the $100,000 included in the 2019 operating budget, for the procurement of external consulting services for a strategic planning session involving all members of Council for establishing City wide priorities and a process for developing the 2020 multi-year budgets, be included in the budget for the review of the City of Winnipeg’s current governance framework",
+      "disposition": "WITHDRAWN"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Gillingham",
+        "Chambers"
+      ],
+      "subject": "That Item 4 of the Report of the Executive Policy Committee dated April 16, 2019 be amended by adding the following recommendation: “That the Winnipeg Public Service request that the funding partners to the Waverley Underpass Project make every effort to re-invest their surplus funds on projects that are based in the City of Winnipeg.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "THAT Item 6 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated March 4, 2019 be amended as follows: Delete recommendation 1. and replace with the following: 1.That the Winnipeg Public Service be directed to engage with representatives of Charleswood 55 Plus Active Living Centre to explore options to maintain the Centre in its current location, or at an alternate city owned facility located in the Charleswood area; 2.That the Winnipeg Public Service be directed to not proceed with the sale and or subdivision of the portion of the City-owned property located at 5014 Roblin Boulevard, declared surplus by Council on February 22, 2018, until such time as a permanent location for the Charleswood 55 Plus Active Living Centre is identified. 3.That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "LOST"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "1/2019",
+      "subject": "To adopt a secondary plan for Waverley West Neighbourhood “B”",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "94/2018",
+      "subject": "To amend the West Alexander & Centennial Neighbourhood Plan By-law in respect of 700 Elgin Avenue",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "12/2019",
+      "subject": "To regulate the construction and maintenance of encroachments",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "26/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1600 Ravelston Avenue West in the East Kildonan-Transcona Community – DASZ 8/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "27/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 229 Roslyn Road in the City Centre Community – DAZ 214/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "28/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 390, 392, 394 and 396 Academy Road in the City Centre Community – DAZ 211/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "29/2019",
+      "subject": "To close Public Lane in the block bounded by George and Galt Avenues, Duncan Street and Waterfront Drive – DAC 2/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "30/2019",
+      "subject": "To authorize the borrowing of money in the amount of up to$73,087,000.00",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "33/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 650 Burrows Avenue in the Lord Selkirk-West Kildonan Community – DASZ 2/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "37/2019",
+      "subject": "To add the Armstrong’s Point Heritage Conservation District Plan as a schedule to the Heritage Conservation Districts By-law",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Amendment to Item 6 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development Committee dated March 4, 2019",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development Committee dated March 4, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ],
+      "nays": [
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "meeting_date": "2019-05-16",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Lukes",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms J. Marques, Senior Committee Clerk",
+      "Mr. D. McNeil, Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 30, 2019",
+      "date": "2019-04-30",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Citizen Member Appointments – Committees, Boards and Commissions",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Land Dedication Reserve Fund – GlenElm Neighbourhood Association – Boulevard Trees Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Subdivision and Rezoning – 191 Ellen Street – DASZ 8/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Winnipeg Food Council – External Coordinator",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated May 7, 2019",
+      "date": "2019-05-07",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Human Rights Committee of Council – 2019 Budget",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Human Rights Committee of Council – Terms of Reference Amendment",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Impact Fee Review",
+          "disposition": "EXTENSION OF TIME TO NOVEMBER 2019 GRANTED"
+        },
+        {
+          "number": "4",
+          "title": "Request for Budget Increase to provide Legal Services",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Appointments of Interim Chief Administrative Officer and Interim Chief Financial Officer",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated April 23, 2019",
+      "date": "2019-04-23",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Remediation at 450 Augier Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Mobile Signs under Winnipeg Zoning By-law No. 200/2006",
+          "disposition": "90 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "3",
+          "title": "Confirmation of Expropriation – 1353 Dawson Road South – Fermor Avenue Reconstruction Project (between Lagimodiere and Plessis)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Gail Parvin Hammerquist Fund",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Identifying and Prioritizing Heritage Conservation Districts",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "6",
+          "title": "Subdivision and Rezoning – Crestmont Drive - DASZ 27/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Rezoning – 717 Jessie Avenue - DAZ 209/2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated May 3, 2019",
+      "date": "2019-05-03",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Museums – Special Operating Agency",
+          "disposition": "120 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Community Incentive Grant – Old Grace Not For Profit Housing Co-operative Limited (OGGC)",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated May 2, 2019",
+      "date": "2019-05-02",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Negotiation of U-Pass Agreements with University of Manitoba, University of Winnipeg and Red River College",
+          "disposition": "60 DAY EXTENSION OF TIME  GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Award of Contract for the Provision of Accessible Transportation Services for Winnipeg Transit Plus,  RFP 1259-2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "34/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 204 and 210 Masson Street in the Riel Community – DAZ 215/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "38/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1181 Chamberlain Avenue in the Lord Selkirk-West Kildonan Community – DAZ 216/2018",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
