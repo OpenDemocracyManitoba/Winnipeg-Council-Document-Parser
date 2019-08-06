@@ -1,0 +1,382 @@
+{
+  "meeting_date": "2019-06-20",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Lukes",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms K. McMillan, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated June 11, 2019",
+      "date": "2019-06-11",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 97 Oak Forest Crescent – DASZ 9/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 521 Gateway Road – DASZ 5/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "2016 Cosmetic Pesticides Ban Review Finding",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Paid Leave of Absence for Elected Officials Charged with Criminal Offences",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Council Appointment to the Board of Trustees of the Winnipeg Civic Employees’ Benefits Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Unfunded Major Capital Projects",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Delegation of Authority for Provincial Waterway Authorization Permit",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Welcoming Winnipeg – Reconciling our History – Phase 1 Update",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "2018 Council Report – Workplace Safety",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Winnipeg’s Indigenous Accord",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "11",
+          "title": "Transit Plus Review",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Audit Department – 2018 Annual Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "13",
+          "title": "Audit of Procurement for the Pedestrian and Cycling Strategies and Review of the Employee Code of Conduct – Status of Audit Recommendations 2019 Quarter 1",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "14",
+          "title": "Report on New Fire Paramedic Stations Construction Project – Status of Audit Recommendations 2019 Quarter 1",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "15",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations 2019 Quarter 1",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated June 5, 2019",
+      "date": "2019-06-05",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "2018 Comprehensive Integrated Waste Management Strategy (CIWMS) Annual Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Comprehensive Integrated Waste Management Strategy Five-Year Review",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated May 27, 2019",
+      "date": "2019-05-27",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Proposed Sale of City-owned property located at 5014 Roblin Blvd., known as the Old Charleswood Library",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Tax Sale Process Changes",
+          "disposition": "180 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – Parcel A, Plan 107449 & Lot 1 Plan 12012, 1501 & 1525 Dawson Road South",
+          "disposition": "ADOPTED."
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – Subdivision and Rezoning – 1280 Notre Dame Avenue – File No. DASZ 19/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Subdivision and Rezoning – 327 and 339 Wardlaw Avenue – DASZ 6/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Subdivision and Rezoning – 206, 216, 218, 228, 230, 236, 244 and 248 Good Street – DASZ 28/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Rezoning – 797 Dorchester Avenue – DAZ 200/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Rezoning – 530 River Avenue – DAZ 202/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "List of Historical Resources – Nomination of G.F. & J. Galt Block, 103 Princess Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Declaration of Surplus - City-Owned Property located near Rue Des Trappistes between Brady Road and Waverley Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Proposed Sale of Condominium Units 1, 2, 3 and 15 - 28 Woodrow Place",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Proposed Land Exchange Agreement between the City of Winnipeg and 10032862 Manitoba Limited, located at Normand Avenue and St. Mary's Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Secondary Plan – Waverley West Neighbourhood ‘B’",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Pilot Project – Development Permit Notice Signs",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated May 22, 2019",
+      "date": "2019-05-22",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Report on Annual Inspection of Converted Residential Dwellings (CRD) with Shared Facilities (Rooming Houses)",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Mandatory Registration of Bicycles at Time of Purchase",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE AND ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Community Incentive Grant – The Winnipeg Art Gallery",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated May 28, 2019",
+      "date": "2019-05-28",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Taxis in Diamond Lanes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Award of Contract for the Provision of Accessible Transportation Services for Winnipeg Transit Plus – RFP 106-2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Award of Contract for the Provision of Accessible Transportation Services for Winnipeg Transit Plus – RFP 107-2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Public Transit Service for Large Events",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Local Improvement – Results of the March 12, 2019 Advertisement of the Proposed Asphaltic Concrete Lane Pavement",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Local Improvement – Petition Results of the Proposed Asphaltic Concrete Lane Pavement",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Preliminary Design Study – Chief Peguis Trail Extension West – Main Street to Brookside Boulevard",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Preliminary Design Study – Arlington Street Bridge Replacement and Related Roadworks – McDermot Avenue to Selkirk Avenue",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated June 7, 2019",
+      "date": "2019-06-07",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "City of Winnipeg Investment Policy Revision",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Klein",
+        "Lukes"
+      ],
+      "subject": "That a Zero Based Budget Review be implemented as part of the new multiyear budget process, in such that, a minimum of one City of Winnipeg department will undergo a complete Zero Based Budget Review per year in conjunction with the existing budgeting process commencing in 2020.",
+      "disposition": "NOTICE OF MOTION"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "1/2019 As amended",
+      "subject": "To adopt a secondary plan for Waverley West Neighbourhood “B”  File SP 3/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "35/2019",
+      "subject": "To open Black Diamond Boulevard, west of Mazenod Road – DAO 5/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "39/2018",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at south side of El Tassi Drive, 389 and 395 Almey Avenue in the East Kildonan-Transcona Community – DASZ 14/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "40/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 741 to 765 Bonner Avenue in the East Kildonan-Transcona Community – DASZ 19/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "41/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 255 Hamilton Avenue in the Assiniboia Community – DASZ 20/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "42/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1982 and 1984 St. Mary’s Road, and 2, 44, 66, 88 and 108 Normand Avenue in the Riel Community – DASZ 6/2018",
+      "disposition": "REFERRED BACK TO LEGAL SERVICES"
+    },
+    {
+      "number": "45/2019",
+      "subject": "To authorize the undertaking of certain local improvements - Kirkdale",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "46/2019",
+      "subject": "To authorize the undertaking of certain local improvements – Des Meurons",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Item 11 of the Report of the Executive Policy Committee dated June 11, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Gillingham",
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+    {
+      "subject": "By-law 42/2019",
+      "members": [
+        "Councillor Chambers"
+      ]
+    }
+  ]
+}

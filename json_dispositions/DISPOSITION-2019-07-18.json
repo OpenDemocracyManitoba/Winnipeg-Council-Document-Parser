@@ -1,0 +1,464 @@
+{
+  "meeting_date": "2019-07-18",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Lukes",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. S. Armbruster, Manager of Special Projects",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated July 2, 2019",
+      "date": "2019-07-02",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Rezoning – 1565 Inkster Boulevard – DAZ 201/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Rezoning – 1391 and 1421 St. James Street – DAZ 204/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Subdivision and Rezoning – 1, 5, 7, 9 and 11 St. John Ambulance Way – DASZ 7/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning – 1092 Charleswood Road – DASZ 30/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Land Dedication Reserve Fund – Beautify Elmwood Committee – Henderson-Watt-Chalmers Community Flower Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Proposed Expropriation Settlement of the Polo Park Infrastructure Improvement Project – 1688 St. Matthews Avenue (Holding #1)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Amendment to the Live Downtown – Rental Development Grant Program",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated July 9, 2019",
+      "date": "2019-07-09",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Tracking Standing Order Contract Terms",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Human Rights Committee of Council Coordinator Contract",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Zoning Agreement Amendment – 2500 Jefferson Avenue – ZAA 2/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "City of Winnipeg Employee Code of Conduct and Conflict of Interest",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Assiniboine Park Conservancy Amendment to Loan Guarantee",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Business Improvement Zones, Image Routes and Neighbourhood Main Streets Funding Grant Agreements",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Request for Budget Increase to provide Legal Services",
+          "disposition": "AMENDED AND ADOPTED (See Motion 3)"
+        },
+        {
+          "number": "8",
+          "title": "Adoption of Policy – Indemnification of Council Members for Legal Proceedings",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Authorization for Provincial Auditor General to access City records – Vimy Arena and the Old Stadium Site",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Shareholder Approval for the Sale of Portage Place Shopping Centre by North Portage Development Corporation and Assignment of Related Skywalk Agreements",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "11",
+          "title": "Grant Agreement with the City of Winnipeg and Tree Canada for Tree Canada’s CN100 – A Moving Celebration Tree Planting Project Agreement 2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Natural Resources Canada Funding for Benchmarking, Labeling and Disclosure Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Subdivision and Rezoning –50 Barnes Street – DASZ 14/2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated June 27, 2019",
+      "date": "2019-06-27",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Approval of Single Source Negotiation and Extension of Single Source Contract for the Supply and Delivery of Oxygen to the NEWPCC and SEWPCC – Materials Management Reference No. 380-2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Sewage Treatment Program 2018 Annual Report Program Agreement between the City of Winnipeg and VWNA Winnipeg Inc. (Veolia)",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated June 24, 2019",
+      "date": "2019-06-24",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Endorsement of the Market Lands Project Vision and Award of Contract for Readying the Lands at 151 & 171 Princess Street (former Public Safety Building and Civic Centre Parkade) for Redevelopment Opportunity, Tender No. 230-2019B, Project No. 2016-117",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Declaration of Surplus Land – City-owned Property at Prestwick Drive",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Declaration of Surplus Land – City-owned Property located at 111 Victoria Avenue West",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Declaration of Surplus City-owned Property located at 127 Vesel Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Development Agreement Amendment – 201 Portage Avenue – AG 417/1987",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Expropriation of Lands and Opening of Public Right-of-Way - Part of 10 Royal Mint Drive and Part of Parcel 1 Plan 9035 on Dawson Road South",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "The Annual Review of Part II Section 3 (Land Value) of the 2002 Development Agreement Parameters",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Permanent Easement in favour of The Red River Exhibition Association within Bernadine Park located at 10 Stradford Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Extension of Time – Lots 2 and 3, Plan 45753, Peguis Street and Reenders Drive",
+          "disposition": "EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "10",
+          "title": "Extension of Time – Subdivision and Rezoning – 888 John Bruce Road East",
+          "disposition": "FILED"
+        },
+        {
+          "number": "11",
+          "title": "Extension of Time – Subdivision and Rezoning – Sage Creek Phase 9(b) – Lands Located West of Plessis Road, Between PTH 100 and Robert Bockstael Drive",
+          "disposition": "EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "12",
+          "title": "Sign Approval Process",
+          "disposition": "REFERRED TO OUR WINNIPEG REVIEW PROCESS"
+        },
+        {
+          "number": "13",
+          "title": "Closing of Public Road, Plan 58702 WLTO at the Terminus of Scholberg Lane for Incorporation into DAS 4/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Subdivision – 40 Scholberg Lane & 2 Gwynne Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Subdivision and Rezoning – 928 and 936 McMillan Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Subdivision and Rezoning – Southwest corner of Ferrier Street and Murray Road",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated July 5, 2019",
+      "date": "2019-07-05",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "2019 Update – Proposed Parcel 4 – Forks Rail Side Development.",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 3600 and 3636 Portage Avenue",
+          "disposition": "EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "3",
+          "title": "Rezoning – 2695 Main Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning– 300 Oakland Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Proposed Opening of the Southwest Corner of Empress Street and Maroons Road",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated June 26, 2019",
+      "date": "2019-06-26",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "St. James Optimist Park Restoration project funded by the Expropriation Settlement – CentrePort Canada  Way Expropriation.",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Community Centre Renovation Grant By-law and Program Update",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated June 25, 2019",
+      "date": "2019-06-25",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Negotiation of U-Pass Agreements with University of Manitoba, University of Winnipeg and Red River College",
+          "disposition": "90 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Award of Contract for the Provision of Transportation Services for Winnipeg Transit Plus – RFP 108-2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Alignment of Winnipeg Transit Master Plan, Project Work Plan and Milestones",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Bill 14: The Traffic and Transportation Modernization Act (TTMA) – Speed Limit By-law and Changes to the Highway Traffic Act",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE AND ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Klein",
+        "Lukes"
+      ],
+      "subject": "That the Executive Policy Committee Notice of Motion No. 1 on Zero Based Budgeting be amended by deleting the resolve and replacing it with the following: 1.That the Chief Financial Officer with City Auditor review improvement tools, including but not limited to Lean Management, Zero Based Budget Review, operational reviews, International Organization for Standardization (ISO) and Control Self-Assessment to be used in developing a four year continuous improvement review plan to find efficiencies, control expenses, improve processes and customer service across city departments. 2.That the CFO and City Auditor submit a continuous improvement review plan, complete with targets, review tool per project, evaluation reporting timeline on improvements implemented and benefits achieved and associated budget as part of the 2020 multi-year budget.",
+      "disposition": "ADOPTED AS AMENDED (See Motion 5)"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Orlikow",
+        "Mayes"
+      ],
+      "subject": "THAT Recommendation 1 of Item 10 of the Executive Policy Committee Report dated July 9, 2019 be replaced with the following: 1. That Council, representing the municipal corporation of The City of Winnipeg as one of three shareholders of the North Portage Development Corporation (“NPDC”), approve the sale of the NPDC assets (as hereinafter defined) to Starlight Acquisitions Ltd., subject to confirmation of the approval of this sale by the Province of Manitoba and the Government of Canada.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Sharma",
+        "Bowman"
+      ],
+      "subject": "THAT the public service present the annual Diversity Report  to the Human Rights Committee of Council in 90 days with the following information: the diversity of the City of Winnipeg workforce, including a breakdown of all staff employed by the City in each of the following four categories (Women and or persons that identify as women, Indigenous Persons, Visible Minorities, Employees with a declared disability) and adding the following details: Percentage of employees within these four categories within the City of Winnipeg workforce; Median income; Employment status including, full time vs part time and permanent vs temporary; The employees department and; Number employed in management positions (salary grade 5 or higher). 2.THAT the annual Diversity Report be used to compare changes from year to year and to develop strategies on how to ensure removal of barriers over time with the ultimate goal of having the City of Winnipeg workforce reflect the demographics of its population.",
+      "disposition": "AUTOMATIC REFERRAL TO EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Gillingham",
+        "Orlikow"
+      ],
+      "subject": "THAT Item 7 of the Report of Executive Policy Committee dated July 9, 2019, titled “Request for Budget Increase to provide Legal Services”, be amended to include additional recommendations as follows: That an increase of up to $400,000 to the Legal Services Department operating budget be authorized for the following: to engage external legal counsel for corporate/commercial legal matters and other services as required; to fund recruitment costs for a new Director of Legal Services and City Solicitor; to fund internal salaries for increments where required; all to be funded by a corresponding increase in the  corporate efficiencies account. That the Interim Chief Administrative Officer be authorized to engage in single source negotiation and award of contract for legal services with Duboff Edwards Haight & Schachter Law Corporation, subject to conflict of interest reviews and, where conflicts of interest are identified, that the Interim Chief Administrative Officer be authorized to negotiate and award one or more contracts on a single  source basis to another qualified lawyer in respect of legal services for matters in which Duboff Edwards Haight & Schachter Law Corporation are in a conflict of interest. That the City enter into, execute and deliver agreements determined necessary by the Acting City Solicitor / Director of Legal Services to implement the intent of the foregoing. That authority be delegated to the Interim Chief Administrative Officer to negotiate and approve the terms and conditions of the agreements authorized by Recommendation 4, in accordance with this report and such other terms and conditions deemed necessary by the Acting Director of Legal Services / City Solicitor to protect the interests of the City. That the Public Service ensure that appropriate resources are included within the 2020 Legal Services Operating Budget request. AND BE IT FURTHER RESOLVED THAT the remainder of the recommendations be renumbered accordingly.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Nason",
+        "Browaty"
+      ],
+      "subject": "THAT Item 10 of the Executive Policy Committee Report dated July 9, 2019 be amended by adding the following new Recommendation 2.: 2.That in light of the new initiatives at The Forks creating significant new revenues including 24/7 paid parking and indoor/outdoor Forks Commons beer hall, that the transfer of the proceeds of the sale of the public partner’s assets at Portage Place be re-visited, in cooperation with the three partners, including a scenario of operating the Forks Market without a trust being created to provide an ongoing operating subsidy. And that the remaining recommendations be renumbered accordingly.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Klein",
+        "Gillingham"
+      ],
+      "subject": "That the Executive Policy Committee Notice of Motion No. 1 on Zero Based Budgeting be amended by deleting the resolve and replacing it with the following: 1.That the Chief Financial Officer with City Auditor review improvement tools, including but not limited to Lean Management, Zero Based Budget Review, operational reviews, International Organization for Standardization (ISO) and Control Self-Assessment to be used in developing a four year continuous improvement review plan to find efficiencies, control expenses, improve processes and customer service across city departments. 2.That the CFO and City Auditor submit a continuous improvement review plan, complete with targets, review tool per project, evaluation reporting timeline on improvements implemented and benefits achieved and associated budget as part of the 2020 multi-year budget.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "36/2019",
+      "subject": "To Close Normand Avenue – DAC 1/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "42/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1982 and 1984 St. Mary’s Road, and 2, 44, 66, 88 and 108 Normand Avenue in the Riel Community – DASZ 6/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "43/2019",
+      "subject": "To open Pembina Highway south of Harrow Street east",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "44/2019",
+      "subject": "To open portions of Pembina Highway, Merriam Boulevard and Calrossie Boulevard",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "50/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 900 Elmhurst in the Assiniboia Community – DASZ 15/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "51/2019",
+      "subject": "To correct an error in By-law No. 200/2006 – DASZ 19/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "52/2019",
+      "subject": "To acquire land for the purpose of the Fermor Avenue Reconstruction Project in the City of Winnipeg, in Manitoba",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "53/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at north side of Court Avenue, west of McPhillips Street in the Lord Selkirk-West Kildonan Community – DAZ 203/2013",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "54/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located West of Peguis Street, South of Almey Avenue in the East Kildonan-Transcona Community – DASZ 21/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "60/2019",
+      "subject": "To amend the Live Downtown – Rental Development Grant Program By-law to extend the time period for project completion",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "61/2019",
+      "subject": "To continue the Community Centre Renovation Grant Program",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "62/2019",
+      "subject": "To amend the Schedule in the Reduced-Speed School Zones By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "63/2019",
+      "subject": "To enact speed limits within the City of Winnipeg",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+
+  ],
+  "conflict_of_interest_declarations": [
+    {
+      "subject": "By-laws 36/2019 and 42/2019",
+      "members": [
+        "Councillor Chambers"
+      ]
+    }
+  ]
+}
