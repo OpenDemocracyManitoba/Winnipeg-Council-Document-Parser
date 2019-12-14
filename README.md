@@ -61,6 +61,8 @@ When downloading new Disposition Docx files:
 * *March 22, 1018* - Removed a rogue number "3" in under By-Law number 30/2018.
 * *July 19, 2018* - Two rows from one of the report tables were orphaned. Joined these rows to the correct table.
 * *January 31, 2019* - Split two Property And Development, Heritage And Downtown Development report tables. Reworded two report titled that didn't match the usual report template. 
+* *September 26, 2019* - Split a report table into two tables. Added the word "dated" to one report that was mistitled.
+* *October 24, 2019* - Split a report table into two tables.
 
 ### Report to City Clerks' Department
 
