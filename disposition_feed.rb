@@ -28,14 +28,11 @@ class DispositionFeed
   # The JSON has two high-level keys, 'meta' and 'data'. We are only
   # interested in the 'data' array, which is the array of documents.
   def dispositions
-    @feed_json['data'].map do |disposition|
-      { row:          disposition[0],
-        id:           disposition[1],
-        meeting_date: disposition[8],
-        type:         disposition[9],
-        url:          disposition[10][0],
-        publish_date: disposition[11],
-        update_date:  disposition[12] }
+    @feed_json.map do |disposition|
+      { meeting_date: disposition['meeting_date'],
+        type:         disposition['meeting_type'],
+        url:          disposition['document_link']['url']
+      }
     end
   end
 end
