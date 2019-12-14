@@ -1,0 +1,605 @@
+{
+  "meeting_date": "2019-10-24",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Lukes",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. P. Prinsloo, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 8, 2019",
+      "date": "2019-10-08",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Rezoning – 276 and 280 Strood Avenue; 711, 760 and 770 Knowles Avenue; 769, 775, 789 and 799 Bonner Avenue; 375, 453, 479 and 485 Grassie Boulevard and 520 Almey Avenue – DAZ 213/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 1640 Leila Avenue – DASZ 21/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Zoning Agreement Amendment – 201 Scurfield Boulevard - ZAA 4/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Contribution in Lieu of Land Dedication Reserve – Wilkes South",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Land Dedication Reserve Fund – 453 Marion Street (Rick Stephanchew) – Boulevard Improvement Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Opening – Southeast Corner of Fermor Avenue and St. Anne’s Road - DAO 3/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Proposed Expropriation Settlement – 1077 St. James Street – Regional Street Renewal Program – St. James Street – Sargent Avenue to Ellice Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 15, 2019",
+      "date": "2019-10-15",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Application to the Province of Manitoba for Disaster Financial Assistance",
+          "disposition": "AMENDED BY MOTION 4 AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 17, 2019",
+      "date": "2019-10-17",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Negotiations between the City of Winnipeg and the Amalgamated Transit Union, Local 1505",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated October 2, 2019",
+      "date": "2019-10-02",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Police Board – 2018 Annual Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Police Board – 2018 Summary of Expenses",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg Police Service – 2018 Statement of Revenues and Expenses",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Renewal of Fire Protection Services Agreement with Manitoba Public Insurance for Fire Protection Services at 1981 Plessis Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Emergency Ban of Open-Air Fires",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Facility Naming - Ab MacDonald Memorial Arena",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Request for First Charge Against the 2020 Capital Budget and Consolidation of the St. James Civic Centre – Facility Renewal and Expansion project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Museums – Special Operating Agency",
+          "disposition": "EXTENSION OF TIME OF UP TO 60 DAYS GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated October 1, 2019",
+      "date": "2019-10-01",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Low Income Transit Pass Program – Policy and Financial Impact",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated October 11, 2019",
+      "date": "2019-10-11",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "Financial Management Plan",
+          "disposition": "REFERRED BACK TO THE STANDING POLICY COMMITTEE ON FINANCE"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated October 3, 2019",
+      "date": "2019-10-03",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Testing of the Chemically Enhanced Primary Treatment Process for Phosphorus Removal",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated September 4, 2019",
+      "date": "2019-09-04",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "6",
+          "title": "Amendment to the Airport Vicinity Protection Area Secondary Plan By-Law No. 6378/94 for Polo Park/Former Stadium Site",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "7",
+          "title": "Amendment to the Airport Vicinity Protection Area Secondary Plan By-Law No. 6378/94 Properties Identified Generally Along the West Side St James Street Between Portage Avenue and Sargent Avenue",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated September 30, 2019",
+      "date": "2019-09-30",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Lease Agreement between the City of Winnipeg and the Canadian National Railway Company for the Letellier Transit Corridor, forming part of the Southwest Rapid Transitway",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Rezoning – 2525 Pembina Highway – DAZ 207/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Rezoning – 412 Kensington Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning – 469, 471, 473, 475 and 481 St. Anne’s Road – DASZ 23/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Proposed Closing of the Public Lanes North of Riel Avenue, East of Glen Meadow Street for Incorporation into DASZ 17/2019 – DAC 4/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Subdivision and Rezoning – 25 and 31 Riel Avenue and lanes bordering the north and east property lines – DASZ 17/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Subdivision and Rezoning – 424 Wardlaw Avenue – DASZ 19/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Closing – Public Lane North of Wardlaw Avenue, East of Osborne Street for Incorporation into DASZ 20/2019 – DAC 3/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Subdivision and Rezoning – 425 Wardlaw Avenue and 160 Osborne Street – DASZ 20/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Rezoning – 198 McPhillips Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Subdivision and Rezoning – 261 Benn Avenue, 2756-2772 Main Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Subdivision and Rezoning – Northwest Corner of Kimberly Avenue and London Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Proposed Secondary Plan for the Public Markets Major Redevelopment Site (Major Redevelopment Site ‘D’) – By-law 47/2019 – File No. SP 1/2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated SEPTEMBER 18, 2019",
+      "date": "2019-09-18",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendment to the Members of Council Code of Conduct By-law No. 19/2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated October 9, 2019",
+      "date": "2019-10-09",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "2020 Council and Committee Schedule of Meetings",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Amendment to the Councillors' Ward Allowance (CWA) Fund Policy",
+          "disposition": "REFERRED BACK TO THE GOVERNANCE COMMITTEE OF COUNCIL"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time - Review of Winnipeg's Elected Officials' Compensation",
+          "disposition": "120 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Klein",
+        "Lukes"
+      ],
+      "subject": "That the Historical Resources By-law 54/2014 be amended to require that any building or structure that the Director of Planning, Property and Development wishes nominate to be added to the List of Historic Resources, without the consent of the owner, shall be submitted to Council for confirmation of the nomination, by way of a two thirds vote in the affirmative.",
+      "disposition": "REFERRED TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Klein",
+        "Lukes"
+      ],
+      "subject": "That the recommendation contained in the Notice of Motion presented at the Council meeting held on September 26, 2019, regarding a proposed amendment to the Historical Resources By-law No. 55/2014, be amended by deleting all of the wording after “RESOLVED” and replace with the following: “that the Historical Resources By-law No. 55/2014 be amended to require a two thirds vote of Council in the affirmative to add any building or structure to the List of Historic Resources, if the owner is opposed to the listing.”",
+      "disposition": "REFERRED TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Nason",
+        "Lukes"
+      ],
+      "subject": "That Winnipeg City Council oppose Quebec’s Bill 21, and support in principle, the constitutional challenge to Bill 21, and continue to support building a welcoming city where everyone has access to opportunity and prosperity.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That the City of Winnipeg request the Province of Manitoba to amend the City of Winnipeg Charter Act to disqualify the Deputy Mayor or Acting Deputy from being a candidate for the office of Mayor in any election where they have been previously acting as unelected Mayor, due to that office being vacated.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Gillingham",
+        "Bowman"
+      ],
+      "subject": "That Item 1of the Report of Executive Policy Committee dated October 15, 2019 be amended by adding the following new recommendations: “2.That City Council support the Winnipeg Public Service in its efforts to respond to the damage related to this unprecedented weather event, by delegating the authority to the Chief Administrative Officer (notwithstanding any monetary limits set forth in any policy or administrative standard to the contrary, including the Materials Management Policy) to direct and authorize the Public Service to take all appropriate measures  to recover, with respect to the cleaning up of public spaces to ensure public safety and public access, including the following: A.Approving secondment of other municipalities’ employees under the Materials Management Policy. B.Waiving City fees to assist residents and businesses in cleaning up private property and in other recovery measures. C.Over-expending budgeted amounts as necessary for clean-up efforts on public spaces and to seek retroactive approval from Council for any over-expenditure. 3.That actions taken to date by the Chief Administrative Officer and members of the Winnipeg Public Service to respond to and recover from this unprecedented weather event be endorsed and ratified. 4.That the Chief Administrative Officer report back to Council, through the Standing Policy Committee on Finance by January 2020 on the operational and financial impacts, including a detailed accounting of all expenses related to cleanup and recovery, to the City of Winnipeg from this extreme weather event, including any request to continue the measures contained in the above-noted resolutions.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That: The Province of Manitoba be requested to amend the City of Winnipeg Charter to ensure all Councillors are allowed to participate in the formulation of the budget recommendation. The City Organization By-law No. 7100/97 be amended to allow all Councillors to participate equally in the formulation of the Capital and Operating budget recommendations. Presentations from departments on their respective budgets be made to all members of Council during the Budget Review process.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Eadie",
+        "Schreyer"
+      ],
+      "subject": "That during the new four year budgeting process the city establish a $100.00 property tax credit for owner homes valued under $250,000 in a by-law for 2020, another reassessment year.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "Condolence",
+      "movers": [
+        "Gillingham",
+        "Klein"
+      ],
+      "subject": "That Council place on record its profound sorrow at the death of Gordon Charles Keatch, which occurred on June 25, 2019. Mr Keatch served two terms as Trustee of the St. James School Division and served as Councillor for the City of St. James from 1966 to 1967. This Council extends to his family its deepest sympathy and condolences in their bereavement.",
+      "disposition": "CARRIED BY SILENT STANDING VOTE"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "47/2019",
+      "subject": "To adopt a secondary plan for Public Markets Major Redevelopment Site “D\"",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "76/2019",
+      "subject": "To correct an error in By-law No. 73/2019 – DAS 4/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "82/2019",
+      "subject": "To allow the Winnipeg Fire Paramedic Chief to declare an emergency open-air fire ban",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "83/2019",
+      "subject": "To amend the Members of Council Code of Conduct By-law and the Procedure By-law to implement the recommendations of the Integrity Commissioner’s Report approved by Council on October 24, 2019",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion to suspend Rule 11 of the Procedure By-law to allow Motion 2 to be considered out of sequence",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie"
+      ]
+    },
+    {
+      "subject": "Motion to suspend Rule 17(1) of the Procedure By-law to consider Motion 2",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Gillingham"
+      ]
+    },
+    {
+      "subject": "Motion to suspend Rule 38(2) of the Procedure By-law to allow debate on Motion 2",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion to suspend Rule 51(1) of the Procedure By-law to allow addendum Delegations to appear on Motion 2",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion 2 – Quebec Bill 21",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the  Standing Policy Committee on Infrastructure Renewal and Public Works dated October 1, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty"
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the  Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated October 3, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "By-law No. 82/2019",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
