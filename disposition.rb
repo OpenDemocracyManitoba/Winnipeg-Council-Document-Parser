@@ -113,13 +113,16 @@ class Disposition
   # it's very permissive-- but that's what I'm doing here.
 
   def scan_for_meeting_date
-    doc.paragraphs[0..20].map do |paragraph|
+    intro_paragraphs.map do |paragraph|
       # Exceptional handling as validator. :S
-
       Date.parse(paragraph.text)
     rescue ArgumentError
       nil
     end.compact.first
+  end
+
+  def intro_paragraphs
+      tables[0].rows[0].cells[0].paragraphs
   end
 
   # ATTENDANCE
