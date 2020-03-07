@@ -23,10 +23,7 @@ class DispositionFeed
   private
 
   # Data mapping for the JSON served by data.winnipeg.ca listing all
-  # disposition Word doc available for download.
-  #
-  # The JSON has two high-level keys, 'meta' and 'data'. We are only
-  # interested in the 'data' array, which is the array of documents.
+  # disposition Word docs available for download.
   def dispositions
     @feed_json.map do |disposition|
       { meeting_date: disposition['meeting_date'],
