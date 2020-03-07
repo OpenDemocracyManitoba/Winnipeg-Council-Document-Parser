@@ -6,7 +6,7 @@ require './disposition_presenter.rb'
 
 if ARGV.size != 4
   puts 'Missing required arguments.'
-  puts 'Example: #{$PROGRAM_NAME} disposition_template index_template input_folder output_folder'
+  puts "Example: #{$PROGRAM_NAME} disposition_template index_template input_folder output_folder"
   exit
 end
 

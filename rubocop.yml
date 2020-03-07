@@ -11,8 +11,8 @@ Style/InlineComment:
   Enabled: false
 
 Layout/LineLength:
-  Description: 'Limit lines to 80 characters. (Default is 80)'
-  Max: 80
+  Description: 'Limit lines to 90 characters. (Default is 80)'
+  Max: 90
 
 Style/FrozenStringLiteralComment:
   Description: To help transition from Ruby 2.3.0 to Ruby 3.0.
