@@ -9,7 +9,7 @@ TEMP_FEED_FILE = 'temporary_feed.json'
 
 def download_file(url, save_file)
   File.open(save_file, 'w') do |saved_feed|
-    File.open(url, 'r') do |feed|
+    URI.open(url, 'r') do |feed|
       saved_feed.write(feed.read)
     end
   end
