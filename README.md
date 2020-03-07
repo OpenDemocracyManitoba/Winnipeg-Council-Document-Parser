@@ -23,6 +23,7 @@ Scripts exist to:
 
 ### To Do
 
+* Investigate upgrade of docx gem from 0.3.0 to 0.4.0. Currently meeting date parsing fails with 0.4.0 due to how docs retrieves paragraphs.
 * Add images of "Movers" to Council Motions
 * Style Recorded Votes with Icons and Colours for Web Dispositions
 * Colourize Disposition Column for Reports, Motions, ByLaws
@@ -32,11 +33,6 @@ Scripts exist to:
 * Some tables span multiple pages and can accumulate bad data when the paragraphs within the cells are join. For an example, [see motion 2 in Dec 2017](http://www.winnipegelected.ca/disposition-2017-12-13.html#motions).  
 
 ### Changes Made to Official Disposition Docx Files
-
-When downloading new Disposition Docx files:
-
-* Change recorded vote members in all docx dispositions from tables to paragraphs.
-* Change conflict of interest declaration members in all docx dispositoins from tables to paragraphs.
 
 * *September 30, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *October 28, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
