@@ -1,10 +1,11 @@
 # frozen_string_literal: true
+
 require 'open-uri'
 require 'optparse'
 require_relative 'disposition_feed'
 
-FEED_URL = 'https://data.winnipeg.ca/resource/hsbq-sj6t.json'.freeze
-TEMP_FEED_FILE = 'temporary_feed.json'.freeze
+FEED_URL = 'https://data.winnipeg.ca/resource/hsbq-sj6t.json'
+TEMP_FEED_FILE = 'temporary_feed.json'
 
 def download_file(url, save_file)
   File.open(save_file, 'w') do |saved_feed|

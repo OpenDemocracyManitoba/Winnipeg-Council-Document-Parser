@@ -31,8 +31,7 @@ class DispositionFeed
     @feed_json.map do |disposition|
       { meeting_date: disposition['meeting_date'],
         type:         disposition['meeting_type'],
-        url:          disposition['document_link']['url']
-      }
+        url:          disposition['document_link']['url'] }
     end
   end
 end

@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 require 'docx'
 require 'date'
 
@@ -25,12 +26,12 @@ require 'date'
 
 class Disposition
   # Table Headers Used for Dispositoin Extraction
-  ATTENDANCE_TITLE       = /MEMBERS PRESENT/
-  BYLAWS_PASSED_TITLE    = /BY-LAWS PASSED \(RECEIVED THIRD READING\)/
-  BYLAWS_FIRST_TITLE     = /BY-LAWS RECEIVING FIRST READING ONLY/
-  COUNCIL_MOTIONS_TITLE  = /COUNCIL MOTIONS/
-  NOTICE_OF_MOTION_TITLE = /NOTICE OF MOTION/
-  REPORT_TITLE           = /^REPORT/
+  ATTENDANCE_TITLE       = /MEMBERS PRESENT/.freeze
+  BYLAWS_PASSED_TITLE    = /BY-LAWS PASSED \(RECEIVED THIRD READING\)/.freeze
+  BYLAWS_FIRST_TITLE     = /BY-LAWS RECEIVING FIRST READING ONLY/.freeze
+  COUNCIL_MOTIONS_TITLE  = /COUNCIL MOTIONS/.freeze
+  NOTICE_OF_MOTION_TITLE = /NOTICE OF MOTION/.freeze
+  REPORT_TITLE           = /^REPORT/.freeze
 
   # Dispositions are built from a path to a docx disposition document.
   def initialize(docx_file_path)
@@ -114,11 +115,10 @@ class Disposition
   def scan_for_meeting_date
     doc.paragraphs[0..20].map do |paragraph|
       # Exceptional handling as validator. :S
-      begin
-        Date.parse(paragraph.text)
-      rescue ArgumentError
-        nil
-      end
+
+      Date.parse(paragraph.text)
+    rescue ArgumentError
+      nil
     end.compact.first
   end
 
@@ -135,7 +135,7 @@ class Disposition
     end
 
     {
-      council: attendance.map(&:first),
+      council:        attendance.map(&:first),
       public_service: attendance.map(&:last).reject(&:empty?)
     }
   end
@@ -163,10 +163,10 @@ class Disposition
     committee = title.match(/REPORT.+OF THE (.+) dated (.+)/i)[1]
     committee = committee.split(' ').map(&:capitalize).join(' ')
 
-    { title: title,
-      date: date,
+    { title:     title,
+      date:      date,
       committee: committee,
-      items: report_items(report_table) }
+      items:     report_items(report_table) }
   end
 
   def report_items(report_table)
@@ -180,8 +180,8 @@ class Disposition
   def report_item_builder(item_row)
     item_columns = row_cells_to_text_columns(item_row)
 
-    { number: item_columns[0],
-      title: item_columns[1],
+    { number:      item_columns[0],
+      title:       item_columns[1],
       disposition: item_columns[2] }
   end
 
@@ -267,7 +267,7 @@ class Disposition
 
   # TODO: Does this title contain a typo? Should RECORDS be REPORTS?
   #       Forth word wildcarded 7 letters starting with R to support both.
-  RECORDED_VOTES_TITLE = /RECORDED VOTES FOR R......, MOTIONS AND BY-LAWS/
+  RECORDED_VOTES_TITLE = /RECORDED VOTES FOR R......, MOTIONS AND BY-LAWS/.freeze
 
   # Includes a header row with four column headers:
   # - Subject
@@ -293,16 +293,16 @@ class Disposition
     votes_columns = row_cells_to_text_columns(votes_row)
 
     {
-      subject: votes_columns[0],
+      subject:     votes_columns[0],
       disposition: votes_columns[3],
-      yeas: cell_paragraphs(votes_row.cells[1]).reject { |voter| voter.strip == 'NIL' },
-      nays: cell_paragraphs(votes_row.cells[2]).reject { |voter| voter.strip == 'NIL' }
+      yeas:        cell_paragraphs(votes_row.cells[1]).reject { |voter| voter.strip == 'NIL' },
+      nays:        cell_paragraphs(votes_row.cells[2]).reject { |voter| voter.strip == 'NIL' }
     }
   end
 
   # CONFLICT OF INTEREST DECLARATIONS
 
-  DECLARATIONS_TITLE = /CONFLICT OF INTEREST DECLARATIONS/
+  DECLARATIONS_TITLE = /CONFLICT OF INTEREST DECLARATIONS/.freeze
 
   def conflict_of_interest_declarations_collection
     declaration_table_rows = select_table(DECLARATIONS_TITLE, 2)

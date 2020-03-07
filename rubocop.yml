@@ -2,5 +2,23 @@ AllCops:
   Exclude:
     - Guardfile
 
-Documentation:
+Style/Documentation:
+  Description: 'Document classes and non-namespace modules.'
   Enabled: false
+
+Style/InlineComment:
+  Description: 'Avoid inline comments.'
+  Enabled: false
+
+Layout/LineLength:
+  Description: 'Limit lines to 80 characters. (Default is 80)'
+  Max: 80
+
+Style/FrozenStringLiteralComment:
+  Description: To help transition from Ruby 2.3.0 to Ruby 3.0.
+  Enabled: false
+
+# Prettier hashes.
+Layout/HashAlignment:
+  EnforcedHashRocketStyle: table
+  EnforcedColonStyle: table

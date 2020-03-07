@@ -1,12 +1,13 @@
 # frozen_string_literal: true
+
 require 'spec_helper'
 
 describe DispositionFeed do
   FEED_PATH = File.dirname(__FILE__) +
-              '/fixtures/disposition_feed.json'.freeze
+              '/fixtures/disposition_feed.json'
 
   MALFORMED_FEED_PATH = File.dirname(__FILE__) +
-                        '/fixtures/disposition_feed_malformed.json'.freeze
+                        '/fixtures/disposition_feed_malformed.json'
 
   context 'with a well-formed Disposition Feed JSON file' do
     subject(:disposition_feed) { DispositionFeed.new(FEED_PATH) }
@@ -24,12 +25,10 @@ describe DispositionFeed do
     end
 
     it 'should be able to provide access to meeting data by name' do
-      # rubocop:disable Metrics/LineLength
       meeting = disposition_feed.regular_dispositions.first
       expect(meeting[:meeting_date]).to eq('2020-01-30T00:00:00.000')
       expect(meeting[:type]).to         eq('Regular Meeting')
       expect(meeting[:url]).to          eq('https://data.winnipeg.ca/download/kc4f-2bge/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document')
-      # rubocop:enable Metrics/LineLength
     end
   end
 
