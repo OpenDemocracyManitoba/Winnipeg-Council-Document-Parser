@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'docx'
+gem 'docx', '~> 0.3.0'
 gem 'rspec'
 gem 'rubocop'
 gem 'guard'
