@@ -1,216 +1,58 @@
-{
-  "meta" : {
-      "id" : "hsbq-sj6t",
-      "name" : "Public Meeting - Disposition - Word Format",
-      "averageRating" : 0,
-      "category" : "Council Services",
-      "createdAt" : 1442427817,
-      "description" : "A list of public meeting agendas, dispositions, and minutes. Additionally, a web link is available to the full document in Microsoft Word format.",
-      "displayType" : "table",
-      "downloadCount" : 6,
-      "indexUpdatedAt" : 1454013489,
-      "newBackend" : false,
-      "numberOfComments" : 0,
-      "oid" : 17168203,
-      "publicationAppendEnabled" : false,
-      "publicationDate" : 1454013005,
-      "publicationGroup" : 4353369,
-      "publicationStage" : "published",
-      "rowsUpdatedAt" : 1454012983,
-      "rowsUpdatedBy" : "usaf-du2i",
-      "tableId" : 7525148,
-      "totalTimesRated" : 0,
-      "viewCount" : 60,
-      "viewLastModified" : 1454013005,
-      "viewType" : "tabular",
-      "columns" : [ {
-        "id" : -1,
-        "name" : "sid",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":sid",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : -1,
-        "name" : "id",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":id",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : -1,
-        "name" : "position",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":position",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : -1,
-        "name" : "created_at",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":created_at",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : -1,
-        "name" : "created_meta",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":created_meta",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : -1,
-        "name" : "updated_at",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":updated_at",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : -1,
-        "name" : "updated_meta",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":updated_meta",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : -1,
-        "name" : "meta",
-        "dataTypeName" : "meta_data",
-        "fieldName" : ":meta",
-        "position" : 0,
-        "renderTypeName" : "meta_data",
-        "format" : { }
-      }, {
-        "id" : 240065731,
-        "name" : "Meeting Date",
-        "dataTypeName" : "calendar_date",
-        "description" : "Date on which the meeting was held.",
-        "fieldName" : "meeting_date",
-        "position" : 1,
-        "renderTypeName" : "calendar_date",
-        "tableColumnId" : 31362378,
-        "width" : 100,
-        "format" : { }
-      }, {
-        "id" : 240065732,
-        "name" : "Meeting Type",
-        "dataTypeName" : "text",
-        "description" : "The type of meeting, which could be a Regular Meeting, or a Special Meeting.",
-        "fieldName" : "meeting_type",
-        "position" : 2,
-        "renderTypeName" : "text",
-        "tableColumnId" : 31362407,
-        "width" : 100,
-        "format" : { }
-      }, {
-        "id" : 240065733,
-        "name" : "Document Link",
-        "dataTypeName" : "url",
-        "description" : "A link to the document in Microsoft Word format.",
-        "fieldName" : "document_link",
-        "position" : 3,
-        "renderTypeName" : "url",
-        "tableColumnId" : 31362518,
-        "width" : 100,
-        "format" : { },
-        "subColumnTypes" : [ "url", "description" ]
-      }, {
-        "id" : 240065734,
-        "name" : "Publish Date",
-        "dataTypeName" : "calendar_date",
-        "description" : "Date when the document was published.",
-        "fieldName" : "publish_date",
-        "position" : 4,
-        "renderTypeName" : "calendar_date",
-        "tableColumnId" : 31630580,
-        "width" : 100,
-        "format" : { }
-      }, {
-        "id" : 240065735,
-        "name" : "Update Date",
-        "dataTypeName" : "calendar_date",
-        "description" : "Date when the document was updated.",
-        "fieldName" : "update_date",
-        "position" : 5,
-        "renderTypeName" : "calendar_date",
-        "tableColumnId" : 31630737,
-        "width" : 100,
-        "format" : { }
-      } ],
-      "grants" : [ {
-        "inherited" : false,
-        "type" : "viewer",
-        "flags" : [ "public" ]
-      } ],
-      "metadata" : {
-        "custom_fields" : {
-          "Licence" : {
-            "Licence" : "Open Government Licence - Winnipeg"
-          },
-          "Update Frequency" : {
-            "Interval" : "As Required"
-          }
-        },
-        "renderTypeConfig" : {
-          "visible" : {
-            "table" : true
-          }
-        },
-        "availableDisplayTypes" : [ "table", "fatrow", "page" ],
-        "rowLabel" : "Row",
-        "jsonQuery" : {
-          "order" : [ {
-            "ascending" : true,
-            "columnFieldName" : "meeting_date"
-          } ]
-        }
-      },
-      "owner" : {
-        "id" : "93tq-pppq",
-        "displayName" : "Kirk",
-        "roleName" : "administrator",
-        "screenName" : "Kirk",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story" ]
-      },
-      "query" : {
-        "orderBys" : [ {
-          "ascending" : true,
-          "expression" : {
-            "columnId" : 240065731,
-            "type" : "column"
-          }
-        } ]
-      },
-      "rights" : [ "read" ],
-      "sortBys" : [ {
-        "id" : 0,
-        "viewColumnId" : 240065731,
-        "flags" : [ "asc" ]
-      } ],
-      "tableAuthor" : {
-        "id" : "93tq-pppq",
-        "displayName" : "Kirk",
-        "roleName" : "administrator",
-        "screenName" : "Kirk",
-        "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "view_goals", "view_dashboards", "edit_goals", "edit_dashboards", "create_dashboards", "manage_provenance", "create_story", "edit_story_title_desc", "create_story_copy", "delete_story", "manage_story_collaborators", "manage_story_visibility", "manage_story_public_version", "edit_story", "view_unpublished_story", "view_story" ]
-      },
-      "tags" : [ "meeting", "agenda", "disposition", "minutes" ],
-      "flags" : [ "default" ]
-    }
-  },
-  "data" : [ [ 1, "4E4B0D84-3493-40CC-8585-578C7A118A34", 1, 1443643844, "931386", 1443643949, "931386", null, "2015-09-30T00:00:00", "Regular Meeting", [ "https://data.winnipeg.ca/download/jfmn-ak46/application/msword", null ], "2015-09-30T00:00:00", "2015-09-30T00:00:00" ]
-, [ 2, "5D31115E-F107-41F1-91AA-2C37CE5F4695", 2, 1446238442, "931386", 1446238521, "931386", null, "2015-10-28T00:00:00", "Regular Meeting", [ "https://data.winnipeg.ca/download/j6z4-wvit/application/msword", null ], "2015-10-30T00:00:00", "2015-10-30T00:00:00" ]
-, [ 3, "FD41E4F1-C3C4-4546-A9D3-68B08852FB15", 3, 1446747464, "931386", 1446747494, "931386", null, "2015-11-04T00:00:00", "Special Meeting", [ "https://data.winnipeg.ca/download/c6g3-6729/application/zip", null ], "2015-11-05T00:00:00", "2015-11-05T00:00:00" ]
-, [ 4, "5EDC43BD-1D4E-4586-AB4C-30EF5BAF6841", 4, 1446747949, "931386", 1446747974, "931386", null, "2015-11-04T00:00:00", "Special Meeting", [ "https://data.winnipeg.ca/download/qy5j-4djr/application/msword", null ], "2015-11-05T00:00:00", "2015-11-05T00:00:00" ]
-, [ 5, "A57CD162-3086-49F7-A329-F92D2B792E6D", 5, 1448563763, "931386", 1448563880, "931386", null, "2015-11-25T00:00:00", "Regular Meeting", [ "https://data.winnipeg.ca/download/b3dn-8qqj/application/msword", null ], "2015-11-26T00:00:00", "2015-11-26T00:00:00" ]
-, [ 6, "C9882B1C-7C80-4989-AB29-BBAE2558CE1A", 6, 1449694260, "931386", 1449694287, "931386", null, "2015-12-09T00:00:00", "Regular Meeting", [ "https://data.winnipeg.ca/download/raye-p73t/application/msword", null ], "2015-12-09T00:00:00", "2015-12-09T00:00:00" ]
-, [ 7, "2BAEE480-B9FE-4300-882C-8324927E42EA", 7, 1454012753, "931386", 1454012983, "931386", null, "2016-01-27T00:00:00", "Regular Meeting", [ "https://data.winnipeg.ca/download/49ke-5g3x/application/zip", null ], "2016-01-28T00:00:00", "2016-01-28T00:00:00" ]
- ]
-}
+{"meeting_date":"2020-01-30T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/kc4f-2bge/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2020-02-05T00:00:00.000","update_date":"2020-02-05T00:00:00.000"}
+,{"meeting_date":"2019-12-12T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/72n7-7db4/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-12-19T00:00:00.000","update_date":"2019-12-19T00:00:00.000"}
+,{"meeting_date":"2019-11-21T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/y3zk-7qms/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-12-19T00:00:00.000","update_date":"2019-12-19T00:00:00.000"}
+,{"meeting_date":"2019-11-06T00:00:00.000","meeting_type":"Organizational Meeting","document_link":{"url":"https://data.winnipeg.ca/download/ahe3-nqq3/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-12-19T00:00:00.000","update_date":"2019-12-19T00:00:00.000"}
+,{"meeting_date":"2019-10-24T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/pu6w-7k8g/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-10-28T00:00:00.000","update_date":"2019-10-28T00:00:00.000"}
+,{"meeting_date":"2019-09-26T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/eyq7-88m5/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-09-30T00:00:00.000","update_date":"2019-09-30T00:00:00.000"}
+,{"meeting_date":"2019-07-18T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/d6vi-p732/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-07-23T00:00:00.000","update_date":"2019-07-23T00:00:00.000"}
+,{"meeting_date":"2019-06-20T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/64pu-6dfh/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-06-21T00:00:00.000","update_date":"2019-06-21T00:00:00.000"}
+,{"meeting_date":"2019-05-16T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/ga2b-m2ud/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-05-17T00:00:00.000","update_date":"2019-05-17T00:00:00.000"}
+,{"meeting_date":"2019-04-25T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/c4eb-tfri/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-04-26T00:00:00.000","update_date":"2019-04-26T00:00:00.000"}
+,{"meeting_date":"2019-03-21T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/85u3-xv9z/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-03-25T00:00:00.000","update_date":"2019-03-25T00:00:00.000"}
+,{"meeting_date":"2019-03-20T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/ciea-cfkj/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-03-25T00:00:00.000","update_date":"2019-03-25T00:00:00.000"}
+,{"meeting_date":"2019-02-28T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/seuh-tgpq/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-03-04T00:00:00.000","update_date":"2019-03-04T00:00:00.000"}
+,{"meeting_date":"2019-01-31T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/3by7-zbir/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2019-01-31T00:00:00.000","update_date":"2019-01-31T00:00:00.000"}
+,{"meeting_date":"2018-12-13T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/y896-geic/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-12-14T00:00:00.000","update_date":"2018-12-14T00:00:00.000"}
+,{"meeting_date":"2018-09-20T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/4sb6-vhtc/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-09-28T00:00:00.000","update_date":"2018-09-28T00:00:00.000"}
+,{"meeting_date":"2018-07-19T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/qtnf-2r88/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-07-20T00:00:00.000","update_date":"2018-07-20T00:00:00.000"}
+,{"meeting_date":"2018-06-21T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/p6z7-thpk/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-06-26T00:00:00.000","update_date":"2018-06-26T00:00:00.000"}
+,{"meeting_date":"2018-05-24T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/vhqp-k9jt/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-05-25T00:00:00.000","update_date":"2018-05-25T00:00:00.000"}
+,{"meeting_date":"2018-04-26T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/9kn9-8366/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-04-27T00:00:00.000","update_date":"2018-04-27T00:00:00.000"}
+,{"meeting_date":"2018-03-22T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/uqwv-npyw/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-03-22T00:00:00.000","update_date":"2018-03-22T00:00:00.000"}
+,{"meeting_date":"2018-02-22T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/7s4n-ywdm/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-02-23T00:00:00.000","update_date":"2018-02-23T00:00:00.000"}
+,{"meeting_date":"2018-01-25T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/nna7-dwig/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-01-26T00:00:00.000","update_date":"2018-01-26T00:00:00.000"}
+,{"meeting_date":"2017-12-13T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/92vv-i55y/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2018-01-26T00:00:00.000","update_date":"2018-01-26T00:00:00.000"}
+,{"meeting_date":"2017-12-12T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/a3mx-xubr/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-12-12T00:00:00.000","update_date":"2017-12-12T00:00:00.000"}
+,{"meeting_date":"2017-11-15T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/xinh-3zx6/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-11-15T00:00:00.000","update_date":"2017-11-15T00:00:00.000"}
+,{"meeting_date":"2017-11-01T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/a87e-bhqu/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-11-01T00:00:00.000","update_date":"2017-11-01T00:00:00.000"}
+,{"meeting_date":"2017-10-25T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/vj3v-b6fj/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-11-06T00:00:00.000","update_date":"2017-11-06T00:00:00.000"}
+,{"meeting_date":"2017-09-27T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/ei2z-npw8/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-09-28T00:00:00.000","update_date":"2017-09-28T00:00:00.000"}
+,{"meeting_date":"2017-07-19T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/b8hy-gdrr/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-07-20T00:00:00.000","update_date":"2017-07-20T00:00:00.000"}
+,{"meeting_date":"2017-06-21T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/kj8v-akd8/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-06-22T00:00:00.000","update_date":"2017-06-22T00:00:00.000"}
+,{"meeting_date":"2017-06-21T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/enyx-3f8e/application%2Fmsword"},"publish_date":"2017-06-22T00:00:00.000","update_date":"2017-06-22T00:00:00.000"}
+,{"meeting_date":"2017-05-24T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/2gpg-p9j9/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-05-25T00:00:00.000","update_date":"2017-05-25T00:00:00.000"}
+,{"meeting_date":"2017-04-26T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/3shj-g23j/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-04-27T00:00:00.000","update_date":"2017-04-27T00:00:00.000"}
+,{"meeting_date":"2017-03-22T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/6cam-brms/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-03-23T00:00:00.000","update_date":"2017-03-23T00:00:00.000"}
+,{"meeting_date":"2017-02-22T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/896p-ipcc/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-02-24T00:00:00.000","update_date":"2017-02-24T00:00:00.000"}
+,{"meeting_date":"2017-01-25T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/9dp3-em3f/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-01-25T00:00:00.000","update_date":"2017-01-25T00:00:00.000"}
+,{"meeting_date":"2016-12-14T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/wq7n-thsz/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2017-01-06T00:00:00.000","update_date":"2017-01-06T00:00:00.000"}
+,{"meeting_date":"2016-12-13T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/tptb-x2mu/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2016-12-13T00:00:00.000","update_date":"2016-12-13T00:00:00.000"}
+,{"meeting_date":"2016-11-16T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/aax3-iue4/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2016-11-16T00:00:00.000","update_date":"2016-11-16T00:00:00.000"}
+,{"meeting_date":"2016-10-26T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/un6v-g3c5/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2016-10-26T00:00:00.000","update_date":"2016-10-28T00:00:00.000"}
+,{"meeting_date":"2016-09-28T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/raa6-6w6m/application%2Fvnd.openxmlformats-officedocument.wordprocessingml.document"},"publish_date":"2016-09-28T00:00:00.000"}
+,{"meeting_date":"2016-07-13T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/89qx-t4ru/application%2Fmsword"},"publish_date":"2016-07-13T00:00:00.000","update_date":"2016-07-13T00:00:00.000"}
+,{"meeting_date":"2016-06-15T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/xjst-yqxc/application/msword"},"publish_date":"2016-06-16T00:00:00.000","update_date":"2016-06-16T00:00:00.000"}
+,{"meeting_date":"2016-05-18T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/4k2j-ja9d/application/msword"},"publish_date":"2016-05-20T00:00:00.000","update_date":"2016-05-20T00:00:00.000"}
+,{"meeting_date":"2016-04-27T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/gtut-rij4/application/msword"},"publish_date":"2016-04-29T00:00:00.000","update_date":"2016-04-29T00:00:00.000"}
+,{"meeting_date":"2016-03-23T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/hss9-sm9b/application/msword"},"publish_date":"2016-03-30T00:00:00.000","update_date":"2016-03-30T00:00:00.000"}
+,{"meeting_date":"2016-03-23T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/wkys-8g8n/application/zip"},"publish_date":"2016-03-30T00:00:00.000","update_date":"2016-03-30T00:00:00.000"}
+,{"meeting_date":"2016-03-22T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/j38t-x6uh/application/zip"},"publish_date":"2016-03-30T00:00:00.000","update_date":"2016-03-30T00:00:00.000"}
+,{"meeting_date":"2016-02-24T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/5nb6-fgag/application/msword"},"publish_date":"2016-02-25T00:00:00.000","update_date":"2016-02-25T00:00:00.000"}
+,{"meeting_date":"2016-01-27T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/49ke-5g3x/application/zip"},"publish_date":"2016-01-28T00:00:00.000","update_date":"2016-01-28T00:00:00.000"}
+,{"meeting_date":"2015-12-09T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/raye-p73t/application/msword"},"publish_date":"2015-12-09T00:00:00.000","update_date":"2015-12-09T00:00:00.000"}
+,{"meeting_date":"2015-11-25T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/b3dn-8qqj/application/msword"},"publish_date":"2015-11-26T00:00:00.000","update_date":"2015-11-26T00:00:00.000"}
+,{"meeting_date":"2015-11-04T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/qy5j-4djr/application/msword"},"publish_date":"2015-11-05T00:00:00.000","update_date":"2015-11-05T00:00:00.000"}
+,{"meeting_date":"2015-11-04T00:00:00.000","meeting_type":"Special Meeting","document_link":{"url":"https://data.winnipeg.ca/download/c6g3-6729/application/zip"},"publish_date":"2015-11-05T00:00:00.000","update_date":"2015-11-05T00:00:00.000"}
+,{"meeting_date":"2015-10-28T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/j6z4-wvit/application/msword"},"publish_date":"2015-10-30T00:00:00.000","update_date":"2015-10-30T00:00:00.000"}
+,{"meeting_date":"2015-09-30T00:00:00.000","meeting_type":"Regular Meeting","document_link":{"url":"https://data.winnipeg.ca/download/jfmn-ak46/application/msword"},"publish_date":"2015-09-30T00:00:00.000","update_date":"2015-09-30T00:00:00.000"}]
+
