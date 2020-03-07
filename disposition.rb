@@ -295,8 +295,8 @@ class Disposition
     {
       subject:     votes_columns[0],
       disposition: votes_columns[3],
-      yeas:        cell_paragraphs(votes_row.cells[1]).reject { |voter| voter.strip == 'NIL' },
-      nays:        cell_paragraphs(votes_row.cells[2]).reject { |voter| voter.strip == 'NIL' }
+      yeas:        cell_paragraphs(votes_row.cells[1]).reject { |voter| voter.strip.upcase == 'NIL' },
+      nays:        cell_paragraphs(votes_row.cells[2]).reject { |voter| voter.strip.upcase == 'NIL' }
     }
   end
 

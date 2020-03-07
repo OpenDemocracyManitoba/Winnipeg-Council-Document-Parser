@@ -1,0 +1,381 @@
+{
+  "meeting_date": "2020-01-30",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Browaty",
+      "Councillor Allard",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms L. Cowan, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 14, 2020",
+      "date": "2020-01-14",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Association of Manitoba Bilingual Municipalities Membership",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Citizen Member Appointments – St. Boniface Museum Board",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Welcoming Winnipeg: Reconciling our History Policy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Soldiers’ Taxation Relief for 2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Winnipeg Committee for Safety – Contract Renewal for Committee Coordinator",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 21, 2020",
+      "date": "2020-01-21",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "End Homelessness Winnipeg (EHW) Five-Year Funding Report (2015 – 2019)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "French Language Services Review Strategy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Destination Marketing Reserve – Multi-Year Downtown Public Safety Strategy (Phase 2)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Zoning Agreement Amendment – 39 Shorecrest Drive – ZAA 7/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Review of the Winnipeg Antenna Systems Policy – 5G Network",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Citizen Member Appointments – Economic Development Winnipeg",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Citizen Member Appointments – St. James-Assiniboia Pioneer Association Inc. (Grant’s Old Mill)",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated January 9, 2020",
+      "date": "2020-01-09",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Climate Action Plan – Annual Report",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Pilot Project – Multi-Family Solid Waste Collection Services Provided by City Staff",
+          "disposition": "LAID OVER BY EXECUTIVE POLICY COMMITTEE FOR UP TO 30 DAYS"
+        },
+        {
+          "number": "3",
+          "title": "2020 to 2023 Water and Sewer Rates",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Single Source Authorization for Extension of Contract for Mechanical Collection of Solid Waste from Apartments and Small Commercial Establishments in the East Area of the City of Winnipeg – Materials Management Reference No. 472-2017",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 18, 2019",
+      "date": "2019-11-18",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "4",
+          "title": "Amendments to the Heritage Conservation Districts By-law No. 87/2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 6, 2020",
+      "date": "2020-01-06",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Extension of Time – Subdivision and Rezoning – 1680 St. Mary’s Road, 700 and 730 River Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Zoning Agreement Amendment – West Side of Peguis Street, South of Almey Avenue – Lots 2 and 3",
+          "disposition": "APPLICATION REJECTED"
+        },
+        {
+          "number": "3",
+          "title": "Subdivision – Northeast Corner of Waverley Street and Kenaston Boulevard",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning – 307 and 315 Talbot Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Subdivision and Rezoning – South Side of Bridgeland Drive North, West of Prominence Point",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Subdivision and Rezoning – Northwest Corner directly east of the intersection of McPhillips Street and Murray Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Closing – Fernbank Avenue between McPhillips Street and CPR Plan 379 WLTO for Incorporation into DASZ 24/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "List of Historical Resources – Nomination of Singer Sewing Machine Building, 424 Portage Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Sale of City-owned Public Right-of-Way, Paulin Street between Ross and Pacific Avenues",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Proposed Lease Renewal/Amending Agreement – 491 Portage Avenue – Winnipeg Parking Authority",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Proposed Amendment to the Lease Agreement between Assiniboine Golf Club and the City of Winnipeg at 2045 Ness Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated January 8, 2020",
+      "date": "2020-01-08",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Mandatory Registration of Bicycles at Time of Purchase",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Community Incentive Grant – Charleswood Curling Club Limited",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated January 7, 2020",
+      "date": "2020-01-07",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Resources Required for Implementation of the Manitoba Ombudsman’s Recommendations for Winnipeg Transit Plus",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Conversion of Diamond Lanes into High Occupancy Vehicle (HOV) Lanes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Traffic Calming Measures (Sunday Night Cruise) – Portage Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated January 10, 2020",
+      "date": "2020-01-10",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "Operational and Financial Impacts of the October 2019 Weather Event",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "THAT the Winnipeg Public Service be directed to report back on the installation of emergency strobe lights on transit buses which would provide a warning to others in an emergency situation.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "",
+      "movers": [
+        "Browaty",
+        "Nason"
+      ],
+      "subject": "THAT Councillor Schreyer be granted a leave of absence from today’s meeting due to his absence from the City on City Business",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "1/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 50 Barnes Street in the Assiniboia Community – DASZ 14/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "2/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2005, to rezone land located at 928 and 936 McMillan Avenue in the City Centre Community – DASZ 13/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "3/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 928 and 936 McMillan Avenue in the City Centre Community. DASZ 12/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "4/2020",
+      "subject": "To amend the Heritage Conservation Districts By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "5/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 469, 471, 473, 475 and 481 St. Anne’s Road in the Riel Community – DASZ 23/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "6/2020",
+      "subject": "To open the east side of Sherbrook Street, south of McDermot Avenue – DAO 6/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "7/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1640 Leila Avenue in the Lord Selkirk-West Kildonan Community – DASZ 21/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "8/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1, 5, 7, 9 & 11 St. John Ambulance Way in the Assiniboia Community – DASZ 7/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "15/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 281 River Avenue in the City Centre Community – DASZ 13/2018",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Item 2 of the Report of the Executive Policy Committee dated January 21, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment dated January 9, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

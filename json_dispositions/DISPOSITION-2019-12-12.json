@@ -1,0 +1,549 @@
+{
+  "meeting_date": "2019-12-12",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Browaty",
+      "Councillor Allard",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. S. Armbruster, Manager of Special Projects",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 26, 2019",
+      "date": "2019-11-26",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – 0 Cassowary Lane - File DASZ 32/2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated December 3, 2010",
+      "date": "2010-12-03",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Citizen Member Appointments – Committees, Boards and Commissions",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Destination Marketing Reserve – Multi-Year Downtown Public Safety Strategy",
+          "disposition": "30 DAYS EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "3",
+          "title": "2020 Local Improvement Interest Rates",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Community Centre Universal Funding Formula Review",
+          "disposition": "AMENDED AND ADOPTED (See Motion 6)"
+        },
+        {
+          "number": "5",
+          "title": "Revisions to the Materials Management Policy F1-003 to Delegate Authority to the Chief Administrative Officer to Approve Agreements related to Cooperative and other City Contracts",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "2020 Infrastructure Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Amendment to Fees and Charges By-law No. 196/2008 – Impact Fee",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Audit Department Peer Review",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "9",
+          "title": "Audit Plan 2020 Update",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 18, 2019",
+      "date": "2019-11-18",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Declaration of Surplus City-owned Property located at 126 King Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Historical Resources By-law Amendments",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "Declaration of Surplus Land – City-owned Property Located to the West of 2835 Pembina Highway",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Amendments to the Heritage Conservation Districts By-law No. 87/2018",
+          "disposition": "LAID OVER FOR 30 DAYS"
+        },
+        {
+          "number": "5",
+          "title": "Declaration of Surplus City-owned Property located adjacent to 1360 Taylor Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Land Exchange between the City of Winnipeg and Qualico Developments (Winnipeg) Ltd. – Waverley West Neighborhood ‘B’ and Old Kildonan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Subdivision and Rezoning – 109 Mayfair Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Local Area Planning Initiatives for 2019 – 2020",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated November 14, 2019",
+      "date": "2019-11-14",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Museums – Special Operating Agency",
+          "disposition": "AMENDED AND ADOPTED (See Motion 3)"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated November 19, 2019",
+      "date": "2019-11-19",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Taxis in Diamond Lanes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Annual Update on the Vehicle for Hire Industry and Amendments to the Vehicle for Hire By-law",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Amendments to Streets By-law No. 1481/77",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "First Charge on 2020 Capital Budget for Regional and Local Street Renewal Program",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated October 11, 2019",
+      "date": "2019-10-11",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "Financial Management Plan",
+          "disposition": "REPORT BACK TO THE STANDING POLICY COMMITTEE ON FINANCE WITHIN 90 DAYS"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated November 28, 2019",
+      "date": "2019-11-28",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Climate Action Plan – Annual Report",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Contribution Agreement between the City of Winnipeg and Trans Canada Trail – Design of Riverbank, Path and Roadway Works along Wellington Crescent",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Source Separated Organics Pilot Project – Residential Food Waste Collection",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated October 2, 2019",
+      "date": "2019-10-02",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "2",
+          "title": "Amendment to the Councillors' Ward Allowance (CWA) Fund Policy",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Nason",
+        "Schreyer"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that Council hold in abeyance any renewal, extension or approval of the supply, installation and operation of a photo enforcement program, until such time as the Province of Manitoba releases the results of its comprehensive review of the photo enforcement system.",
+      "disposition": "LOST"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Rollins",
+        "Chambers"
+      ],
+      "subject": "That Item 4 of the Report of the Executive Policy Committee date(d) December 3, 2019 be amended by deleting recommendations 1, to 5 and replacing them with the following: “1. That the existing City of Winnipeg / General Council of Winnipeg Community Centres / Community Centres Universal Funding Formula remain in place until such time as a fulsome review of the funding formula is adopted by Council, with the following amendment: A.    That existing Universal Funding Formula be modified, based on the specialized community centre index of 2.42% with resulting rates of $1.95 per capita, $3.57 per heated square footage, $6,050 for the first two rinks per site, and $3,025 for each additional rink per site, to be adjusted annually for inflation each year thereafter. The Universal Funding Formula funding envelope will be increased annually by the Public Service by the greater of CPI or the specialized community centre index. 2. That the Winnipeg Public Service be directed to form a working group consisting of the Director of Community Services, representatives from The General Council of Winnipeg Community Centres, and include large to medium size community centers to meet to review and update the Universal Funding Formula to ensure the model is more responsive to local needs, leading to a more contemporary and financially sustainable model. 3. That the Winnipeg Public Service be directed to report back to Council with the findings of the working group and recommendations for the adoption of a new City of Winnipeg / General Council of Winnipeg Community Centres / Community Centres Universal Funding Formula, when a fulsome review of the funding formula is completed. 4.That a one-time retroactive UFF payment adjustment to community centres totaling $102,975 for 2018 and 2019 be approved. 5. That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.”",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Lukes",
+        "Klein"
+      ],
+      "subject": "That Item 6. of the Report of the Executive Policy Committee dated December 3, 2019 be referred back to the Executive Policy Committee until such time as updates / reviews on the following policies have been submitted to Council for approval: •Our Winnipeg •Complete Communities •Strategic Priorities Action Plan •Transportation Master Plan •Parks and Recreation Strategy.” That the Winnipeg Public Service report back to Council with an updated Infrastructure Plan, taking into consideration the updated above noted policies.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Rollins",
+        "Nason"
+      ],
+      "subject": "That Item 1 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated November 14, 2019 be amended as follows: Amend Recommendation 1. By deleting “-9” and Recommendation 9. Amend Recommendation 2. By adding “and 9” after “3-7” and by adding the following to the end of Recommendation 2. “9. That the Human Resource Services Department manage the redeployment of one Transcona Museum CUPE Museum  Curator employee per the Letter of Understanding between the City of Winnipeg and CUPE – Redeployment.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Rollins",
+        "Chambers"
+      ],
+      "subject": "That Item 4 of the Report of the Executive Policy Committee date December 3, 2019 be amended by deleting recommendations 1, to 5 and replacing them with the following: 1.           That the Winnipeg Public Service be directed to form a working group consisting of the Director of Community Services, representatives from The General Council of Winnipeg Community Centres, and include large to medium size community centers to meet to review financial formulas, including the Universal Funding Formula to ensure revenue sources are sustainable and responsive to local needs.  2.That the Winnipeg Public Service be directed to report back to the Standing Policy Committee on Protection, Community Services and Parks with the findings of the working group and recommendations for the adoption of a new City of Winnipeg / General Council of Winnipeg Community Centres / Community Centres Universal Funding Formula, when a fulsome review of the funding formula is completed. 3.That a one-time retroactive UFF payment adjustment to community centres totaling $102,975 for 2018 and 2019 be approved. 4.That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Rollins",
+        "Chambers"
+      ],
+      "subject": "That item 4. of the Report of the Executive Policy Committee date December 3, 2019 be amended by adding the following new recommendations 5. and 6. and renumber the remaining recommendation accordingly: 5.That the Winnipeg Public Service be directed to form a working group consisting of the Director of Community Services, representatives from The General Council of Winnipeg Community Centres, and include large to medium size community centers to meet to review financial formulas, including the Universal Funding Formula to ensure revenue sources are sustainable and responsive to local needs.  6.That the Winnipeg Public Service be directed to report back to the Standing Policy Committee on Protection, Community Services and Parks with the findings of the working group and recommendations for the adoption of a new City of Winnipeg / General Council of Winnipeg Community Centres / Community Centres Universal Funding Formula, when a fulsome review of the funding formula is completed.",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Rollins",
+        "Chambers"
+      ],
+      "subject": "That Item 4 of the Report of the Executive Policy Committee date December 3, 2019 amended by adding the following new recommendations 5 and 6 and renumber the remaining recommendation accordingly: 5. That the Winnipeg Public Service be directed to form a working group consisting of the Director of Community Services, representatives from The General Council of Winnipeg Community Centres, and include large, medium and small community centers to meet to review financial formulas, including the Universal Funding Formula to ensure revenue sources are sustainable and responsive to local needs. 6. That the Winnipeg Public Service be directed to report back to the Standing Policy Committee on Protection, Community Services and Parks with the findings of the working group and recommendations within 180 days.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "94/2019",
+      "subject": "To amend the Streets By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "96/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 198 McPhillips Street in the Lord Selkirk-West Kildonan Community – DAZ 212/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "97/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 2525 Pembina Highway in the Assiniboia Community – DAZ 207/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "98/2019",
+      "subject": "To amend the Fees and Charges By-law to allow for deflationary decreases to fees and charges imposed by the City",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "99/2019",
+      "subject": "To amend the Winnipeg Police Pension By-law No. 126/2011",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "101/2019",
+      "subject": "To amend the Vehicles for Hire By-law",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion 2 – Referral of Item 6 of the Report of the Executive Policy Committee dated December 3, 2019",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Browaty",
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee Committee dated December 3, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 7 of the Report of the Executive Policy Committee Committee dated December 3, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Notice of Motion – Executive Policy Committee",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Browaty",
+        "Councillor Nason",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "By-law No. 99/2019 – First Reading",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "By-law No. 99/2019 – Second Reading",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "By-law No. 99/2019 – Third Reading - 2/3 Rule Suspension",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie"
+      ]
+    },
+    {
+      "subject": "By-law No. 99/2012 – Third Reading",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 3 of the Report of the Standing Policy Committee on Water and Waste, Riverbank Management and the Environment Committee Committee dated November 28, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Nason"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

@@ -1,0 +1,461 @@
+{
+  "meeting_date": "2019-11-21",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Browaty",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms K. McMillan, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 5, 2019",
+      "date": "2019-11-05",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "In-Camera By-law Amendment",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – 691 Wolseley Avenue and 62 Sherbrook Street - DASZ 26/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Impact Fee Review",
+          "disposition": "365 DAY EXTENSION OF TIME GRANTED (Recommendation 1) ADOPTED (Recommendations 2 and 3)"
+        },
+        {
+          "number": "4",
+          "title": "2018 Single Source Assignments for Consultants, Goods and Services",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Natural Resources Canada Funding for Electric Charging Infrastructure",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 12, 2019",
+      "date": "2019-11-12",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Property Tax Credit",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Discount(s) to be allowed for the Prepayment of 2020 Realty, Personal Property and Business Taxes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Revisions to the Winnipeg Police Pension By-law No. 126/2011",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "4",
+          "title": "Audit of Procurement for the Pedestrian and Cycling Strategies and Review of the Employee Code of Conduct –  Status of Audit Recommendations 2019 Quarter 3",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project Audit – July 1 to November 30, 2018",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "6",
+          "title": "New Fire Paramedic Stations Construction Project – Status of Audit Recommendations 2019 Quarter 3",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "7",
+          "title": "Winnipeg Police Service Headquarters Construction Project –  Status of Audit Recommendations",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated September 4, 2019",
+      "date": "2019-09-04",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "6",
+          "title": "Amendment to the Airport Vicinity Protection Area Secondary Plan By-Law No. 6378/94 for Polo Park/Former Stadium Site",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Amendment to the Airport Vicinity Protection Area Secondary Plan By-Law No. 6378/94 Properties Identified Generally Along the West Side St James Street Between Portage Avenue and Sargent Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated October 28, 2019",
+      "date": "2019-10-28",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Declaration of Surplus Land – City-Owned Property located west of the Perimeter Highway between Wilkes Avenue and Wyper Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Building By-Law No. 4555/87 Amendment – Snow Loading",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Naturalized Storm Water Retention Pond Easements",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "List of Historical Resources – Nomination of Trees-Spriggs Building, 312 Ross Avenue",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated November 1, 2019",
+      "date": "2019-11-01",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Community Incentive Grant – Ukrainian Cultural and Educational Centre (UCEC)",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated November 4, 2019",
+      "date": "2019-11-04",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Expansion of Transit Vehicle Overhaul and Maintenance Facilities Capital Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Negotiation of U-Pass Agreements with University of Manitoba, University of Winnipeg and Red River College",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Southwest Transitway Route Network",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Air Force Way Realignment Phase 2 – Project Authorization and Capital Assistance Program Agreement with Department of National Defence & Single Source Negotiation and Award of Contract for Consulting Services",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON FINANCE dated November 8, 2019",
+      "date": "2019-11-08",
+      "committee": "Standing Policy Committee On Finance",
+      "items": [
+        {
+          "number": "1",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass and Provincial Project Contribution Agreement Update",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Financial Status Report and Forecast to September 30, 2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That The City of Winnipeg request the Province of Manitoba to amend The City of Winnipeg Charter Act to disqualify the Deputy Mayor or Acting Deputy from being a candidate for the office of Mayor in any election where they have been previously acting as unelected Mayor, due to that office being vacated.",
+      "disposition": "LOST"
+    },
+    {
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That: 1.The Province of Manitoba be requested to amend The City of Winnipeg Charter Act to Ensure all Councillors are allowed to participate in the formulation of the budget recommendation. 2.The City Organization By-law No. 7100/97 be amended to allow all Councillors to participate equally in the formulation of the Capital and Operating budget recommendations. 3.Presentations from departments on their respective budgets be made to all members of Council during the Budget Review process.",
+      "disposition": "LOST"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Chambers",
+        "Browaty"
+      ],
+      "subject": "That Item 3 of the Report of the Executive Policy Committee dated November 21, 2019 be amended to add the following new recommendations: “2.That savings of $14.74M from the police pension plan reforms detailed in the report Revisions to the Winnipeg Police Service Pension Plan By-law No. 126/2011 from 2020-2023 be utilized as a funding source for the Winnipeg Police Service operating budget to meet the Winnipeg Police Service Target.” 3.That the police pension plan reforms be implemented effective April 1, 2020 and that the draft amending By-law No. 86/2019 be revised to reflect this effective date. and the remaining recommendation be renumbered accordingly.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Klein",
+        "Mayes"
+      ],
+      "subject": "1.That Item 3 of the Report of the Executive Policy Committee dated November 21, 2019 be laid over for a period of 90 days. 2.That the Winnipeg Public Service be directed to meet with the appropriate representatives of the Winnipeg Police Association and the Winnipeg Police Seniors Officers’ Association with a clear objective of finding alternatives to reaching mutually beneficial terms that will increase pension contributions by members and discontinue pensionable overtime, including but not limited to the following examples: A.The cancelation of the benefit of pensionable overtime for members with 7 years or less service; B.Increasing the members pension contributions by 2% every year until they are equal with comparable CBA’s within the City; C.Having the City pass a by-law that ensures we are not permitted to remove funds from the pension and direct to general revenues, and report back to Council with an agreement within 90 days.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Nason",
+        "Schreyer"
+      ],
+      "subject": "That Council hold in abeyance any renewal, extension or approval of the supply, installation and operation of a photo enforcement program, until such time as the Province of Manitoba releases the results of its comprehensive review of the photo enforcement system.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to report back on the conversion of diamond lanes into high occupancy vehicle (HOV) lanes, to be used by vehicles with three or more passengers, buses, taxis and cyclists.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "48/2019",
+      "subject": "To amend the Airport Vicinity Protection Area Secondary Plan By-law to redesignate as Area II the lands bounded by St. James Street to the west, Empress Street to the east, St. Matthews Avenue to the north and Portage Avenue to the south",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    },
+    {
+      "number": "49/2019",
+      "subject": "To amend the Airport Vicinity Protection Area Secondary Plan By-law to redesignate as Area II certain lands along Portage Avenue, St. James Street and Ellice Avenue",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "77/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 446 Grassie Boulevard in the East Kildonan-Transcona Community – DASZ 10/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "78/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 700 Elgin Avenue in the Lord Selkirk-West Kildonan Community – DASZ 23/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "79/2019",
+      "subject": "To amend the Winnipeg Building By-law in respect of unsafe conditions in existing buildings or structures adjacent to proposed buildings or structures.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "86/2019",
+      "subject": "To amend the Winnipeg Police Pension By-law No. 126/2011",
+      "disposition": "NOT PROCEEDED WITH"
+    },
+    {
+      "number": "87/2019",
+      "subject": "To correct an error in By-law No. 69/2019 – DASZ 22/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "88/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 521 Gateway Road in the East Kildonan-Transcona Community – DASZ 5/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "89/2019",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 850 Empress Street in the Assiniboia Community – DASZ 25/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "90/2019",
+      "subject": "To open the southeast corner of Fermor Avenue and St. Anne’s Road – DAO 3/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "91/2019",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 276 & 280 Strood Ave., 711, 760 & 770 Knowles Ave., 769, 775, 789, 799 Bonner Ave., 375, 453, 479, 485 Grassie Blvd & 520 Almey Ave in the East Kildonan Transcona Community - DAZ 213/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "92/2019",
+      "subject": "To provide for discounts where real or personal property taxes or business taxes are prepaid in 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "93/2019",
+      "subject": "To amend the In Camera By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "95/2019",
+      "subject": "To correct an error in By-law No. 57/2019",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion to suspend Rule 7(1) of the Procedure By-law No. 50/2007 to work through the lunch hour recess",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Gillingham",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gilroy",
+        "Councillor Santos",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Motion 2 – Amendment to Item 3 of the Report of the Executive Policy Committee dated November 5, 2019",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins"
+      ]
+    },
+    {
+      "subject": "Motion 1 – Amendment to Item 3 of the Report of the Executive Policy Committee dated November 5, 2019",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 3 of the Report of the Executive Policy Committee dated November 5, 2019, as amended by Motion 1",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "EPC Notice of Motion 2 – City Organization By-law No. 7100/97",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
