@@ -60,6 +60,9 @@ Scripts exist to:
 * *September 26, 2019* - Split a report table into two tables. Added the word "dated" to one report that was mistitled.
 * *October 24, 2019* - Split a report table into two tables.
 * *February 27, 2020* - Date was missing on two reports. Missing dates added after referencing official minutes on DMIS. 
+* *May 29, 2020* - Recorded votes table was split into multiple tables causing the parsing to fail. Joined all recorded votes tables into a single table.
+* *July 23, 2020* - Motion 7 was missing mover and seconder. Added details from DMIS.
+
 
 ### Report to City Clerks' Department
 
