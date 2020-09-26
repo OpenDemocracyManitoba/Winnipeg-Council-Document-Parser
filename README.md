@@ -23,13 +23,13 @@ Scripts exist to:
 
 ### To Do
 
-* Investigate upgrade of docx gem from 0.3.0 to 0.4.0. Currently meeting date parsing fails with 0.4.0 due to how docs retrieves paragraphs.
-* Add images of "Movers" to Council Motions
-* Style Recorded Votes with Icons and Colours for Web Dispositions
-* Colourize Disposition Column for Reports, Motions, ByLaws
-* Show Councillors Not in Attendance
-* Create DB for YouTube & DMIS disposition metadata.
-* Pre-process all Docx Disposition tables to remove blank rows.
+* Current tool can only parse Council's "Regular Meetings". Enhancements are needed to parse special meetings, like yearly committee appointment meetings.
+* Automate the retrieval of YouTube and DMIS disposition metadata.
+* HTML Disposition Styling and Features
+    * Add images of "Movers" to Council Motions  
+    * Style Recorded Votes with Icons and Colours 
+    * Colourize Disposition Column for Reports, Motions, ByLaws
+    * Show Councillors Not in Attendance
 * Some tables span multiple pages and can accumulate bad data when the paragraphs within the cells are join. For an example, [see motion 2 in Dec 2017](http://www.winnipegelected.ca/disposition-2017-12-13.html#motions).  
 
 ### Changes Made to Official Disposition Docx Files
@@ -66,7 +66,7 @@ Scripts exist to:
 
 ### Setup Instructions
 
-Assuming command line with git and Ruby (2.6.x) installed:
+Assuming command line with git and Ruby (2.7.x) installed:
 
     git clone git@github.com:OpenDemocracyManitoba/Winnipeg-Council-Document-Parser.git
     cd Winnipeg-Council-Document-Parser
