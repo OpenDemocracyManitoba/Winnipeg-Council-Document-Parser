@@ -1,0 +1,303 @@
+{
+  "meeting_date": "2020-02-27",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Browaty",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. A Poitras, Manager of the Decision Making Process",
+      "Mr. P. Prinsloo, Senior Committee Clerk",
+      "Mr. Mr. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 11, 2020",
+      "date": "2020-02-11",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Land Dedication Reserve Fund – Royal Canadian Legion – Electronic Message Centre",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 18, 2020",
+      "date": "2020-02-18",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "2018 Annual Diversity Report",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Newcomer Welcome and Inclusion Policy and Strategic Framework",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Human Rights Committee of Council Coordinator Contract",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Rezoning – 20 and 80 Churchill Drive – DAZ 208/2018",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Subdivision – Sage Creek – Sage Creek / Robert Bockstael Drive, Stoneknife Crescent, Birdsong Lane, Lloyd McKinnon Way, Snowy Owl Crescent – DAS 36/2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated February 20, 2020",
+      "date": "2020-02-20",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Proposal for Province of Manitoba 2020 Spring Flood Preparedness Program Funding",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated January 9, 2020",
+      "date": "2020-01-09",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "2",
+          "title": "Pilot Project – Multi-Family Solid Waste Collection Services Provided by City Staff",
+          "disposition": "LAID OVER FOR 30 DAYS"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION dated February 10, 2020",
+      "date": "2020-02-10",
+      "committee": "Standing Policy Committee On Innovation",
+      "items": [
+        {
+          "number": "1",
+          "title": "Special Operating Agency (SOA) Dividends",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated February 3, 2020",
+      "date": "2020-02-03",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Subdivision and Rezoning – Parcels 3, 4, and 5, Plan 5528 on Commercial Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Extension of Time – Rezoning on land located at 2501 Ferrier Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time – Subdivision and Rezoning – 755 Golspie Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Declaration of Surplus City-owned Property located at 604 St. Mary's Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Zoning Agreement Amendment – 1539 Logan Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Acquisition of 120 Softley Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Tax Sale Process Changes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "List of Historical Resources – Nomination of Somerset Building, 294 Portage Avenue",
+          "disposition": "LAID OVER TO THE MARCH 10, 2020 MEETING OF THE EXECUTIVE POLICY COMMITTEE"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated February 5, 2020",
+      "date": "2020-02-05",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg One Million Tree Challenge",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated February 4, 2020",
+      "date": "2020-02-04",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Delegation of Authority to Award Five Public Works – Accelerated Regional Street Renewal (NBCF Application) Contracts Exceeding $5,000,000 Including Multi-Year Contracts – MM Reference No. 1401-2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Traffic Calming Initiatives",
+          "disposition": "LAID OVER BY THE EXECUTIVE POLICY COMMITTEE FOR 30 DAYS"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated January 17, 2020",
+      "date": "2020-01-17",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendment to the Councillors' Ward Allowance (CWA) Fund Policy",
+          "disposition": "REFERRED BACK TO THE GOVERNANCE COMMITTEE OF COUNCIL"
+        },
+        {
+          "number": "2",
+          "title": "Amendment to the In Camera By-law No. 21/2011",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That the Voting Requirements by-law No. 123/2003 be amended to require a vote of 2/3 of the members present at Council for the adoption of the capital and operating budgets for each fiscal year, beginning with the 2020 budget.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "Condolence",
+      "movers": [
+        "Browaty",
+        "Sharma"
+      ],
+      "subject": "THAT Council place on record its profound sorrow at the death of Robert (Bob) Hayes, former Deputy City Clerk (1979 to 1987) and City Clerk (1987 to 1991), which occurred on January 30, 2020.",
+      "disposition": "CARRIED BY SILENT STANDING VOTE"
+    }
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "9/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1025 Beauty Avenue in the Lord Selkirk – West Kildonan Community – DASZ 11/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "10/2020",
+      "subject": "To impose local improvement taxes in respect of the cost of installing a 14 feet wide (5 inches thick) asphaltic concrete lane pavement in certain Public Lanes within the City of Winnipeg",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "11/2020",
+      "subject": "To impose local improvement taxes in respect of the cost of installing 14 feet wide (5 inches thick) and 16 feet wide (5 inches thick) asphaltic concrete lane pavements in certain Public Lanes within in the City of Winnipeg",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "12/2020",
+      "subject": "To impose local improvement taxes in respect of the cost of installing a 16 feet wide (5 inches thick) asphaltic concrete lane pavement in certain Public Lanes within the City of Winnipeg",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "13/2020",
+      "subject": "To impose local improvement taxes in respect of the cost of installing a wastewater sewer in certain Public Lanes within the City of Winnipeg",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "14/2020",
+      "subject": "To impose local improvement taxes in respect of the cost of installing a watermain on certain Public Lanes within the City of Winnipeg",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "16/2020",
+      "subject": "To amend the In Camera By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "17/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 0 Cassowary Lane in the Assiniboia Community – DASZ 32/2019",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion to suspend Rule 17(1) of the Procedure By-law to consider Motion 1",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

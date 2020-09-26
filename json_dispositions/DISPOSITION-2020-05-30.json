@@ -1,0 +1,468 @@
+{
+  "meeting_date": "2020-05-29",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Browaty",
+      "Councillor Allard",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms. L. Cowan, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE DATED MAY 22, 2020",
+      "date": "2020-05-22",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Citizen Member Appointments – Board of Revision",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Reversal of Amendments to Winnipeg Police Pension By-law",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Bill 44 – The Public Utilities Ratepayer Protection and Regulatory Reform Act (Various Acts Amended)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Bill 48 – The Planning Amendment and City of Winnipeg Charter Amendment Act",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Bill 49 – The Building and Electrical Permitting Improvement Act (Various Acts Amended and Permit Dispute Resolution Act Enacted)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "2020 Urban Agriculture Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Audit Department – 2019 Annual Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "8",
+          "title": "Continuous Monitoring – Advisory Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "9",
+          "title": "Audit of Procurement for the Pedestrian and Cycling Strategies and Review of the Employee Code of Conduct – Status of Audit Recommendations 2019 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Audit of Procurement for the Pedestrian and Cycling Strategies and Review of the Employee Code of Conduct – Status of Audit Recommendations 2020 Quarter 1",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "11",
+          "title": "Report on New Fire Paramedic Stations Construction Project – Status of Audit Recommendations 2019 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "12",
+          "title": "Report on New Fire Paramedic Stations Construction Project – Status of Audit Recommendations 2020 Quarter 1",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "13",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations 2019 Quarter 4",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "14",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations 2020 Quarter 1",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT DATED MAY 21, 2020",
+      "date": "2020-05-21",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Changes to Planning, Development, and Building Fees and Fee Structures for July 1, 2020 Implementation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Single Source Negotiation and Award of Service Contract Extension for the Operation of the St. Vital Centennial Arena at 580 St. Anne’s Road for an Additional Five (5) Years under the Terms of Bid Opportunity No.577-2004, Materials Management Reference No. 98-2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Declaration of Surplus City Property and Proposed Land Exchange Agreement with Canadian National Railway Company for the Southwest Rapid Transitway – Stage I Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Completed Real Property Sale & Lease Transactions – 2019",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Review of the Independent Fairness Commissioner Mandate",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Sale of the Vacant City-Owned Property located at 595 Beecher Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Amendment to the Precinct ‘E’ – Precinct Plan By-law No. 97/2014 for land generally located at 1206 Templeton Avenue – By-law No. 100/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Amendment to Council Policy PD-023 Railside at the Forks Concept Plan",
+          "disposition": "LAID OVER TO COUNCIL MEETING ON JUNE 26, 2020"
+        },
+        {
+          "number": "9",
+          "title": "Leasing Space to The Women’s Resource Centre",
+          "disposition": "REFERRED TO THE WINNIPEG PUBLIC SERVICE FOR REPORT BACK TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+        },
+        {
+          "number": "10",
+          "title": "Extension of Time – Subdivision and Rezoning – 650 Burrows Avenue – DASZ 2/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Extension of Time – Subdivision and Rezoning – Northwest Corner of Inkster Boulevard and King Edward Street – DASZ 44/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – Lots 2 and 3, Plan 45753, Peguis Street and Reenders Drive – DASZ 33/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Closing – Cadboro Road, Albright Road and Part of Formby Avenue for Incorporation Into DASZ 43/2019 – DAC 6/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Subdivision and Rezoning – Waverley West ‘B’ (Phase One) – Selected Properties Bounded by Lee Boulevard, Waverley Street, Bison Drive and Albright Road – DASZ 43/2019",
+          "disposition": "REFERRED BACK TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+        },
+        {
+          "number": "15",
+          "title": "Parker Lands Major Redevelopment Site Secondary Plan",
+          "disposition": "LAID OVER INDEFINITELY"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT DATED MAY 21, 2020",
+      "date": "2020-05-21",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "16",
+          "title": "Subdivision and Rezoning – North east corner of Hurst Way between Asquith Avenue and CN Railway (Parker Lands) – DASZ 12/2018",
+          "disposition": "LAID OVER INDEFINITELY"
+        },
+        {
+          "number": "17",
+          "title": "Sale Proceeds – City-owned property located at the North-East corner of Markham Road and Gull Lake Road",
+          "disposition": "LAID OVER BY THE EXECUTIVE POLICY COMMITTEE FOR 30 DAYS"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS DATED May 19, 2020",
+      "date": "2020-05-19",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Alignment of Winnipeg Transit Master Plan, Project Work Plan and Milestones",
+          "disposition": "EXTENSION OF TIME GRANTED TO MARCH 31, 2021"
+        },
+        {
+          "number": "2",
+          "title": "Wheelchair Priority Spaces on Transit Buses",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT DATED MAY 15, 2020",
+      "date": "2020-05-15",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Proposed Agreement for Services – Land Drainage Works – 1555 Lagimodiere Boulevard",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION AND ECONOMIC DEVELOPMENT DATED May 13, 2020 ",
+      "date": "2020-05-13",
+      "committee": "Standing Policy Committee On Innovation And Economic Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "CentreVenture Development Corporation: Drive for 2020",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That the City of Winnipeg reduces Business and Property Taxes imposed on independently owned and operated restaurants by 50 percent, until such time as the Province of Manitoba removes the 50 percent capacity restriction on restaurants.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That the City Clerk be directed to provide all Members of Council with a link to view in camera meetings that are being conducted remotely.",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That the Winnipeg Parking Authority be required to refund 30% of the cost of the 2020 Permits to those vendors that purchased permits prior to June 1, 2020.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That the Winnipeg Parking Authority be required to refund the full monthly parking amounts to customers in either of these specific circumstances: Customer did not utilize reserved monthly parking for the month of April, 2020. Customer cancelled the reserved parking starting the month of May, 2020.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Rollins",
+        "Mayes"
+      ],
+      "subject": "That the Public Service be directed to amend By-law 91/2014 and take all other necessary steps to extend the annual active transportation route schedule from the current expiry date of July 6, 2020 to September 7, 2020 for the following streets: Lyndale Drive – Cromwell Street to Gauvin Street Scotia Street – Anderson Avenue (at St. Cross Street) to Armstrong Avenue Wellington Crescent – Academy Road (at Wellington Crescent) toGuelph Street Wolseley Avenue – Raglan Road to Maryland Street Assiniboine Avenue – Bedson Street to Westwood Drive Churchill Drive – Hay Street to Jubliee Avenue Egerton Road – Bank Avenue to Morier Avenue Kildonan Drive – Helmsdale Avenue to Rossmere Crescent & Larchdale Crescent to Irving Place Kilkenny Drive – Burgess Avenue to Patricia Avenue and Kings Drive That the public service be directed to consult with local Councillors to determine if any changes are required to the above noted active transportation routes that are located within a local Councillor’s ward; That the public service be directed to report back to the appropriate standing policy committee in 120 days with the results of the extended active transportation route initiative, and the feasibility of establishing permanent year-round active transportation routes; That the Proper Officers of the City do all things necessary to implement the intent of the foregoing.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Mayes",
+        "Sharma"
+      ],
+      "subject": "That Item 9 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development (PDHDD) be referred to the Winnipeg Public Services to report back to the Standing Policy Committee on Property and Development, Heritage and Downtown Development within 60 days on the mandate of the Women’s Resource Centre, the programing it provides, its space requirements and the extent to which the vacant Grace Cafe or any other vacant city space could suit this organizations needs in the future.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Mayes",
+        "Orlikow"
+      ],
+      "subject": "That Item 15 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development (PDHDD) dated May 21, 2020 be laid over until such time as the parties clarify the process outlined in Justice Grammond’s order on this matter dated May 14, 2020.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "8",
+      "movers": [
+        "Mayes",
+        "Orlikow"
+      ],
+      "subject": "That Item 16 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development (PDHDD) dated May 21, 2020 be laid over until such time as the parties clarify the process outlined in Justice Grammond’s order on this matter dated May 14, 2020.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "9",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That the City Clerk be directed to provide all Members of Council with a link to view in camera meetings that are being conducted remotely, upon request of the Member.",
+      "disposition": "AUTOMATIC REFERRAL TO EXECUTIVE POLICY COMMITTEE"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "100/2019",
+      "subject": "To amend the Precinct ‘E’ – Precinct Plan By-Law No. 97/2014 by re-designating lands generally located at 1206 Templeton Avenue from Lower Density Residential to Higher Density Residential",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "49/2020",
+      "subject": "To amend the Doing Business in Winnipeg By-law to include dealers in bicycle parts in the bicycle dealers licencing category, and to include dealers in scrap metal in the used goods dealers licencing category",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "51/2020",
+      "subject": "To clarify responsibility for the installation and maintenance of private sewer service pipes in the Sewer By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "53/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 191 Ellen Street in the Lord Selkirk – West Kildonan Community – DASZ 8/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "54/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 2634 Pembina Highway/21 Bayridge Avenue in the Riel Community – DASZ 15/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "55/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 813 Rathgar Avenue in the City Centre Community DASZ 23/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "56/2020",
+      "subject": "To retroactively repeal By-law No. 99/2019 and to ratify actions taken on the basis of the Police Pension By-law as it existed prior to April 1, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "57/2020",
+      "subject": "To close part of Bayridge Avenue, west of Ulster Street – DAC 8/2016",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "58/2020",
+      "subject": "To amend the Planning, Development and Building Fees By-law and the Winnipeg Building By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "60/2020",
+      "subject": "To amend the Schedule in the Reduced-Speed School Zones By-law",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Recommendation 1 of Item 3 of the Report of the Executive Policy Committee dated May 22, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Recommendation 2 of Item 3 of the Report of the Executive Policy Committee dated May 22, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Recommendation 3 of Item 3 of the Report of the Executive Policy Committee dated May 22, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

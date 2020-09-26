@@ -1,0 +1,444 @@
+{
+  "meeting_date": "2020-05-06",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Browaty",
+      "Councillor Allard",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms K. McMillan, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated April 28, 2020",
+      "date": "2020-04-28",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Interim Council and Committees of Council Schedule of Meetings and Delegation of Authority",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "New Sponsorship Term with Entegra Credit Union Limited",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated April 22, 2020",
+      "date": "2020-04-22",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Police Board – 2020 – 2024 Strategic Plan",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Redevelopment Site D – Agreement to Share Winnipeg Fire Paramedic Service Response Data with Dillon Consulting Limited",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Review of the Patio Smoking Prohibition under the Outdoor Smoking By-law",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Appointment of Weed Inspectors under the Noxious Weeds Act",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated April 21, 2020",
+      "date": "2020-04-21",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Car Share Pilot Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Council Initiated Local Improvement – Asphaltic Concrete Lane Pavement",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Contribution Agreement with the City of Winnipeg and Trans Canada Trail – Wellington Crescent Sidewalk North Side from Omands Path to Renfrew Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Update to the Manual of Temporary Traffic Control on City Streets",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated April 23, 2020",
+      "date": "2020-04-23",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Award of Contract for Jefferson East Combined Sewer Relief – Contract 5 – Semple Trunk Sewer",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Amendments to Sewer By-Law No. 106/2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated February 3, 2020",
+      "date": "2020-02-03",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "8",
+          "title": "List of Historical Resources – Nomination of Somerset Building, 294 Portage Avenue",
+          "disposition": "NOT ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated April 20, 2020",
+      "date": "2020-04-20",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "The Annual Review of Part II Section 3 (Land Value) of the 2002 Development Agreement Parameters",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Delegation of Authority for Approval of Contract Over-Expenditures (Change Orders), Tender No. 230-2019B – Project No. 2016-117",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time – Subdivision and Rezoning – 813 Rathgar Avenue – File DASZ 23/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Bridgeland Drive Subdivision and Rezoning – Proposed Amendment",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Secondary Plan Amendment – 1485 Portage Avenue, 600 Empress Street, 875 St. James Street and Lot 2 Plan 54622 42 St. James (former stadium site) – SPA 1/2019",
+          "disposition": "LAID OVER TO MAY 29, 2020 COUNCIL MEETING"
+        },
+        {
+          "number": "6",
+          "title": "Rezoning – 1485 Portage Avenue, 600 Empress Street, 875 St. James Street and Lot 2 Plan 54622 42 St. James (former stadium site) – DAZ 210/2019",
+          "disposition": "LAID OVER TO MAY 29, 2020 COUNCIL MEETING"
+        },
+        {
+          "number": "7",
+          "title": "Rezoning – 662 St. Mary’s Road – DAZ 209/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Subdivision and Rezoning – 5610, 5628 and 5630 Roblin Boulevard – DASZ 42/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Subdivision and Rezoning – 274 Daly Street North and 612 Jessie Avenue – DASZ 37/2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the Voting Requirement By-law No. 123/2003 be amended to require a vote of 2/3 of the members present at Council for the adoption of the capital and operating budgets for each fiscal year, beginning with the 2020 budget",
+      "disposition": "REFERRED TO GOVERNANCE COMMITTEE"
+    }
+  ],
+  "motions": [
+
+  ],
+  "bylaws_first_reading": [
+
+  ],
+  "bylaws_passed": [
+    {
+      "number": "42/2020",
+      "subject": "To close the public lane north of Wardlaw Avenue east of Osborne Street DAC 3/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "43/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 755 Golspie Street in the East Kildonan-Transcona Community DASZ 1/2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "44/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at northwest corner of Kimberley Avenue and London Street in the East Kildonan-Transcona Community – DASZ 18/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "45/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 425 Wardlaw Avenue and 160 Osborne Street in the City Centre Community – DASZ 20/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "46/2020",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 20 and 80 Churchill Drive in the City Centre Community – DAZ 208/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "47/2020",
+      "subject": "To amend School Division Special Levies By-Law No. 28/2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "48/2020",
+      "subject": "To amend the Development Procedures By-law to allow for the temporary delegation of authority to the Director of Planning, Property and Development in respect of ‘C’ variances and ‘C’ conditional uses.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "50/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 424 Wardlaw Avenue in the City Centre Community DASZ 19/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "52/2020",
+      "subject": "To close part of Torwood Crescent – DAC 4/1998",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion to suspend Rule 47(4) to allow Councillor Schreyer to rectify his vote on Recommendations 1, 2, 3, 4 and 7 of Minute No. 251 of the April 3, 2020 Council meeting.",
+      "disposition": "CARRIED",
+      "yeas": [
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Santos",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Rollins",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Executive Policy Committee dated April 28, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein"
+      ]
+    },
+    {
+      "subject": "Notice of Motion – Referral to Governance Committee",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "Councillor Allard",
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated April 22, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Standing Policy Committee Water and Waste, Riverbank Management and the Environment dated April 23, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 8 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated February 3, 3030",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Allard",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Rollins",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 5 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development and the Environment dated April 20, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Nason",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated April 20, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Nason",
+        "Councillor Schreyer"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

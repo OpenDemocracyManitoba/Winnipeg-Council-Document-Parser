@@ -1,0 +1,602 @@
+{
+  "meeting_date": "2020-06-26",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Browaty",
+      "Councillor Allard",
+      "Councillor Chambers",
+      "Councillor Eadie",
+      "Councillor Gillingham",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. P. Prinsloo, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Chief Corporate Services Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE DATED JUNE 18, 2020",
+      "date": "2020-06-18",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "24/7 Safe Space Grant Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Restaurants Tax Relief",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "In Camera Remote Meetings",
+          "disposition": "AMENDED AND ADOPTED (See Motion 1)"
+        },
+        {
+          "number": "4",
+          "title": "Subdivision and Rezoning – Southern Portion of 4055 Portage Avenue Including Lots West of Race Track Drive Bounded by Portage Avenue in the South and Private Road in the  North – DASZ 1/2020)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Subdivision and Rezoning – 888 John Bruce Road E – DASZ 5/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Agreement with Province of Manitoba to permit for continued by-law enforcement",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Addressing the Financial Challenges of COVID-19 – Additional Proposed Actions out of the COVID-19 Crisis Cash Flow Management Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Loan Guarantee for The Convention Centre Corporation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Winnipeg Police Board Appointments",
+          "disposition": "AMENDED AND ADOPTED (See Motion 5)"
+        },
+        {
+          "number": "10",
+          "title": "Winnipeg Police Board Effectiveness Evaluation 2019",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INNOVATION AND ECONOMIC DEVELOPMENT DATED JUNE 15, 2020 ",
+      "date": "2020-06-15",
+      "committee": "Standing Policy Committee On Innovation And Economic Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Award of Contract for the Provision of Cellular Wireless and Cellular Data Services – Materials Management Reference #1145-2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT DATED MAY 21, 2020",
+      "date": "2020-05-21",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "8",
+          "title": "Amendment to Council Policy PD-023 Railside at the Forks Concept Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "Sale Proceeds – City-owned property located at the North-East corner of Markham Road and Gull Lake Road",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT “A” OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT DATED MAY 21, 2020",
+      "date": "2020-05-21",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "List of Historical Resources – Nomination of McLaren Hotel, 554 Main Street",
+          "disposition": "AMENDED BY EXECUTIVE POLICY RECOMMENDATION AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT DATED JUNE 16, 2020",
+      "date": "2020-06-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Sale of 572 Selkirk Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "DAZ 209/96 Future Services Account Allocations",
+          "disposition": "LAID OVER BY EPC FOR 30 DAYS"
+        },
+        {
+          "number": "3",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 741-765 Bonner Avenue – DASZ 19/2014",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time – Subdivision and Rezoning – West of Peguis Street, South of Almey Avenue – DASZ 21/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Proposed Closing of the Public Lane at the Rear of 37 Fernwood Avenue – DAC 8/99",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Waverley Street Underpass Project – Proposed Street Opening and Closings – Southeast Corner of Waverley Street and Taylor Avenue – DAOC 1/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Opening and Closing – Air Force Way, North of Silver Avenue – DAOC 1/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Subdivision and Rezoning – 634/638/644 Dudley Avenue – DASZ 41/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Zoning Agreement Amendment – 590 Corydon Avenue – ZAA 1/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Subdivision and Rezoning – Waverley West 'B' (Phase One) – Selected Properties Bounded by Lee Boulevard, Waverley Street, Bison Drive and Albright Road – DASZ 43/2019",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Subdivision and Rezoning – 1610, 1614, 1618, 1622, and 1626 Ravelston Avenue West – DASZ 46/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Subdivision and Rezoning – 12 Crystal Avenue – DASZ 6/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Subdivision and Rezoning – 686 & 690 St. Anne’s Road – DASZ 45/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Subdivision and Rezoning – Part Lots 184 and 185 Roman Catholic Mission Property (northeast corner of Sage Creek Boulevard and boulevard des Hivernants) – DASZ 2/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Subdivision and Rezoning – 782-790 Taché Avenue & 140-148 Grandin Street – DASZ 3/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Establishment of a Norberry-Glenlee Community Centre Universal Playground Structure Capital Project Budget",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "Re-opening of Terry Sawchuk Arena",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS DATED JUNE 10, 2020",
+      "date": "2020-06-10",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Emergency Management Program and Emergency Management Draft By-Law",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Fire Paramedic Service Strategic Direction",
+          "disposition": "RECOMMENDATION NO.1 - 120 DAY EXTENSION OF TIME RECOMMENDATION NO. 2 – ADOPTED RECOMMENDATION NO. 3 – LAID OVER FOR 180 DAYS"
+        },
+        {
+          "number": "3",
+          "title": "Protection of City of Winnipeg Tree Canopy – Allocation of Disaster Relief Funding",
+          "disposition": "LAID OVER BY EPC FOR 30 DAYS"
+        },
+        {
+          "number": "4",
+          "title": "Future Grant Agreements with the City of Winnipeg and Tree Canada for the Winnipeg Million Tree Challenge",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Cricket Pitch at La Barriere Park",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Pool Liner Replacement at Freight House Outdoor Pool",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS DATED JUNE 9, 2020",
+      "date": "2020-06-09",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Analysis of Current Parking Rates",
+          "disposition": "AMENDED AND ADOPTED (See Motion 2)"
+        },
+        {
+          "number": "2",
+          "title": "30% Refund of 2020 Parking Permits",
+          "disposition": "REPORT BACK TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS WITHIN 60 DAYS"
+        },
+        {
+          "number": "3",
+          "title": "Refund of Monthly Parking Costs",
+          "disposition": "REPORT BACK TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS WITHIN 60 DAYS"
+        },
+        {
+          "number": "4",
+          "title": "Extending the Sunday / Holiday Bicycle Route",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION AMENDED AND ADOPTED (See Motions 3 and 4)"
+        },
+        {
+          "number": "5",
+          "title": "Car Share Pilot Project",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That item 3 of the Report of the Executive Policy Committee dated June 18, 2020 be amended by deleting Recommendation 1 and replacing it with the following: 1.That the City Clerk be directed to provide all Members of Council with a link to view in camera meetings that are being conducted remotely, upon request of the Member.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Gillingham",
+        "Browaty"
+      ],
+      "subject": "That item 1 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated June 9, 2020 be amended by adding the following new Recommendation 2 and renumbering the remaining recommendation accordingly; “2.That the Winnipeg Parking Authority work with local business owners and report back to the appropriate committee of Council annually for 2 years on the impact on businesses of the on-street parking rate reduction.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Eadie",
+        "Schreyer"
+      ],
+      "subject": "That Recommendation 1 of item 4 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated June 9, 2020 be amended by adding the following street as an additional expanded Sunday/holiday active transportation route with the same conditions as the existing nine routes; “J. Rover Avenue - Hallet Street to Stephens Street”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "1.That Recommendation 1 of item 4 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated June 9, 2020 be amended by deleting Recommendation “1. E. Assiniboine Avenue – Bedson Street to Westwood Drive”, and renumbering the remaining recommendations accordingly. 2.That the following new Recommendation 2. be added, and the remaining recommendations be renumbered accordingly. “2. That the Winnipeg Public Service be requested to work with the Councillor of the Charleswood -Tuxedo - Westwood Ward to find an alternate temporary active transportation route within the area.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Chambers",
+        "Rollins"
+      ],
+      "subject": "That item 9 of the Report of the Executive Policy Committee dated June 18, 2020 be amended by adding the following new Recommendation 3 and renumbering the remaining recommendation accordingly: That Councillor Santos be appointed to the Winnipeg Police Board.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "LEAVE OF ABSENCE",
+      "movers": [
+        "Rollins",
+        "Orlikow"
+      ],
+      "subject": "That Councillor Gilroy be excused from today’s meeting due to a personal family matter.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "63/2020",
+      "subject": "To authorize the borrowing of money in the amount of $18,412,000.00",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "59/2020",
+      "subject": "To ensure adequate preparation for, and an appropriate response to, emergencies.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "61/2020",
+      "subject": "To approve a plan of subdivision for land located at South of Robert Bockstael Drive, West of Tanager Trail in the Riel Community pursuant to Development Application No. DAS 36/2019.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "62/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 609 Leola Street, 711 Leola Street and 710 Roanoke Street in the East Kildonan-Transcona Community pursuant to Development Application No. DASZ 7/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "64/2020",
+      "subject": "To amend the Building Exterior Lighting Grant Program By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "65/2020",
+      "subject": "To open east side of Plessis Road, south of Dugald Road – DAO 2/2014",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "66/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 307 and 315 Talbot Avenue the East Kildonan-Transcona Community -  DASZ 34/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "67/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 198 Sherbrook Street in the City Centre Community pursuant to Development Application No. DASZ 30/2014.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "68/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 261 Benn Avenue, 2756-2772 Main Street in the East Kildonan Transcona Community pursuant to Development Application No. DASZ 25/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "69/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 109 Mayfair Avenue in the City Centre Community pursuant to Development Application No. DASZ 27/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "70/2020",
+      "subject": "To amend the Traffic By-law to prohibit vehicular travel on Sunday Bike Routes every day until September 7, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "72/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 691 Wolseley Avenue and 62 Sherbrook Street in the City Centre Community pursuant to Development Application No. DASZ 26/2019",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Item 1 of the Report of the Executive Policy Committee dated June 18, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 7 of the Report of the Executive Policy Committee dated June 18, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Motion 5- Amendment to Item 9 of the Report of the Executive Policy Committee dated June 18, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 9 of the Report of the Executive Policy Committee dated June 18, 2020",
+      "disposition": "PASSED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 8 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated May 21, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Layover of Item 1 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated June 10, 2020 to the September meeting of Council",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Klein",
+        "Councillor Nason",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated June 10, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Lukes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Item 4 of the Report of the Standing Policy Committee on infrastructure Renewal and Public Works dated June 9, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
