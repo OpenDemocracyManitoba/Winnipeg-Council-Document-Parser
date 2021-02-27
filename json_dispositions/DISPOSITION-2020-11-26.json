@@ -1,0 +1,672 @@
+{
+  "meeting_date": "2020-11-26",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Eadie",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. P. Prinsloo, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer",
+      "Mr. M. Jack, Deputy Chief Administrative Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated October 20, 2020",
+      "date": "2020-10-20",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "3",
+          "title": "Neighbourhood Economic Development Officer",
+          "disposition": "AMENDED AND ADOPTED (See Motion 7)"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated November 18, 2020",
+      "date": "2020-11-18",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Municipal Development and Services Agreement between the City of Winnipeg and Peguis First Nation regarding 1075 Portage Avenue",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Food Council Coordinator Contract",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Proposed Asphaltic Concrete Lane Pavement Local Improvement",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Open Government Policy Annual Review",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "North District Police Station",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "City of Winnipeg Rapid Housing Initiative (RHI) Federal Funding",
+          "disposition": "AMENDED AND ADOPTED (See Motion 4)"
+        },
+        {
+          "number": "7",
+          "title": "Municipal Enforcement Support Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Use of Unallocated Funds from the Future Services Account",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Audit of Procurement for the Pedestrian and Cycling Strategies and Review of the Employee Code of Conduct –Status of Audit Recommendations – 2020 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "10",
+          "title": "Audit Plan 2021",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "11",
+          "title": "Report on New Fire Paramedic Stations Construction Project – Status of Audit Recommendations – 2020 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "12",
+          "title": "Report on New Fire Paramedic Stations Construction Project – Status of Audit Recommendations – 2020 Quarter 3",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "13",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project Audit – for the period December 1, 2018 – February 28, 2019 (Q4 2018)",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "14",
+          "title": "Southwest Rapid Transitway (Stage 2) and Pembina Highway Underpass Capital Integration Project Audit – 2019 Quarter 1 to 2019 Quarter 3 (March 1, 2019 to November 30, 2019) – Final Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "15",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations – 2020 Quarter 2",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "16",
+          "title": "Winnipeg Police Service Headquarters Construction Project – Status of Audit Recommendations – 2020 Quarter 3",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated November 12, 2020",
+      "date": "2020-11-12",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Museums – Special Operating Agency",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Wading Pool Rationalization and Splash Pad Reinvestment Strategy",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Recreation and Library Facility Investment Strategy",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated September 16, 2020",
+      "date": "2020-09-16",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendment to the Winnipeg Transit Plus Policy – Trip Priority System",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated November 10, 2020",
+      "date": "2020-11-10",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Initiating Transit Plus Service based on Conditions of Roads and Sidewalks",
+          "disposition": "FOR REPORT BACK TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS WITHIN 180 DAYS"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated November 9, 2020",
+      "date": "2020-11-09",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Sewage Treatment Program 2019 Annual Report Program Agreement Between the City of Winnipeg and VWNA Winnipeg Inc. (Veolia)",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Manitoba Conservation and Climate Grant Agreement for Residential Food Waste",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated June 16, 2020",
+      "date": "2020-06-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "2",
+          "title": "DAZ 209/96 Future Services Account Allocations",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated October 16, 2020",
+      "date": "2020-10-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "11",
+          "title": "Broadway Neighborhood Centre Insurance Costs",
+          "disposition": "LAID OVER TO THE COUNCIL MEETING OF DECEMBER 17, 2020"
+        }
+      ]
+    },
+    {
+      "title": "REPORT “A” OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 16, 2020",
+      "date": "2020-11-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Affordable Housing Pilot Project",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Proposed Land Exchange between the City of Winnipeg and the St. James-Assiniboia School Division for Property Located at 1910 Portage Avenue and 100 Ferry Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Local Area Planning Initiatives",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Cannabis Cultivation in Residential Properties",
+          "disposition": "FOR REPORT BACK TO COUNCIL WITHIN 120 DAYS"
+        },
+        {
+          "number": "5",
+          "title": "Subdivision and Rezoning – 301 Archibald Street – 498 Plinguet Street – DASZ 11/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Menu of Options for an Affordable Housing Strategy",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT “B” OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated November 16, 2020",
+      "date": "2020-11-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Parker Lands Major Redevelopment Site Secondary Plan – SP 1/2018",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION AMENDED AND ADOPTED (See Motion 8)"
+        },
+        {
+          "number": "2",
+          "title": "Subdivision and Rezoning – Parker Lands (Northeast corner of Hurst Way between Asquith Avenue and the CN Railway) – DASZ 12/2018",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION AMENDED AND ADOPTED (See Motion 9)"
+        },
+        {
+          "number": "3",
+          "title": "Complete Communities Direction Strategy Plan – Major Redevelopment Site ‘I’ (Old Southwood Golf Course) – SPA 1/2020",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE GOVERNANCE COMMITTEE OF COUNCIL dated September 23, 2020",
+      "date": "2020-09-23",
+      "committee": "Governance Committee Of Council",
+      "items": [
+        {
+          "number": "1",
+          "title": "Standing Policy Committee Composition",
+          "disposition": "RECEIVED AS INFORMATION"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That the Executive Policy Committee direct the Public Service to report back within 120 days to Council on the following: The ability to implement a social procurement policy where community benefit can be accurately measured. An implementation plan that will apply a social procurement requirement up of to the amount of 30% value towards the specific City of Winnipeg contract(s). prioritize areas of contracting for this approach where current community capacity exists to deliver the service in collaboration with both a social procurement agency and a given industry. With the outcomes resulting in market standards for price, quality and time. That the Proper Officers be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Chambers",
+        "Allard"
+      ],
+      "subject": "That the Public Service be directed to: 1.Report back on what the City of Winnipeg is currently doing to support social and sustainable procurement practices. 2.In collaboration with the social enterprise sector, identify social procurement practices for appropriate City tenders with a goal of establishing a bid value for community benefits, consistent with the practice of other comparable Canadian municipalities. And report back to the appropriate Committee of Council in 180 days.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That in an effort to help businesses survive the financial impacts of COVID-19, 1.A one time “Winnipeg Small & Medium Business Bridge Grant” in the amount of $ 750 be provided to small and medium-sized businesses that were ordered to temporarily close their doors to the public or cease operating effective November 12, 2020, as ordered by the Province of Manitoba to halt COVID-19 transmission. 2.That this grant be financed from the Destination Marketing Reserve, given that: A.The Reserve is in surplus; B.Traditional demand for the Reserve to secure or promote tourism and major events is likely to be depressed for many months given the Covid-19 crisis; C.That protecting the diversity of our restaurant, retail and entertainment sector businesses is consistent with the mandate of the Reserve, and D.The mandate for the Reserve, which is drawn from a dedicated revenue source, limits its use for other urgent City fiscal needs or priorities. 3.That the list of businesses eligible for the Winnipeg Small & Medium Business Bridge Grant be determined by mirroring the list of Winnipeg-based businesses otherwise eligible for the Manitoba Bridge Grant announced on November 12, 2020, by means to be determined by the Winnipeg Public Service. These businesses would likely include: retail businesses not on the essential services list, personal service businesses, gyms and fitness centres, recreation and sport facilities, restaurants, bars, beverage rooms, brewpubs, microbreweries and distilleries.",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Gilroy",
+        "Gillingham"
+      ],
+      "subject": "That Item 6 of the Report of the Executive Policy Committee dated November 18, 2020, be amended by adding the following new recommendations and renumbering the remaining recommendation accordingly: 7. That the Director of Asset and Project Management work with the successful applicants with the aim to ensure that all selected projects are managed and delivered on time and within their respective capital budgets; 8. That the Public Service report to the appropriate standing committee on the progress of these projects on a semi-annual basis during construction and annually thereafter to ensure that the objectives of these projects and the terms of their underlying agreements are being achieved.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Lukes",
+        "Eadie"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to work with the Mayor’s Office to develop a policy for the expenditures of funds from the Mayor’s Office budget, to be submitted to Council for approval within 60 days.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Bowman",
+        "Allard"
+      ],
+      "subject": "That the October 29, 2020 Council decision with respect to Item 6 of the Executive Policy Committee report dated October 20, 2020, be amended as follows: That the date for one-hour complementary parking on all on-street metered locations throughout the City of Winnipeg, as outlined in Recommendation 1, be extended from December 31, 2020 to June 30, 2021. That the date in which to Public Service is directed to not enforce parking time restrictions on residential streets, as outlined in Recommendation 2, be extended from December 31, 2020 to June 30, 2021. That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Eadie",
+        "Nason"
+      ],
+      "subject": "That EPC’s recommendation on the original motion from the Lord Selkirk West Kildonan Community Committee on 3. Neighbourhood Economic Development Officer to have the 2021 operating budget remove the following clause: “1.U. That Council amend the Business Improvement Zone Procedures By-law 8111/2002 to reflect that Business Improvement Zones, commencing with their 2021 budget, must allocate funds to offset a portion of the costs of the Neighbourhood Economic Development Officer and that the allocation of this cost to individual Business Improvement Zones be based on (adjusted) annual rental value.” AND BE IT FURTHER RESOLVED That the Proper Officers of the City be authorized to do all things necessary to implement the use of business taxes to pay the costs of maintaining the NEDO position and all the duties assigned to this staff position.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "8",
+      "movers": [
+        "Bowman",
+        "Gilroy"
+      ],
+      "subject": "That Item 1 of Report ‘B’ of the Standing Policy Committee on Property and Development, Heritage and Downtown Development report dated November 16, 2020, be amended by deleting Recommendations 1-4 and replacing with the following: 1.That the Parker Lands Major Redevelopment Site (‘G’) SP 1/2018, (attached hereto as Attachment A – Parker Lands Secondary Plan) be approved as a non-statutory secondary plan policy, subject to the following amendments: A.That all streets must be designed to ensure appropriate turning radius to accommodate Winnipeg School Division buses, as determined by and to the satisfaction of the Director of Public Works. B.That the final location of all sidewalks and multi-use pathways within the planned development be subject to the approval of the Director of Planning, Property and Development and the City Centre Community Committee and constructed to the satisfaction of the Director of Public Works. C. That prior to development, the applicant be required to submit a final rail mitigation plan protecting the proposed adjacent residential development in alignment with the FCM Guidelines or endorsed by CN, to the satisfaction of the Director of Planning, Property and Development. D. That Policy 3.3.2(2) Density Policies which reads as follows: 3.3.2(2) Net housing densities for the Urban Neighbourhood Area TOD Zone shall be 99-247 units per net hectare (40-100 units per net acre) as per the TOD Handbook. be deleted and replaced with the following: 3.3.2(2)Net housing density of the Urban Neighbourhood Policy Area shall be no greater than 60 units per net acre and the number of residential dwelling units in the Urban Neighbourhood Policy Area shall not be greater than 1,918. E.That to ensure consistency with the plan and to ensure zoning rights are consistent with TOD: i.That Policy 5.5.2.4 be deleted, namely: 5.5.2.4The Parker Lands Urban Design Guidelines shall not apply or affect the ability of land owners exercising their existing land-use rights for developing lands currently zoned for Industrial land-uses. ii.That the following wording from section 5.4 Development Applications be deleted, namely: Until such time as the zoning By-law regulations are changed in a under future development applications, nothing in this Plan shall preclude current uses in the Planned Area from continuing as they existed prior to the Plan, with all the zoning land-use rights inherent in the lands, and for as long as the land owner wishes. 2.That the Proper Officers of the City be authorized to all things necessary to implement the intent of the foregoing.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "9",
+      "movers": [
+        "Bowman",
+        "Gilroy"
+      ],
+      "subject": "That Item 2 of Report ‘B’ of the Standing Policy Committee on Property and Development, Heritage and Downtown Development report dated November 16, 2020, be amended by deleting Recommendations 1 and 2 and replacing with the following: 1.That the subdivision under Development Application No. DASZ 12/2018 be approved for preparation as a plan of subdivision (the “Plan”) by a Manitoba Land Surveyor in accordance with the map dated November 16, 2020 and attached as Schedule “A” to the report of the Winnipeg Public Service dated November 2, 2020, with such minor changes as may be required, and registration in the Winnipeg Land Titles Office, subject to the following conditions: A.That the developer enter into a Development Agreement with the City pursuant to subsection 259(1) of The City of Winnipeg Charter in accordance with the report of the Administrative Coordinating Group dated October 28, 2020 and attached as Schedule “B” to this report, with the following amendments: i.Under Section C – Agreement Conditions, I – Servicing Conditions: a.Under Condition 6 “Pavement” add the following new condition: “c)The Developer shall design all streets to ensure appropriate turning radius to accommodate Winnipeg School Division buses, as determined by and to the satisfaction of the Director of Public Works.” b.Under Condition 8 a) “Multi-use Pathways/Sidewalks”, add the words “, and subject to the approval and determination of location and requirements by the City Centre Community Committee” immediately after “as determined by and to the satisfaction of the Director of Public Works”. B.That the City enter into, execute and deliver with the Developer a Development Agreement in accordance with Recommendation 1; and such other agreements as determined necessary by the City Solicitor/Director of Legal Services to implement the intent of the foregoing (the \"Ancillary Agreements\"). C.That authority be delegated to the City’s Director of Planning, Property and Development (the “Director”) to negotiate and approve the terms and conditions of the Development Agreement and any Ancillary Agreements in accordance with this report and such other terms and conditions determined necessary by the City Solicitor/Director of Legal Services to protect the interests of the City 2.That the Winnipeg Zoning By-law No. 200/2006 be amended by rezoning the subject land to a “TOD PDO-2 Parker Lands” – Transit Oriented Development District, as shown on the map dated November 16, 2020 and attached as Schedule “A” to this report, subject to the following: A.That the developer enter into, a Zoning Agreement with the City of Winnipeg pursuant to Subsection 240(1) of The City of Winnipeg Charter in accordance with the following: i. That prior to development, the applicant be required to submit a final rail mitigation plan protecting the proposed adjacent residential development in alignment with the FCM Guidelines or endorsed by CN, to the satisfaction of the Director of Planning, Property and Development. ii.That the maximum density shall not exceed 1,918 dwelling units. 3.That this matter will be deemed to be concluded and all approvals in connection with this matter will expire if a by-law to implement this report (the “By-law”) is not enacted within 2 years after the date on which this report is approved by Council unless the developer applies for an extension of time before the expiration of the 2 year period and Council approves the extension. 4.That upon instruction from the Director of Planning, Property and Development, the Director of Legal Services/City Solicitor prepare and bring it directly to Council for enactment the By-law in accordance with the above. 5.That the subdivision section of the By-law will come into force when the Development Agreement is fully executed and/or the Plan is registered in the Winnipeg Land Titles Office. 6.That the zoning section of the By-law will come into force when the Plan is registered in the Winnipeg Land Titles Office. 7.That the By-law will be repealed without coming into force 1 year after the date it is enacted if the Plan is not registered in accordance with recommendation 5 unless the developer applies for an extension of time before the expiration of the 1 year period and Council approves the extension. 8.That this matter will be deemed to be concluded and all approvals in connection with this matter will expire if the necessary Plan approval signatures on behalf of the City have not been secured within 1 year after the date on which the By-law is enacted unless the developer applies for an extension of time before the expiration of the 1 year period and Council approves the extension. 9.That the Proper Officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "10",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That in an effort to help businesses survive the financial impacts of COVID-19, 1.A one time “Winnipeg Small & Medium Business Bridge Grant” in the amount of $ 750 be provided to small and medium-sized businesses that were ordered to temporarily close their doors to the public or cease operating effective November 12, 2020, as ordered by the Province of Manitoba to halt COVID-19 transmission. 2.That this grant be financed from the Destination Marketing Reserve, given that: The Reserve is in surplus; Traditional demand for the Reserve to secure or promote tourism and major events is likely to be depressed for many months given the Covid-19 crisis; That protecting the diversity of our restaurant, retail and entertainment sector businesses is consistent with the mandate of the Reserve, and The mandate for the Reserve, which is drawn from a dedicated revenue source, limits its use for other urgent City fiscal needs or priorities, and that the purpose of the Destination Marketing Reserve be amended as necessary to accomplish this. 3.That the list of businesses eligible for the Winnipeg Small & Medium Business Bridge Grant be determined by mirroring the list of Winnipeg-based businesses otherwise eligible for the Manitoba Bridge Grant announced on November 12, 2020, by means to be determined by the Winnipeg Public Service. These businesses would likely include: retail businesses not on the essential services list, personal service businesses, gyms and fitness centres, recreation and sport facilities, restaurants, bars, beverage rooms, brewpubs, microbreweries and distilleries.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "107/2020",
+      "subject": "To authorize the borrowing of money in the amount of $2,296,000.00",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "20/2020",
+      "subject": "To amend the Complete Communities Direction Strategy By-law No. 68/2010 to better define the boundaries of Major Redevelopment Site “I” (Old Southwood Golf Course) SPA 1/2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "105/2020",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 225/235 McPhillips Street and 1030 Pacific Avenue in the Lord Selkirk-West Kildonan Community pursuant to Development Application No. DAZ 200/2020 approved on September 30, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "106/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 888 John Bruce Road East in the Riel Community pursuant to Development Application No. DASZ 5/2020.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "109/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 634, 638, 644 Dudley Avenue in the City Centre Community pursuant to Development Application No. DASZ 41/2019, approved by Council on June 26, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "110/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone certain lands bounded by Lee Boulevard, Waverley Street, Bison Drive and Albright Road in the Assiniboia Community pursuant to Development Application No. DASZ 43/2019, which was approved by Council on June 26, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "111/2020",
+      "subject": "To close part of Cadboro Road, Part of Albright Road and Part of Formby Avenue – DAC 6/2019",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion 7 – Amendment to Item 3 of the Executive Policy Committee dated October 20, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Mayes"
+      ]
+    },
+    {
+      "subject": "Item 5 of the Report of the Executive Policy Committee dated November 18, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion 4 – Amendment to Item 6 of the Report of the Executive Policy Committee dated November 18, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 6 of the Report of the Executive Policy Committee dated November 18, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion to suspend Rule 16(1) of the Procedure By-law to consider Motion 10",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ]
+    },
+    {
+      "subject": "Item 3 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated November 12, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 2 of the Report of the Standing Policy Committee on Water and Waste, Riverbank Management, and the Environment dated November 9, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Browaty",
+        "Councillor Eadie",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Motion 8 – Amendment to Item 1 of the Report “B” of the Standing Policy Committee on Property and Development, Heritage, and Downtown Development dated November 16, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Orlikow",
+        "Councillor Rollins"
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report “B” of the Standing Policy Committee on Property and Development, Heritage, and Downtown Development dated November 16, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Orlikow",
+        "Councillor Rollins"
+      ]
+    },
+    {
+      "subject": "Motion 9 – Amendment to Item 2 of the Report “B” of the Standing Policy Committee on Property and Development, Heritage, and Downtown Development dated November 16, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

@@ -1,0 +1,659 @@
+{
+  "meeting_date": "2020-09-30",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Eadie",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. S. Armbruster, Manager of Elections and Special Projects",
+      "Mr. M. Ruta, Interim Chief Administrative Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated September 21, 2020",
+      "date": "2020-09-21",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Municipal Development and Services Agreement between the City of Winnipeg and Peguis First Nation regarding 1075 Portage Avenue",
+          "disposition": "60 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Request for Delegation of Authority on Special Duty Policing Fee Schedule",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg’s Indigenous Accord",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "4",
+          "title": "Impact Fee",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Joint Venture",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "By-Law 20/2020 – Amendment to Complete Communities Direction Strategy By-law – Major Redevelopment Site ‘I’ (Old Southwood Golf Course)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Rezoning – 302 Archibald Street – DAZ 203/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Rezoning – 225/235 McPhillips Street and 1030 Pacific Avenue – DAZ 200/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Land Dedication Reserve – Trees Riverview – Trees Riverview Planting Project",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "2019 Single Source Assignments for Consultants, Goods and Services",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "11",
+          "title": "Voting Requirement By-law No. 123/2003 – Requirement for a Two Thirds Vote for the Adoption of the Capital and Operating Budgets",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "12",
+          "title": "General Council of Winnipeg Community Centres Inc. 2020 – 2022 Business Plan",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Open Government Policy",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "14",
+          "title": "24/7 Safe Space Grant Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Updated Interim Council and Committees of Council Schedule of Meetings and Delegation of Authority",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Open Data Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "Transfer Federal Funding Allocation under the Investing in Canada Infrastructure Program from the Transit Stream to the Green Stream to fund NEWPCC Projects",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "18",
+          "title": "Over-Expenditure Authorization for Legal Services Department 2020 Operating Budget and Approval of Single Source Negotiation and Award of Contract – Winnipeg Police Service Headquarters Fraud Matter",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "19",
+          "title": "Downtown Winnipeg BIZ Grant Agreement Amendment",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "20",
+          "title": "Street Closing – Raleigh Street and Gateway Road at City Limits – DAC 18/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "21",
+          "title": "Investigation into Osborne Village Business Improvement Zone",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "22",
+          "title": "Award of Contract for External Audit Services – Request for Proposal 404-2020",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated September 14, 2020",
+      "date": "2020-09-14",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Ten-Year Financial Plan for the Solid Waste Utility",
+          "disposition": "EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Award of Contract for Front Load Collection of Solid Waste from Multi-Family Dwellings and Other Establishments in the East Area of the City – Tender No. 390-2020",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated June 16, 2020",
+      "date": "2020-06-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "2",
+          "title": "DAZ 209/96 Future Services Account Allocations",
+          "disposition": "60 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated July 13, 2020",
+      "date": "2020-07-13",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "5",
+          "title": "Proposed Lease Agreement between the City of Winnipeg and Winnipeg Goldeyes Baseball Club Inc.",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated September 17, 2020",
+      "date": "2020-09-17",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Acceptance of Gift – Flashing Amber Lights in School Zones",
+          "disposition": "AMENDED AND ADOPTED (See Motion 6)"
+        },
+        {
+          "number": "2",
+          "title": "Declaration of Surplus Land – City-owned Property at the North West Corner of McLeod Avenue and Brunswick Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Declaration of Surplus Land – City-Owned Property adjacent to 41 Paquin Road",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Extension of Time for Option to Purchase and Offer to Purchase Agreements – CentreVenture Development Corporation",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Proposed Extension of the Transcona-West Joint Venture Agreement",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Subdivision and Rezoning – Area around Warde Avenue/Robert Bockstael Drive/MB Power Transmission – DASZ 9/2020",
+          "disposition": "LAID OVER TO THE OCTOBER 20, 2020 EXECUTIVE POLICY COMMITTEE MEETING"
+        },
+        {
+          "number": "7",
+          "title": "Secondary Plan Amendment – 1206 Templeton and Lot 12 Plan 3708 – SPA 4/2019",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated September 18, 2020",
+      "date": "2020-09-18",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "WFPS Smoke Alarm for Every Family Program - Opportunities for Growth",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "2",
+          "title": "Community Incentive Grant – Manitoba Islamic Association Inc.",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg Police Board By-law Review",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated September 16, 2020",
+      "date": "2020-09-16",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendment to the Winnipeg Transit Plus Policy – Trip Priority System",
+          "disposition": "LAID OVER TO THE OCTOBER 20, 2020 EXECUTIVE POLICY COMMITTEE MEETING"
+        },
+        {
+          "number": "2",
+          "title": "Scheduling for Transit Plus Drivers",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Rebate – Taxi Per Trip Cost",
+          "disposition": "AMENDED AND ADOPTED (See Motion 3)"
+        },
+        {
+          "number": "4",
+          "title": "Budget Consolidation and Delegated Authority for the Wellington Crescent Riverbank, Path and Roadway Project – MM Ref No. 545-2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Sunday / Holiday Bicycle Routes – Wolseley Avenue and Churchill Drive",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Speed Study – Pipeline Road from Ambergate Drive to 170 Metres North of Templeton Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Contribution Agreement with the City of Winnipeg and Trans Canada Trail – Wellington Crescent Sidewalk North Side from Omands Path to Renfrew Street",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "L7",
+      "movers": [
+        "Chambers",
+        "Mayes"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED: 1.That the City enter into, execute and deliver a School Resource Officer Program Agreement with each of the following school divisions and such other agreements as determined necessary by the City Solicitor / Director of Legal Services to implement the intent of the foregoing (the “Ancillary Agreements”): A.Louis Riel School Division; B.Pembina Trails School Division; C.River East Transcona School Division; D.St. James-Assiniboia School Division; E.Seven Oaks School Division; and F.Winnipeg School Division. 2.That the criteria set forth in paragraphs 2.A. and 2.C. of the School Resource Officer Protocol be waived for the purposes of the Agreements outlined in Recommendation 1 only, in accordance with this report and such other terms and conditions deemed necessary by the City Solicitor / Director of Legal Services to protect the interests of the City. 3.That authority be delegated to the Chief of the Winnipeg Police Service to negotiate and approve the terms and conditions of the School Resource Officer Program Agreements and the Ancillary Agreements, in accordance with this report and such other terms and conditions deemed necessary by the City Solicitor / Director of Legal Services to protect the interests of the City. 4.That the proper officers of the City be authorized to do all things necessary to implement the intent of the foregoing.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "L8",
+      "movers": [
+        "Rollins",
+        "Eadie"
+      ],
+      "subject": "THAT the motion regarding Winnipeg Police Services School Resource Officer Programs be amended by deleting “2.A” in Recommendation 2.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "1",
+      "movers": [
+        "Browaty",
+        "Santos"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED THAT Councillor Ross Eadie be appointed as Deputy Speaker for the remainder of the 2019-2020 term.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "THAT Recommendation 1 of Item No 5 of the Report of the Executive Policy Committee dated September 21, 2020 be deleted and replaced with the following: 1. That $975,000 of the proceeds from the Edgecorp – City of Winnipeg Joint Venture and the Transcona West Ward Joint Venture be allocated to fund the following projects in the Transcona Ward: A. $275,000 to renew the gravel running track on city property adjacent to Bernie Wolfe School. B. $200,000 towards renewal of Kildonan Meadows Park South including accessibility features C. $100,000 towards renewal of Kern Park including accessibility features D. $100,000 towards renewal of Paulicelli Park including accessibility features E. $100,000 towards renewal of Cedar Ranch Park including accessibility features F. $100,000 towards renewal of Victor Valde Park including accessibility features G. $100,000 towards renewal of Lagimodiere Park including accessibility features",
+      "disposition": "LOST"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Nason",
+        "Sharma"
+      ],
+      "subject": "THAT Recommendation 1 of Item No 3 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated September 16, 2020 be deleted and replaced with the following: 1.That the Winnipeg Public Service be directed to provide a credit for the month of April, 2020, to both taxi and personal transportation drivers, which is intended to support operations as well the drivers, equivalent to up to one month’s value of the dispatcher licence fees in the following manner: A.For small dispatchers with licences for less than 25 vehicles, and monthly licence costs less than $500, a credit for the full amount of one month’s dispatcher licence fee. B.For those companies with dispatcher licences of more than 25 vehicles, and monthly licence costs over $500, a credit of 50% of the value of one month’s dispatcher licence fee. 2.That the dispatcher licence fee credits of approximately $16,000 to the Vehicle for Hire industry, be funded through existing departmental budgets.",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "THAT Recommendation 2 of Item No 1 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated September 17, 2020 be deleted and replaced with the following: “2. That authority be delegated to Chief Administrative Officer to negotiate and approve the terms and conditions of the donation agreement and the Ancillary Agreements, in accordance with this report, including the terms and conditions attached to this report as Schedule A, amended as follows: A.  Delete all references to phases 1, 2 and 3; B.Delete Section 4 and replace with the following: “4.The Donor will determine the first school zones where beacons will be installed and all following locations will be prioritized based on the school zones with the highest level of ticketed traffic infractions.” C. Delete Sections 5, 6, 7 and 8 and renumber the remaining sections accordingly,” and such other terms and conditions deemed necessary by the City Solicitor/Director of Legal Services to protect the interests of the City.",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "THAT Item No. 5 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated September 17, 2020 be amended by adding the following new Recommendation 4: 4 That the proceeds from Transcona-West Joint Venture Agreement be allocated towards recreation and accessibility improvements within the Transcona Ward. and renumbering the remaining recommendation accordingly.",
+      "disposition": "LOST"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "THAT Recommendation 2 of Item No. 1 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated September 17, 2020 be deleted and replaced with the following: “2. That authority be delegated to Chief Administrative Officer to negotiate and approve the terms and conditions of the donation agreement and the Ancillary Agreements, in accordance with this report, including the terms and conditions attached to this report as Schedule A, amended as follows: A.Add the following new Condition 8 and renumber the remaining Conditions accordingly: “8.The Donor will determine the first school zone where beacons will be installed.” and such other terms and conditions deemed necessary by the City Solicitor/Director of Legal Services to protect the interests of the City.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "20/2020",
+      "subject": "To amend the Complete Communities Direction Strategy By-law No. 68/2010 to better define the boundaries of Major Redevelopment Site “I” (Old Southwood Golf Course)",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "100/2019",
+      "subject": "To amend the Precinct “E” – Precinct Plan By-law to redesignate lands generally located at the address commonly referred to as 1206 Templeton Avenue as a Higher Density Residential land use policy area – SPA 4/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "88/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at the Ken Oblik Drive in the Assiniboia Community pursuant to Development Application No. DASZ 40/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "89/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1610, 1614, 1618, 1622 and 1626 Ravelston Avenue West in the East Kildonan-Transcona Community pursuant to Development Application No. DASZ 46/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "90/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 901 and 903 Day Street in the East Kildonan-Transcona Community pursuant to Development Application No. DASZ 29/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "91/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 327 and 339 Wardlaw Avenue in the City Centre Community pursuant to Development Application No. DASZ 6/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "92/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1454 Ravelston Avenue West in the East Kildonan-Transcona Community pursuant to Development Application No. DASZ 39/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "93/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 686 and 690 St. Anne’s Road in the Riel Community pursuant to Development Application No. DASZ 45/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "94/2020",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 412 Kensington Street in the Assiniboia Community pursuant to Development Application No. DAZ 208/2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "97/2020",
+      "subject": "To amend the Meetings of Council by Communication Devices By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "98/2020",
+      "subject": "To amend the Tax Penalty By-law and the T.I.P.P. By-law to further extend the deadline for tax payments and to waive the enrollment fee for the T.I.P.P. program until November 30, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "101/2020",
+      "subject": "To amend the City Organization By-law to allow for alternates at Governance Committee meetings",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Motion to suspend Rule 51 (5) of the Procedure By-law to hear additional delegations",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Motion 2 – Amendment to Item 5 of the Report of the Executive Policy Committee dated September 21, 2020",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ]
+    },
+    {
+      "subject": "Item 14 of the Report of the Executive Policy Committee dated September 21, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 17 of the Report of the Executive Policy Committee dated September 21, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 18 of the Report of the Executive Policy Committee September 21, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Referral of Executive Policy Committee Motion – WPS School Resource Officer Agreement Renewals -to the Standing Policy Committee on Protection, Community Services and Parks",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Gilroy",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Executive Policy Committee Motion – WPS School Resource Officer Agreement Renewals",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Gilroy",
+        "Councillor Rollins",
+        "Councillor Santos"
+      ]
+    },
+    {
+      "subject": "Motion 6 – Amendment to Item 1 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated September 17, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Rollins"
+      ]
+    },
+    {
+      "subject": "Motion 3 – Amendment to Item 3 of the  Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated September 16, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Rollins"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

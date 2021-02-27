@@ -1,0 +1,550 @@
+{
+  "meeting_date": "2020-12-17",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Eadie",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Ms K. McMillan, Senior Committee Clerk",
+      "Mr. M. Ruta, Interim Chief Administrative Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated December 9, 2020",
+      "date": "2020-12-09",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Citizen Member Appointments – Committees, Boards and Commissions",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Strategies and Tools to Enhance Neighbourhood Liveability",
+          "disposition": "120 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "3",
+          "title": "Welcoming Winnipeg Update",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "2019 Annual Diversity Report",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "5",
+          "title": "Anti-Racism Initiatives",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Rezoning ‒156 Marion Street – DAZ 204/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Subdivision and Rezoning ‒ 316 to 326 Des Meurons Street‒ DASZ 23/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Results of the September 22, 2020 Advertisement of the Proposed Asphaltic Concrete Lane Pavement Local Improvement Project – Riel Community Committee",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Results of the September 22, 2020 Advertisement of the Proposed Asphaltic Concrete Lane Pavement Local Improvement Project – Assiniboia Community Committee",
+          "disposition": "NOT PROCEEDED WITH"
+        },
+        {
+          "number": "10",
+          "title": "Results of the September 22, 2020 Advertisement of the Proposed Asphaltic Concrete Lane Pavement Local Improvement Project – City Centre Community Committee",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Winnipeg Small and Medium Business Bridge Grant",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "12",
+          "title": "Social and Sustainable Procurement Practices",
+          "disposition": "AMENDED AND ADOPTED (See Motion 2)"
+        },
+        {
+          "number": "13",
+          "title": "Social Procurement Policy",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "14",
+          "title": "Appointment of City Representatives to the Winnipeg Police Pension Board and Winnipeg Civic Employees’ Benefits Program",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "15",
+          "title": "Discount(s) to be allowed for the Prepayment of 2021 Realty, Personal Property and Business Taxes",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "2021 Local Improvement Interest Rates",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "Records Management By-law",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "18",
+          "title": "By-Law for the Boundary Expansion of the West End Business Improvement Zone",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "19",
+          "title": "Changes to execution requirements to expedite processing of agreements",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "20",
+          "title": "Proposed Street Closings, Openings and Rededications for the Provencher Paired Bridges Project ‒ East of Westbrook Street, between the CNR tracks and the Red River – DAOC 3A/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "21",
+          "title": "Zoning Agreement Amendment – 308 Colony Street – ZAA 3/2020",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated October 16, 2020",
+      "date": "2020-10-16",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "11",
+          "title": "Broadway Neighborhood Centre Insurance Costs",
+          "disposition": "AMENDED AND ADOPTED (See Motion 7)"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated December 7, 2020",
+      "date": "2020-12-07",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Status Update – Readying the Lands at 151 & 171 Princess Street for Redevelopment Tender No. 230-2019B – Project No. 2016-117",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Proposed Secondary Plan for the Old Southwood Golf Course Major Redevelopment Site (Major Redevelopment Site ‘I’) – By-law 82/2020 – SP 1/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Affordable Housing Pilot Project",
+          "disposition": "UP TO 60 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "4",
+          "title": "Proposed Land Exchange – 1513 Rothesay Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "City-Owned Property Located at 101 Macdonald Avenue",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Closing – Black Diamond Boulevard, East of Ray Marius Road – DAC 4/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Proposed Street Openings for the Provencher Paired Bridges Project – Taché Avenue and Provencher Boulevard – DAOC 3B/2017",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Opening – south side of Peter Herner Bay – DAO 5/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 836-842 Taché Avenue – DASZ 26/2016",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Extension of Time – Proposed Subdivision and Rezoning – 1916, 1918 & 1920 St. Mary’s Road DASZ 38/2013",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Request to Amend Development Agreement Conditions for File DASZ 3/2018 (AG 3/2018)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Rationalization of City owned and/or Leased Building Assets",
+          "disposition": "UP TO 180 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "13",
+          "title": "Establishment of a Transformative Fund",
+          "disposition": "UP TO 180 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "14",
+          "title": "Repurposing of City-owned Golf Lands",
+          "disposition": "UP TO 180 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "15",
+          "title": "Rezoning – 165 Sadler Avenue – DAZ 208/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "16",
+          "title": "Rezoning – 149 Lindsay Street – DAZ 206/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "17",
+          "title": "Subdivision and Rezoning – 874/876/880 Grosvenor Avenue – DASZ 16/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "18",
+          "title": "Subdivision and Rezoning – 911/913/915 McMillan Avenue – DASZ 18/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "19",
+          "title": "Declaration of Surplus City-owned Property located at 145 Osborne Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "20",
+          "title": "Extension of Time – Proposed Closing of Paulin Street between Pacific Avenue and Ross Avenue – DAC 5/2018",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated December 2, 2020",
+      "date": "2020-12-02",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Police Board By-law Review",
+          "disposition": "30 DAY EXTENSION OF TIME GRANTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated December 4, 2020",
+      "date": "2020-12-04",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Vehicles for Hire Annual Report",
+          "disposition": "UP TO 90 DAY EXTENSION OF TIME GRANTED"
+        },
+        {
+          "number": "2",
+          "title": "Temporary Parking Measures",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Directing Transportation Project Requests to the 311 System",
+          "disposition": "AMENDED BY EXECUTIVE POLICY COMMITTEE AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated December 1, 2020",
+      "date": "2020-12-01",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Environment Act Licence No. 3042 Clause 8 Application in Combined Sewer Districts",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Biosolids Treatment Capacity for the City of Winnipeg",
+          "disposition": "ADOPTED"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+    {
+      "movers": [
+        "Lukes",
+        "Eadie"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the Winnipeg Public Service be directed to work with the Mayor’s Office to develop a policy for the expenditures of funds from the Mayor’s Office budget, to be submitted to Council for approval within 60 days.",
+      "disposition": "REFERRED TO THE GOVERNANCE COMMITTEE OF COUNCIL"
+    }
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Allard",
+        "Gilroy"
+      ],
+      "subject": "1.That the City, at the City’s cost, either relocate the Statue to an appropriate location in the Jardins des sculptures through consultation with la Maison des Artistes, or retain the land upon which the Statue is located; 2.That Council rescind the declaration of surplus for the land that is occupied by the Jardins des sculptures.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Nason",
+        "Chambers"
+      ],
+      "subject": "That Recommendation 1 of Item 12 of the Report of the Executive Policy Committee dated December 9, 2020 be amended by deleting the words “report back within 120 days” and replacing them with “report back within 90 days”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Sharma",
+        "Mayes"
+      ],
+      "subject": "That the recorded Vote Information System not be used by Members of Council for City Council meetings until such time as Council votes to implement the system.",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "That Item 1 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated December 2, 2020 be amended as follows: Delete Recommendations 1. and 2. and replace with the following recommendation: “1. That this report be received as information.”",
+      "disposition": "LOST"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Lukes",
+        "Nason"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to conduct a cross jurisdictional review of the use of retention / detention ponds for recreational activities, and report back to Council within 90 days with recommendations on requirements needed to enable recreational activities on retention / detention ponds in the City of Winnipeg",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON WATER AND WASTRE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT"
+    },
+    {
+      "number": "6",
+      "movers": [
+        "Klein",
+        "Lukes"
+      ],
+      "subject": "That Item 11 of the Report of the Standing Policy Committee on Property and Development Heritage and Downtown Development dated October 16, 2020 be amended by adding the following new Recommendation 3 and renumbering the remaining recommendation accordingly: 3.That the Winnipeg Public Service be directed to report back to Council within 60 days and identify all not for profit organizations currently operating out of or on City owned property and Indicate who is required to pay for their own insurance.",
+      "disposition": "WITHDRAWN"
+    },
+    {
+      "number": "7",
+      "movers": [
+        "Klein",
+        "Lukes"
+      ],
+      "subject": "That Item 11 of the Report of the Standing Policy Committee on Property and Development Heritage and Downtown Development dated October 16, 2020 be amended by adding the following new Recommendation 3 and renumbering the remaining recommendation accordingly: 3.That the Winnipeg Public Service be directed to report back to Council within 60 days and identify all not for profit organizations currently operating on City owned property and Indicate who is required to pay for their own insurance.",
+      "disposition": "CARRIED"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "82/2020",
+      "subject": "To adopt a secondary plan for Major Redevelopment Site “I” – Old Southwood Golf Course",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "107/2020",
+      "subject": "To authorize the borrowing of money in the amount of $2,296,000.00",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "108/2020",
+      "subject": "To close part of Boyd Avenue and part Public Lane and to change the name of part of Boyd Avenue and part of Public Lane",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "112/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 12 Crystal Avenue in the Riel Community pursuant to Development Application No. DASZ 6/2020 approved by Council on June 26, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "113/2020",
+      "subject": "To open the North and West sides of Creek Bend Road- DAO 1/2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "114/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 1493 Magnus Street in the Lord Selkirk-West Kildonan Community pursuant to Development Application No. DASZ 9/2018",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "115/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 782 to 790 Taché Avenue & 140 to 148 Grandin Street in the Riel Community pursuant to Development Application No. DASZ 3/2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "116/2020",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 4055 Portage Avenue in the Charleswood-Tuxedo-Westwood Ward and to amend the Westport Festival Planned Development Overlay 2 pursuant to Development Application No. DASZ 1/2020, approved by Council on June 26, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "117/2020",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 302 Archibald Street in the Riel Community pursuant to Development Application No. DAZ 203/2020.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "121/2020",
+      "subject": "To provide for discounts where real or personal property taxes or business taxes are prepaid in 2021",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "122/2020",
+      "subject": "To amend the West End Business Improvement Zone By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "123/2020",
+      "subject": "To provide for the management, retention, safekeeping, disposition and destruction of records.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "124/2020",
+      "subject": "To amend the Execution of Documents By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "125/2020",
+      "subject": "To authorize the undertaking of certain local improvements",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "126/2020",
+      "subject": "To authorize the undertaking of certain local improvements",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "127/2020",
+      "subject": "To replace the maps contained in By-law No. 102/2020",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Consent Agenda Items 1-11 and 13-20 of the Report of the Executive Policy Committee dated December 9, 2020.",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Motion 2 – Amendment to Item 12 of the Report of the Executive Policy Committee dated December 9, 2020",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Gillingham",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Item 12 of the Report of the Executive Policy Committee dated December 9, 2020, as amended by Motion 2",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}

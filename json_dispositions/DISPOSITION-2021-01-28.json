@@ -1,0 +1,887 @@
+{
+  "meeting_date": "2021-01-28",
+  "attendance": {
+    "council": [
+      "His Worship Mayor Bowman",
+      "The Speaker, Councillor Sharma",
+      "Deputy Speaker Councillor Eadie",
+      "Councillor Allard",
+      "Councillor Browaty",
+      "Councillor Chambers",
+      "Councillor Gillingham",
+      "Councillor Gilroy",
+      "Councillor Klein",
+      "Councillor Lukes",
+      "Councillor Mayes",
+      "Councillor Nason",
+      "Councillor Orlikow",
+      "Councillor Rollins",
+      "Councillor Santos",
+      "Councillor Schreyer"
+    ],
+    "public_service": [
+      "Mr. M. Lemoine, City Clerk",
+      "Mr. C. Gameiro, Deputy City Clerk",
+      "Mr. S. Armbruster, Manager of Special Projects",
+      "Mr. M. Ruta, Interim Chief Administrative Officer"
+    ]
+  },
+  "reports": [
+    {
+      "title": "REPORT OF THE EXECUTIVE POLICY COMMITTEE dated January 20, 2021",
+      "date": "2021-01-20",
+      "committee": "Executive Policy Committee",
+      "items": [
+        {
+          "number": "1",
+          "title": "Soldiers’ Taxation Relief for 2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Downtown Business Improvement Zone – Grant Agreement for Street Furniture",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "City of Winnipeg Nominee – Inland Port Special Planning Area Authority Board",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "OurWinnipeg 2045 Plan – First Reading – By-law 120/2020 – PW 1/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "By-Law 119/2020 – Complete Communities Direction Strategy 2.0 – First Reading – SP 2/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "6",
+          "title": "Zoning Agreement Amendment – 925 Headmaster Row – ZAA 2/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Subdivision and Rezoning – 25 and 55 Rothwell Road – DASZ 21/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Citizen Member Appointments – Assiniboine Park Conservancy Inc. and Historical Buildings and Resources Committee",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Request to Publicly Release Draft Plan20-50 and Review of Changes between Bill 48 and Bill 37",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "10",
+          "title": "Acceptance of Donation from Dr. Donald Reimer",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Amendment to Economic Support Grant Program",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT dated January 18, 2021",
+      "date": "2021-01-18",
+      "committee": "Standing Policy Committee On Property And Development, Heritage And Downtown Development",
+      "items": [
+        {
+          "number": "1",
+          "title": "Amendment to the Encroachment By-law No. 12/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "2",
+          "title": "Amendment to Council Decision – Declaration of Surplus Land – City-Owned Property adjacent to 199 Hamelin Street",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "3",
+          "title": "Proposed Lease Agreement between Western Golf Management (Manitoba) Ltd. and the City of Winnipeg at 400 Shaftesbury Boulevard",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "Proposed Acquisition of 425 Osborne Street (Imperial Oil Site)",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "5",
+          "title": "Extension of Time – Subdivision and Rezoning – 446 Grassie Boulevard – DASZ 10/2018",
+          "disposition": "EXTENSION OF TIME TO NOVEMBER 21, 2021 GRANTED"
+        },
+        {
+          "number": "6",
+          "title": "Proposed Openings of Kenwood Place and Dunkirk Drive for the Accelerated Regional Street Renewal Program – DAO 2/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "7",
+          "title": "Proposed Openings of the Southwest Corner of Taylor Avenue and Stafford Street, and of the Northeast Corner of Corydon Avenue and Cambridge Street for the Accelerated Regional Street Renewal Program – DAO 3/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "8",
+          "title": "Subdivision and Rezoning – 567 Jessie Avenue – DASZ 47/2019",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "9",
+          "title": "Jardins des sculptures",
+          "disposition": "LAID OVER BY THE EXECUTIVE POLICY COMMITTEE FOR 30 DAYS"
+        },
+        {
+          "number": "10",
+          "title": "Request to Support the Designation of the Old Town of St. Norbert as a National Heritage Site",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "11",
+          "title": "Creating Affordable Housing Opportunities in Housing Improvement Zones",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "12",
+          "title": "Closing – Ridgewood Avenue, East of Community Row – DAC 6/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "13",
+          "title": "Subdivision and Rezoning – Glenbush Street – DASZ 22/2020",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "14",
+          "title": "Proposed Secondary Plan for the Old Southwood Golf Course Major Redevelopment Site (Major Redevelopment Site ‘I’) – By-law 82/2020 – SP 1/2020",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS dated January 13, 2021",
+      "date": "2021-01-13",
+      "committee": "Standing Policy Committee On Protection, Community Services And Parks",
+      "items": [
+        {
+          "number": "1",
+          "title": "Winnipeg Fire Paramedic Service Strategic Direction",
+          "disposition": "REFERRED TO THE 2022 BUDGET REVIEW PROCESS"
+        },
+        {
+          "number": "2",
+          "title": "Winnipeg Police Board – 2021 Strategic Plan Update",
+          "disposition": "RECEIVED AS INFORMATION"
+        },
+        {
+          "number": "3",
+          "title": "Winnipeg Police Board By-law Review",
+          "disposition": "ADOPTED"
+        },
+        {
+          "number": "4",
+          "title": "West Kildonan Library Materials Pick-up and Drop-off",
+          "disposition": "EXECUTIVE POLICY COMMITTEE RECOMMENDATION AMENDED AND ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON INFRASTRUCTURE RENEWAL AND PUBLIC WORKS dated January 14, 2021",
+      "date": "2021-01-14",
+      "committee": "Standing Policy Committee On Infrastructure Renewal And Public Works",
+      "items": [
+        {
+          "number": "1",
+          "title": "Street Signage Pilot Project in the Exchange District",
+          "disposition": "ADOPTED"
+        }
+      ]
+    },
+    {
+      "title": "REPORT OF THE STANDING POLICY COMMITTEE ON WATER AND WASTE, RIVERBANK MANAGEMENT AND THE ENVIRONMENT dated January 12, 2021",
+      "date": "2021-01-12",
+      "committee": "Standing Policy Committee On Water And Waste, Riverbank Management And The Environment",
+      "items": [
+        {
+          "number": "1",
+          "title": "Use of Retention Ponds for Recreational Activities",
+          "disposition": "FOR REPORT BACK TO COUNCIL WITHIN 120 DAYS"
+        }
+      ]
+    }
+  ],
+  "notice_of_motions": [
+
+  ],
+  "motions": [
+    {
+      "number": "1",
+      "movers": [
+        "Klein",
+        "Nason"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to implement a minimum penalty fee for non-compliance with approved site plans and building permits in the amount of $10,000 or 10% of the assessed value of the developed subject property, whichever is greater. That all applicable by-laws and Council policies be amended in accordance with the above recommendation. That the Proper Officers of the City be authorized to do all things necessary in order to implement the intent of the foregoing.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROPERTY AND DEVELOPMENT, HERITAGE AND DOWNTOWN DEVELOPMENT"
+    },
+    {
+      "number": "2",
+      "movers": [
+        "Eadie",
+        "Chambers"
+      ],
+      "subject": "That Item #4 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated January 13, 2021 be amended by deleting Recommendation #1 and replacing it with the following: “1.That the Winnipeg Public Service be directed to open the West Kildonan Library (regional library) for pick up and drop off of library materials.”",
+      "disposition": "CARRIED"
+    },
+    {
+      "number": "3",
+      "movers": [
+        "Rollins",
+        "Gilroy"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to report back to the Standing Policy Committee on Protection, Community Services and Parks in 120 days on the following: A report on the merits and feasibility of establishing a low barrier, supervised drug consumption site in the City of Winnipeg including: A review of applicable federal and provincial legislation governing the establishment and operation of supervised drug consumption sites and managed alcohol programs. Consultation with subject matter experts including but not limited to officials in the Winnipeg Regional Health Authority, Manitoba Department of Families, Manitoba Department of Health and relevant community-based organizations. All applicable funding programs at the federal and provincial levels available to support the establishment of harm reduction initiatives and operation of low barrier supervised drug consumption sites and managed alcohol programs. A cross-jurisdictional scan of supervised drug consumption sites and managed alcohol programs in other Canadian cities with a focus on governance and operating structures. E. Consideration of culturally appropriate, Indigenous led governance and operating models that could be considered for a supervised drug consumption site in Winnipeg.",
+      "disposition": "AUTOMATIC REFERRAL TO THE STANDING POLICY COMMITTEE ON PROTECTION, COMMUNITY SERVICES AND PARKS"
+    },
+    {
+      "number": "4",
+      "movers": [
+        "Nason",
+        "Klein"
+      ],
+      "subject": "THAT the Governance Committee of Council undertake a composition review to determine a Community Committee focus on Standing Committee composition being in the 2021 restructuring and implement the following: Provide change to governance to include that a representative on each Standing Committee from the five Community Committees be required;",
+      "disposition": "NOTICE OF MOTION"
+    },
+    {
+      "number": "5",
+      "movers": [
+        "Lukes",
+        "Sharma"
+      ],
+      "subject": "That the Winnipeg Public Service be directed to create a public online tracking mechanism for items which Council and / or committees have laid over or requested the public service to report back on, excluding matters which are in camera.",
+      "disposition": "AUTOMATIC REFERRAL TO THE EXECUTIVE POLICY COMMITTEE"
+    }
+  ],
+  "bylaws_first_reading": [
+    {
+      "number": "119/2020",
+      "subject": "To adopt the Complete Communities Direction Strategy 2.0 as a secondary plan for Winnipeg",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    },
+    {
+      "number": "120/2020",
+      "subject": "To adopt OurWinnipeg as the official development plan for Winnipeg.",
+      "disposition": "RECEIVED FIRST READING ONLY"
+    }
+  ],
+  "bylaws_passed": [
+    {
+      "number": "82/2020",
+      "subject": "To adopt a secondary plan for Major Redevelopment Site “I” – Old Southwood Golf Course.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "133/2020",
+      "subject": "To authorize the borrowing of money in the amount of $24,739,000.00",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "1/2021",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 29 Oakleigh Place in the Riel Community pursuant to Development Application No. DASZ 12/2020 approved by Council on October 29, 2020.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "2/2021",
+      "subject": "To amend the Winnipeg COVID-19 Economic Support Grant Program By-law",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "3/2021",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 156 Marion Street in the Riel Community pursuant to Development Application No. DAZ 204/2020 approved by Council on December 17, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "4/2021",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 316 to 326 Des Meurons Street in the Riel Community pursuant to Development Application No. DASZ 23/2020 which was approved by Council on December 17, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "5/2021",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at northwest corner of Inkster Boulevard and King Edward Street in the Lord Selkirk-West Kildonan Community pursuant to Development Application No. DASZ 44/2016, which was approved by Council on March 22, 2017",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "7/2021",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 25 and 31 Riel Avenue and lanes bordering the north and east property lines in the Riel Community pursuant to Development Application No. DASZ 17/2019, which was approved by Council on October 24, 2019",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "8/2021",
+      "subject": "To correct an error in By-law No. 78/2020.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "9/2021",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 2029 Bishop Grandin Boulevard in the Riel Community pursuant to Development Application No. DAZ 201/2020 approved by Council on October 29, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "10/2021",
+      "subject": "To approve a plan of subdivision and amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 5610, 5628 and 5630 Roblin Boulevard in the Assiniboia Community pursuant to Development Application No. DASZ 42/2019 which was approved by Council on May 6, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "11/2021",
+      "subject": "To amend Winnipeg Zoning By-law No. 200/2006 to rezone land located at 662 St. Mary’s Road in the Riel Community pursuant to Development Application No. DAZ 209/2019approved by Council on May 6, 2020",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "12/2021",
+      "subject": "To amend the Encroachment By-law to provide an exemption for conforming private utility infrastructure, account for community gardens and waive encroachment licence fees in respect of accessibility encroachments.",
+      "disposition": "PASSED"
+    },
+    {
+      "number": "13/2021",
+      "subject": "To amend the Winnipeg COVID-19 Economic Support Grant Program By-law",
+      "disposition": "PASSED"
+    }
+  ],
+  "recorded_votes": [
+    {
+      "subject": "Consent Agenda Items 1-3, 6-8 and 11 of the Report of the Executive Policy Committee dated January 20, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 4 of the Report of the Executive Policy Committee Committee dated January 20, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 5, Clause 1 of the Report of the Executive Policy Committee dated January 20, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Item 5, Clause 2 of the Report of the Executive Policy Committee dated January 20, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Item 5, Clause 3 of the Report of the Executive Policy Committee dated January 20, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Layover of Item 9 of the Report of the Executive Policy Committee dated January 20, 2021",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Nason",
+        "Councillor Schreyer"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ]
+    },
+    {
+      "subject": "Item 9 of the Report of the Executive Policy Committee dated January 20, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein",
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Item 10 of the Report of the Executive Policy Committee dated January 20, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Layover of Notice of Motion – Use of Vote Information System",
+      "disposition": "LOST",
+      "yeas": [
+        "Councillor Browaty",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Mayes",
+        "Councillor Santos",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Schreyer"
+      ]
+    },
+    {
+      "subject": "Notice of Motion – Use of Vote Information System",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Consent Agenda Items 1-3, 5-8, 10 and 12-13 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 18, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 4 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 18, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Rollins"
+      ]
+    },
+    {
+      "subject": "Item 11 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 18, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 14 of the Report of the Standing Policy Committee on Property and Development, Heritage and Downtown Development dated January 18, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 2 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated dated January 13, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 1 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated January 13, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein"
+      ]
+    },
+    {
+      "subject": "Item 3 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated January 13, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Browaty",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Klein"
+      ]
+    },
+    {
+      "subject": "Item 4 of the Report of the Standing Policy Committee on Protection, Community Services and Parks dated January 13, 2021, as amended by Motion 2",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 1, Recommendation 1 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated January 14, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Item 1, Recommendation 2 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated January 14, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Nason",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+
+      ]
+    },
+    {
+      "subject": "Item 1, Recommendation 3 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated January 14, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Lukes",
+        "Councillor Klein",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Nason"
+      ]
+    },
+    {
+      "subject": "Item 1, Recommendation 4 of the Report of the Standing Policy Committee on Infrastructure Renewal and Public Works dated January 14, 2021",
+      "disposition": "CARRIED",
+      "yeas": [
+        "His Worship Mayor Bowman",
+        "Councillor Allard",
+        "Councillor Chambers",
+        "Councillor Eadie",
+        "Councillor Gillingham",
+        "Councillor Gilroy",
+        "Councillor Klein",
+        "Councillor Lukes",
+        "Councillor Mayes",
+        "Councillor Orlikow",
+        "Councillor Rollins",
+        "Councillor Santos",
+        "Councillor Schreyer",
+        "Councillor Sharma"
+      ],
+      "nays": [
+        "Councillor Nason"
+      ]
+    }
+  ],
+  "conflict_of_interest_declarations": [
+
+  ]
+}
