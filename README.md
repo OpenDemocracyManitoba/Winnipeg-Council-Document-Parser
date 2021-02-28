@@ -34,6 +34,8 @@ Scripts exist to:
 
 ### Changes Made to Official Disposition Docx Files
 
+Most changes have to do with merging tables together. The hotkey to merge tables in Word is: ALT-SHIFT-UP
+
 * *September 30, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *October 28, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
 * *November 25, 2015* - Recorded vote Yeas/Nays lists changed from tables to line-separated text
@@ -62,7 +64,11 @@ Scripts exist to:
 * *February 27, 2020* - Date was missing on two reports. Missing dates added after referencing official minutes on DMIS. 
 * *May 29, 2020* - Recorded votes table was split into multiple tables causing the parsing to fail. Joined all recorded votes tables into a single table.
 * *July 23, 2020* - Motion 7 was missing mover and seconder. Added details from DMIS.
-
+* *September 30, 2020* - The word "dated" was added to some report table headers to allow for parsing. Copied laid over motions from one section into the main motions table so they could be parsed. Laid over motion numbers are prefixed with an "L".
+* *October 29, 2020* - Joined two separate motion tables into one for parsing. Joined a report table that had been split into two.
+* *November 26, 2020* - The word "dated" was added to some report table headers to allow for parsing.
+* *December 17, 2020* - Merged a number of recorded votes tables together to allow for parsing.
+* *January 28, 2021* - Added the second header row that was missing from the notice of motion table.
 
 ### Report to City Clerks' Department
 
