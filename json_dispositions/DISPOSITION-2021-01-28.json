@@ -219,7 +219,14 @@
     }
   ],
   "notice_of_motions": [
-
+    {
+      "movers": [
+        "Sharma",
+        "Mayes"
+      ],
+      "subject": "THEREFORE BE IT RESOLVED that the recorded Vote Information System not be used by Members of Council for City Council meetings until such time as Council votes to implement the system",
+      "disposition": "CARRIED"
+    }
   ],
   "motions": [
     {
